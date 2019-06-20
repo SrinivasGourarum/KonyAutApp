@@ -36,7 +36,7 @@ var jasmineResults = {
         'messageData': {
             'DeviceID': 'web'
         }
-    };
+    }; 
 
     var baseTemplate = `<!DOCTYPE html>
     <html>
