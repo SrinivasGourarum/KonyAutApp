@@ -17,7 +17,8 @@
     "b36b84eabdd94364a28698af3edcb5e0": {
         "children": [
             "g845a72e0e1b4451ba45662b4ef4f31b",
-            "a816277e38ad431a99d867b598e703c4"
+            "a816277e38ad431a99d867b598e703c4",
+            "g60681b890704417a7ddb1758c532bd6"
         ],
         "kuid": "b36b84eabdd94364a28698af3edcb5e0",
         "name": "Desktop",
@@ -106,6 +107,13 @@
         "name": "Mobile",
         "parent": "e51d8d0b3d46439c873ffc1443cfd388",
         "type": "D"
+    },
+    "g60681b890704417a7ddb1758c532bd6": {
+        "extension": "js",
+        "kuid": "g60681b890704417a7ddb1758c532bd6",
+        "name": "user_login.js",
+        "parent": "b36b84eabdd94364a28698af3edcb5e0",
+        "type": "F"
     },
     "g845a72e0e1b4451ba45662b4ef4f31b": {
         "extension": "js",
