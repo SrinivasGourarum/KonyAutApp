@@ -6,8 +6,8 @@
     <pluginInfo version-no="8.4.5.v201903072239" plugin-id="com.pat.soapui" plugin-name="Soap UI Plugin"/>
     <pluginInfo version-no="8.4.0.v201812201320" plugin-id="com.kony.codegen" plugin-name="Kony Codegenerator"/>
     <pluginInfo version-no="8.4.5.v201903072239" plugin-id="com.kony.license" plugin-name="Kony Studio Licensing"/>
-    <pluginInfo version-no="8.4.2.GA_v201904181232_r0" plugin-id="com.kony.cloudmiddleware" plugin-name="CloudMiddlewarePlugin"/>
-    <pluginInfo version-no="8.4.2.GA_v201904181232_r0" plugin-id="com.kony.cloudthirdparty" plugin-name="CloudThirdPartyPlugin"/>
+    <pluginInfo version-no="8.4.3.QA_v201906031516_r12" plugin-id="com.kony.cloudmiddleware" plugin-name="CloudMiddlewarePlugin"/>
+    <pluginInfo version-no="8.4.3.QA_v201906031516_r12" plugin-id="com.kony.cloudthirdparty" plugin-name="CloudThirdPartyPlugin"/>
     <pluginInfo version-no="8.4.2.v201902141540" plugin-id="com.kony.viz.ide" plugin-name="Visualizer Integration Plugin"/>
     <pluginInfo version-no="8.0.0.v201709081322" plugin-id="com.kony.studio.cloud" plugin-name="Kony Studio Cloud Integration"/>
     <pluginInfo version-no="8.4.0.v201901240955" plugin-id="com.kony.fpreview" plugin-name="Kony Functional Preview Plugin"/>
