@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10b4e1176f84645a76047f472cd1865",
+    "_top_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "253dp"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "radioNoOfLeaflets",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "isvisible": false,
+    "itemorientation": "horizontal",
+    "kuid": "5a4d5817199441f196221914f4a3a4c8",
+    "masterdata": [
+        [
+            "20",
+            "20        "
+        ],
+        [
+            "30",
+            "30          "
+        ],
+        [
+            "40",
+            "40            "
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "datePick",
+    "pf": "frmNewCheckReOrderKA",
+    "selectedkey": "20",
+    "selectedkeyvalue": [
+        "20",
+        "20        "
+    ],
+    "size": 18,
+    "tickedimage": "radioselected.png",
+    "untickedimage": "radiononselected.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

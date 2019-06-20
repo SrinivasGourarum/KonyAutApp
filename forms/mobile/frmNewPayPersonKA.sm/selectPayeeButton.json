@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "SELECT A PAYEE",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.97%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s1028297138842afbd52272722c18b82",
+    "id": "selectPayeeButton",
+    "ide_onClick": "AS_Button_1c2c739643b645c59c4471e2a8fc0eac",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "32250b7886e04ad2a8cfa931454e1ac8",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_1c2c739643b645c59c4471e2a8fc0eac",
+    "parent": "newPayPersonScreen1",
+    "pf": "frmNewPayPersonKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmNewPayPersonKA.selectPayeeButton",
+    "wType": "Button",
+    "zindex": 1
+}

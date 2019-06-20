@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s514062a92a0453ca21729ccedd369c7",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0288ca33be0b34f"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "currentLocale": "en_US",
+    "device": "iPhone6",
+    "displayorientation": 3,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "id": "mainSegmentTemplate",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isvisible": true,
+    "kuid": "9e2a51cad93f4b60a9b723168b9a5be4",
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "titleBarSkin": "sf9d12b1e1d546169560d8b1b80caf35",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

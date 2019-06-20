@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_skin_": "s4ab2c992c3a46ebac328a37d5d46e8e",
+    "_text_": "Available Balance",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyamountAccountOne09f61920910454b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "eb65bfde346e4083ad6bf0347addbe1a",
+    "name": "kony.ui.Label",
+    "parent": "fromAccountAmountContainer",
+    "pf": "frmNewPayPersonKA",
+    "texti18n": "i18n.transfer.frmNewBillKA.CopyamountAccountOne09f61920910454b",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

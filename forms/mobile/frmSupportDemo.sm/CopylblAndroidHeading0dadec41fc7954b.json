@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_render_": true,
+    "_skin_": "sd5960e89a8745ca90b6e4e98b60b58a",
+    "_text_": "Account Support",
+    "_top_": {
+        "type": "string",
+        "value": "4.00%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopylblAndroidHeading0dadec41fc7954b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "0d3be633cf35405f947bb57343189036",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxNew",
+    "pf": "frmSupportDemo",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "tooltip": "",
+    "wType": "Label",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

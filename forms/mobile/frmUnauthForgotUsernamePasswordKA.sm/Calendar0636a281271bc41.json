@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendar_icon.png",
+    "__id": "unauthForgotUsernamePassword_Calendar0636a281271bc41",
+    "__input": "Calendar0636a281271bc41",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        null,
+        null,
+        null
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select Date of Birth",
+    "_skin_": "se543ea19f8a4e4386357c7db8571d21",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "advview": "default",
+    "android": {
+        "calendarIcon": "calendar_icon.png"
+    },
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": null,
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": null,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        1,
+        2016
+    ],
+    "enabled": false,
+    "entereddate": null,
+    "format": "dd/MM/yyyy",
+    "formatteddate": null,
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": null,
+    "id": "Calendar0636a281271bc41",
+    "info": null,
+    "iphone": {
+        "calendarIcon": "calendar_icon.png"
+    },
+    "isvisible": true,
+    "kuid": "2d4861d3f3fa4fb6b020062ef52567a2",
+    "minutes": null,
+    "month": null,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "parent": "CopypreferredAccountEnable0d5c28aa393f44c",
+    "pf": "frmUnauthForgotUsernamePasswordKA",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": null,
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": null,
+    "zindex": 1
+}

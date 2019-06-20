@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sadb619177d14a85960f7c42822db06f",
+    "_text_": "VERIFY TRANSFER",
+    "_width_": {
+        "type": "string",
+        "value": "64.16%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopytransferPayTitleLabel0d2d481844a4e48",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "df129457a33045ab996bbe30c28489af",
+    "name": "kony.ui.Label",
+    "parent": "androidHeader",
+    "pf": "frmVerifyTransfer",
+    "tooltip": "",
+    "wType": "Label"
+}

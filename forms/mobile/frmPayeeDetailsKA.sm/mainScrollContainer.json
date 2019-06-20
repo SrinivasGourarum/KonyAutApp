@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4e495b998884aba885f32869508c315",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxUpperContainerKA",
+        "payeeAddressContainer",
+        "buttonWrapper"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "mainScrollContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8a8afb2cbb344f228a9ced722eba75a7",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "frmPayeeDetailsKA",
+    "percent": true,
+    "pf": "frmPayeeDetailsKA",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": false,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

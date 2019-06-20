@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_skin_": "s3c238342a2841e1b37f8c4545626ca3",
+    "_text_": "October 2015",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel0f357c1f2ae0642",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "85b2d5ee1d59429babe561ce36ca9bce",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0f4211087f1ff4d",
+    "pf": "frmAccountsLandingKAOld",
+    "texti18n": "i18n.overview.frmAccountsLandingKA.CopyLabel0f357c1f2ae0642",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

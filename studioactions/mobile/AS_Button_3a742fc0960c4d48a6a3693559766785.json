@@ -1,0 +1,22 @@
+{
+    "AS_Button_3a742fc0960c4d48a6a3693559766785": {
+        "id": "AS_Button_3a742fc0960c4d48a6a3693559766785",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferDateDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "928f0dc149d44dbb9ecc3936191f4c47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_077cc2d952a44333a23c8560def75f77",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setAmount(\"7\");"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_54b8748b63484b0281edad40ef89f685": {
+        "id": "AS_Form_54b8748b63484b0281edad40ef89f685",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAcmeCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "555544fb8d9a4bcf9b081cc78b58bfd1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_638273e5ca764a168e46361de0cc3ec2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

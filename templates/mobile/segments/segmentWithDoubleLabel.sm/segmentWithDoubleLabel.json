@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s514062a92a0453ca21729ccedd369c7",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "children": [
+        "Copycontainer018037268d2ef46"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "currentLocale": "en_US",
+    "device": "iPhone6",
+    "displayorientation": 3,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "id": "segmentWithDoubleLabel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "7bb99dcf87b24c75bf9dcb1207d32945",
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "spa": {
+        "render": false
+    },
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "titleBarSkin": "sf9d12b1e1d546169560d8b1b80caf35",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "winphone8": {
+        "render": true
+    }
+}

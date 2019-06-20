@@ -1,0 +1,52 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c14c5cfa624594965bca8fa71d4023",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "chevron",
+        "transactionDate",
+        "transactionName",
+        "transactionAmount",
+        "lblSepKA",
+        "AccountTypeKA"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "disabledSkins": {},
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer0c9f1eddbc7f547",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "d322384d8b7845c797345b5f8f439e86",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "transactionTemplateNoColor",
+    "percent": true,
+    "pf": "transactionTemplateNoColor",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

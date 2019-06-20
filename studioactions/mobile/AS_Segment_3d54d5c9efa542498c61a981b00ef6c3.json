@@ -1,0 +1,40 @@
+{
+    "AS_Segment_3d54d5c9efa542498c61a981b00ef6c3": {
+        "id": "AS_Segment_3d54d5c9efa542498c61a981b00ef6c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSearchKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ac09c32a534449b3b0961f8e48e26015"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__23eeb860331247e09a29070f6dcd32ed",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "from = \"search\";",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___3621084236b94f818bf91c0defdf75d2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRecentTransactionDetailsKA",
+            "formKUID": "3e75bf63a2d4443486447188bb14c36b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

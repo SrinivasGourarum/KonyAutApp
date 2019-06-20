@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s319dbfc5808408bbf0cda0a09d985ce",
+    "_src_": "account_preview_phone.png",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "55%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmUnauthFeatureEnablingKA",
+        "ispercent": true,
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "apPhoneImage",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "3a0fc061ad0f4b1fb6d32dba6005d486",
+    "name": "kony.ui.Image2",
+    "parent": "imageContainer",
+    "pf": "frmUnauthFeatureEnablingKA",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

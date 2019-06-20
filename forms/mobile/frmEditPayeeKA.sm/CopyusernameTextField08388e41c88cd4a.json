@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Apt, P.O. Box",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "P.O.B 54424",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "CopyusernameTextField08388e41c88cd4a",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b19d5100170743df909019940220fe9f",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyusernameContainer0eea4f72ba00743",
+    "pf": "frmEditPayeeKA",
+    "placeholderi18n": "i18n.manage_payee.frmEditPayeeKA.CopyusernameTextField08388e41c88cd4a_placeholder",
+    "securetextentry": false,
+    "texti18n": "i18n.manage_payee.frmEditPayeeKA.CopyusernameTextField08388e41c88cd4a",
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

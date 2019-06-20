@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1c95311a5584a679aff385825dbbf7c",
+    "_text_": "Tap photo to Re-Take",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "30%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopylblFrom0d6b719994cd94c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "b95eef66d31d4e06a5d4fe0028912698",
+    "name": "kony.ui.Label",
+    "parent": "CopyusernameContainer04d6648fa2a054b",
+    "pf": "frmNewDepositKA",
+    "tooltip": "",
+    "wType": "Label"
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_05ac3dfc55f745348c4a49860c1e89a0": {
+        "id": "AS_Button_05ac3dfc55f745348c4a49860c1e89a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_e5ed9e29f3594888b6e5d67c8da6ac0c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewCheckReOrderKA.show();",
+            "callbackType": null
+        }]
+    }
+}

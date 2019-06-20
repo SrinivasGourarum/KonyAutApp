@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "No. Not Now.",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "noThanks",
+    "ide_onClick": "AS_Button_9371331249b444978ac511bcad717986",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "179f8abd649a4bcd90c0c44770ad2d50",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9371331249b444978ac511bcad717986",
+    "parent": "FlexContainer00a3c07fadcbf4b",
+    "pf": "frmCancellingCreditCardKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.manage_cards.frmDeactivateCardKA.noThanks",
+    "wType": "Button",
+    "zindex": 1
+}

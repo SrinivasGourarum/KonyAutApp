@@ -1,0 +1,18 @@
+{
+    "AS_Form_13c5aac48baf4dd98dc247871dcae840": {
+        "id": "AS_Form_13c5aac48baf4dd98dc247871dcae840",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a376bdc138724df6a60846c43d8227c6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payBillHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

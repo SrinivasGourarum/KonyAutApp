@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Delete Payee",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "deleteSavedPayeeButton",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": false,
+    "kuid": "eb0db2b39ad94db081cde418e908d980",
+    "name": "kony.ui.Button",
+    "parent": "buttonWrapper",
+    "pf": "frmAddNewPayeeKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.manage_payee.frmAddNewPayeeKA.deleteSavedPayeeButton",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_1afb7508d2944f6a9a60ba56a2eb4aca": {
+        "id": "AS_Button_1afb7508d2944f6a9a60ba56a2eb4aca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d1e176d7a8cc43389bc58f80fff3c075",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(frmNewPayPersonKA, \"from\");",
+            "callbackType": null
+        }]
+    }
+}

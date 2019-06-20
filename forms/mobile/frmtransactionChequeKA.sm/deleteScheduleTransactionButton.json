@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Delete Scheduled Transaction",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "deleteScheduleTransactionButton",
+    "ide_onClick": "AS_Button_69cc80fbba6b400381274c756cb1845b",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "0938bfefd48c4caa996256c7f3579c63",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_69cc80fbba6b400381274c756cb1845b",
+    "parent": "repeatTransactionContainer",
+    "pf": "frmtransactionChequeKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.overview.frmtransactionChequeKA.deleteScheduleTransactionButton",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,14 @@
+{
+    "AS_TextField_25e58fba46b445839beec0c7b424263b": {
+        "id": "AS_TextField_25e58fba46b445839beec0c7b424263b",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_06e790a4096647c48abd09609659c0ff",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewBillKA);",
+            "callbackType": null
+        }]
+    }
+}

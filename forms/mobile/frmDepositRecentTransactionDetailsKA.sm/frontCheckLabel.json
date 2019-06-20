@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "9.38%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2f00987ec434e4280cc43ab8045dc80",
+    "_text_": "Front of Check:",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "81.25%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "frontCheckLabel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "80be19cc6aab4d1ab4c2fe5332cac21d",
+    "name": "kony.ui.Label",
+    "parent": "frontContainer",
+    "pf": "frmDepositRecentTransactionDetailsKA",
+    "texti18n": "i18n.deposit.frmDepositRecentTransactionDetailsKA.frontCheckLabel",
+    "tooltip": "",
+    "wType": "Label"
+}

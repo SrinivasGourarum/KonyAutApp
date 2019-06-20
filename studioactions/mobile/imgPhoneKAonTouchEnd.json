@@ -1,0 +1,31 @@
+{
+    "AS_Image_58e57997bf6a4f8a922ceb4c368f5938": {
+        "id": "AS_Image_58e57997bf6a4f8a922ceb4c368f5938",
+        "type": "ACTION_SEQUENCE",
+        "name": "imgPhoneKAonTouchEnd",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmP2PaddnewPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6dd3432a9fd14a5f9f8e953aa892b534"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__67c6d8d3ed2948bcb7ae2b8a13b74a96",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frmP2PaddnewPayeeKA.imgPhoneKA.src == \"radiononselected.png\")\n   {\n   frmP2PaddnewPayeeKA.imgPhoneKA.src =\"radioselected.png\";\n    frmP2PaddnewPayeeKA.imgEmailKA.src =\"radiononselected.png\"; \n     \n  \tfrmP2PaddnewPayeeKA.tbxPhoneKA.setFocus(true);\n\tfrmP2PaddnewPayeeKA.tbxEmailKA.setFocus(false);\n  \n   }\nelse\n  {\n    frmP2PaddnewPayeeKA.imgPhoneKA.src =\"radiononselected.png\"\n    frmP2PaddnewPayeeKA.imgEmailKA.src =\"radioselected.png\";\n    \n    frmP2PaddnewPayeeKA.tbxPhoneKA.setFocus(false);\n\tfrmP2PaddnewPayeeKA.tbxEmailKA.setFocus(true);\n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

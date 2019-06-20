@@ -1,0 +1,1 @@
+function AS_Camera_8e512a79b5024e60be15ce0293c722a2(eventobject, x, y) {}

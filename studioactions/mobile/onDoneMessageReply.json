@@ -1,0 +1,31 @@
+{
+    "AS_TextField_0b0af6f5d8cf43d19e5c8a0fc113dbc1": {
+        "id": "AS_TextField_0b0af6f5d8cf43d19e5c8a0fc113dbc1",
+        "type": "ACTION_SEQUENCE",
+        "name": "onDoneMessageReply",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmMessageReplyKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f6c7769aca974653ad8cd45e9a741236"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0f5313ce7aa24bbba6e7be4621510c55",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableMessageSendReplyButton",
+            "display": "enableMessageSendReplyButton",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

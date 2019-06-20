@@ -1,0 +1,28 @@
+{
+    "AS_Button_d5467ef7f0924e6ab5123c05ba528775": {
+        "id": "AS_Button_d5467ef7f0924e6ab5123c05ba528775",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReplaceCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4cac7859037b42829d59823189d48648"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_242531cf798c4120bbd79bcde5d948cd",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

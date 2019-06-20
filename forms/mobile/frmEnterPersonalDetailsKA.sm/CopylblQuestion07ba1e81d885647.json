@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4.97%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scec492f4de846a6a0fc0cafc7d6fe2e",
+    "_text_": "Address",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopylblQuestion07ba1e81d885647",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1bb7299dc4d046149076d00bca6fdb4a",
+    "name": "kony.ui.Label",
+    "parent": "CopychallengeQuestionContainer05574a04a683345",
+    "pf": "frmEnterPersonalDetailsKA",
+    "texti18n": "i18n.settings.frmEnterPersonalDetailsKA.CopylblQuestion07ba1e81d885647",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

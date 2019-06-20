@@ -1,0 +1,29 @@
+{
+    "AS_Button_d741058f0db24167bd5137cc9f900a8a": {
+        "id": "AS_Button_d741058f0db24167bd5137cc9f900a8a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmCreditLimitOnCancle",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditLimitKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "23787a30621c4266b34b9d6a63615fe0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_2a398f0d912f4a8ebd58c1762e142c6f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

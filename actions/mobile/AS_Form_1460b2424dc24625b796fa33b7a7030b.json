@@ -1,0 +1,23 @@
+{
+    "AS_Form_1460b2424dc24625b796fa33b7a7030b": {
+        "id": "AS_Form_1460b2424dc24625b796fa33b7a7030b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceRegisterationIncorrectPinActicvationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "528c2066077141738a6187ecddb68366"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_0090085814704e1c8c1d2f9f7f25dc04",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "callbackType": null
+        }]
+    }
+}

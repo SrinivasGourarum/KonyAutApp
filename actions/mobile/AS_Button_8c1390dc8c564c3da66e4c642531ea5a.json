@@ -1,0 +1,24 @@
+{
+    "AS_Button_8c1390dc8c564c3da66e4c642531ea5a": {
+        "id": "AS_Button_8c1390dc8c564c3da66e4c642531ea5a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewApplicationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "50dfa337455447979963bb1be4aa7b7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__97ccd8ed8f41421380b926f309d64e27",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(from == \"Deposits\")\n  frmConfirmationCardKA.lblHeadingKA.text = \"Fixed Deposit\";\nelse if(from == \"Credit Cards\")\n  frmConfirmationCardKA.lblHeadingKA.text = \"ACME Silver Card\";\nelse \n  frmConfirmationCardKA.lblHeadingKA.text = from;\nfrmConfirmationCardKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

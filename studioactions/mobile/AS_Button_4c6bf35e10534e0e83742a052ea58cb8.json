@@ -1,0 +1,28 @@
+{
+    "AS_Button_4c6bf35e10534e0e83742a052ea58cb8": {
+        "id": "AS_Button_4c6bf35e10534e0e83742a052ea58cb8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceregistrarionSuccessKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "71f8ab34e5b2429c81c09a27704cb4a1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_34adb42b9c9d44a8803f54d026c14896",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUnauthFeatureEnablingKA",
+            "formKUID": "6267e3b5eb614ea581b492d24e980f30",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

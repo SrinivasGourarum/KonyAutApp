@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_skin_": "s18c2758d5194233ba217407e3e5537d",
+    "_text_": "Remember Me",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "Label03268408b6f574a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "a1682fa4ce5c4ccd941c6f7159a21bcb",
+    "name": "kony.ui.Label",
+    "parent": "rememberContainer",
+    "pf": "frmLoginKA",
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "texti18n": "i18n.login.frmLoginKA.Label03268408b6f574a",
+    "tooltip": "",
+    "wType": "Label",
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

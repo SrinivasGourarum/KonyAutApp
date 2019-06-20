@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s017d1a0aee6472ba43e0f6d39927313",
+    "_text_": "If yes,you can register it back when you  login  next time.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "CopyLabel0ebedff6d09854f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "809f961b09054045b4929634c59dde8a",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00a3c07fadcbf4b",
+    "pf": "frmDeviceDeRegistrationKA",
+    "texti18n": "i18n.login.frmDeviceDeRegistrationKA.CopyLabel0ebedff6d09854f",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

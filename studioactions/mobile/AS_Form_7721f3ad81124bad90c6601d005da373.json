@@ -1,0 +1,18 @@
+{
+    "AS_Form_7721f3ad81124bad90c6601d005da373": {
+        "id": "AS_Form_7721f3ad81124bad90c6601d005da373",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aeaf27659ddd44e8add4c5d2c00d32cb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

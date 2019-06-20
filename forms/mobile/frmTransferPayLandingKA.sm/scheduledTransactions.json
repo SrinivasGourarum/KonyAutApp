@@ -1,0 +1,131 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "chevron": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblAccountTypeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSepKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "scheduledTransactions",
+    "ide_onRowClick": "AS_Segment_496427d7f0e947b29cff94953bfb2f20",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "a91b826e4fd94d3488c4575486cabf5d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_496427d7f0e947b29cff94953bfb2f20",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "transactionListsContainer",
+    "pf": "frmTransferPayLandingKA",
+    "retainselection": false,
+    "rowTemplateId": "c6c8be9b17234c119b5aa78886071c3b",
+    "rowcounter": 0,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s188360adf7c445da91ce74d44371e05",
+    "rowtemplate": "CopyFlexContainer047db9e4d3aaf43",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f7f7f700",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "AccountTypeKA": "AccountTypeKA",
+        "CopyFlexContainer047db9e4d3aaf43": "CopyFlexContainer047db9e4d3aaf43",
+        "chevron": "chevron",
+        "lblAccountTypeKA": "lblAccountTypeKA",
+        "lblSepKA": "lblSepKA",
+        "transactionAmount": "transactionAmount",
+        "transactionDate": "transactionDate",
+        "transactionName": "transactionName"
+    },
+    "zindex": 1
+}

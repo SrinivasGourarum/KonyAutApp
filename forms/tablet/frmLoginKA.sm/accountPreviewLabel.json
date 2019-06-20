@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s60f1d30699e4605b160a1590a61fcd8",
+    "_text_": "Swipe for account preview",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "accountPreviewLabel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "4aa72f221eaf4c25b2f97218bfa61f8c",
+    "name": "kony.ui.Label",
+    "parent": "accountPreviewIndicator",
+    "pf": "frmLoginKA",
+    "texti18n": "i18n.login.frmLoginKA.accountPreviewLabel",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83084e02eaf41eb8e7d43c156ffe55e",
+    "_text_": "Outstanding Principal",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel02a7494fc781843",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "cdb1f715a7ef4e92a91e50206f399626",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0f0ea790cab404f",
+    "pf": "frmAccountInfoformortageKA",
+    "texti18n": "i18n.overview.frmAccountInfoformortageKA.CopyLabel02a7494fc781843",
+    "tooltip": "",
+    "wType": "Label"
+}

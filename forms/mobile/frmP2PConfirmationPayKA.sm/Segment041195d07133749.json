@@ -1,0 +1,134 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "CopyFlexContainer0cf774a7e8bf142": {},
+                "CopyImage055f33fb7444246": {},
+                "Copycontainer087f3a0994b334a": {},
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.transfer.frmP2PConfirmationPayKA.Segment041195d07133749.Label01f864cb479e14f0",
+                    "text": "To :"
+                },
+                "contactListDivider": {},
+                "transactionDate": {},
+                "transactionName": {}
+            },
+            [
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "transactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Ph: (091) 324 3247"
+                    },
+                    "transactionName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Registered Payee name 1"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "Segment041195d07133749",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "c6bd6cb935d54aefad8f2ca61d8893c1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainer026297319323047",
+    "pf": "frmP2PConfirmationPayKA",
+    "retainselection": false,
+    "rowTemplateId": "db1ef062d43549edb6e04a8d3e30e6eb",
+    "rowcounter": 0,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFlexContainer0cf774a7e8bf142",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "12354dd64f814198a16f1050bdf37bc7",
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "sectionheadertemplate": "Copycontainer087f3a0994b334a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0cf774a7e8bf142": "CopyFlexContainer0cf774a7e8bf142",
+        "CopyImage055f33fb7444246": "CopyImage055f33fb7444246",
+        "Copycontainer087f3a0994b334a": "Copycontainer087f3a0994b334a",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "contactListDivider": "contactListDivider",
+        "transactionDate": "transactionDate",
+        "transactionName": "transactionName"
+    }
+}

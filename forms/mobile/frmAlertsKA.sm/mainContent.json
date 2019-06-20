@@ -1,0 +1,92 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s33c2b827d6745b5a56322e35bc3c999",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "android": {
+        "render": true
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "CopyAlerts03ed3d2da76784c",
+        "switchFlex",
+        "switchFlexAndroid",
+        "alertsTypes"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "mainContent",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "56443aaa0a9f42958aa92e4a921e8a27",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "frmAlertsKA",
+    "percent": true,
+    "pf": "frmAlertsKA",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "track": false,
+    "verticalscrollindicator": false,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

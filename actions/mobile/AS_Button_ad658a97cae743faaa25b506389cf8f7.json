@@ -1,0 +1,24 @@
+{
+    "AS_Button_ad658a97cae743faaa25b506389cf8f7": {
+        "id": "AS_Button_ad658a97cae743faaa25b506389cf8f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmCheckOrder",
+            "type": "forms",
+            "platform": "",
+            "KUID": "877f53e50a11410784d3bae97e8139b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__05048a1e89604097a03015d895e22b78",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCheckSuccess.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

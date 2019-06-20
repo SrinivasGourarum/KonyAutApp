@@ -1,0 +1,210 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Manage Cards"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Money"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open New Account"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Manage Bill Payees"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order Checks"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "FAQs"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Privacy Policy "
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Terms & Conditions "
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Foreign Exchange Rates "
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Interest Rates"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Goals"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "010",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "moreResourcesSegment",
+    "ide_onRowClick": "AS_Segment_14e7c4f1965745cfabeae5883ffc5dc0",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "dbb54c40222a4be89a2dc858e90da43e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_14e7c4f1965745cfabeae5883ffc5dc0",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "bottomContainer",
+    "pf": "frmMoreLandingKA",
+    "retainselection": false,
+    "rowTemplateId": "d5a33392e4ff4f0bbe32e346bb9228e9",
+    "rowcounter": 10,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "container",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d1d1d100",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "container": "container",
+        "imgicontick": "imgicontick"
+    },
+    "zindex": 1
+}

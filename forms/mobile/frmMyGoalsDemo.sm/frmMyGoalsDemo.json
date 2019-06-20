@@ -1,0 +1,170 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_footers_": [],
+    "_headers_": [],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saccb95b58984589af381140b9870839",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "android": {
+        "ide_onDeviceBack": "AS_Form_21d956a8b40249bbb83914b9184a7ea3",
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "needAppMenu": false,
+        "onDeviceBack": "AS_Form_21d956a8b40249bbb83914b9184a7ea3",
+        "outTransitionConfig": {
+            "formAnimation": 0
+        },
+        "psp": {
+            "ide_onDeviceMenu": "AS_Form_526cbf3aa6a04a72bb4d5f9995ba0775",
+            "onDeviceMenu": "AS_Form_526cbf3aa6a04a72bb4d5f9995ba0775"
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "mainContainer"
+    ],
+    "configurestatusbarstyle": true,
+    "containerweight": 100,
+    "currentLocale": "en_US",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone7",
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "footer": "frmMyGoalsDemo_footer",
+    "footersId": "e0d5ae1d0532432d997d5a7ffbec8f48",
+    "header": "frmMyGoalsDemo_header",
+    "id": "frmMyGoalsDemo",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "invokedProperty": "footers",
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "psp": {
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 3,
+            "maxZoomScale": 1,
+            "minZoomScale": 1,
+            "statusBarHidden": false,
+            "statusBarStyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "e93a8496a3324bb8a8a112c8fd394f5e",
+                "leftBarButtonItems": [],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS__8360341488574f5299745957bc5408ea",
+                        "info": {
+                            "title": "Cancel"
+                        },
+                        "kuid": "ee48d4d86da841149a76028bf24e5727",
+                        "onClick": "AS__8360341488574f5299745957bc5408ea",
+                        "style": 0,
+                        "tintColor": "333333",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            },
+            "zoomScale": 1
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "9b381302d688415fb04696d3783f6269",
+    "layouttype": 2,
+    "maxZoomScale": 1,
+    "minZoomScale": 1,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "prevDevice": "GalaxyS7",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6Plus",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "outTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "statusbarstyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+    "titleBarSkin": "se84cf96156c48bca40ac7667fa12b5c",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "winphone8": {
+        "inTransitionConfig": {
+            "inTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        },
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "outTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        }
+    },
+    "zoomScale": 1
+}

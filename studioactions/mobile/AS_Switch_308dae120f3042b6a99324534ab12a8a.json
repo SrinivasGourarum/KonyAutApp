@@ -1,0 +1,29 @@
+{
+    "AS_Switch_308dae120f3042b6a99324534ab12a8a": {
+        "id": "AS_Switch_308dae120f3042b6a99324534ab12a8a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsPIN",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8e997752079544b3bee9f42bcdd63b11"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_ef65296aa32c4724a881ea820fb6a37b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(frmUserSettingsPIN.touchIdSwitch.selectedIndex);\n//touchIdSwitchOnTouchEnd();",
+            "callbackType": null
+        }]
+    }
+}

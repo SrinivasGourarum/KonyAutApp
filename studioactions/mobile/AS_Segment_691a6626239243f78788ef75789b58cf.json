@@ -1,0 +1,30 @@
+{
+    "AS_Segment_691a6626239243f78788ef75789b58cf": {
+        "id": "AS_Segment_691a6626239243f78788ef75789b58cf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSetDefaultPageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0a1abaac7705448e8ce085a947508e2c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f7e7d62dde4940eab863d0b657ef68a5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var defaultData = frmSetDefaultPageKA.loginSettingsSegmentAndroid.data;\nif(frmSetDefaultPageKA.loginSettingsSegmentAndroid.selectedRowIndex[1]== 0){\n  defaultData[0].imgicontick = 'check_blue.png';\n  defaultData[1].imgicontick = '';\n  defaultData[2].imgicontick = '';\n  defaultData[3].imgicontick = '';\n}\nelse if(frmSetDefaultPageKA.loginSettingsSegmentAndroid.selectedRowIndex[1]== 1){\n  defaultData[0].imgicontick = '';\n  defaultData[1].imgicontick = 'check_blue.png';\n  defaultData[2].imgicontick = '';\n  defaultData[3].imgicontick = '';\n}\nelse if(frmSetDefaultPageKA.loginSettingsSegmentAndroid.selectedRowIndex[1]== 2){\n  defaultData[0].imgicontick = '';\n  defaultData[1].imgicontick = '';\n  defaultData[2].imgicontick = 'check_blue.png';\n  defaultData[3].imgicontick = '';\n}\nelse if(frmSetDefaultPageKA.loginSettingsSegmentAndroid.selectedRowIndex[1]== 3){\n  defaultData[0].imgicontick = '';\n  defaultData[1].imgicontick = '';\n  defaultData[2].imgicontick = '';\n  defaultData[3].imgicontick = 'check_blue.png';\n}\n\nfrmSetDefaultPageKA.loginSettingsSegmentAndroid.setData(defaultData);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

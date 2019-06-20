@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdccc2ac3efb49bb9a56c352ba424668",
+    "_text_": "$",
+    "_top_": {
+        "type": "string",
+        "value": "92dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "lblDollarKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2b93f0ba3c4e40f4afbc890e91aa77f3",
+    "name": "kony.ui.Label",
+    "parent": "flxPopup",
+    "pf": "frmMinimumBalanceAlertKA",
+    "texti18n": "i18n.settings.frmMinimumBalanceAlertKA.lblDollarKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

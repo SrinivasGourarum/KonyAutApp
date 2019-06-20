@@ -1,0 +1,31 @@
+{
+    "AS_Button_4b0bd70763494e40804226dc27c5c0d0": {
+        "id": "AS_Button_4b0bd70763494e40804226dc27c5c0d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillDetailsSceduled",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3858a671cbd413d91f89cc360a722ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d12715129b85439ea4406f77c0abab24",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPayeeTransactionsKA",
+            "formKUID": "78b4c1f03e764c0e8ab4e36a3dcb4742",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"flxBackButtonKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

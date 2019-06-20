@@ -1,0 +1,127 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saccb95b58984589af381140b9870839",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "ide_onDeviceBack": "AS_Form_4562e95b7c7f49958989d2897eba907e",
+        "needAppMenu": false,
+        "onDeviceBack": "AS_Form_4562e95b7c7f49958989d2897eba907e",
+        "psp": {
+            "ide_onDeviceMenu": "AS_Form_f12e4bc786d74f3fb929543a2beab214",
+            "onDeviceMenu": "AS_Form_f12e4bc786d74f3fb929543a2beab214"
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "iosTitleBar",
+        "androidTitleBar",
+        "mainContent"
+    ],
+    "configurestatusbarstyle": true,
+    "containerweight": 100,
+    "currentLocale": "en_US",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS5",
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": false,
+    "headeroverlap": true,
+    "id": "frmContactUsKA",
+    "ide_preShow": "AS_Form_bfe84b3d363a4d098953273c99acf7bb",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 4,
+            "statusBarHidden": false,
+            "statusBarStyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "i76e20893d374d2ebd0113287794ee7a",
+                "leftBarButtonItems": [
+                    {
+                        "ide_titleClosureLeftSideView": "",
+                        "kuid": "c036c13502a74d9a8ba7299bb5e9217b",
+                        "leftButtonText": "Sign In",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "titleClosureLeftSideView": "",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [],
+                "tintColor": "333333",
+                "translucent": true
+            }
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "3730b7e8806c47969fff751b469e1811",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "android",
+    "preshow": "AS_Form_bfe84b3d363a4d098953273c99acf7bb",
+    "prevDevice": "GalaxyS4",
+    "prevPlatform": "spaip",
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS5",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "statusbarstyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+    "titleBarSkin": "s5bdd0c67888450093ce80bfc7b03e26",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_2112c38265274d5cb147f7b34f9ffa6b": {
+        "id": "AS_Button_2112c38265274d5cb147f7b34f9ffa6b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAnswerSecretQuestionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6857ccc7dc3462791659bccc5a32b4e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d26832b74beb40f18dc2b50e52289dca",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnterPersonalDetailsKA",
+            "formKUID": "0cbef5cf059f4b04b869b2345da27f26",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

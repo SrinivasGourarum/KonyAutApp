@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sec2b23e7398448eb9f1865486602b6b",
+    "_text_": "Explore More Products",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "deleteScheduleTransactionButton",
+    "ide_onClick": "AS_Button_77eaf9f6381b44a292ea6b97e1131f94",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "538f8ec39d8d4be781500c988e7624f3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_77eaf9f6381b44a292ea6b97e1131f94",
+    "parent": "FlexContainer00a3c07fadcbf4b",
+    "pf": "frmConfirmationCardKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.opening_account.frmConfirmationCardKA.deleteScheduleTransactionButton",
+    "wType": "Button",
+    "zindex": 1
+}

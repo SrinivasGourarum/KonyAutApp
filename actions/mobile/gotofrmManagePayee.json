@@ -1,0 +1,39 @@
+{
+    "AS__01402cb350b74188b4770eff708ef64b": {
+        "id": "AS__01402cb350b74188b4770eff708ef64b",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmManagePayee",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___290fdcac99db45e3bcd6c50fed14f25f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManagePayeeKA",
+            "formKUID": "794f84071c7c4320866cf3978ca5357e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnGoBackKA\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "NAVIGATE_TO_FORM___fa89b9de7a974f349568ac77fd422394",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManagePayeeKA",
+            "formKUID": "794f84071c7c4320866cf3978ca5357e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__6b296dfeca474363951d691033774f6f",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnGoBackKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

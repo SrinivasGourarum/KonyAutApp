@@ -1,0 +1,17 @@
+{
+    "AS_Button_1d5966c5f19b416db5e133969c1a36e4": {
+        "id": "AS_Button_1d5966c5f19b416db5e133969c1a36e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_6cfb72bef14d46788408014336b7adfa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onEndEditing(frmLocatorKA);",
+            "callbackType": null
+        }]
+    }
+}

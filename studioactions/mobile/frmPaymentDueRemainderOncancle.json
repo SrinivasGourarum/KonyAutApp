@@ -1,0 +1,29 @@
+{
+    "AS_Button_81425a2882384c868b734e5dbab95983": {
+        "id": "AS_Button_81425a2882384c868b734e5dbab95983",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPaymentDueRemainderOncancle",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPaymentDueRemainderKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "11dd677f22bd4c2ca085d29d1ab9bdb2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_7c05aedc451749db8ee6bc9d7c4a6675",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

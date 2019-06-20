@@ -1,0 +1,19 @@
+{
+    "AS_Segment_6ea898d9b7bc4982a37b440dd981ac7b": {
+        "id": "AS_Segment_6ea898d9b7bc4982a37b440dd981ac7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onRowClick_8617397501a8432994390ae433715907",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocatorBranchDetailsKA",
+            "formKUID": "413f08375ca14d89a7755001885d1014",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

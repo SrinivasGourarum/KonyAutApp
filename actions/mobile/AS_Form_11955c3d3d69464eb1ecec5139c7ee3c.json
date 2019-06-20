@@ -1,0 +1,24 @@
+{
+    "AS_Form_11955c3d3d69464eb1ecec5139c7ee3c": {
+        "id": "AS_Form_11955c3d3d69464eb1ecec5139c7ee3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinSetUpDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7418612fc10b4a1380bf273f3a556a03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__199e22a5602f4c20b2a5446b8f03f207",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pinOnHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

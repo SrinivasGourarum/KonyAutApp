@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s181e8d3d596439eba93adbf1953e972",
+    "_text_": "You last signed on at 08/31/2015 07:46 AM ET",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lastSignOnLabel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e3923b62c9ce46518c994ad35b2f9143",
+    "name": "kony.ui.Label",
+    "parent": "greetingWrapper",
+    "pf": "frmMoreLandingKA",
+    "texti18n": "i18n.more.frmMoreLandingKA.lastSignOnLabel",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

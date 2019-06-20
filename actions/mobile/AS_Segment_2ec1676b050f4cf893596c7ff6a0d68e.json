@@ -1,0 +1,36 @@
+{
+    "AS_Segment_2ec1676b050f4cf893596c7ff6a0d68e": {
+        "id": "AS_Segment_2ec1676b050f4cf893596c7ff6a0d68e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_bdb40de456744a1c988027f1b558288e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "recentDepositTabSelected();",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_aeb745093645480a9d7c1900088cd256",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRecentDepositKA",
+            "formKUID": "12938df68b634bdb91432896ef721294",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

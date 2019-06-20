@@ -1,0 +1,49 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c14c5cfa624594965bca8fa71d4023",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblContact",
+        "CopyLabel07d831b99b64f45",
+        "contactListDivider"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "Copycontainer06818659abbaf4b",
+    "info": null,
+    "isSegmentChild": false,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "24a8081c38794b0eb1cbdff88a325c85",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "segmentPayPerson",
+    "percent": true,
+    "pf": "segmentPayPerson",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Username",
+    "_skin_": "s78fab82b9124dcc8951e65ff9f2a984",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "android": {
+        "ide_onBeginEditing": "AS_TextField_47a035d6381448299d2f20e6c2563df4",
+        "onBeginEditing": "AS_TextField_47a035d6381448299d2f20e6c2563df4",
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s78fab82b9124dcc8951e65ff9f2a984",
+    "id": "usernameTextField",
+    "ide_onDone": "AS_TextField_09e03debe60c4e10ae76f1cef2fd23a8",
+    "ide_onTextChange": "AS_TextField_0b9c2ed2741a4fe797a7b845cb96de79",
+    "info": null,
+    "iphone": {
+        "ide_onBeginEditing": "AS_TextField_a9cbb704355e4094a99fa24e830935fd",
+        "onBeginEditing": "AS_TextField_a9cbb704355e4094a99fa24e830935fd",
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 1,
+    "keyboardtype": "A",
+    "kuid": "b18a172f4ec44230befa8e28385253d0",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_09e03debe60c4e10ae76f1cef2fd23a8",
+    "ontextchange": "AS_TextField_0b9c2ed2741a4fe797a7b845cb96de79",
+    "parent": "usernameContainer",
+    "pf": "frmLoginKA",
+    "placeholderskin": "s78fab82b9124dcc8951e65ff9f2a984",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

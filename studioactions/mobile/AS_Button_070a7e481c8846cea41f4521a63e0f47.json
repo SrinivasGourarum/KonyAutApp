@@ -1,0 +1,14 @@
+{
+    "AS_Button_070a7e481c8846cea41f4521a63e0f47": {
+        "id": "AS_Button_070a7e481c8846cea41f4521a63e0f47",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_1a989462039143be9eab864e217ae198",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(frmNewBillKA, \"to\");",
+            "callbackType": null
+        }]
+    }
+}

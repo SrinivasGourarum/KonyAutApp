@@ -1,0 +1,29 @@
+{
+    "active": 1,
+    "comments": {
+        "7b1aa8fceb6b4070833e9eab879b0e5e": {
+            "5206-4f86-4021-dad2-d9b4-b931": {
+                "commentId": "5206-4f86-4021-dad2-d9b4-b931",
+                "widgetId": "7b1aa8fceb6b4070833e9eab879b0e5e",
+                "formId": "7b1aa8fceb6b4070833e9eab879b0e5e",
+                "createdOn": 1464946534000,
+                "createdById": "4c76385b-92b7-41a7-9e06-5c71184a1757",
+                "createdBy": "Pranay Upadhyay",
+                "createdByEmail": "pranay.upadhyay@kony.com",
+                "lastModifiedTime": 1464946534000,
+                "comment": "pod",
+                "commentSrc": "functional preview",
+                "active": 1,
+                "channel": "mobile"
+            }
+        }
+    },
+    "projectGuid": "80a33bd4-b75f-4592-9fb4-4a68a27e280f",
+    "accountGuid": "27351359-9e62-4424-9227-9ab813bc38b6",
+    "prototypeGuid": "BZDNQ",
+    "id": "7b1aa8fceb6b4070833e9eab879b0e5e",
+    "channel": "mobile",
+    "createdOn": 1469425996383,
+    "noteGuid": "3cd4e64c-b035-40a6-8299-806758adb93e",
+    "synced_on": "2019-06-20T10:05:05.659Z"
+}

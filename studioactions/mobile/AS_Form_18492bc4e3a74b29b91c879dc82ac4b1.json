@@ -1,0 +1,23 @@
+{
+    "AS_Form_18492bc4e3a74b29b91c879dc82ac4b1": {
+        "id": "AS_Form_18492bc4e3a74b29b91c879dc82ac4b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_b7c58a96717248b7813d0d04cb8b3e76",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferHide();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_Button_541518869f8149b59e7efbf83ef888f0": {
+        "id": "AS_Button_541518869f8149b59e7efbf83ef888f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7e35c19548ac43c9833d046c0aec3815",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferClose();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

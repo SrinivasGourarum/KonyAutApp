@@ -1,0 +1,27 @@
+{
+    "AS_Button_956cffc3f0df4d4d8b28f72fe488ac85": {
+        "id": "AS_Button_956cffc3f0df4d4d8b28f72fe488ac85",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_e0c895fdf48840edb160079b9e3271be",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferPayLandingKA",
+            "formKUID": "dab7a50c55b94a12b3d961ae5bd49247",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ADD_SNIPPET_onClick_9d3c5441950c41d1a49f9db73afa3863",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.enableScrolling = true;",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Continue",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "touchSuccessContinue",
+    "ide_onClick": "AS_Button_d5e43003984a45c299ab39fe65d18d81",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c8ddd0ee9c934c2fb9cc3a5653ae21c7",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d5e43003984a45c299ab39fe65d18d81",
+    "parent": "touchSuccessContainer",
+    "pf": "frmUnauthFeatureEnablingKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.login.frmUnauthFeatureEnablingKA.touchSuccessContinue",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "zindex": 1
+}

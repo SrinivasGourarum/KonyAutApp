@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s77117634aa14e58908cea4332c51ada",
+    "allboxes": [],
+    "android": {
+        "render": false
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxShadowFooter",
+        "flxShadow",
+        "CopyFlexContainer0e3984cba55484c",
+        "CopyFlexContainer0241af55cd2ae44",
+        "CopyFlexContainer09cf988cb5c8249",
+        "CopyFlexContainer081c34bc202bb41",
+        "CopyFlexContainer01e82ddd6ea9842"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "CopytabBarBackground0cbd082794e384c",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "875e638506f6432fb6e294560a88243c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "tabBarMore",
+    "percent": true,
+    "pf": "tabBarMore",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "winphone8": {
+        "render": false
+    }
+}

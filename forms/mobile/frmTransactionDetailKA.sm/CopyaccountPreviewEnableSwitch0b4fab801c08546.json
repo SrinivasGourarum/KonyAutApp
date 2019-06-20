@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s76ff61aef1d4b5b86c2641d87a9f5d0",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopyaccountPreviewEnableSwitch0b4fab801c08546",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "40f6051b570448d38f37d74e88b7b654",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "osPlatform": "android",
+    "osVersion": "iOS7",
+    "parent": "CopypreferredAccountEnable03b3617d7d0094f",
+    "pf": "frmTransactionDetailKA",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "tabrcandroid": {
+        "render": false
+    },
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 1
+}

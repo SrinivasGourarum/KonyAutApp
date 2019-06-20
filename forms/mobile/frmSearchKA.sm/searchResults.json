@@ -1,0 +1,195 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$56.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sept 9, 2015"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$56.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sept 9, 2015"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$56.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sept 9, 2015"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$56.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sept 9, 2015"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$56.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sept 9, 2015"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "searchResults",
+    "ide_onRowClick": "AS_Segment_2f9345b1df6d430fbbc588597751482d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "057d3ebdf06f43aeb359387194ee6f76",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_2f9345b1df6d430fbbc588597751482d",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "innerResultsContainer",
+    "pf": "frmSearchKA",
+    "retainselection": false,
+    "rowTemplateId": "7458eea56b4a4d59af122110f7e1a27b",
+    "rowcounter": 4,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s188360adf7c445da91ce74d44371e05",
+    "rowtemplate": "CopyFlexContainer02080b70129e248",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer02080b70129e248": "CopyFlexContainer02080b70129e248",
+        "CopyImage055f33fb7444246": "CopyImage055f33fb7444246",
+        "listDivider": "listDivider",
+        "transactionAmount": "transactionAmount",
+        "transactionDate": "transactionDate",
+        "transactionName": "transactionName"
+    }
+}

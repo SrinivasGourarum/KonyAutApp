@@ -1,0 +1,24 @@
+{
+    "AS_Button_2defc534956449b585c02e313d4faff9": {
+        "id": "AS_Button_2defc534956449b585c02e313d4faff9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dab7a50c55b94a12b3d961ae5bd49247"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5993ce6c75e84394a61637810be5871b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

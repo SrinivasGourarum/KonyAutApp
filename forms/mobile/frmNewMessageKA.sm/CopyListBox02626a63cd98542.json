@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd0d2f0ac2dc4cbb839815876fa03c50",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmNewMessageKA",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "icons_drop_down_trans.png",
+    "focusskin": "sd0d2f0ac2dc4cbb839815876fa03c50",
+    "groupcells": false,
+    "id": "CopyListBox02626a63cd98542",
+    "info": null,
+    "isvisible": true,
+    "kuid": "df50c6c61a0e4fa29686b01483e3c209",
+    "masterdata": [
+        [
+            "lb1",
+            "Select sub category"
+        ],
+        [
+            "lb2",
+            "Service at Branch"
+        ],
+        [
+            "Key819",
+            "Staff Attitude"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "CopyflxAccountNameKA01f54a021803045",
+    "pf": "frmNewMessageKA",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Select sub category"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Form_721e0ba6380c402190212abb5854647a": {
+        "id": "AS_Form_721e0ba6380c402190212abb5854647a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__649742c96ec140d784316024af807639",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

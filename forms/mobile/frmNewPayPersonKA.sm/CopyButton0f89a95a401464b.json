@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s803fe20b33c49ceb0ed9f9ee3a71425",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41e11f58b56455282a8e83a82b477c3",
+    "id": "CopyButton0f89a95a401464b",
+    "ide_onClick": "AS_Button_211d037704d94e9fac4efaf72872a847",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "421af0410b9a4fd68ed7587bf9e3e324",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_211d037704d94e9fac4efaf72872a847",
+    "parent": "toAccountDetail2",
+    "pf": "frmNewPayPersonKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

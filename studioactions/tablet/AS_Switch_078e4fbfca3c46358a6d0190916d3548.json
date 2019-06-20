@@ -1,0 +1,29 @@
+{
+    "AS_Switch_078e4fbfca3c46358a6d0190916d3548": {
+        "id": "AS_Switch_078e4fbfca3c46358a6d0190916d3548",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyuserSettings02d0059ce1e9947",
+            "type": "forms",
+            "platform": null,
+            "KUID": "070139aaaf3748bb9cecbb0874150f38"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_b598e14956fe4ddca95fe1740f05df12",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountPreviewSwitchOnTouchEnd();",
+            "callbackType": null
+        }]
+    }
+}

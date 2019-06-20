@@ -1,0 +1,25 @@
+{
+    "AS_Form_f778434b867848cfb79406924ef7384d": {
+        "id": "AS_Form_f778434b867848cfb79406924ef7384d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSetDefaultPageOndeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSetDefaultPageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0a1abaac7705448e8ce085a947508e2c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__20a393f82e7c4f12a4c035e0bd3ef9c1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

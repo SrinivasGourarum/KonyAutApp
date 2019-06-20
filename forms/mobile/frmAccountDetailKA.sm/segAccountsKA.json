@@ -1,0 +1,310 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": [
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "amountAccount11": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "colorAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeprator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "amountAccount11": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "colorAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeprator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "amountAccount11": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "colorAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeprator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "amountAccount11": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "colorAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeprator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "amountAccount11": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "colorAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblSeprator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeAccount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "99%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "dbea112a993747eaa6e91c0d9d4c8f03",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAccountsKA",
+    "ide_onRowClick": "AS_Segment_d9ea53bd89244311890d19fe78e30ac1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "fea77a55eb5846c4bf4cefa683c82a73",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_d58ade2937cc42caa5734bd496256f91",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "vertScrollContent",
+    "pf": "frmAccountDetailKA",
+    "retainselection": false,
+    "rowTemplateId": "ba3195ca00d04cee8953f77a6df50626",
+    "rowcounter": 4,
+    "rowfocusskin": "s367a6bf1c2a495aa7923a7ab6288baf",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyyourAccount0c8c0ce2d60c045",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyyourAccount0c8c0ce2d60c045": "CopyyourAccount0c8c0ce2d60c045",
+        "FlexContainer08843fdf172f34c": "FlexContainer08843fdf172f34c",
+        "amountAccount1": "amountAccount1",
+        "amountAccount11": "amountAccount11",
+        "colorAccount1": "colorAccount1",
+        "colorAccount11": "colorAccount11",
+        "flxSeprator": "flxSeprator",
+        "lblColorKA": "lblColorKA",
+        "lblSeprator": "lblSeprator",
+        "lblType": "lblType",
+        "nameAccount1": "nameAccount1",
+        "nameContainer": "nameContainer",
+        "typeAccount": "typeAccount",
+        "typeKA": "typeKA"
+    },
+    "zindex": 1
+}

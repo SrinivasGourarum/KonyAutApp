@@ -1,0 +1,23 @@
+{
+    "AS_Form_55a122a085cc4cceadec456777ee97b8": {
+        "id": "AS_Form_55a122a085cc4cceadec456777ee97b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "400c333b731c40eca5e2521568d1baf5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_6782a1818bfc476781fbead2172b1753",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginHide();",
+            "callbackType": null
+        }]
+    }
+}

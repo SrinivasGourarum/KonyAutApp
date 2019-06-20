@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2ddc9a0a0784eefb3da36c8f2a400fe",
+    "_text_": "Please login<br>with username",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "rtxWithUsername",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ff7f30593a0e45249e5035b7f14c6d44",
+    "name": "kony.ui.RichText",
+    "parent": "flxLoginUser",
+    "pf": "frmLogin",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

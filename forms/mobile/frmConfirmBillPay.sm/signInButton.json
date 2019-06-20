@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6276ba931ca4297ac9492c15588bf4a",
+    "_text_": "CONFIRM",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6276ba931ca4297ac9492c15588bf4a",
+    "id": "signInButton",
+    "ide_onClick": "AS_Button_83228600c4b0403da79068531120accd",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "887334d824504545a8b8cacc535ebac6",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_83228600c4b0403da79068531120accd",
+    "parent": "mainContent",
+    "pf": "frmConfirmBillPay",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Segment_a601ed5d51044ef683902eada9f029da": {
+        "id": "AS_Segment_a601ed5d51044ef683902eada9f029da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__00754d84bb4a47ff8e0d1a375bc5b5f4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferFrequencyMadePick();\nfrequencySegmentRowClick();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

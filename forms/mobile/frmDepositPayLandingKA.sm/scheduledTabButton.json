@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s7d36df6cf6f406fa2ff1418541f0ec0",
+    "_text_": "PENDING",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s80191b6ac7b456395dfcf46858959f6",
+    "id": "scheduledTabButton",
+    "ide_onClick": "AS_Button_898fa5d877d64982809aa55e87fb169c",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "183046e715f3439f96405f2edda44636",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_898fa5d877d64982809aa55e87fb169c",
+    "paddinginpixel": false,
+    "parent": "tabsWrapper",
+    "pf": "frmDepositPayLandingKA",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

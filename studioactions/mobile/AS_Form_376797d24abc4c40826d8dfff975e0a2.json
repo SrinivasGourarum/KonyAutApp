@@ -1,0 +1,23 @@
+{
+    "AS_Form_376797d24abc4c40826d8dfff975e0a2": {
+        "id": "AS_Form_376797d24abc4c40826d8dfff975e0a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4b0055df8e1a4c279580cc24347babe5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_67d01dc130634d38b93cac7ae3743c77",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

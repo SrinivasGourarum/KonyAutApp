@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5449e85b7e0472ba7d4939096f3873d",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "successTitle",
+        "successText",
+        "successContinue",
+        "CopysuccessContinue0d39e985335bb41"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "innerSuccessContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7bc03fcb2fbe4af9a5cff9de44fd536c",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "successContainer",
+    "percent": true,
+    "pf": "frmSuccessFormKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

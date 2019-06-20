@@ -1,0 +1,18 @@
+{
+    "AS_Button_45b0e2b5d3ae49378db9e9529300ae48": {
+        "id": "AS_Button_45b0e2b5d3ae49378db9e9529300ae48",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbasicinfotab",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ca38720ff3ab481eace093904a624b5a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "basicInfotabSelected();",
+            "callbackType": null
+        }]
+    }
+}

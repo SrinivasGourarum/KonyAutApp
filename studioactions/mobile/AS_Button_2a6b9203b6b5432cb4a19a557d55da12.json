@@ -1,0 +1,19 @@
+{
+    "AS_Button_2a6b9203b6b5432cb4a19a557d55da12": {
+        "id": "AS_Button_2a6b9203b6b5432cb4a19a557d55da12",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_9b79a4c22cc04fcba2a7a1ffe8b7558c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferPayLandingKA",
+            "formKUID": "dab7a50c55b94a12b3d961ae5bd49247",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_738504d98d604c77bcce12025a3cd3bc": {
+        "id": "AS_Button_738504d98d604c77bcce12025a3cd3bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3ef26f9acd5b475cb1fdad0f87db5781"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b88c21ed1d0f48d0bd07ea4e4eba6a05",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showLoginFromPin();",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_ffce2996f4fd42f2ba957afe2933909f": {
+        "id": "AS_Button_ffce2996f4fd42f2ba957afe2933909f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f3028bcd75714eb185831325d4412903",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PselectPayeeKA",
+            "formKUID": "70d10cb7bc484b6c92bcc81b0ccc655a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

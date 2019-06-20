@@ -1,0 +1,35 @@
+{
+    "AS_Form_4745b0cf680149a293d213e619aa1edf": {
+        "id": "AS_Form_4745b0cf680149a293d213e619aa1edf",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1f05ea77866147aa91853d629cbae347",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorInit();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "SHOW_ALERT__7a4a46e722a04b6fb420b9120cf71176",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Current Location",
+            "yesLabel": "Allow",
+            "noLabel": "Don't Allow",
+            "alertMessage": "Bank would like to use your current location",
+            "messageType": "constant",
+            "parentId": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__47ce7d46ea3647288d0f507080146856",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userAllowedLocation();",
+            "parentId": "SHOW_ALERT__7a4a46e722a04b6fb420b9120cf71176",
+            "callbackType": "True"
+        }]
+    }
+}

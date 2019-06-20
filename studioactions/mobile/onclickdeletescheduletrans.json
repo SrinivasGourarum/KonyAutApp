@@ -1,0 +1,44 @@
+{
+    "AS_Button_69cc80fbba6b400381274c756cb1845b": {
+        "id": "AS_Button_69cc80fbba6b400381274c756cb1845b",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickdeletescheduletrans",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransactionChequeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f73d1ca331e047ce8bbd9d4a6d8a2105"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__530e56139ab24ef486fa7446beda6400",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Scheduled Transaction",
+            "yesLabel": "Yes",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure want to delete this transaction?",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___125226201c1c4b60b06e8ea5116a16c1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountDetailKAOld",
+            "formKUID": "5ed703cad63c441882fc4a36f5ea0c28",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__530e56139ab24ef486fa7446beda6400",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

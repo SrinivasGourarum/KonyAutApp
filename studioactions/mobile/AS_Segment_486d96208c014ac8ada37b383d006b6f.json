@@ -1,0 +1,30 @@
+{
+    "AS_Segment_486d96208c014ac8ada37b383d006b6f": {
+        "id": "AS_Segment_486d96208c014ac8ada37b383d006b6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmUnauthInformationKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8ca0339cab9a45bf93258e727c1f8406"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0f154a3e78774bffa9c0f7f9c742e799",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onClickunauthseg();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

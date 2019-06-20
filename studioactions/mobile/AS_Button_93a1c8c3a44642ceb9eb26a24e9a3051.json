@@ -1,0 +1,18 @@
+{
+    "AS_Button_93a1c8c3a44642ceb9eb26a24e9a3051": {
+        "id": "AS_Button_93a1c8c3a44642ceb9eb26a24e9a3051",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferDateDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "928f0dc149d44dbb9ecc3936191f4c47"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

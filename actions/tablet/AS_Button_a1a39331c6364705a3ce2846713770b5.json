@@ -1,0 +1,32 @@
+{
+    "AS_Button_a1a39331c6364705a3ce2846713770b5": {
+        "id": "AS_Button_a1a39331c6364705a3ce2846713770b5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_e2a8f3e06c314a699cd5a3a3a8385e4d",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Cancel Deposit?",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertMessage": "Are you sure you want cancel this deposit?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET_onClick_aba70ed2c2f445b0902d637962981ff6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositCancel();",
+            "parentId": "SHOW_ALERT_onClick_e2a8f3e06c314a699cd5a3a3a8385e4d",
+            "callbackType": "True"
+        }]
+    }
+}

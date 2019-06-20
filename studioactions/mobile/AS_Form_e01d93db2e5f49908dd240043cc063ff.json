@@ -1,0 +1,23 @@
+{
+    "AS_Form_e01d93db2e5f49908dd240043cc063ff": {
+        "id": "AS_Form_e01d93db2e5f49908dd240043cc063ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_4d16a684db364e06ac8c439b6671c406",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

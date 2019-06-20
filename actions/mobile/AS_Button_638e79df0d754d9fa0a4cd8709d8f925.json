@@ -1,0 +1,22 @@
+{
+    "AS_Button_638e79df0d754d9fa0a4cd8709d8f925": {
+        "id": "AS_Button_638e79df0d754d9fa0a4cd8709d8f925",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsPuppyTransferDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "47bec4bf05f34f04a59f8c9aa3ded16d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_49c328a41f98489b921a1b7463c5fe89",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.show();"
+        }]
+    }
+}

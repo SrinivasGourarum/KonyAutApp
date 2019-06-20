@@ -1,0 +1,22 @@
+{
+    "AS_Button_b4d626262d224e95b56f8b450063e5da": {
+        "id": "AS_Button_b4d626262d224e95b56f8b450063e5da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "7ac33868213d483381c32befe7714485"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_9ca6b46ab62046f8b750932720a9ff6f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"depositInstructionsWrapper\",depositInstructions);",
+            "callbackType": null
+        }]
+    }
+}

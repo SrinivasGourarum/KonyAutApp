@@ -1,0 +1,167 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "Copycontainer087f3a0994b334a": {},
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.settings.frmPreferredAccountsKA.ForDeposits.Label01f864cb479e14f0",
+                    "text": "For Deposits"
+                },
+                "contactListDivider": {},
+                "container": {},
+                "imgicontick": {}
+            },
+            [
+                {
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings Account 2354"
+                    },
+                    "imgicontick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": ""
+                    }
+                },
+                {
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checking Account 6587"
+                    },
+                    "imgicontick": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": ""
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b4d3cced842c4af380c7d52ba7070134",
+    "groupcells": false,
+    "hasSections": true,
+    "id": "ForDeposits",
+    "ide_onRowClick": "AS_Segment_04b2f7deeec2415d9d660434608bd03b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "editStyle": "none",
+            "indicator": "none",
+            "searchBy": null,
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": false,
+    "kuid": "0353e7e2858940c09bbf384e320b00b3",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_04b2f7deeec2415d9d660434608bd03b",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "androidSettings",
+    "pf": "frmPreferredAccountsKA",
+    "retainselection": false,
+    "rowTemplateId": "d5a33392e4ff4f0bbe32e346bb9228e9",
+    "rowcounter": 1,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "container",
+    "screenlevelwidget": false,
+    "searchBy": null,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "12354dd64f814198a16f1050bdf37bc7",
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "sectionheadertemplate": "Copycontainer087f3a0994b334a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Copycontainer087f3a0994b334a": "Copycontainer087f3a0994b334a",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "contactListDivider": "contactListDivider",
+        "container": "container",
+        "imgicontick": "imgicontick"
+    },
+    "winphone8": {
+        "render": true
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "_text_": "FAQ",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "id": "btnHistory",
+    "ide_onClick": "AS_Button_32aa3971dea6425b8da94b3f83a35889",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "7ffd6ce52bdc44abb63ae5a10f8dc531",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_32aa3971dea6425b8da94b3f83a35889",
+    "parent": "tabs",
+    "pf": "frmSupportDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

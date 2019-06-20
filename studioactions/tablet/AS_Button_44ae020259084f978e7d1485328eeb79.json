@@ -1,0 +1,27 @@
+{
+    "AS_Button_44ae020259084f978e7d1485328eeb79": {
+        "id": "AS_Button_44ae020259084f978e7d1485328eeb79",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "transferPayLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "24efeb3b361f408c83c11b573f8653e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___4811a55e35e343d6b8b27a4528dbcc4d",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "9d78046a6bc94e4bb2a3a358bfddc6f0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Zip Code",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "500047",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "CopyusernameTextField0cec050157b0f48",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardstyle": "digitpad",
+    "keyboardtype": "A",
+    "kuid": "9b224351629a42f8acdc4149488cef20",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyusernameContainer09da656c676db42",
+    "pf": "frmEditPayeeKA",
+    "placeholderi18n": "i18n.manage_payee.frmEditPayeeKA.CopyusernameTextField0cec050157b0f48_placeholder",
+    "securetextentry": false,
+    "texti18n": "i18n.manage_payee.frmEditPayeeKA.CopyusernameTextField0cec050157b0f48",
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField"
+}

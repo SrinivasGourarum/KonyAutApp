@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s149a862306d4b19a30fe9fa20865e82",
+    "_text_": "Go To Account Overview ",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s149a862306d4b19a30fe9fa20865e82",
+    "id": "CopysuccessContinue0d39e985335bb41",
+    "ide_onClick": "AS_Button_d241ae771e2e48eb8aa8d0dfe3afea09",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "bc392a3843c748739333d607ae261629",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_d241ae771e2e48eb8aa8d0dfe3afea09",
+    "parent": "innerSuccessContainer",
+    "pf": "frmSuccessFormKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

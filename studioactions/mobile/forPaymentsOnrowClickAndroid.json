@@ -1,0 +1,31 @@
+{
+    "AS_Segment_7d8a1730846840f18b43928c48ba5c3b": {
+        "id": "AS_Segment_7d8a1730846840f18b43928c48ba5c3b",
+        "type": "ACTION_SEQUENCE",
+        "name": "forPaymentsOnrowClickAndroid",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPreferredAccountsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7a9e568cea85447086c10e8f96c76840"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__2d94aa3a266f46d0a5f717f9c648e803",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " var forpaymentsData=frmPreferredAccountsKA.ForPayments.data;\nif(frmPreferredAccountsKA.ForPayments.selectedRowIndex[1]==0)\n  {\n    forpaymentsData[0][1][0].imgicontick='check_blue.png';\n    forpaymentsData[0][1][1].imgicontick='';\n    frmPreferredAccountsKA.ForPayments.setData(forpaymentsData);\n  }\nelse\n  {\n    forpaymentsData[0][1][0].imgicontick='';\n    forpaymentsData[0][1][1].imgicontick='check_blue.png';\n    frmPreferredAccountsKA.ForPayments.setData(forpaymentsData);\n    \n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_c1b0592cc36843d8a00759de4d6e2cbb": {
+        "id": "AS_Button_c1b0592cc36843d8a00759de4d6e2cbb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_06571ea51ce7410998c2cf4527a12c7f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocatorKA",
+            "formKUID": "c471585baa904bb49278190a4437d425",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

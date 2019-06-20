@@ -1,0 +1,18 @@
+{
+    "AS_Button_c0f855a00996488ab821a0eb185c00e2": {
+        "id": "AS_Button_c0f855a00996488ab821a0eb185c00e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1857abd6ae5f48eab198842daa3ada7c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

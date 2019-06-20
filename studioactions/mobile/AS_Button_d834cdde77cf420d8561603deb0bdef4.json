@@ -1,0 +1,17 @@
+{
+    "AS_Button_d834cdde77cf420d8561603deb0bdef4": {
+        "id": "AS_Button_d834cdde77cf420d8561603deb0bdef4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_6bcd866af9d34cd19fb3ce21f8f2b013",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMoreCheckReorderKA.show();",
+            "callbackType": null
+        }]
+    }
+}

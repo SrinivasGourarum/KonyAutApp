@@ -1,0 +1,15 @@
+{
+    "AS_Segment_d62f6b68359e4f0eb5874c7c9c3be75e": {
+        "id": "AS_Segment_d62f6b68359e4f0eb5874c7c9c3be75e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d1967f92e08946eb94b48120852abb13",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onRowClickCallback();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

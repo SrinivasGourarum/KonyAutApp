@@ -1,0 +1,154 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "One Time"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Once a Week"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Every 2 Weeks"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Once a Month"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "counter": "03",
+    "disabledSkins": {
+        "widgetSkin": "s9bb3600227d452ba65a2ebd78d95a13"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "frequencySegment",
+    "ide_onRowClick": "AS_Segment_a601ed5d51044ef683902eada9f029da",
+    "info": null,
+    "invokedProperty": "selectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1f91a3c976cf436598d87c255429e485",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_a601ed5d51044ef683902eada9f029da",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frequencyCardInner",
+    "pf": "frmNewTransferKAOld",
+    "retainselection": false,
+    "rowTemplateId": "78150384d6b94e4dac622dd95eadbc0f",
+    "rowcounter": 3,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s84a731cc1f4437cadee00d360d24c00",
+    "rowtemplate": "CopyFlexContainer0b2b1c26ffbf74f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "singleselect",
+    "selectionindicator": "Image02e20b01dcc2e40",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0b2b1c26ffbf74f": "CopyFlexContainer0b2b1c26ffbf74f",
+        "contactListDivider": "contactListDivider",
+        "imgicontick": "imgicontick",
+        "lblNameKA": "lblNameKA"
+    }
+}

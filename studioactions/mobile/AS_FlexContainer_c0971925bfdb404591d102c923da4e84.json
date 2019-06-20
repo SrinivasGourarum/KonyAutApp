@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_c0971925bfdb404591d102c923da4e84": {
+        "id": "AS_FlexContainer_c0971925bfdb404591d102c923da4e84",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_73fcdd9d78d64be08af4d2a543d3a933",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositPayLandingKA.flxTrans.isVisible=false;",
+            "callbackType": null
+        }]
+    }
+}

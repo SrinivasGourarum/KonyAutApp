@@ -1,0 +1,16 @@
+{
+    "AS_Button_f974bb9a368448b09bc3042d76de785a": {
+        "id": "AS_Button_f974bb9a368448b09bc3042d76de785a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_1c8173dda7ad4eadabe280c8b2e790fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositConfirmationDemo.show();"
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Change date range",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 2,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "btnchangedaterange",
+    "ide_onClick": "AS_Button_ca56921a5734433d875226e7d8a9652b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3640216e1695471bb966cbdde5990440",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ca56921a5734433d875226e7d8a9652b",
+    "parent": "innerResultsContainer",
+    "pf": "frmSearchKA",
+    "texti18n": "i18n.overview.frmSearchKA.Button08cc00c65bb3f4d",
+    "wType": "Button",
+    "zindex": 1
+}

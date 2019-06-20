@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_d69530301e5940fd8cc61ca7443617a0": {
+        "id": "AS_FlexContainer_d69530301e5940fd8cc61ca7443617a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVerifyTransfer",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dfe423a6568941fd868be210cbaf20cf"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

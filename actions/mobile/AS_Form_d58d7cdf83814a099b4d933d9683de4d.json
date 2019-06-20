@@ -1,0 +1,15 @@
+{
+    "AS_Form_d58d7cdf83814a099b4d933d9683de4d": {
+        "id": "AS_Form_d58d7cdf83814a099b4d933d9683de4d",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__75e5fa13bcb043a5ae11e4639955a1c6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//settingsTouchIdPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

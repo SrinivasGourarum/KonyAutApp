@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb24079973ac4e93bc3927f9fc6082f5",
+    "_text_": "BACK TO ACCOUNT",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sb24079973ac4e93bc3927f9fc6082f5",
+    "id": "CopysignInButton08e4108cee1184b",
+    "ide_onClick": "AS_Button_26d990e5ed944642ba706bd87f568c48",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "fc8d3fb6af7142bdaae98bc93ed6b726",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_26d990e5ed944642ba706bd87f568c48",
+    "parent": "CopyFlexContainer01eb8cc311edd46",
+    "pf": "frmDepositConfirmationDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

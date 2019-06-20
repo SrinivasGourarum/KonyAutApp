@@ -1,0 +1,23 @@
+{
+    "AS_Form_2a29d17222684677b2ca129a18902b1c": {
+        "id": "AS_Form_2a29d17222684677b2ca129a18902b1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewApplicationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "50dfa337455447979963bb1be4aa7b7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_7107d580f3c241768801bb6769ae7e0e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_TextField_278cee8bbd9b4ef28f2243527aefd26d": {
+        "id": "AS_TextField_278cee8bbd9b4ef28f2243527aefd26d",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e3e11790c4824f07a699c208bff1bcdd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"onEndEditing\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

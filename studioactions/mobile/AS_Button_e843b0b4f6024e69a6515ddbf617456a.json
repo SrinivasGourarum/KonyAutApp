@@ -1,0 +1,24 @@
+{
+    "AS_Button_e843b0b4f6024e69a6515ddbf617456a": {
+        "id": "AS_Button_e843b0b4f6024e69a6515ddbf617456a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmReplaceCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4cac7859037b42829d59823189d48648"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

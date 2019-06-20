@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdf0669a22d444deb50e9e980a43a232",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "nameContainer",
+        "borderBottom1",
+        "editContainer",
+        "btnAccountEditKA",
+        "CopyfromAccountAmountContainer04e21711b05de45",
+        "Button025bce09f50df48"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "focusskin": "s039b0db44684175898d2b36b25aa7d8",
+    "id": "toAccountDetail1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "89d5093c26d848a7a086de38094b864c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "toCardInner",
+    "percent": true,
+    "pf": "frmNewPayPersonKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

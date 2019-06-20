@@ -1,0 +1,14 @@
+{
+    "AS_Button_bf63ae1596bc477d82fc074033eec89a": {
+        "id": "AS_Button_bf63ae1596bc477d82fc074033eec89a",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_5038578591a9402ea77c73225edc951f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "scheduledTabSelected();",
+            "callbackType": null
+        }]
+    }
+}

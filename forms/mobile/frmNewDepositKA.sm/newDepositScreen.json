@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd50955779df409bbc0a33d8150aaaab",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxHeaderAndorid",
+        "flxHeader",
+        "flxData"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "newDepositScreen",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4276dd335ad64941ba335691b60a5a5f",
+    "layouttype": 4,
+    "minheight": {
+        "type": "string",
+        "value": "100%"
+    },
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "frmNewDepositKA",
+    "percent": true,
+    "pf": "frmNewDepositKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

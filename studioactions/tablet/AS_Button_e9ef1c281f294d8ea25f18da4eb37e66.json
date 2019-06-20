@@ -1,0 +1,27 @@
+{
+    "AS_Button_e9ef1c281f294d8ea25f18da4eb37e66": {
+        "id": "AS_Button_e9ef1c281f294d8ea25f18da4eb37e66",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledPayBillDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f82d902296f741f1b686ac3d12e12e67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_4801410cf8ec46678f0cb6fffa3a6c30",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "6fb85a40961349deb738f127cd48f51c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

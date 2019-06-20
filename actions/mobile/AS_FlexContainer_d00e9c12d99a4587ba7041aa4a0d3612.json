@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d00e9c12d99a4587ba7041aa4a0d3612": {
+        "id": "AS_FlexContainer_d00e9c12d99a4587ba7041aa4a0d3612",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b7cde618040f456296a59d78acfea837",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "rememberMEFocusSPA();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

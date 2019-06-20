@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_3a84d01b51a84f25b335e2a2a314a8ef": {
+        "id": "AS_FlexContainer_3a84d01b51a84f25b335e2a2a314a8ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bb0e279fad9b432ca333f591d663e16a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "animateActionSheet();"
+        }]
+    }
+}

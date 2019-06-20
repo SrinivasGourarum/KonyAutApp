@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4e0065cfb0d44769ed5d7a0cde5e355",
+    "_text_": "SAVINGS GOALS",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4689f94aec44de89fbac54667c6c435",
+    "id": "btnNew",
+    "ide_onClick": "AS_Button_a0bb95c30ccb49d49064e946f625422e",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6197c2c0462741b2856948c5e7e13c41",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a0bb95c30ccb49d49064e946f625422e",
+    "parent": "tabs",
+    "pf": "frmMyGoalsDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

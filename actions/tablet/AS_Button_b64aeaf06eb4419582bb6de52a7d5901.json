@@ -1,0 +1,17 @@
+{
+    "AS_Button_b64aeaf06eb4419582bb6de52a7d5901": {
+        "id": "AS_Button_b64aeaf06eb4419582bb6de52a7d5901",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_8cdf02bc8d3145fda2c2d2f495663fae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal(addExternalAccount.externalAccountWrapper,\"externalAccountWrapper\");",
+            "callbackType": null
+        }]
+    }
+}

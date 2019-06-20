@@ -1,0 +1,292 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": true,
+    "_data_": [
+        [
+            {
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.settings.frmUserSettingsKA.userSettingsSegment.Label01f864cb479e14f0",
+                    "text": "Login Settings:"
+                }
+            },
+            [
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Account Preview"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Device Registration"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "PIN Login"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Touch ID"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.settings.frmUserSettingsKA.userSettingsSegment.Label01f864cb479e14f1",
+                    "text": "Profile & Alerts:"
+                }
+            },
+            [
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "My Profile"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Alerts"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.settings.frmUserSettingsKA.userSettingsSegment.Label01f864cb479e14f2",
+                    "text": "General Settings"
+                }
+            },
+            [
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings 2345"
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "For Transfers"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Checkings 6789"
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "For Deposits"
+                    }
+                },
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "right_chevron_icon.png"
+                    },
+                    "CopyLabel0cc77ebb350664b": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Savings 2354"
+                    },
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "For Payments"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "22",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "903280d16b914ae3955ce79af5082479",
+    "groupcells": false,
+    "hasSections": true,
+    "id": "userSettingsSegment",
+    "ide_onRowClick": "AS_Segment_cc56effc9e3b43f6815689c6b7c03f12",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "editStyle": "none",
+            "indicator": "none",
+            "searchBy": null,
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "4a8f9fe8dcd74b7aa805f5b3d31f0c8a",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_cc56effc9e3b43f6815689c6b7c03f12",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "iosSettings",
+    "pf": "frmUserSettingsKA",
+    "retainselection": false,
+    "rowTemplateId": "fb0943a1d67c4d44985ee8a514c19c6d",
+    "rowcounter": 2,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "Copycontainer09742046d0d2944",
+    "screenlevelwidget": false,
+    "searchBy": null,
+    "seccounter": 2,
+    "sectionHeaderTemplateId": "12354dd64f814198a16f1050bdf37bc7",
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "sectionheadertemplate": "Copycontainer087f3a0994b334a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyImage055f33fb7444246": "CopyImage055f33fb7444246",
+        "CopyLabel0cc77ebb350664b": "CopyLabel0cc77ebb350664b",
+        "Copycontainer087f3a0994b334a": "Copycontainer087f3a0994b334a",
+        "Copycontainer09742046d0d2944": "Copycontainer09742046d0d2944",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "contactListDivider": "contactListDivider"
+    },
+    "winphone8": {
+        "render": false
+    }
+}

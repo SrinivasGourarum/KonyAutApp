@@ -1,0 +1,37 @@
+{
+    "AS_Segment_1431ada5916c4d218dd62d9b9b4062a9": {
+        "id": "AS_Segment_1431ada5916c4d218dd62d9b9b4062a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmUncategorizedTransactionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6eb320a5ff4c42d8bf0ce564370c64ff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___98c9cd21aec7432895521e70e64ee0ac",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransactionDetailKA",
+            "formKUID": "87d9d190bddb4e9f8cba4ba5b785309e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"transactionSegment\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

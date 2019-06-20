@@ -1,0 +1,18 @@
+{
+    "AS_Button_002e655b9cd646a580dde1204900fd2f": {
+        "id": "AS_Button_002e655b9cd646a580dde1204900fd2f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsEditPersonalDetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8c056f9f786a4000bb3c54956fe10e8c"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

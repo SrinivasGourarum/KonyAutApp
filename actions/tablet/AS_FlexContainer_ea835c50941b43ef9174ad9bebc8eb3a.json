@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_ea835c50941b43ef9174ad9bebc8eb3a": {
+        "id": "AS_FlexContainer_ea835c50941b43ef9174ad9bebc8eb3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_8a79aa0e69634bda920be8d25734a0a9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"forgotWrapper\",unauthForgotUsernamePassword);",
+            "callbackType": null
+        }]
+    }
+}

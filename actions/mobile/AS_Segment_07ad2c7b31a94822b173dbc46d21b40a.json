@@ -1,0 +1,33 @@
+{
+    "AS_Segment_07ad2c7b31a94822b173dbc46d21b40a": {
+        "id": "AS_Segment_07ad2c7b31a94822b173dbc46d21b40a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "6299a08c7c514b3cbf5f34f1f48732aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3f2ab87f14fc4312a924655521fe2062",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSegCoupon",
+            "display": "onClickSegCoupon",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s290d646be224caa899af134d2389f06",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6df4c410eaa444bb19006f9133a2af1",
+    "id": "editFromCard",
+    "ide_onClick": "AS_Button_119e0c13b6d44287883ae9c685935839",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "00563f9a0e914b4d9b01c0fa3d13631d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_119e0c13b6d44287883ae9c685935839",
+    "parent": "fromAccountPick",
+    "pf": "frmNewPayPersonKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.common.Edit",
+    "wType": "Button",
+    "zindex": 1
+}

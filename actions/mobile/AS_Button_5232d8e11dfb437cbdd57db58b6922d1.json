@@ -1,0 +1,25 @@
+{
+    "AS_Button_5232d8e11dfb437cbdd57db58b6922d1": {
+        "id": "AS_Button_5232d8e11dfb437cbdd57db58b6922d1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_fed42a9082a5462294988583202ea1ee",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocatorKA",
+            "formKUID": "c471585baa904bb49278190a4437d425",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"locatorButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

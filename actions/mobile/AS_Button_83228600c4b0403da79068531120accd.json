@@ -1,0 +1,24 @@
+{
+    "AS_Button_83228600c4b0403da79068531120accd": {
+        "id": "AS_Button_83228600c4b0403da79068531120accd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmBillPay",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd218f37d89e4f029dd61823ec383825"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f46a0c35a29642faba22e9760f23cb36",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewBillKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

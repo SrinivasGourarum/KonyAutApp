@@ -1,0 +1,33 @@
+{
+    "AS_Segment_2d8ed8a3dfbe49a59bc0b3399e533daf": {
+        "id": "AS_Segment_2d8ed8a3dfbe49a59bc0b3399e533daf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSearchKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ac09c32a534449b3b0961f8e48e26015"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___afc97309b1074fb1a711d4aadcace11d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeDateRangeClick",
+            "display": "changeDateRangeClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

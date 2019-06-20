@@ -1,0 +1,23 @@
+{
+    "AS_Segment_199a44a7fb6440c28139043ef6cba730": {
+        "id": "AS_Segment_199a44a7fb6440c28139043ef6cba730",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "seguiWidget"
+        }, {
+            "datatype": "number",
+            "name": "sectionIndex"
+        }, {
+            "datatype": "number",
+            "name": "rowIndex"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSwipe_20434ae0e0fb4481b0bbd8df308babcf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(rowIndex == 1.0)\n  {\n    //alert(flxCreditCardTemplateKA.FlexContainer0aecffd4e3b1143.skin);\n    flxCreditCardTemplateKA.FlexContainer0aecffd4e3b1143.skin = sknDebitCardKA;\n    frmManageCardsKA.btnReportStolenKA.isVisible = true;\n  }\nelse{\n  frmManageCardsKA.btnReportStolenKA.isVisible = false;\n}\n  ",
+            "callbackType": null
+        }]
+    }
+}

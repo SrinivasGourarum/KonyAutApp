@@ -1,0 +1,17 @@
+{
+    "AS_Button_e20a72c8969843229bd6c8df1866d143": {
+        "id": "AS_Button_e20a72c8969843229bd6c8df1866d143",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_49cec9724a4a416bb13770c0d92f66fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(newPayPerson, \"from\");",
+            "callbackType": null
+        }]
+    }
+}

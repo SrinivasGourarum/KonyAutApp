@@ -1,0 +1,23 @@
+{
+    "AS_Button_e8f0c389a3aa423ea9dadcb61c73a732": {
+        "id": "AS_Button_e8f0c389a3aa423ea9dadcb61c73a732",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountLandinKAChart",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fb12d60f71c64711a00ee43326f77cb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_edaef9975726432484837612c19c28d5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

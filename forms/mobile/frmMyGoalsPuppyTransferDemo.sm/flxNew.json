@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s87b0ae57a12412ba754b84c5d9978ee",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0d2c94f21b63d42",
+        "loginCard",
+        "CopyLabel01dacac51b2f942",
+        "CopyloginCard03e04052ceb9a48"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxNew",
+    "info": null,
+    "isvisible": true,
+    "kuid": "62988a6ba1fd4ad09feff8cea2b776cb",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxData",
+    "pf": "frmMyGoalsPuppyTransferDemo",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

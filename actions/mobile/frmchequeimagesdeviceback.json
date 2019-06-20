@@ -1,0 +1,25 @@
+{
+    "AS_Form_813585104d884100aa1038e9d4b5a004": {
+        "id": "AS_Form_813585104d884100aa1038e9d4b5a004",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmchequeimagesdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmchequeimages",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c160f4a9ee84cb1a4f06a008221dd64"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a51a8ea5627c4f93b9e54705e2496e47",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

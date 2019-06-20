@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_9550d7eb8ff2418ba9d9e8542e5ce5cf": {
+        "id": "AS_FlexContainer_9550d7eb8ff2418ba9d9e8542e5ce5cf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarDeposits",
+            "type": "templates",
+            "platform": "",
+            "KUID": "5f3859dbec9748ba9d008e5f9e2db831"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9693c87231064cef9f9d6a59e850ce62",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();",
+            "parentId": null
+        }]
+    }
+}

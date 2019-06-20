@@ -1,0 +1,23 @@
+{
+    "AS_Form_a8d543609eab49e8a2a59481ecf866ec": {
+        "id": "AS_Form_a8d543609eab49e8a2a59481ecf866ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCancellingCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2d490dd434d4419c838fe7bad7a62acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_0728f7de0e164a7788f2628828339864",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

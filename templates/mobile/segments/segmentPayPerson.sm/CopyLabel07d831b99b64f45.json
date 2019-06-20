@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf93ff5e512b4c619146df32af23ea43",
+    "_text_": "Example",
+    "_top_": {
+        "type": "number",
+        "value": "32"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel07d831b99b64f45",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isSegmentChild": false,
+    "isvisible": true,
+    "kuid": "b5c1a43867fa4dd78178e65d82c6e5b9",
+    "name": "kony.ui.Label",
+    "parent": "Copycontainer06818659abbaf4b",
+    "pf": "segmentPayPerson",
+    "tooltip": "",
+    "wType": "Label"
+}

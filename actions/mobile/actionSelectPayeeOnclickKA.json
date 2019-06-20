@@ -1,0 +1,28 @@
+{
+    "AS_Button_1c2c739643b645c59c4471e2a8fc0eac": {
+        "id": "AS_Button_1c2c739643b645c59c4471e2a8fc0eac",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionSelectPayeeOnclickKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___dbcf4ed3435b436ca2fa5a4673291762",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PselectPayeeKA",
+            "formKUID": "70d10cb7bc484b6c92bcc81b0ccc655a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

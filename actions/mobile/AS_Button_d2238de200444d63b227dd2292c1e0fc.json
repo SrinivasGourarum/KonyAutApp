@@ -1,0 +1,18 @@
+{
+    "AS_Button_d2238de200444d63b227dd2292c1e0fc": {
+        "id": "AS_Button_d2238de200444d63b227dd2292c1e0fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__2c86adcc9e9145b8b999e75dc3c2b58e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "recentTabSelected();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

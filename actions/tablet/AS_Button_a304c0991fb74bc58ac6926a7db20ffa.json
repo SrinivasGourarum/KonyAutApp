@@ -1,0 +1,17 @@
+{
+    "AS_Button_a304c0991fb74bc58ac6926a7db20ffa": {
+        "id": "AS_Button_a304c0991fb74bc58ac6926a7db20ffa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_3005e566bf944db2b0c963bc020ba545",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(depositLanding);",
+            "callbackType": null
+        }]
+    }
+}

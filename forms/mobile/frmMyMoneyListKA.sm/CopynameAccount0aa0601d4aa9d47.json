@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2be1ed2589b428b95ab2222f72682cf",
+    "_text_": "Rewards Credit Card",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopynameAccount0aa0601d4aa9d47",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "6c6ece0b7ff94c49abfd2eb1f5678140",
+    "maxwidth": {
+        "type": "string",
+        "value": "90%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "CopynameContainer0174a39d6119b44",
+    "pf": "frmMyMoneyListKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,154 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgCard": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "card_gold_new.png"
+            },
+            "lblCardNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Credit Card"
+            },
+            "lblCreditCardHolderName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Card Holder: Govind"
+            },
+            "lblCreditCardNumber1KA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "XXXX  XXXX  XXXX  1234"
+            },
+            "lblCreditMonthOrYearValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Valid Thru: 02/20"
+            }
+        },
+        {
+            "imgCard": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "card_silver_new.png"
+            },
+            "lblCardNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Debit Card"
+            },
+            "lblCreditCardHolderName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Card Holder: Govind"
+            },
+            "lblCreditCardNumber1KA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "XXXX  XXXX  XXXX  1234"
+            },
+            "lblCreditMonthOrYearValue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Valid Thru: 02/20"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "290dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "a61754963ba44b46859c0bbce2e6a0d4",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCardsKA",
+    "ide_onSwipe": "AS_Segment_14e3d00da91e4f0b91ca00a99267503b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "9ddee56ff0c547a6848aaee0bcd73be9",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onswipe": "AS_Segment_14e3d00da91e4f0b91ca00a99267503b",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "overview",
+    "pf": "frmManageCardsKA",
+    "retainselection": false,
+    "rowTemplateId": "9d9bdfbc978847c083a2ace1ff2a9412",
+    "rowcounter": 1,
+    "rowfocusskin": "sbded94310044f4a8af0f74747158a6d",
+    "rowskin": "sbb5ab0a460e4a5ab2b8b3c737430355",
+    "rowtemplate": "FlexContainer0482796baf97443",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1080,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0aecffd4e3b1143": "FlexContainer0aecffd4e3b1143",
+        "flxCreditCardTemplateKA": "flxCreditCardTemplateKA",
+        "flxLblCardNameKA": "flxLblCardNameKA",
+        "imgCard": "imgCard",
+        "lblCardNameKA": "lblCardNameKA",
+        "lblCreditCardHolderName": "lblCreditCardHolderName",
+        "lblCreditCardNumber1KA": "lblCreditCardNumber1KA",
+        "lblCreditMonthOrYearValue": "lblCreditMonthOrYearValue"
+    }
+}

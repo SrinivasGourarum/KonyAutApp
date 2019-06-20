@@ -1,0 +1,17 @@
+{
+    "AS_Button_cfea0ca08def4d5eac3471669b4dc9a5": {
+        "id": "AS_Button_cfea0ca08def4d5eac3471669b4dc9a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_705437543b2e4f37be2b3e886d6bc9a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(depositLanding,\"to\",4);",
+            "callbackType": null
+        }]
+    }
+}

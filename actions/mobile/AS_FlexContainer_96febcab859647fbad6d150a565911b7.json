@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_96febcab859647fbad6d150a565911b7": {
+        "id": "AS_FlexContainer_96febcab859647fbad6d150a565911b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

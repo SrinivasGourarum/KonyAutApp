@@ -1,0 +1,17 @@
+{
+    "AS_Button_e4a001c80eb9474fb1a619d5f6918b72": {
+        "id": "AS_Button_e4a001c80eb9474fb1a619d5f6918b72",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_979d4059c4b04a4eb64abe2ddf6a8cd3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(newBill,\"from\",2);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "AS_Button_94778872eae2459c941658b2a8576547": {
+        "id": "AS_Button_94778872eae2459c941658b2a8576547",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmCheckOrder",
+            "type": "forms",
+            "platform": null,
+            "KUID": "877f53e50a11410784d3bae97e8139b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_38f8c077afee4bf09304f0277596d347",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMoreCheckReorderKA.show();"
+        }]
+    }
+}

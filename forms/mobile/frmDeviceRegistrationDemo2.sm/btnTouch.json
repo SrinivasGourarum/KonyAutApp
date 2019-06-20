@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s66bb9886eb542b8b883887ce454a7a6",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "se67f8eb0aa14805a09a01d831ab8785",
+    "id": "btnTouch",
+    "ide_onClick": "AS_Button_28b131cbb4c541b4ba134d2f86e01f65",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "47718c96b80b440f94e77b067b9caf29",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_28b131cbb4c541b4ba134d2f86e01f65",
+    "parent": "FlexContainer05e2e8c8a80154e",
+    "pf": "frmDeviceRegistrationDemo2",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

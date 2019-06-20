@@ -1,0 +1,23 @@
+{
+    "AS_Button_9184341edea142fb8a9422495ad44c7d": {
+        "id": "AS_Button_9184341edea142fb8a9422495ad44c7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "036b9746ad124706a25da65bbd213349"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a92419bf1a034eaab97e1512df0e37c5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"newPayeeWrapper\",addNewPayee);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

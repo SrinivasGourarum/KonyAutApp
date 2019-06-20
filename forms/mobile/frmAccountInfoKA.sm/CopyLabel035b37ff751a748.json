@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83084e02eaf41eb8e7d43c156ffe55e",
+    "_text_": "Interest Earned YTD:",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel035b37ff751a748",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "6e992c4a20604b609ca2f5d6706697f1",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer06c7adcdd8ed04c",
+    "pf": "frmAccountInfoKA",
+    "texti18n": "i18n.overview.frmAccountInfoKA.CopyLabel035b37ff751a748",
+    "tooltip": "",
+    "wType": "Label"
+}

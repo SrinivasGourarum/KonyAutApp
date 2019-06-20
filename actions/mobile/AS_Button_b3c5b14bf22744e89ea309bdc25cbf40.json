@@ -1,0 +1,21 @@
+{
+    "AS_Button_b3c5b14bf22744e89ea309bdc25cbf40": {
+        "id": "AS_Button_b3c5b14bf22744e89ea309bdc25cbf40",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___aaaba4fc44c741eeab94897057dc5172",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewPayPersonKA",
+            "formKUID": "1df7248b622b405fb1a73c4deef77bd8",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

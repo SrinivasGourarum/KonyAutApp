@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "6px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s97ba197c9264e32a3f39d16396ccfe4",
+    "_src_": "contextual_actions.png",
+    "_top_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmAccountsLanding",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "CopyimgAccountTypes0c1928dc2348a49",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "ebf78c70e8fb442f8243e0a78b19b159",
+    "name": "kony.ui.Image2",
+    "parent": "CopyflxSavingsAccount0i0bd747101f94e",
+    "pf": "frmAccountsLanding",
+    "srcType": 1,
+    "tooltip": "Account Type",
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

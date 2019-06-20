@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "115%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sa625024fef740fea5133ed43bbfac5f",
+    "_src_": "landing_img_full_2.png",
+    "_top_": {
+        "type": "string",
+        "value": "-20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "137.33%"
+    },
+    "android": {
+        "render": true
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmAccountsLandingKA",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "bgImage",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "72f32fcdadb64eb78994521ed2db1321",
+    "name": "kony.ui.Image2",
+    "parent": "accountsBG",
+    "pf": "frmAccountsLandingKA",
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "srcType": 1,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Image",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_9c4e4eca8ed64aee9bd427ffa43358f0": {
+        "id": "AS_Button_9c4e4eca8ed64aee9bd427ffa43358f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmAccountsLandingKA0dc4c8ba4c9ed48",
+            "type": "forms",
+            "platform": null,
+            "KUID": "5e9b622da3ac4d6cb730293f996f17ca"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_4ce241dadf4a4b6390aa0d9f6527c2e7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showAccountInsights();",
+            "callbackType": null
+        }]
+    }
+}

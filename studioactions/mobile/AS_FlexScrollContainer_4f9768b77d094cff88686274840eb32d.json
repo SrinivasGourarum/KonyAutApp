@@ -1,0 +1,14 @@
+{
+    "AS_FlexScrollContainer_4f9768b77d094cff88686274840eb32d": {
+        "id": "AS_FlexScrollContainer_4f9768b77d094cff88686274840eb32d",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onScrolling_063bf05cf6c44ea4ad620b4ec6fdb641",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "innerAccountScroll();",
+            "callbackType": null
+        }]
+    }
+}

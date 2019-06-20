@@ -1,0 +1,212 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        },
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        },
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        },
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        },
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        },
+        {
+            "imgChevronKA": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblDescKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Message Description to appear here. Show maximum of two lines of text. If more, use.."
+            },
+            "lblTimestampKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "08-Mar-2016, 2.34PM"
+            },
+            "lblTitleKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Subject Line Max one Line..."
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "600dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMessagesSentKA",
+    "ide_onRowClick": "AS_Segment_cf199c9c63a947d783bda36c45d0e0b7",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "52826dc341d1475bb46ea82b8759b0c6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_cf199c9c63a947d783bda36c45d0e0b7",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSegSwitcherKA",
+    "pf": "frmMyMessagesKA",
+    "retainselection": false,
+    "rowTemplateId": "9cb093bac9824d2ab07ba86793ebd523",
+    "rowcounter": 5,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "flxSegContainerKA",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDescChevronContainer": "flxDescChevronContainer",
+        "flxSegContainerKA": "flxSegContainerKA",
+        "imgChevronKA": "imgChevronKA",
+        "lblDescKA": "lblDescKA",
+        "lblTimestampKA": "lblTimestampKA",
+        "lblTitleKA": "lblTitleKA"
+    },
+    "zindex": 1
+}

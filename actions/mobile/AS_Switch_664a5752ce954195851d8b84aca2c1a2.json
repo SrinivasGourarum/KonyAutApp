@@ -1,0 +1,14 @@
+{
+    "AS_Switch_664a5752ce954195851d8b84aca2c1a2": {
+        "id": "AS_Switch_664a5752ce954195851d8b84aca2c1a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onSlide_0e78e1400605458ebdc3d105028c1c29",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "callbackType": null
+        }]
+    }
+}

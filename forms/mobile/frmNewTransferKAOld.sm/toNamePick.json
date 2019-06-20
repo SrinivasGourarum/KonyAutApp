@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa18e1f08f09407781d9bba0f00f7111",
+    "_text_": "Account Name",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "toNamePick",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "492adc38bd1e41eab924ad0e7c26e50d",
+    "maxwidth": {
+        "type": "string",
+        "value": "90%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "toAccountNameContainer",
+    "pf": "frmNewTransferKAOld",
+    "texti18n": "i18n.transfer.frmNewTransferKA.toNamePick",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

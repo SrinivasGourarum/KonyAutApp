@@ -1,0 +1,32 @@
+{
+    "AS_Button_6822477e55a444fe97f2239f8f6d3317": {
+        "id": "AS_Button_6822477e55a444fe97f2239f8f6d3317",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmBalanceUpdateOnupdate",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBalanceUpdateKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "17e8fc918b85450a9d7bd5bfcd044acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_9d251efd3f8749bd9c547a7a3cb26845",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnUpdateKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

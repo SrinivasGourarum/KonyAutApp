@@ -1,0 +1,18 @@
+{
+    "AS_Camera_f2875a9742334eb595f1bcc600c06356": {
+        "id": "AS_Camera_f2875a9742334eb595f1bcc600c06356",
+        "type": "ACTION_SEQUENCE",
+        "name": "saveFrontImageClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onCapture_35f77d7d00284ff999d4c6d73987eed5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveFrontOfCheckImage();",
+            "callbackType": null
+        }]
+    }
+}

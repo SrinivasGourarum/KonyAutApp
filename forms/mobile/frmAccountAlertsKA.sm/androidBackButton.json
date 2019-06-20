@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s1b558d5a76c4e74aa712819f5be63d1",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb803869ef8f4c42a3233b6ac9dce91b",
+    "id": "androidBackButton",
+    "ide_onClick": "AS_Button_1b2a1409128c45b7aefd6af1fb2dd110",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "dfcf50c798e54a9b93246320023ae5ee",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_1b2a1409128c45b7aefd6af1fb2dd110",
+    "parent": "androidTitleBar",
+    "pf": "frmAccountAlertsKA",
+    "showprogressindicator": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "wType": "Button",
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

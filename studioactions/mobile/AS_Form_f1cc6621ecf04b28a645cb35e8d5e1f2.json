@@ -1,0 +1,23 @@
+{
+    "AS_Form_f1cc6621ecf04b28a645cb35e8d5e1f2": {
+        "id": "AS_Form_f1cc6621ecf04b28a645cb35e8d5e1f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmBillPay",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd218f37d89e4f029dd61823ec383825"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_4b72b555d9d94f20bff331b9a59e4b0c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

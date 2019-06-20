@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_93f72ed21a354eafaf712b5c87eda81c": {
+        "id": "AS_FlexContainer_93f72ed21a354eafaf712b5c87eda81c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___da77d7a907734645a2c094eb86f506e2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcntTermsAndConditionsKA",
+            "formKUID": "baf8bcd68a2c41d9a1f80da15169c48f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__26ad8db98a4d4e08809e8275159ff0cf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//from = \"Mortgage Account\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

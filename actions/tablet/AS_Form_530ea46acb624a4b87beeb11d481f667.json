@@ -1,0 +1,23 @@
+{
+    "AS_Form_530ea46acb624a4b87beeb11d481f667": {
+        "id": "AS_Form_530ea46acb624a4b87beeb11d481f667",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "91bf1ce516214ab8adad0a71f5d68382"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d3c95bef5e0e420086b7de61f69c3eb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onOrientationChange();\nlocator.tabletTitleBar.width = leftContainerWidth;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

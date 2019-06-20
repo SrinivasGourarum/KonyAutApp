@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s803fe20b33c49ceb0ed9f9ee3a71425",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41e11f58b56455282a8e83a82b477c3",
+    "id": "CopytransferButton0d055e36fd79c42",
+    "ide_onClick": "AS_Button_c9d3bc6a57b64354b537a406c7db2e48",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "abe026fd34f543deb459849eb7eaca85",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c9d3bc6a57b64354b537a406c7db2e48",
+    "parent": "CopytransferMoneyWrapper0c1a664c2cbb241",
+    "pf": "frmTransferPayLandingKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

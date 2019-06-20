@@ -1,0 +1,23 @@
+{
+    "AS_Form_14ef5344491542a1b1cf4800f8e81b6e": {
+        "id": "AS_Form_14ef5344491542a1b1cf4800f8e81b6e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReplaceCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4cac7859037b42829d59823189d48648"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_a9c3f16c86904279adcf9b5bda611086",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

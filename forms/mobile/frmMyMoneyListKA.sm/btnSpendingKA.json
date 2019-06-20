@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "SPENDING",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnSpendingKA",
+    "ide_onClick": "AS_Button_c263b57f9fb3479a955fbddbac988f97",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "3856ed0266494231a15588d533a07692",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c263b57f9fb3479a955fbddbac988f97",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmMyMoneyListKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.my_money.frmMyMoneyListKA.btnSpendingKA",
+    "wType": "Button",
+    "zindex": 1
+}

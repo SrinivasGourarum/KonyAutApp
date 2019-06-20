@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_76105a45aa854103ad05728a6f30be9b": {
+        "id": "AS_FlexContainer_76105a45aa854103ad05728a6f30be9b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_405ce5828d9e4ff697562c9495dfd334",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "firstTimeVisitDepositForm",
+            "display": "firstTimeVisitDepositForm",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

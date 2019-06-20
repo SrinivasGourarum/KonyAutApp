@@ -1,0 +1,23 @@
+{
+    "AS_Button_d2e8f9f7bd92472e9f925ca637f0d933": {
+        "id": "AS_Button_d2e8f9f7bd92472e9f925ca637f0d933",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickcancelbasicinfo",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___574a4bd59a1d433fa6e5941870cf9275",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

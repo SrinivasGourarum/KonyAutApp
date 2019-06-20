@@ -1,0 +1,33 @@
+{
+    "AS_Button_b3c5b14bf22744e89ea309bdc25cbf40": {
+        "id": "AS_Button_b3c5b14bf22744e89ea309bdc25cbf40",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickpayperson",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___aaaba4fc44c741eeab94897057dc5172",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewPayPersonKA",
+            "formKUID": "1df7248b622b405fb1a73c4deef77bd8",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true
+        }, {
+            "id": "NAVIGATE_TO_FORM___65f6f462d49840d3a27a8b764d321c53",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewBillKA",
+            "formKUID": "94b57de480514c9f98e1f6979b71a37b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AS_Segment_c2afa3449230458ebd33c4bbca2980b5": {
+        "id": "AS_Segment_c2afa3449230458ebd33c4bbca2980b5",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onRowClick_72aca918f1334b85b21eb77297193fbb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "androidPrimaryNavigationClick();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_7663d11a1e4543e984be2c9cb4c48f35": {
+        "id": "AS_FlexContainer_7663d11a1e4543e984be2c9cb4c48f35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

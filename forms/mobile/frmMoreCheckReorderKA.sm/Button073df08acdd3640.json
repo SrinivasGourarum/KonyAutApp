@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "_text_": "New",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "id": "Button073df08acdd3640",
+    "ide_onClick": "AS_Button_a81bc43a424a4bd389763d025d9be4a3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f327e2c6ee9545c89efd149ed4b0340f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a81bc43a424a4bd389763d025d9be4a3",
+    "parent": "iosTitleBar",
+    "pf": "frmMoreCheckReorderKA",
+    "wType": "Button",
+    "zindex": 1
+}

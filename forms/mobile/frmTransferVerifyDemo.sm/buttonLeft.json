@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbe006b595484e119c9680b9d50b81ea",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sbf2b73c9b444cd98760217347de7674",
+    "id": "buttonLeft",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "21c60e72bf28417c95077d825694ba29",
+    "minwidth": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "titleBarNewTransfer",
+    "pf": "frmTransferVerifyDemo",
+    "showprogressindicator": false,
+    "texti18n": "i18n.common.Cancel",
+    "wType": "Button",
+    "zindex": 1
+}

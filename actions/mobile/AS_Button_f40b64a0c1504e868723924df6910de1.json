@@ -1,0 +1,46 @@
+{
+    "AS_Button_f40b64a0c1504e868723924df6910de1": {
+        "id": "AS_Button_f40b64a0c1504e868723924df6910de1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeactivateCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "da381a7fd8274d79a3082364ccdc2409"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__b23e29f6ec1b465d8076198353e40539",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Confirmation",
+            "yesLabel": "OK",
+            "alertMessage": "Card is deactivated",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___308897a28dc348019d58a8f76bdcbe04",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__b23e29f6ec1b465d8076198353e40539",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

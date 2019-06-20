@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4.80%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s817e944d889498d8fee6afee6179ebe",
+    "_text_": "Apply Now",
+    "_top_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s76de4ac7bab49049b2bdf3a415b01cf"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s89ee2e2b3784f81a87c3e5dc7181281",
+    "id": "Button0adfc884997d048",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b1c86a59c7e84795a2b6c46889bcd1b1",
+    "name": "kony.ui.Button",
+    "parent": "flxBannerImage",
+    "pf": "frmAccountsLanding",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,14 @@
+{
+    "AS_Button_e8019af335764750882c1f0ea4cbf7d2": {
+        "id": "AS_Button_e8019af335764750882c1f0ea4cbf7d2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_54d27b61ccc84c8d87a68616a35f9b62",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonFromPickEdit();",
+            "callbackType": null
+        }]
+    }
+}

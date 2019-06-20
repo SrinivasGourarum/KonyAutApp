@@ -1,0 +1,25 @@
+{
+    "AS_RadioButtonGroup_c9ebe7999a824b5d99d802d0ce5c9115": {
+        "id": "AS_RadioButtonGroup_c9ebe7999a824b5d99d802d0ce5c9115",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickradiobtn",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmchequeimages",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c160f4a9ee84cb1a4f06a008221dd64"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7fc509c5871a4741b86623fd8563e0ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmchequeimages.imgradiobtn.selectedKey==\"front\"){\n   frmchequeimages.imagecheque.src=\"check_front.png\";\n}\nelse{\n   frmchequeimages.imagecheque.src=\"check_back.png\";\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

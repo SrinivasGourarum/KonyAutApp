@@ -1,0 +1,25 @@
+{
+    "AS_Form_ec01fc8093d840d5acc846e5f288a59d": {
+        "id": "AS_Form_ec01fc8093d840d5acc846e5f288a59d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmDeactivateCardKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeactivateCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "da381a7fd8274d79a3082364ccdc2409"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__95aa2fd26cef4ead934641a8eb595d83",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

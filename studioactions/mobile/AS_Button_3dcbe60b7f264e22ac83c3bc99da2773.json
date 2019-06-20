@@ -1,0 +1,24 @@
+{
+    "AS_Button_3dcbe60b7f264e22ac83c3bc99da2773": {
+        "id": "AS_Button_3dcbe60b7f264e22ac83c3bc99da2773",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_26213e3c162140acba5533f7a0bc45b8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET_onClick_155026d3c82e484f9576154e2f6ae4a2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositLandingKA.enableScrolling = true;",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_7e34708b94964414b09d1466a4586144": {
+        "id": "AS_Button_7e34708b94964414b09d1466a4586144",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTouchIdDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec770cae7fb741e990cbbe31b21d89fc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__746503fdb26d4570a05449afec98148c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmUserSettingsTouchIdKA.btnTouch.skin=\"btnTouchIDF\";\nfrmAccountsLandingKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

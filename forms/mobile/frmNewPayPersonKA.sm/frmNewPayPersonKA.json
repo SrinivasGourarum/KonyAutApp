@@ -1,0 +1,172 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_footers_": [],
+    "_headers_": [],
+    "_init_": "AS_Form_7e723b37f863441187c532c43c4b6a2f",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saccb95b58984589af381140b9870839",
+    "_title_": "",
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "android": {
+        "ide_onDeviceBack": "AS_Form_481d85ea4bb848f7845651c6476e634d",
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
+        "needAppMenu": false,
+        "onDeviceBack": "AS_Form_481d85ea4bb848f7845651c6476e634d",
+        "outTransitionConfig": {
+            "formAnimation": 0
+        },
+        "psp": {
+            "ide_onDeviceMenu": "AS_Form_8be2abf7b3844e5e8204e18f1f8f3810",
+            "onDeviceMenu": "AS_Form_8be2abf7b3844e5e8204e18f1f8f3810"
+        }
+    },
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "newPayPersonScreen1"
+    ],
+    "configurestatusbarstyle": true,
+    "containerweight": 100,
+    "currentLocale": "en_US",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPhone6",
+    "displayorientation": 1,
+    "enabled": false,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "footer": "frmNewPayPersonKA_footer",
+    "header": "frmNewPayPersonKA_header",
+    "id": "frmNewPayPersonKA",
+    "ide_init": "AS_Form_7e723b37f863441187c532c43c4b6a2f",
+    "ide_preShow": "AS_Form_1b9a3f92d7514bddab3815c1084a77df",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 3,
+    "invokedProperty": "footers",
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionEffect": "none"
+        },
+        "psp": {
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 3,
+            "maxZoomScale": 1,
+            "minZoomScale": 1,
+            "statusBarHidden": false,
+            "statusBarStyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "f010a335aaf14457a5ae6cc481de30e4",
+                "leftBarButtonItems": [],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "ide_onClick": "AS__e5b9608026c647c695203d8e194760bb",
+                        "info": {
+                            "title": "Cancel"
+                        },
+                        "kuid": "ffafb0396e99431a8a4702bffb573863",
+                        "onClick": "AS__e5b9608026c647c695203d8e194760bb",
+                        "style": 0,
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            },
+            "zoomScale": 1
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "1df7248b622b405fb1a73c4deef77bd8",
+    "layouttype": 2,
+    "maxZoomScale": 1,
+    "minZoomScale": 1,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "orientation": 1,
+    "paddinginpixel": false,
+    "percent": true,
+    "platform": "iphone",
+    "preshow": "AS_Form_1b9a3f92d7514bddab3815c1084a77df",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spa": {
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "outTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "statusbarstyle": "STATUS_BAR_STYLE_LIGHT_CONTENT",
+    "titleBarSkin": "se84cf96156c48bca40ac7667fa12b5c",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "winphone8": {
+        "inTransitionConfig": {
+            "inTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        },
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "outTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        }
+    },
+    "zoomScale": 1
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_204ecdf12a9046578a2c52ee48ba486f": {
+        "id": "AS_Form_204ecdf12a9046578a2c52ee48ba486f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "newBill",
+            "type": "forms",
+            "platform": "",
+            "KUID": "54708adc6a2a4553bfce4d4a250752d9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e97776b2ae544172a88dee2147ce309c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payBillInit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

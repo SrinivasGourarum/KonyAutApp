@@ -1,0 +1,16 @@
+{
+    "AS_Camera_99076c3fa1d841209801066a880e5507": {
+        "id": "AS_Camera_99076c3fa1d841209801066a880e5507",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onCapture_e1048d0fee164d989b610e9b3b3bc6fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveBackOfCheckImage();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_d4a4251cabed44dc8bf9dc631ebfb50d": {
+        "id": "AS_FlexContainer_d4a4251cabed44dc8bf9dc631ebfb50d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e13a793a3ae144d9ab6eeaaa92019a93",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcntTermsAndConditionsKA",
+            "formKUID": "baf8bcd68a2c41d9a1f80da15169c48f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__f26c32b08abd47768edd2f34dca96415",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//from = \"Deposits\"; ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_b779e42ae7cd4d06876bc8fe6ac0867c": {
+        "id": "AS_Button_b779e42ae7cd4d06876bc8fe6ac0867c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmDebitLimitOnUpdate",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDebitLimitKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2cb6f3e680d4b3ab8eab057b337cc1d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_04ed48e30d9145509a44a9077ac2b5c9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnUpdateKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

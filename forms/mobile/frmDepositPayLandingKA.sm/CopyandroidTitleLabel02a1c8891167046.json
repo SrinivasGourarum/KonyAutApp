@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7ecf8837330473696a383d6dc393d4d",
+    "_text_": "Check Deposits",
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "31.28%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "CopyandroidTitleLabel02a1c8891167046",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0ea03f0f6bca4d928a58e79288a3358f",
+    "name": "kony.ui.Label",
+    "parent": "iosTitleBar",
+    "pf": "frmDepositPayLandingKA",
+    "texti18n": "i18n.deposit.frmDepositPayLandingKA.CopyandroidTitleLabel02a1c8891167046",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

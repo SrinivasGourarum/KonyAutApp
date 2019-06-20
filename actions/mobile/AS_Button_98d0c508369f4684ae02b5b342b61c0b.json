@@ -1,0 +1,18 @@
+{
+    "AS_Button_98d0c508369f4684ae02b5b342b61c0b": {
+        "id": "AS_Button_98d0c508369f4684ae02b5b342b61c0b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSupportDemoChat",
+            "type": "forms",
+            "platform": null,
+            "KUID": "103370af4295412583f3bde7cb5c58db"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

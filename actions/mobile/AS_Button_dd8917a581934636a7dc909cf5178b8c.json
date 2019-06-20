@@ -1,0 +1,14 @@
+{
+    "AS_Button_dd8917a581934636a7dc909cf5178b8c": {
+        "id": "AS_Button_dd8917a581934636a7dc909cf5178b8c",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_2fa4f112556248ee84a0816d013e8493",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonFromPick(1);",
+            "callbackType": null
+        }]
+    }
+}

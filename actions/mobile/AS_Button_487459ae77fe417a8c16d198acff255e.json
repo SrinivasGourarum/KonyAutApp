@@ -1,0 +1,24 @@
+{
+    "AS_Button_487459ae77fe417a8c16d198acff255e": {
+        "id": "AS_Button_487459ae77fe417a8c16d198acff255e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAcmeCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "555544fb8d9a4bcf9b081cc78b58bfd1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c6574fa99ec34d0fb79381956c5e6cfb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(from == \"Checking Account\" || from == \"Savings Account\"  || from == \"Mortgage Account\"){\n  frmEnterLocationKA.show();\n}\nelse\n  frmCreditCardsKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

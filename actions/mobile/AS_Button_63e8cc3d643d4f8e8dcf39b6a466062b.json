@@ -1,0 +1,24 @@
+{
+    "AS_Button_63e8cc3d643d4f8e8dcf39b6a466062b": {
+        "id": "AS_Button_63e8cc3d643d4f8e8dcf39b6a466062b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4b0055df8e1a4c279580cc24347babe5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b021311d94b04b74996da62275cebc5a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

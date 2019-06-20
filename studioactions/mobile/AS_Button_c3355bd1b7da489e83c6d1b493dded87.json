@@ -1,0 +1,17 @@
+{
+    "AS_Button_c3355bd1b7da489e83c6d1b493dded87": {
+        "id": "AS_Button_c3355bd1b7da489e83c6d1b493dded87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__cb8511f6f589460281a16c2091f49eb4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewDepositKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sb9d45fde2704ea380bcb1ee1e66b7cf",
+    "_top_": {
+        "type": "string",
+        "value": "88dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmBalanceUpdateKA",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "dropdown.png",
+    "groupcells": false,
+    "id": "ListBox087e2281b810c4d",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "cdfbe90f13a74d88b870474511bf6406",
+    "masterdata": [
+        [
+            "lb1",
+            "Select Period"
+        ],
+        [
+            "lb2",
+            "Weekly"
+        ],
+        [
+            "lb3",
+            "Monthly"
+        ],
+        [
+            "Key856",
+            "Yearly"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxPopup",
+    "pf": "frmBalanceUpdateKA",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Select Period"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_6f6e2a62c5df4da3ae5b6760ebfb8907": {
+        "id": "AS_Form_6f6e2a62c5df4da3ae5b6760ebfb8907",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "24efeb3b361f408c83c11b573f8653e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__243d1fbb1e4e400e872b20856796c35a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onOrientationChange();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_1f6827b62184492fae53ae2575990960": {
+        "id": "AS_FlexContainer_1f6827b62184492fae53ae2575990960",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarMore",
+            "type": "templates",
+            "platform": "",
+            "KUID": "e0d5ae1d0532432d997d5a7ffbec8f48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__64398dd6c6fa4e5d87d8bcbe4e6d2c10",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSupportDemo.show();",
+            "parentId": null
+        }]
+    }
+}

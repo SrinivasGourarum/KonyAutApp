@@ -1,0 +1,23 @@
+{
+    "AS_Segment_ca8baf023f31477fb16937c1f145c076": {
+        "id": "AS_Segment_ca8baf023f31477fb16937c1f145c076",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onRowClick_367b571aa05c43c193a1271b4f2bd3eb",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Call",
+            "yesLabel": "Call",
+            "noLabel": "Cancel",
+            "alertMessage": " 284-123-1234",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

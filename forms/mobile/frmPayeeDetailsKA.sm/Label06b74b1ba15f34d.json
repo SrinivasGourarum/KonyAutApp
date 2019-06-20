@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s06ca6b7de8d4b95ac886e72776c0320",
+    "_text_": "My shop's power bill",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label06b74b1ba15f34d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0933284ea26846a0af7b9d8c8a4ed8a6",
+    "name": "kony.ui.Label",
+    "parent": "CopyusernameContainer0b764e42673504b",
+    "pf": "frmPayeeDetailsKA",
+    "texti18n": "i18n.manage_payee.frmPayeeDetailsKA.Label06b74b1ba15f34d",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

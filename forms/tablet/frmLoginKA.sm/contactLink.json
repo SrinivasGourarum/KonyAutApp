@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6.25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Contact",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "contactLink",
+    "ide_onClick": "AS_Button_9563720ffff84340b20237403b148c7b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6d1f6692e6a6419dbc9915b80386ef78",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9563720ffff84340b20237403b148c7b",
+    "parent": "utilityLinks",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.login.frmLoginKA.contactLink",
+    "wType": "Button",
+    "zindex": 1
+}

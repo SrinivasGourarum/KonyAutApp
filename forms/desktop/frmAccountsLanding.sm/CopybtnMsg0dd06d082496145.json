@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "sc83913f0b33420e882d558192d60b1f",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sb13d7d59686429aa4fbca8527b63942"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "sf7b41b7dc0745ac8e711647b32e271f",
+    "id": "CopybtnMsg0dd06d082496145",
+    "info": null,
+    "isvisible": false,
+    "kuid": "jad8120d7e8c414b8cd0d018638bcad5",
+    "name": "kony.ui.Button",
+    "parent": "headermenu",
+    "pf": "frmAccountsLanding",
+    "tooltip": "Logout",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Form_1c81da837d7c41ff8b7dc530f7969f94": {
+        "id": "AS_Form_1c81da837d7c41ff8b7dc530f7969f94",
+        "type": "ACTION_SEQUENCE",
+        "name": "addAccountTypesPreShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddExternalAccountKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4943cca5d62d4f0ca6f2e9ab47274db5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9eb55711f2f34a779a18b52642d0ea23",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loadExternalAccountTypesPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

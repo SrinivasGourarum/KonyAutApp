@@ -1,0 +1,31 @@
+{
+    "AS_Button_438efa5c00c6445c8db66c9d5faf9181": {
+        "id": "AS_Button_438efa5c00c6445c8db66c9d5faf9181",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_10bdef387da74b9496f852c5339a7cbb",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyhamburgerButton04a4b0742ce0647\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

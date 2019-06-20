@@ -1,0 +1,30 @@
+{
+    "AS_Button_a83c5dae30aa4e1faf4c9683fd86ab7a": {
+        "id": "AS_Button_a83c5dae30aa4e1faf4c9683fd86ab7a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d3487d60c7384b1eacba917f27840bf8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKA",
+            "formKUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ADD_SNIPPET__ebbbcf65ae7d41d9847d094efd277d4b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//showMePrevious();",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1b558d5a76c4e74aa712819f5be63d1",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb803869ef8f4c42a3233b6ac9dce91b",
+    "id": "androidBack",
+    "ide_onClick": "AS_Button_50e925a9c0b341f79cb9b6105268376a",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1fac67839e4446c0b3795183627a0874",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_50e925a9c0b341f79cb9b6105268376a",
+    "parent": "androidTitleBar",
+    "pf": "frmMoreTermsAndConditionsKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

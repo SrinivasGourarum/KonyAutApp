@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "_text_": "New",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "id": "Button073df08acdd3640",
+    "ide_onClick": "AS_Button_c3831b4aa60e45888b713478c98c4060",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "2d4bf732d5934262bd10393961bc293e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c3831b4aa60e45888b713478c98c4060",
+    "parent": "iosTitleBar",
+    "pf": "frmCheckReorderDetailsKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

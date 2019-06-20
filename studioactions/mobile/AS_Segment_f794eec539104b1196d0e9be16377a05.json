@@ -1,0 +1,19 @@
+{
+    "AS_Segment_f794eec539104b1196d0e9be16377a05": {
+        "id": "AS_Segment_f794eec539104b1196d0e9be16377a05",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onRowClick_cc5394a7d32b4ef3ba0883961019f8fa",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsAccountPreviewKA",
+            "formKUID": "7891569f547446feb05fd0bfc49efb41",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

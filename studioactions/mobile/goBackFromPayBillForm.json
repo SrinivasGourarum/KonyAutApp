@@ -1,0 +1,19 @@
+{
+    "AS_NamedActions_9d0527c068364c3fac9c44307313cdd1": {
+        "id": "AS_NamedActions_9d0527c068364c3fac9c44307313cdd1",
+        "type": "ACTION_SEQUENCE",
+        "name": "goBackFromPayBillForm",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0196e79367e744daae84f9922ec00f46",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goBackFromPayBill",
+            "display": "goBackFromPayBill",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

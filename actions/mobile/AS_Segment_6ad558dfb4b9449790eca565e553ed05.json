@@ -1,0 +1,32 @@
+{
+    "AS_Segment_6ad558dfb4b9449790eca565e553ed05": {
+        "id": "AS_Segment_6ad558dfb4b9449790eca565e553ed05",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "___onRowClick_162b997acbe84b7aa7bfeac7bcc61216",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemKUID": "23edacbb504649c79f2feaa3e85a9794",
+            "widgetKUID": "5d182ae7c59e4d5f85d639a3c8dc80dd",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____fa32ccd5a26c47b094c51c446a4c555e",
+            "displayAnimationId": "MOVE_ACTION____fa32ccd5a26c47b094c51c446a4c555e",
+            "forkedPlatform": "all",
+            "callbackType": null
+        }]
+    }
+}

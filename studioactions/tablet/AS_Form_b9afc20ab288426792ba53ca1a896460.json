@@ -1,0 +1,18 @@
+{
+    "AS_Form_b9afc20ab288426792ba53ca1a896460": {
+        "id": "AS_Form_b9afc20ab288426792ba53ca1a896460",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__26128380c5a64152955237cb4b1e802c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

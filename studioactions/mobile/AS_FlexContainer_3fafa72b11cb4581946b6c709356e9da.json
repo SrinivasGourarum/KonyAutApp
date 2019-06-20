@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_3fafa72b11cb4581946b6c709356e9da": {
+        "id": "AS_FlexContainer_3fafa72b11cb4581946b6c709356e9da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabSupport",
+            "type": "templates",
+            "platform": null,
+            "KUID": "5031babce68442b381fc2a6bb4f11864"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_69d6bf09422c4942be3d6bdfc888dfc1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_1327b87da88542b4bd0924bb478ebebb": {
+        "id": "AS_Form_1327b87da88542b4bd0924bb478ebebb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStolenLostCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4e104ffa5dc847dabf935eaf516f81f6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_77d4675486844fbcb9f3f3d71672d708",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "callbackType": null
+        }]
+    }
+}

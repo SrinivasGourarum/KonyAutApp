@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "$48,250.00",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyinterestRateLabel03a329b7ca13947",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2dc1c6e444a54cf0b727846e71a1666f",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0f0ea790cab404f",
+    "pf": "frmAccountInfoformortageKA",
+    "texti18n": "i18n.overview.frmAccountInfoformortageKA.CopyinterestRateLabel03a329b7ca13947",
+    "tooltip": "",
+    "wType": "Label"
+}

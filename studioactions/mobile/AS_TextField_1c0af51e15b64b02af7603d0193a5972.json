@@ -1,0 +1,14 @@
+{
+    "AS_TextField_1c0af51e15b64b02af7603d0193a5972": {
+        "id": "AS_TextField_1c0af51e15b64b02af7603d0193a5972",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_a833f4868a6146848a2b26343dce3c41",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginKeyboardInactive();",
+            "callbackType": null
+        }]
+    }
+}

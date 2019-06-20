@@ -1,0 +1,25 @@
+{
+    "AS_Button_7ea8bea45e4a4de2b921c7d6459843ca": {
+        "id": "AS_Button_7ea8bea45e4a4de2b921c7d6459843ca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___72dffa46fd974eabb89553d1655c7173",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewTransferKAOld",
+            "formKUID": "2ac343500306428da0ceef91a3b44d18",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyaddExternalAccount0165db035f71e45\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

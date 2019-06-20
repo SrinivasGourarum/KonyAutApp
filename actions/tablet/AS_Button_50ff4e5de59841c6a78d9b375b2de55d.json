@@ -1,0 +1,17 @@
+{
+    "AS_Button_50ff4e5de59841c6a78d9b375b2de55d": {
+        "id": "AS_Button_50ff4e5de59841c6a78d9b375b2de55d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_a177f9693e434b54a7b90b199edc9858",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"recentTransactionWrapper\",recentTransactionDetails);\nretainSelectionOff(\"recentTransactions\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_41f98c529c8842fd892da0af1be967a1": {
+        "id": "AS_Button_41f98c529c8842fd892da0af1be967a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_66faa2da3762416abb4323e5ba8e1491",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositPayLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

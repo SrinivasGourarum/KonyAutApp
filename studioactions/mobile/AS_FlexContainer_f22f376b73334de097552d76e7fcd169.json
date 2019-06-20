@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_f22f376b73334de097552d76e7fcd169": {
+        "id": "AS_FlexContainer_f22f376b73334de097552d76e7fcd169",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarTransfer",
+            "type": "templates",
+            "platform": "",
+            "KUID": "4d0f72044b934b539f6f3d0409a878b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__84040d72c29440299a95cad71df53ae1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSupportDemo.show();",
+            "parentId": null
+        }]
+    }
+}

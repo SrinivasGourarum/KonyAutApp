@@ -1,0 +1,23 @@
+{
+    "AS_Form_a1e20b427e12403999dba09f2e2757ac": {
+        "id": "AS_Form_a1e20b427e12403999dba09f2e2757ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRequestPinChange",
+            "type": "forms",
+            "platform": null,
+            "KUID": "11991e7c7f9a4c768edb6d62709c0b9e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceMenu_45ea03d95a354bab84dbcf6f294acf04",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "disableMenuButton();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexScrollContainer_f6dc0d780a74422989a4ecd4451a0797": {
+        "id": "AS_FlexScrollContainer_f6dc0d780a74422989a4ecd4451a0797",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onScrolling_aa682292f75543bdacb338f468e74234",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountsVertScrollLanding();",
+            "callbackType": null
+        }]
+    }
+}

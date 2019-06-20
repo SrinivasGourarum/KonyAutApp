@@ -1,0 +1,45 @@
+{
+    "AS_Button_00dd8e3e6f224929a097dcbcadc6dffb": {
+        "id": "AS_Button_00dd8e3e6f224929a097dcbcadc6dffb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdepositchequeKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5a2ca8c30444478bd542cf9f8178425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_ide_onClick_80802d3970824a999db4358d7d9d2ac1",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Scheduled Transaction?",
+            "yesLabel": "Yes",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to delete this scheduled transaction?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_2a4dec08cb104c969f5cb0a4aeef68d4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_ide_onClick_80802d3970824a999db4358d7d9d2ac1",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"deleteScheduleTransactionButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

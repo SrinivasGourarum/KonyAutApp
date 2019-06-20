@@ -1,0 +1,16 @@
+{
+    "AS_Button_bafecd8c593148f9b142319a124dd3bf": {
+        "id": "AS_Button_bafecd8c593148f9b142319a124dd3bf",
+        "type": "ACTION_SEQUENCE",
+        "name": "toCardEdit",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f7b30d9bdf0547a7aa09b5eefd35e668",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferToPickEdit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

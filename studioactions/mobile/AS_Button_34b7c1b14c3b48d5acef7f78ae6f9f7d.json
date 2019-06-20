@@ -1,0 +1,23 @@
+{
+    "AS_Button_34b7c1b14c3b48d5acef7f78ae6f9f7d": {
+        "id": "AS_Button_34b7c1b14c3b48d5acef7f78ae6f9f7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetailKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c88605275a1d448eab11a1527b57672e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__83f8225970e747398458268489636189",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.show();",
+            "parentId": null
+        }]
+    }
+}

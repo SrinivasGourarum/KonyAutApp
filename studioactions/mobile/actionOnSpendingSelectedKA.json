@@ -1,0 +1,28 @@
+{
+    "AS_Button_c263b57f9fb3479a955fbddbac988f97": {
+        "id": "AS_Button_c263b57f9fb3479a955fbddbac988f97",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionOnSpendingSelectedKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___54f7d2b975184319935a5e45f589bc02",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSpendingSelected",
+            "display": "onSpendingSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

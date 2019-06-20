@@ -1,0 +1,49 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c14c5cfa624594965bca8fa71d4023",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "transactionDate",
+        "CopyImage055f33fb7444246",
+        "transactionName",
+        "contactListDivider"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer035bb5165f25443",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "fe538dd595494d81913d73089364185f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "segacntstatementstmplt",
+    "percent": true,
+    "pf": "segacntstatementstmplt",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

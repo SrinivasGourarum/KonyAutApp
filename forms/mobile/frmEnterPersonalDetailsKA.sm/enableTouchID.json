@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "PROCEED...",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6da2a3524e6428f90e3285da49490f0",
+    "id": "enableTouchID",
+    "ide_onClick": "AS_Button_4b3ee9c658354600a5eb36eb7b1a1553",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "90a05590d13842b5b0efcaa167ebb6e3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_4b3ee9c658354600a5eb36eb7b1a1553",
+    "parent": "mainContent",
+    "pf": "frmEnterPersonalDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.settings.frmEnterPersonalDetailsKA.enableTouchID",
+    "wType": "Button",
+    "zindex": 1
+}

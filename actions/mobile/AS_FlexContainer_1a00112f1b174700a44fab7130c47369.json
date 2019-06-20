@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_1a00112f1b174700a44fab7130c47369": {
+        "id": "AS_FlexContainer_1a00112f1b174700a44fab7130c47369",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d44ca858beb84694a5c4743410c55083",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.flxTouchID.isVisible=false;",
+            "callbackType": null
+        }]
+    }
+}

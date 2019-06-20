@@ -1,0 +1,16 @@
+{
+    "AS_Button_b997a398ef4c43a5b3f7fec01119f2ff": {
+        "id": "AS_Button_b997a398ef4c43a5b3f7fec01119f2ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_6825173a74594d12a9bf287959eb138d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " editAmountCard(frmNewDepositKA);",
+            "callbackType": null
+        }]
+    }
+}

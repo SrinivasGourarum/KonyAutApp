@@ -1,0 +1,25 @@
+{
+    "AS_Button_0826659174754a3b84a6470410dab7db": {
+        "id": "AS_Button_0826659174754a3b84a6470410dab7db",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_6b35b66f5a3f47ecb5f78bb949003c89",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddNewPayeeKA",
+            "formKUID": "22b994296d374ff48427012b2b05feb7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

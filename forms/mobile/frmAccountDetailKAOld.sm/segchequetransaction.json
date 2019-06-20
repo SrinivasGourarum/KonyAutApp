@@ -1,0 +1,131 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image052c0a28a15ea4b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "checkf.png"
+            },
+            "chevron": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "lblSepKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$155.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Oct 10, 2015 - Recurring Monthly"
+            },
+            "transactionName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payment to City of Austin"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segchequetransaction",
+    "ide_onRowClick": "AS_Segment_da2a9cde312a4537b20c8be46689336a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ae9ae6d23a5b44b0b029a10c480812d7",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_da2a9cde312a4537b20c8be46689336a",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "accountDetailsTransactions",
+    "pf": "frmAccountDetailKAOld",
+    "retainselection": false,
+    "rowTemplateId": "4729a0b3bf674e91a02f9522ef2985ae",
+    "rowcounter": 0,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFlexContainer011baa9bcad7141",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer011baa9bcad7141": "CopyFlexContainer011baa9bcad7141",
+        "Image052c0a28a15ea4b": "Image052c0a28a15ea4b",
+        "chevron": "chevron",
+        "lblSepKA": "lblSepKA",
+        "transactionAmount": "transactionAmount",
+        "transactionDate": "transactionDate",
+        "transactionName": "transactionName"
+    }
+}

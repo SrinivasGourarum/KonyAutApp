@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_cc51c14269314385b68cdad038d8cede": {
+        "id": "AS_FlexContainer_cc51c14269314385b68cdad038d8cede",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3ef26f9acd5b475cb1fdad0f87db5781"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1583fe881c0f46dfacb4629c7c39e588",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showMePrevious();",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_b5961301ccb441dab687cc27bd8f94b1": {
+        "id": "AS_Button_b5961301ccb441dab687cc27bd8f94b1",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbackimage",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmchequeimages",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c160f4a9ee84cb1a4f06a008221dd64"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__795da5e9cd5e47fcae9ba26e07a49d3a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "imagechangeback();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

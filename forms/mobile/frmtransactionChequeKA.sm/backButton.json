@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s42097848aa844c9a25e6237b1b50a5b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s86cba35d2a34a219807da2b84f4f553",
+    "id": "backButton",
+    "ide_onClick": "AS_Button_1cd3eab7fefa40b187a4a4e4f2aec096",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "026e0beaa2164e1692957cde4c2d9849",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_1cd3eab7fefa40b187a4a4e4f2aec096",
+    "parent": "iosTitleBar",
+    "pf": "frmtransactionChequeKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

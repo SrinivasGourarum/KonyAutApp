@@ -1,0 +1,15 @@
+{
+    "AS_Form_90d3d729d35e44bc97c0fda666091e5f": {
+        "id": "AS_Form_90d3d729d35e44bc97c0fda666091e5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1a3c032da8a54a90a63d4fa36a78c14b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferPostShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

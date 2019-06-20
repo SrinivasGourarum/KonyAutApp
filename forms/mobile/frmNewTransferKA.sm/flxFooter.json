@@ -1,0 +1,85 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s77117634aa14e58908cea4332c51ada",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "render": false
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyflxShadow0c9556449e40542",
+        "CopyFlexContainer0dceea0807f8140",
+        "CopyFlexContainer02d619202407a4e",
+        "FlexContainer0c6e533ec2e5d48",
+        "CopyFlexContainer0419cabfa34b74c",
+        "CopyFlexContainer01e82ddd6ea9842"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "flxFooter",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "7fe0617d51a94edd8190a23e3ced7c78",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "FlexContainer0cb22e4811ec44a",
+    "percent": true,
+    "pf": "frmNewTransferKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 10
+}

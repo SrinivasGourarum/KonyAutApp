@@ -1,0 +1,345 @@
+{
+    "AS_Segment_86c0eb2a0b364f76bf5b487a54114bfa": {
+        "id": "AS_Segment_86c0eb2a0b364f76bf5b487a54114bfa",
+        "type": "ACTION_SEQUENCE",
+        "name": "dealsAleartsOnRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDealsAlertKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2faae4f42a084d0194092153c0bb7a75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__10ecd7c6baff4974a150a0a5f61cb8d6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var dealsData;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "IF_CONDITION_ide_onRowClick_0a82bf6d5dcb43d78ba728cdb8bdfe2d",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmDealsAlertKA.AlertsAndroid.selectedRowIndex[1]==0"
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__bd5d325ef596405fb793764fdda08bf3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "dealsData=frmDealsAlertKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(dealsData[0].imgicontick=='checkbox_off.png')\n  dealsData[0].imgicontick='checkbox_on.png';\n  else\n    dealsData[0].imgicontick='checkbox_off.png';\nfrmDealsAlertKA.AlertsAndroid.setData(dealsData);",
+            "parentId": "IF_CONDITION_ide_onRowClick_0a82bf6d5dcb43d78ba728cdb8bdfe2d",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION_ide_onRowClick_ad74eb4b5c4e444e84e5d115c50e9bc2",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmDealsAlertKA.AlertsAndroid.selectedRowIndex[1]==1"
+            }],
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__2692f80b4d7f45539ccd5253f0174f66",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "dealsData=frmDealsAlertKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(dealsData[1].imgicontick=='checkbox_off.png')\n  dealsData[1].imgicontick='checkbox_on.png';\n  else\n    dealsData[1].imgicontick='checkbox_off.png';\nfrmDealsAlertKA.AlertsAndroid.setData(dealsData);",
+            "parentId": "ELSE_IF_CONDITION_ide_onRowClick_ad74eb4b5c4e444e84e5d115c50e9bc2",
+            "callbackType": null
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____90ec21acaf1d4c619902a2b70e579093",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmSecurityAlertsKA",
+            "widgetId": "AlertsAndroid",
+            "propertyName": "data",
+            "propertyValue": [{
+                "Label01f864cb479e14f": {
+                    "text": "Banking ID Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Expired",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "check_blue.png",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Address/Phone Changed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "New Payee Added",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Payee Details Updataed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }],
+            "additionalPropertyKeyValues": {},
+            "itemKUID": "1e79dd812c2042889f0047b15a33f342",
+            "widgetKUID": "6674d39ea53b4051adc99575b6c2e1ee",
+            "skinKUID": [],
+            "isSkinProperty": false,
+            "wType": "Segment",
+            "forkedPlatform": "all",
+            "parentId": "ELSE_IF_CONDITION_ide_onRowClick_12e3a189c7a84ec0ab9739c64ae425f9",
+            "widgetPath": "frmSecurityAlertsKA.AlertsAndroid"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____ed164e77c88c4e528ce2375b81e5abd7",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmSecurityAlertsKA",
+            "widgetId": "AlertsAndroid",
+            "propertyName": "data",
+            "propertyValue": [{
+                "Label01f864cb479e14f": {
+                    "text": "Banking ID Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Expired",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Address/Phone Changed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "check_blue.png",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "New Payee Added",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Payee Details Updataed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }],
+            "additionalPropertyKeyValues": {},
+            "itemKUID": "1e79dd812c2042889f0047b15a33f342",
+            "widgetKUID": "6674d39ea53b4051adc99575b6c2e1ee",
+            "skinKUID": [],
+            "isSkinProperty": false,
+            "wType": "Segment",
+            "forkedPlatform": "all",
+            "parentId": "ELSE_IF_CONDITION_ide_onRowClick_790e671a327e45c5b6479aee3c141c93",
+            "widgetPath": "frmSecurityAlertsKA.AlertsAndroid"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____b78f5d4380944453aa43ebda79ea02e1",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmSecurityAlertsKA",
+            "widgetId": "AlertsAndroid",
+            "propertyName": "data",
+            "propertyValue": [{
+                "Label01f864cb479e14f": {
+                    "text": "Banking ID Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Expired",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Address/Phone Changed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "New Payee Added",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "check_blue.png",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Payee Details Updataed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }],
+            "additionalPropertyKeyValues": {},
+            "itemKUID": "1e79dd812c2042889f0047b15a33f342",
+            "widgetKUID": "6674d39ea53b4051adc99575b6c2e1ee",
+            "skinKUID": [],
+            "isSkinProperty": false,
+            "wType": "Segment",
+            "forkedPlatform": "all",
+            "parentId": "ELSE_IF_CONDITION_ide_onRowClick_f46cbda9f0a7495e8a4c301afb49018a",
+            "widgetPath": "frmSecurityAlertsKA.AlertsAndroid"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY____0a47ed63a7324a29a9dcc25c97253be1",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmSecurityAlertsKA",
+            "widgetId": "AlertsAndroid",
+            "propertyName": "data",
+            "propertyValue": [{
+                "Label01f864cb479e14f": {
+                    "text": "Banking ID Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Change",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Password Expired",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Address/Phone Changed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "New Payee Added",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }, {
+                "Label01f864cb479e14f": {
+                    "text": "Payee Details Updataed",
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData"
+                },
+                "imgicontick": {
+                    "src": "check_blue.png",
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData"
+                }
+            }],
+            "additionalPropertyKeyValues": {},
+            "itemKUID": "1e79dd812c2042889f0047b15a33f342",
+            "widgetKUID": "6674d39ea53b4051adc99575b6c2e1ee",
+            "skinKUID": [],
+            "isSkinProperty": false,
+            "wType": "Segment",
+            "forkedPlatform": "all",
+            "parentId": "ELSE_IF_CONDITION_ide_onRowClick_f198fc22007745a2b16473bfe41590ef",
+            "widgetPath": "frmSecurityAlertsKA.AlertsAndroid"
+        }]
+    }
+}

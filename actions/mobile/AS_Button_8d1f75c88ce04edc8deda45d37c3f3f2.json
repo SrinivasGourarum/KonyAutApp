@@ -1,0 +1,24 @@
+{
+    "AS_Button_8d1f75c88ce04edc8deda45d37c3f3f2": {
+        "id": "AS_Button_8d1f75c88ce04edc8deda45d37c3f3f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1dacc12692fb423ca5b79df862f45d66",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDeactivateCardKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

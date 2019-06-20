@@ -1,0 +1,29 @@
+{
+    "AS_Button_0840d11fc87e4b0780b637668f4dd831": {
+        "id": "AS_Button_0840d11fc87e4b0780b637668f4dd831",
+        "type": "ACTION_SEQUENCE",
+        "name": "setDefaultPageIphoneBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSetDefaultPageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0a1abaac7705448e8ce085a947508e2c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___445e97176f9549d19ce7997fa5deda4f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "background_image": "tranfer_new_bg.png",
+  "bg_type": "image",
+  "border_color": "ff00ffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "s9a808dc7486434da91730a75ba4202d",
+  "wType": "FlexContainer"
+}

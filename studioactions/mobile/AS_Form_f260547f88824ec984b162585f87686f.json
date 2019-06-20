@@ -1,0 +1,23 @@
+{
+    "AS_Form_f260547f88824ec984b162585f87686f": {
+        "id": "AS_Form_f260547f88824ec984b162585f87686f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditCardsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0b5d66b8a411472c937886ea291eb5ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_5a012b157f1c456bbcb8aa83314bfdcb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

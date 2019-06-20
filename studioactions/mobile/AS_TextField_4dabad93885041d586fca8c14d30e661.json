@@ -1,0 +1,14 @@
+{
+    "AS_TextField_4dabad93885041d586fca8c14d30e661": {
+        "id": "AS_TextField_4dabad93885041d586fca8c14d30e661",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_01cfd42b8061452a949ea33a7d69b36d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferAmountPick();",
+            "callbackType": null
+        }]
+    }
+}

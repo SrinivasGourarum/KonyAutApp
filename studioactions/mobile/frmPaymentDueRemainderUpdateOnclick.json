@@ -1,0 +1,29 @@
+{
+    "AS_Button_2858ed22468d4341ba5e4d695adf3b8b": {
+        "id": "AS_Button_2858ed22468d4341ba5e4d695adf3b8b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPaymentDueRemainderUpdateOnclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPaymentDueRemainderKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "11dd677f22bd4c2ca085d29d1ab9bdb2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_3e11350e6e78459da2fc05dd2456a661",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

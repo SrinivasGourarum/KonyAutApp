@@ -1,0 +1,28 @@
+{
+    "AS_Button_3acf8c7ab1e04624a287a75200ac128e": {
+        "id": "AS_Button_3acf8c7ab1e04624a287a75200ac128e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewApplicationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "50dfa337455447979963bb1be4aa7b7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_91e3f50950964ee6a4e4d2fdffe67287",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAnswerSecretQuestionsKA",
+            "formKUID": "f6857ccc7dc3462791659bccc5a32b4e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

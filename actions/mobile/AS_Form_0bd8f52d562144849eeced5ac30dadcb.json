@@ -1,0 +1,18 @@
+{
+    "AS_Form_0bd8f52d562144849eeced5ac30dadcb": {
+        "id": "AS_Form_0bd8f52d562144849eeced5ac30dadcb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5f21a65969094669968325e97cc8309d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

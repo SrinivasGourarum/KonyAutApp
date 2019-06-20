@@ -1,0 +1,23 @@
+{
+    "AS_Button_43fbcd8830844f1bbebdc9c59e23a06f": {
+        "id": "AS_Button_43fbcd8830844f1bbebdc9c59e23a06f",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmEditPayee",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_a76d562a17524f27a284b4562ec88061",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEditPayeeKA",
+            "formKUID": "acf9bb71b94d4dc3ac913d05db7ddee3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

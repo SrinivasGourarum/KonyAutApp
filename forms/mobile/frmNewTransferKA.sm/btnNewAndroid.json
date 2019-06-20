@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4689f94aec44de89fbac54667c6c435",
+    "_text_": "NEW TRANSFER",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4689f94aec44de89fbac54667c6c435",
+    "id": "btnNewAndroid",
+    "ide_onClick": "AS_Button_4485ae2a5a274efb980567c38b73459e",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9191236d9ee74e52afe1c34dc2f8262e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_4485ae2a5a274efb980567c38b73459e",
+    "parent": "Copytabs0b209f8bc39be46",
+    "pf": "frmNewTransferKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

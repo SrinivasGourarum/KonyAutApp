@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter new name",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "John",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "tbxUsername",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "7365c19375284aeaa805957f8d26d0e9",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyanswerFIeldWrapper0e7e8c47f889c4f",
+    "pf": "frmUserSettingsEditUsernameKA",
+    "placeholderi18n": "i18n.settings.frmUserSettingsEditUsernameKA.CopyanswerField0c341c778850b43_placeholder",
+    "placeholderskin": "sfa36c5ffd8f4b39894ae352f59c3406",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

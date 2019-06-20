@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd3886761ead41b8974b1fab3f3fe636",
+    "_text_": "Note:",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel00879a80ea99747",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "14cba3cf458f4d48a00d7be8456cf745",
+    "name": "kony.ui.Label",
+    "parent": "noteflex",
+    "pf": "frmNewPayPersonKA",
+    "texti18n": "i18n.transfer.frmNewPayPersonKA.CopyLabel00879a80ea99747",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

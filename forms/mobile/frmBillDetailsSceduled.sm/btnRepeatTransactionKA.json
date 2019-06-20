@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4e0065cfb0d44769ed5d7a0cde5e355",
+    "_text_": "Cancel Bill Payee",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s4e0065cfb0d44769ed5d7a0cde5e355",
+    "id": "btnRepeatTransactionKA",
+    "ide_onClick": "AS_Button_24b51b82a3f848fe88f72ccc70baff5d",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "2b938eb6d2e547e392956ed4d2b88d37",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_24b51b82a3f848fe88f72ccc70baff5d",
+    "parent": "flxRepeatBillPayContainerKA",
+    "pf": "frmBillDetailsSceduled",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

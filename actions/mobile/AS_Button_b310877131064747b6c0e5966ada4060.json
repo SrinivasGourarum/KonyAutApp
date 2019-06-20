@@ -1,0 +1,23 @@
+{
+    "AS_Button_b310877131064747b6c0e5966ada4060": {
+        "id": "AS_Button_b310877131064747b6c0e5966ada4060",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_a27a7e40b6b2459f96ab22a0648caa64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "rememberMEFocus();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s97ba197c9264e32a3f39d16396ccfe4",
+    "_src_": "message.png",
+    "_width_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmAccountsLanding",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgMyMessagesIcon",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "img_transparent.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "d92dc26ef7f54999a4ac934b83ea66a8",
+    "name": "kony.ui.Image2",
+    "parent": "CopyflxHeader0c0234a302a0c4a",
+    "pf": "frmAccountsLanding",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

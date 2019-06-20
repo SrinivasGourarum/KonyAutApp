@@ -1,0 +1,17 @@
+{
+    "AS_Camera_e1d336ec7bcb410684655b2a5a7d8871": {
+        "id": "AS_Camera_e1d336ec7bcb410684655b2a5a7d8871",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onCapture_fccbfe3d4c984c8cb932c6087f148a4f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveBackOfCheckImage();",
+            "callbackType": null
+        }]
+    }
+}

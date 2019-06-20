@@ -1,0 +1,32 @@
+{
+    "AS_Button_c6f957b50025464382aaec59fadae38f": {
+        "id": "AS_Button_c6f957b50025464382aaec59fadae38f",
+        "type": "ACTION_SEQUENCE",
+        "name": "androidBackpreferredAccounts",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPreferredAccountsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7a9e568cea85447086c10e8f96c76840"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f8d5850659da4ae38413aa41d9496a0b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

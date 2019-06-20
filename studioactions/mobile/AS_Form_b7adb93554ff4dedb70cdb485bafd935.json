@@ -1,0 +1,18 @@
+{
+    "AS_Form_b7adb93554ff4dedb70cdb485bafd935": {
+        "id": "AS_Form_b7adb93554ff4dedb70cdb485bafd935",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b7a1c084f40b4060af8fc0feb2a704d2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "disableMenuButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

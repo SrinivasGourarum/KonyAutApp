@@ -1,0 +1,28 @@
+{
+    "AS_Button_cf84193fb41842818fbbdbaeeeb05597": {
+        "id": "AS_Button_cf84193fb41842818fbbdbaeeeb05597",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_70bfd0033738406ca4acaeee397e133f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferPayLandingKA",
+            "formKUID": "dab7a50c55b94a12b3d961ae5bd49247",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

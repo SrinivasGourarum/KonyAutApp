@@ -1,0 +1,15 @@
+{
+    "AS_Form_dc7bd713aea84a04a136f432a6804e98": {
+        "id": "AS_Form_dc7bd713aea84a04a136f432a6804e98",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0155e3922c0a40a78d243e99cab15464",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "background_image": "strip.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "s90c45a8967247d1b841be5879fb52b8",
+  "wType": "FlexContainer"
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_e6d307b3c9cc498d92369097a4d3b3f7": {
+        "id": "AS_Button_e6d307b3c9cc498d92369097a4d3b3f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c2bda69276c04c2a856b97ef3a0460f8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " editAmountCard(frmNewPayPersonKA);",
+            "callbackType": null
+        }]
+    }
+}

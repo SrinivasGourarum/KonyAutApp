@@ -1,0 +1,199 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_bounces_": false,
+    "_data_": [
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 2354"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 1"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        },
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 8790"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 2"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        },
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 7781"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 3"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        },
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 3463"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 4"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        },
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 6756"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 5"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        },
+        {
+            "accountnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "xxxx xxxx xxxx 7852"
+            },
+            "payeename": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Payee Name 6"
+            },
+            "payeenickname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nick Name"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "editstyle": "swipe",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "managepayeesegment",
+    "ide_onRowClick": "AS_Button_9348288555e147ffb4494209f25854c2",
+    "info": null,
+    "invokedProperty": "pageOnDotImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "editStyle": "swipe",
+            "indicator": "rowselect",
+            "showProgressIndicator": true
+        }
+    },
+    "isvisible": true,
+    "kuid": "664944267aa44ac1b67d14aaeea3b03d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Button_9348288555e147ffb4494209f25854c2",
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "FlexScrollContainer0dacb1b5f2c154d",
+    "pf": "frmManagePayeeKA",
+    "retainselection": false,
+    "rowTemplateId": "16a264b35c494e74a2589ee452044566",
+    "rowcounter": 5,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFlexContainer0a00646603d924a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ededed00",
+    "separatorrequired": true,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 750,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0a00646603d924a": "CopyFlexContainer0a00646603d924a",
+        "accountnumber": "accountnumber",
+        "contactListDivider": "contactListDivider",
+        "payeename": "payeename",
+        "payeenickname": "payeenickname"
+    },
+    "zindex": 1
+}

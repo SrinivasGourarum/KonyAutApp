@@ -1,0 +1,32 @@
+{
+    "AS_Button_01d61f0360d34693b4a4b0178ab1cda7": {
+        "id": "AS_Button_01d61f0360d34693b4a4b0178ab1cda7",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbackdepositcheck",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdepositchequeKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5a2ca8c30444478bd542cf9f8178425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___de2e85a0d5de4cf2adec5a7aacb703b1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_CheckBoxGroup_c7bd5888c5c64d17be42dce278a79bce": {
+        "id": "AS_CheckBoxGroup_c7bd5888c5c64d17be42dce278a79bce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b5cb8167f4a9436e8d31f1b4ec5e0857",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountPreviewCheckBoxSelectTouchEnd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

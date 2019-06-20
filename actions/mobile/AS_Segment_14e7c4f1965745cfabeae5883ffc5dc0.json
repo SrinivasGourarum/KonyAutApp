@@ -1,0 +1,32 @@
+{
+    "AS_Segment_14e7c4f1965745cfabeae5883ffc5dc0": {
+        "id": "AS_Segment_14e7c4f1965745cfabeae5883ffc5dc0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmMoreLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f90cf53e47ae407c83e2e30720fff3da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___63bb57858ea341958940f8628fcc52e8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "moreResourcesSegmentClick",
+            "display": "moreResourcesSegmentClick",
+            "inputparams": [],
+            "parentId": null,
+            "source": "module"
+        }]
+    }
+}

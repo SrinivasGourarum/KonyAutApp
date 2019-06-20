@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Add From My Contact List",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopydeleteScheduleTransactionButton033a062eb8f764a",
+    "ide_onClick": "AS_Button_236d1fb918084cac990ee785902082f6",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9f7b8d91a85c42039a957fbcfecdd432",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_236d1fb918084cac990ee785902082f6",
+    "parent": "CopyrepeatTransactionContainer0f4b13ef1f90547",
+    "pf": "frmP2PselectPayeeKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmP2PselectPayeeKA.CopydeleteScheduleTransactionButton033a062eb8f764a",
+    "wType": "Button",
+    "zindex": 1
+}

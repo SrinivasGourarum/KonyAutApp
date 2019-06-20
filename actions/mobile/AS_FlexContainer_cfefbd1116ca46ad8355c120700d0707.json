@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_cfefbd1116ca46ad8355c120700d0707": {
+        "id": "AS_FlexContainer_cfefbd1116ca46ad8355c120700d0707",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__42fc163328f94cd0ae6171d0c50c8dce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "touchIdAuthentication();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

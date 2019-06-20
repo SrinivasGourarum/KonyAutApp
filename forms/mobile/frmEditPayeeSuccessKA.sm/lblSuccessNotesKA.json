@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "You have succesfully updated the Payee. Now you can proceed with the Bill payment.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblSuccessNotesKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "894c32b28eea4c6b8dfec07096183d63",
+    "name": "kony.ui.Label",
+    "parent": "flxContainerKA",
+    "pf": "frmEditPayeeSuccessKA",
+    "texti18n": "i18n.manage_payee.frmEditPayeeSuccessKA.lblSuccessNotesKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

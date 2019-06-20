@@ -1,0 +1,17 @@
+{
+    "AS_Button_5b4bb173fffa4437a9cdde64be108729": {
+        "id": "AS_Button_5b4bb173fffa4437a9cdde64be108729",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f9b1265d8ffe41f5ba40ef9188804ce5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferFrequencyEdit();",
+            "callbackType": null
+        }]
+    }
+}

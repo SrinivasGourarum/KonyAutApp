@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "_text_": "New",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7e6cc2cf42f4b9f9ab74e88cb9cbdd4",
+    "id": "CopyButton048bc00b1674a40",
+    "ide_onClick": "AS_Button_f3f0b8de19c4457b8dd57050946661ef",
+    "info": null,
+    "isvisible": true,
+    "kuid": "53920bae013b4a498eaed374dc8b71d6",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f3f0b8de19c4457b8dd57050946661ef",
+    "parent": "androidTitleBar",
+    "pf": "frmCheckReorderDetailsKA",
+    "wType": "Button",
+    "zindex": 1
+}

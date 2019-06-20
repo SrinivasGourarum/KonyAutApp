@@ -1,0 +1,24 @@
+{
+    "AS_Form_38fe8a9908454778a39b34580aba1d3d": {
+        "id": "AS_Form_38fe8a9908454778a39b34580aba1d3d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b8a5f0336ee649ecb8f2faeb0ece4df1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "flxCreditCardTemplateKA.FlexContainer0aecffd4e3b1143.skin = sknCrediCardKA;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

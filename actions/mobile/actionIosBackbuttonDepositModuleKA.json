@@ -1,0 +1,32 @@
+{
+    "AS_Button_5d4936cc6f914befbd37d9fbc81756e8": {
+        "id": "AS_Button_5d4936cc6f914befbd37d9fbc81756e8",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionIosBackbuttonDepositModuleKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c92b1c3f2096491caf810e05c3e05085",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyhamburgerButton04a4b0742ce0647\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_919cf50925bf44db9983e69c61cbeb09": {
+        "id": "AS_Button_919cf50925bf44db9983e69c61cbeb09",
+        "type": "ACTION_SEQUENCE",
+        "name": "DealsAlertsIOSBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDealsAlertKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2faae4f42a084d0194092153c0bb7a75"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e89e06d5d1c14b54a456047600ef2cf8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAlertsKA",
+            "formKUID": "8f4fb6ef80f34f5f861f12908e1a5309",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

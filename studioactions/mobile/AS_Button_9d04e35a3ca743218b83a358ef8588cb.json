@@ -1,0 +1,15 @@
+{
+    "AS_Button_9d04e35a3ca743218b83a358ef8588cb": {
+        "id": "AS_Button_9d04e35a3ca743218b83a358ef8588cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__efc8f6ca22104416b94f2952bb21460b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositToPickEdit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

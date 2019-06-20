@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "CopybuttonLeft062626e152bd44a",
+    "ide_onClick": "AS_Button_0e44c5b478074d8e8f6e39c6b4b8c0fb",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "3fdd50c63a9c484ea0c83b84623f0179",
+    "minwidth": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_0e44c5b478074d8e8f6e39c6b4b8c0fb",
+    "paddinginpixel": false,
+    "parent": "flxAndroidTittleBarKA",
+    "pf": "frmUserSettingsPersonalDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.common.Edit",
+    "wType": "Button",
+    "zindex": 1
+}

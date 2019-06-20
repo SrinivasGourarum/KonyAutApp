@@ -1,0 +1,25 @@
+{
+    "AS_Form_481d85ea4bb848f7845651c6476e634d": {
+        "id": "AS_Form_481d85ea4bb848f7845651c6476e634d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNewPayPersonKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9352a8a5fb42490b90ca4c4727c6f81c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

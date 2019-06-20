@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "34dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        13,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Search",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "sea5b37ce9f84d169bd0e700d49a9af7",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.29%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "sea5b37ce9f84d169bd0e700d49a9af7",
+    "id": "searchTextField",
+    "ide_onDone": "AS_TextField_cd222e88077d456192e5546380c2b5f4",
+    "info": null,
+    "iphone": {
+        "ide_onBeginEditing": "AS_TextField_e1f527c89b1b45d6959864ff205e06ae",
+        "ide_onEndEditing": "AS_TextField_7d62bed2b64041a98a95c8466603ec18",
+        "onBeginEditing": "AS_TextField_e1f527c89b1b45d6959864ff205e06ae",
+        "onEndEditing": "AS_TextField_7d62bed2b64041a98a95c8466603ec18",
+        "psp": {
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b151efb6e98444d0808a62ff26db82ae",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_cd222e88077d456192e5546380c2b5f4",
+    "paddinginpixel": false,
+    "parent": "searchContainer",
+    "pf": "frmP2PphonepayeeKA",
+    "placeholderi18n": "i18n.transfer.frmP2PphonepayeeKA.searchTextField_placeholder",
+    "placeholderskin": "sfa36c5ffd8f4b39894ae352f59c3406",
+    "securetextentry": false,
+    "showclosebutton": true,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

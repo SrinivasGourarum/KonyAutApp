@@ -1,0 +1,14 @@
+{
+    "AS_Button_d545fab54eb04b678d18154b5ec0a20e": {
+        "id": "AS_Button_d545fab54eb04b678d18154b5ec0a20e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_04aacf1fd3a8400a935e2fa503645e7e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hideDateRange();",
+            "callbackType": null
+        }]
+    }
+}

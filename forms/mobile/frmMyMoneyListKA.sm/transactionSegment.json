@@ -1,0 +1,176 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "CopytransactionName0e3bdeb3f5a7f48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Shopping at Shoppers Stop"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$155.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jan16, 2016 "
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "CopytransactionName0e3bdeb3f5a7f48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Shopping at Lifestyle,Austin"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$155.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jan10, 2016 "
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "CopytransactionName0e3bdeb3f5a7f48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "LG Electronics,Austin"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$155.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jan08, 2016 "
+            }
+        },
+        {
+            "CopyImage055f33fb7444246": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            },
+            "CopytransactionName0e3bdeb3f5a7f48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "e-mart"
+            },
+            "transactionAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$155.00"
+            },
+            "transactionDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jan01, 2016 "
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "transactionSegment",
+    "ide_onRowClick": "AS_Segment_c2d7bca5adb943639b06db8cf59417e3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "6ccd81ce2754472994b92212444fbe3e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_c2d7bca5adb943639b06db8cf59417e3",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxsegMonthlyDataKA",
+    "pf": "frmMyMoneyListKA",
+    "retainselection": false,
+    "rowTemplateId": "7458eea56b4a4d59af122110f7e1a27b",
+    "rowcounter": 3,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFlexContainer02080b70129e248",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer02080b70129e248": "CopyFlexContainer02080b70129e248",
+        "CopyImage055f33fb7444246": "CopyImage055f33fb7444246",
+        "CopytransactionName0e3bdeb3f5a7f48": "CopytransactionName0e3bdeb3f5a7f48",
+        "listDivider": "listDivider",
+        "transactionAmount": "transactionAmount",
+        "transactionDate": "transactionDate"
+    }
+}

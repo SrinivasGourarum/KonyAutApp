@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "Sign Out",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "signOutButton",
+    "ide_onClick": "AS_Button_aa3aec1251454d67867949dca5d060a3",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f676ea1989f74b50806121f522010a1b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_aa3aec1251454d67867949dca5d060a3",
+    "parent": "flxMenu",
+    "pf": "frmDepositPayLandingKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.more.frmMoreLandingKA.signOutButton",
+    "wType": "Button",
+    "zindex": 1
+}

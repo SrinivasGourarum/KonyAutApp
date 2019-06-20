@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "-0"
+    },
+    "_skin_": "s290d646be224caa899af134d2389f06",
+    "_text_": "Save",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6df4c410eaa444bb19006f9133a2af1",
+    "id": "saveNickname",
+    "ide_onClick": "AS_Button_ae14d5a58ea04e4ca928dfe39b7bfedc",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": false,
+    "kuid": "eae40324fb3f4aa58da842cb97817dac",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ae14d5a58ea04e4ca928dfe39b7bfedc",
+    "parent": "CopypreferredAccountEnable0d7ab026f4a5845",
+    "pf": "frmAccountInfoKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.overview.frmAccountInfoKA.saveNickname",
+    "wType": "Button",
+    "zindex": 1
+}

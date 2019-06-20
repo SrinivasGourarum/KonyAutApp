@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_6b6524cec1924364b47c73c8eff474f3": {
+        "id": "AS_FlexContainer_6b6524cec1924364b47c73c8eff474f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinSetUpDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7418612fc10b4a1380bf273f3a556a03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_553231f4f6d64d1c843e1ed8c3d74040",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pinOnHide();\nfrmAccountsLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

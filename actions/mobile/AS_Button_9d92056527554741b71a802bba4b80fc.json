@@ -1,0 +1,14 @@
+{
+    "AS_Button_9d92056527554741b71a802bba4b80fc": {
+        "id": "AS_Button_9d92056527554741b71a802bba4b80fc",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f317bfcc126840b990dc6152739fd143",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewTransferKA,\"to\",2);",
+            "callbackType": null
+        }]
+    }
+}

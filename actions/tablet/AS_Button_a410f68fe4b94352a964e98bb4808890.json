@@ -1,0 +1,18 @@
+{
+    "AS_Button_a410f68fe4b94352a964e98bb4808890": {
+        "id": "AS_Button_a410f68fe4b94352a964e98bb4808890",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__89a274e43935483ea39b1b3f572c58dc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"forgotWrapper\",unauthForgotUsernamePassword);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

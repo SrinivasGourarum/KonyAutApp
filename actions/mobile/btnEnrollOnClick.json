@@ -1,0 +1,26 @@
+{
+    "AS_Button_e1cc8824bb3c4400878a97763ea0832a": {
+        "id": "AS_Button_e1cc8824bb3c4400878a97763ea0832a",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnEnrollOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___945836a48dc84bd8ae4d266ce6189e34",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnrolluserLandingKA",
+            "formKUID": "de724966138b4e7c9bfdd35033a0bdb3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

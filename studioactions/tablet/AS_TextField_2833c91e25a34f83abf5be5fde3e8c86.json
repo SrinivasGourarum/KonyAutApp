@@ -1,0 +1,21 @@
+{
+    "AS_TextField_2833c91e25a34f83abf5be5fde3e8c86": {
+        "id": "AS_TextField_2833c91e25a34f83abf5be5fde3e8c86",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__de512d6ec69b4a81852c7c6a5d7cdf84",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginKeyboardInactive();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

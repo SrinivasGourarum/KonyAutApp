@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4689f94aec44de89fbac54667c6c435",
+    "_text_": "Delete Payee",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s4689f94aec44de89fbac54667c6c435",
+    "id": "btnDeletePayeeKA",
+    "ide_onClick": "AS_Button_a09ea0eef99d45bc9495aabdd528af4b",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "0d0643c53f64448ab692799deb7db5c5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a09ea0eef99d45bc9495aabdd528af4b",
+    "parent": "buttonWrapper",
+    "pf": "frmPayeeDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.manage_payee.frmPayeeDetailsKA.btnDeletePayeeKA",
+    "wType": "Button",
+    "zindex": 1
+}

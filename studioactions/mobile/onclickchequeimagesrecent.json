@@ -1,0 +1,25 @@
+{
+    "AS_Button_6e39c52dd9aa47049afaade68a19fce2": {
+        "id": "AS_Button_6e39c52dd9aa47049afaade68a19fce2",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickchequeimagesrecent",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRecentDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "12938df68b634bdb91432896ef721294"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1516b666655345b0a688087bdb2dea61",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "chequestatus=2;\nfrmchequeimages.show();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "s97243d3596345a19ac7e8ad1a6e2966",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "see25a32d40f43a5ad2dea11b1461fc1",
+    "id": "searchButton",
+    "ide_onClick": "AS_Button_7c1697adfd294608803978d850c5d8a0",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "5379f741b2964c1e8c543bdd69357e14",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_7c1697adfd294608803978d850c5d8a0",
+    "parent": "accountDetailsTitleBar",
+    "pf": "frmAccountDetailKAOld",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_abaefbe751ff4043b0a530614281c9c1": {
+        "id": "AS_Button_abaefbe751ff4043b0a530614281c9c1",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickbtnInboxKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_370231619115434dbbd0e81a8ef1af5d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMessageInboxSelected",
+            "display": "onMessageInboxSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

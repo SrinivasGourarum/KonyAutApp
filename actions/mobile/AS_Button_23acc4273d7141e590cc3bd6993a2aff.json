@@ -1,0 +1,17 @@
+{
+    "AS_Button_23acc4273d7141e590cc3bd6993a2aff": {
+        "id": "AS_Button_23acc4273d7141e590cc3bd6993a2aff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_5f11d549734a4c61b62b2502f326e6a7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewPayPersonKA, \"from\", 4);",
+            "callbackType": null
+        }]
+    }
+}

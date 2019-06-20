@@ -1,0 +1,14 @@
+{
+    "AS_Button_9c4c4527fcb842b0bc3cc3ab0e957f6a": {
+        "id": "AS_Button_9c4c4527fcb842b0bc3cc3ab0e957f6a",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_85eec2a6ea164bfaaf2599eedaca3345",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositAmountPickEdit();",
+            "callbackType": null
+        }]
+    }
+}

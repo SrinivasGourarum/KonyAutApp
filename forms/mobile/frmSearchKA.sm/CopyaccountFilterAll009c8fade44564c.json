@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "WITHDRAWALS",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "CopyaccountFilterAll009c8fade44564c",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9bd0beba66004e76826df14d4cb561e1",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmSearchKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.overview.frmSearchKA.CopyaccountFilterAll009c8fade44564c",
+    "wType": "Button",
+    "zindex": 1
+}

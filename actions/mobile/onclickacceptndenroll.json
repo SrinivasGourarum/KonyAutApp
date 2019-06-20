@@ -1,0 +1,26 @@
+{
+    "AS_Button_96cc31ff195f466b9b8db059aa30860d": {
+        "id": "AS_Button_96cc31ff195f466b9b8db059aa30860d",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickacceptndenroll",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_544460c959984725b6352e9453ff55b5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnaccept\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

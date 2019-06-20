@@ -1,0 +1,30 @@
+{
+    "AS_Switch_3bcb1f8551394b36bb99782d7323a7d0": {
+        "id": "AS_Switch_3bcb1f8551394b36bb99782d7323a7d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "userSettings",
+            "type": "forms",
+            "platform": "",
+            "KUID": "245d3c0472494f82bb77c83b1610548f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bd792133779643b0a5e8d5e2ebfba371",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "touchIdSwitchOnTouchEnd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

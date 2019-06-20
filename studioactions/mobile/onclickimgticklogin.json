@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_4651173f245848819ef18a09a54c2618": {
+        "id": "AS_FlexContainer_4651173f245848819ef18a09a54c2618",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickimgticklogin",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_68d38ff9258b4a25a1eb332776dcbf92",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmUserSettingsAccountPreviewKA.imgticklogin.isVisible == true)\n  frmUserSettingsAccountPreviewKA.imgticklogin.setVisibility(false);\nelse\n   frmUserSettingsAccountPreviewKA.imgticklogin.setVisibility(true);",
+            "callbackType": null
+        }]
+    }
+}

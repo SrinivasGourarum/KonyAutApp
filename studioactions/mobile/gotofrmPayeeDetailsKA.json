@@ -1,0 +1,29 @@
+{
+    "AS_Button_d16232ef24b340f5b2a1458e12cc15db": {
+        "id": "AS_Button_d16232ef24b340f5b2a1458e12cc15db",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmPayeeDetailsKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPayeeTransactionsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78b4c1f03e764c0e8ab4e36a3dcb4742"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___345152e29d1741bcb970def34e0fb2b3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPayeeDetailsKA",
+            "formKUID": "eee6ed64af6148fd817b4b732ba55ecc",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

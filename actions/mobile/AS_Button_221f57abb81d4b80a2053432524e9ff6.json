@@ -1,0 +1,23 @@
+{
+    "AS_Button_221f57abb81d4b80a2053432524e9ff6": {
+        "id": "AS_Button_221f57abb81d4b80a2053432524e9ff6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmBillPay",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd218f37d89e4f029dd61823ec383825"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a06bcfee743b41cb86b0ce5f5b8decb2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewDepositKA.show();",
+            "callbackType": null
+        }]
+    }
+}

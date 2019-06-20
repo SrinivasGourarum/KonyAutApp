@@ -1,0 +1,25 @@
+{
+    "AS_Button_8a5adceb7f774a99b663467730baf0aa": {
+        "id": "AS_Button_8a5adceb7f774a99b663467730baf0aa",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickaccountstatemtnslanding",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetailKAOld",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5ed703cad63c441882fc4a36f5ea0c28"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f16a203325a145a5905b4b636ab93ae6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountsStatementPreShow();\nfrmacntstatementsKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Segment_971b946f471b45a5b6118b9465ab254a": {
+        "id": "AS_Segment_971b946f471b45a5b6118b9465ab254a",
+        "type": "ACTION_SEQUENCE",
+        "name": "forTransfersOnrowclickAndroid",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPreferredAccountsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7a9e568cea85447086c10e8f96c76840"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8de94014cd9d4a0b8005616b736d68e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var forTransfersData=frmPreferredAccountsKA.ForTransfers.data;\n\n//alert(forTransfersData);\nif(frmPreferredAccountsKA.ForTransfers.selectedRowIndex[1]==0)\n  {\n    forTransfersData[0][1][0].imgicontick='check_blue.png';\n    forTransfersData[0][1][1].imgicontick='';\n    frmPreferredAccountsKA.ForTransfers.setData(forTransfersData); \n  }\nelse\n  {\n    forTransfersData[0][1][0].imgicontick='';\n    forTransfersData[0][1][1].imgicontick='check_blue.png';\n    frmPreferredAccountsKA.ForTransfers.setData(forTransfersData);\n  }\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

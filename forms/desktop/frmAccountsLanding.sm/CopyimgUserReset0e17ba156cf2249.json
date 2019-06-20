@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scef0a79564f4c55a0acefc8fec3957d",
+    "_src_": "img_transparent.png",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmAccountsLanding",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "CopyimgUserReset0e17ba156cf2249",
+    "imagescalemode": 0,
+    "imagewhiledownloading": "img_transparent.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": false,
+    "kuid": "c91ac252a1a844cb8a206a0337207adb",
+    "name": "kony.ui.Image2",
+    "parent": "headermenu",
+    "pf": "frmAccountsLanding",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

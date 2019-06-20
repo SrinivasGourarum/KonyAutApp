@@ -1,0 +1,27 @@
+{
+    "AS_Button_e864f6ab3e3a4427903d6750b9831584": {
+        "id": "AS_Button_e864f6ab3e3a4427903d6750b9831584",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCouponCreation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a2ec74e6e4e141599a47f65815b709cb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e81fd2cce5fd457bb4ba65f374458c55",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "6299a08c7c514b3cbf5f34f1f48732aa",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

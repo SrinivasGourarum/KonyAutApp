@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_2e77e913750e4c94bfaa89ad92e6ee3a": {
+        "id": "AS_FlexContainer_2e77e913750e4c94bfaa89ad92e6ee3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewCheckReOrderKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "94003451efac4c8c90b34563a815687b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_b4c89992964e42d2bd39259ea857a858",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountAddress();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "AS_Button_cd5f7943c15341cd8be65e5b7d212260": {
+        "id": "AS_Button_cd5f7943c15341cd8be65e5b7d212260",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_45875596f0074e8a8ed7487c91f990e7",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Confirm Sign Out",
+            "yesLabel": "Sign Out",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to sign out?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__0e9f8330bcd245e7b8de761202d761d9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeAndroidNav();",
+            "parentId": "SHOW_ALERT_onClick_45875596f0074e8a8ed7487c91f990e7",
+            "callbackType": "True"
+        }, {
+            "id": "NAVIGATE_TO_FORM__onClick_93f0ac7b1eb04790b1bbc849b85fef5f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_onClick_45875596f0074e8a8ed7487c91f990e7",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

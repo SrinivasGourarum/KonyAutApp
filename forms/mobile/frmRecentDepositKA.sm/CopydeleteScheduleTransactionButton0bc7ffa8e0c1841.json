@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "View Check Images",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopydeleteScheduleTransactionButton0bc7ffa8e0c1841",
+    "ide_onClick": "AS_Button_6e39c52dd9aa47049afaade68a19fce2",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "0ad8768923ff4de397b9f8f85c265f68",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_6e39c52dd9aa47049afaade68a19fce2",
+    "parent": "CopyrepeatTransactionContainer0c3d5855c666549",
+    "pf": "frmRecentDepositKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.deposit.frmRecentDepositKA.CopydeleteScheduleTransactionButton0bc7ffa8e0c1841",
+    "wType": "Button",
+    "zindex": 1
+}

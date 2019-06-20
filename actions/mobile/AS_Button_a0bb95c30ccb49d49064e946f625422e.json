@@ -1,0 +1,16 @@
+{
+    "AS_Button_a0bb95c30ccb49d49064e946f625422e": {
+        "id": "AS_Button_a0bb95c30ccb49d49064e946f625422e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e4566421ec66412c8ad7386d074445a0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"New\");"
+        }]
+    }
+}

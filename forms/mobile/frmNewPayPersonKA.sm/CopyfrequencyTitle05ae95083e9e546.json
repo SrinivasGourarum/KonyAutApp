@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa9126343f4b4ecdbafe5789c7aa09fc",
+    "_text_": "Date:",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "CopyfrequencyTitle05ae95083e9e546",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "19d9be8c53494b189b25dfb48042dc8b",
+    "name": "kony.ui.Label",
+    "parent": "dateCard",
+    "pf": "frmNewPayPersonKA",
+    "texti18n": "i18n.transfer.frmNewBillKA.CopyfrequencyTitle05ae95083e9e546",
+    "tooltip": "",
+    "wType": "Label"
+}

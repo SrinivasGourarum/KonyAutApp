@@ -1,0 +1,50 @@
+{
+    "AS_Form_349e631591b54baea44b538c6d294c47": {
+        "id": "AS_Form_349e631591b54baea44b538c6d294c47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "91bf1ce516214ab8adad0a71f5d68382"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__daec63ebd9b9467183522b805fb8fc71",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Current Location",
+            "yesLabel": "Allow",
+            "noLabel": "Don't Allow",
+            "alertMessage": "xyzBank would like to use your current location",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__cf45fce9a77e4179865a9f07546348c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorPostShow();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__fb2d10bd2d16443386f59317d3c6c50c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorPostShow();",
+            "parentId": "SHOW_ALERT__daec63ebd9b9467183522b805fb8fc71",
+            "callbackType": "False"
+        }, {
+            "id": "ADD_SNIPPET__a1fcccd0446d40b484c7eceb3597333a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userAllowedLocation();",
+            "parentId": "SHOW_ALERT__daec63ebd9b9467183522b805fb8fc71",
+            "callbackType": "True"
+        }]
+    }
+}

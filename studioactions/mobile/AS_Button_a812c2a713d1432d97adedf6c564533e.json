@@ -1,0 +1,14 @@
+{
+    "AS_Button_a812c2a713d1432d97adedf6c564533e": {
+        "id": "AS_Button_a812c2a713d1432d97adedf6c564533e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f1c163d81c144344bbfaef76602f800a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showHideAccountInsights();",
+            "callbackType": null
+        }]
+    }
+}

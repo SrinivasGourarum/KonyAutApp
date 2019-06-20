@@ -1,0 +1,16 @@
+{
+    "AS_Button_d04dc4cb74664af5886a69f501dbe17e": {
+        "id": "AS_Button_d04dc4cb74664af5886a69f501dbe17e",
+        "type": "ACTION_SEQUENCE",
+        "name": "accountDetailButton2DidClick",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__71ab1c87c4f24211a5a2c6105654037e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferToPick(2);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

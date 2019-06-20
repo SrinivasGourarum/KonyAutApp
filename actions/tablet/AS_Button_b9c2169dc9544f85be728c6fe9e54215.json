@@ -1,0 +1,17 @@
+{
+    "AS_Button_b9c2169dc9544f85be728c6fe9e54215": {
+        "id": "AS_Button_b9c2169dc9544f85be728c6fe9e54215",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_cd5f7cb4cc9546b2ab9842b4c623b9ee",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " editAmountCard(newBill);",
+            "callbackType": null
+        }]
+    }
+}

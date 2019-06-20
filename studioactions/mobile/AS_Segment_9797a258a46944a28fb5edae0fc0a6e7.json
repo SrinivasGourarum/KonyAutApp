@@ -1,0 +1,30 @@
+{
+    "AS_Segment_9797a258a46944a28fb5edae0fc0a6e7": {
+        "id": "AS_Segment_9797a258a46944a28fb5edae0fc0a6e7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPayeeTransactionsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78b4c1f03e764c0e8ab4e36a3dcb4742"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__45d0268c46004b42a57b40f46be7ea84",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmBillDetailsSceduled.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

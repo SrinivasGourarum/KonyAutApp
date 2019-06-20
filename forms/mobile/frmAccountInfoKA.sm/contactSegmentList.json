@@ -1,0 +1,129 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "phone_icon.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Dispute a charge on this account"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "phone_icon.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel this account"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "counter": "01",
+    "disabledSkins": {
+        "rowSkin": "s84a731cc1f4437cadee00d360d24c00",
+        "widgetSkin": "s9bb3600227d452ba65a2ebd78d95a13"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "contactSegmentList",
+    "ide_onRowClick": "AS_Segment_75c7a6f6d9684307974e6feee495e49a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f2e22e4dc2974867bce0e0953623c32f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_75c7a6f6d9684307974e6feee495e49a",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmAccountInfoKA",
+    "retainselection": false,
+    "rowTemplateId": "78150384d6b94e4dac622dd95eadbc0f",
+    "rowcounter": 1,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s84a731cc1f4437cadee00d360d24c00",
+    "rowtemplate": "CopyFlexContainer0b2b1c26ffbf74f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0b2b1c26ffbf74f": "CopyFlexContainer0b2b1c26ffbf74f",
+        "contactListDivider": "contactListDivider",
+        "imgicontick": "imgicontick",
+        "lblNameKA": "lblNameKA"
+    }
+}

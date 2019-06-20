@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s80191b6ac7b456395dfcf46858959f6",
+    "_text_": "FEATURES",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s80191b6ac7b456395dfcf46858959f6",
+    "id": "btnFeaturesKA",
+    "ide_onClick": "AS_Button_da37debb3be94aa5a87d81a220640b10",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9ac754fbf7bc407a9280753d8cf7d19c",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_da37debb3be94aa5a87d81a220640b10",
+    "paddinginpixel": false,
+    "parent": "tabsWrapper",
+    "pf": "frmAcmeCreditCardKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.opening_account.frmAcmeCreditCardKA.btnFeaturesKA",
+    "wType": "Button"
+}

@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s388f0c575ef4d08ac3a5ed0a4b90085",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "138dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "resourcesLabel"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxMonthlylblKA",
+    "ide_onTouchStart": "AS_FlexContainer_398db20872664c47929ed9d89aca85a6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "354f983542db45baa9be1aa0de52525c",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "ontouchstart": "AS_FlexContainer_398db20872664c47929ed9d89aca85a6",
+    "parent": "flxAllLabelsKA",
+    "pf": "frmMyMoneyListKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

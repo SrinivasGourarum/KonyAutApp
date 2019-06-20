@@ -1,0 +1,21 @@
+{
+    "AS_Button_408c40f3d7f94ebebdedf942efd794fe": {
+        "id": "AS_Button_408c40f3d7f94ebebdedf942efd794fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION___onClick_233f99682a2042dc82e5b6ae42f24b97",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_59b37c5738284d0897e556db77feeb85",
+            "display": "accountDetailButton1DidClick",
+            "inputparams": [],
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET_onClick_c27570f1063e4c8c8ec3934108ecf454",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "nextFeature();",
+            "callbackType": null
+        }]
+    }
+}

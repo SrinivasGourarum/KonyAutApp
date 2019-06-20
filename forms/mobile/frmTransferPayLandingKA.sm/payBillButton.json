@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s803fe20b33c49ceb0ed9f9ee3a71425",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41e11f58b56455282a8e83a82b477c3",
+    "id": "payBillButton",
+    "ide_onClick": "AS_Button_aef2b5a4b7eb4e6da9b3dccde47e9e9a",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "d7d1530803e2467eb7bf666789697f73",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_aef2b5a4b7eb4e6da9b3dccde47e9e9a",
+    "parent": "payBillWrapper",
+    "pf": "frmTransferPayLandingKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

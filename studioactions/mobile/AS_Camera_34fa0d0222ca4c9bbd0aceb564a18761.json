@@ -1,0 +1,31 @@
+{
+    "AS_Camera_34fa0d0222ca4c9bbd0aceb564a18761": {
+        "id": "AS_Camera_34fa0d0222ca4c9bbd0aceb564a18761",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmNewDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3ef26f9acd5b475cb1fdad0f87db5781"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5b014d3536e4407687e141443f5059db",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "ontouchFrontCamera();",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false
+        }]
+    }
+}

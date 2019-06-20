@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_b9393fa03f3d4a238a9f09ec3198b847": {
+        "id": "AS_FlexContainer_b9393fa03f3d4a238a9f09ec3198b847",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTouchIdDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec770cae7fb741e990cbbe31b21d89fc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bbb9e4283a65462a932838d64b1475ab",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.show();"
+        }]
+    }
+}

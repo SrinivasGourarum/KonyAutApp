@@ -1,0 +1,17 @@
+{
+    "AS_Button_7e5dad0df0d64cabb1ab6000164ec082": {
+        "id": "AS_Button_7e5dad0df0d64cabb1ab6000164ec082",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d8f37a447fdb4a7886b20d0abfd13d14",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "enableFeature(2);\naccountPreviewIsEnabled = true;",
+            "callbackType": null
+        }]
+    }
+}

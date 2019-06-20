@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa18e1f08f09407781d9bba0f00f7111",
+    "_text_": "One Time",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "frequencyPickLabel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "114e991d75c24f7ea089723ebaa3dbe1",
+    "name": "kony.ui.Label",
+    "parent": "frequencyPickContainer",
+    "pf": "frmNewTransferKAOld",
+    "texti18n": "i18n.transfer.frmNewTransferKA.frequencyPickLabel",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

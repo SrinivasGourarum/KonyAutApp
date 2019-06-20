@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "ENABLE TOUCH ID ",
+    "_top_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s520cd78a7174e6893324d0f10d58544",
+    "id": "signInButton",
+    "ide_onClick": "AS_Button_7e34708b94964414b09d1466a4586144",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6c646ba641a9442f8a190a98f5e0c85b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_7e34708b94964414b09d1466a4586144",
+    "parent": "flxPIN1",
+    "pf": "frmTouchIdDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

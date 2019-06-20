@@ -1,0 +1,21 @@
+{
+    "AS_Button_84ed77b11a3b4e0cbfc37fb2a9734900": {
+        "id": "AS_Button_84ed77b11a3b4e0cbfc37fb2a9734900",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickbtnDeletedKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_976259ae6d5140d48eea889322846c50",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMessageDeletedSelected",
+            "display": "onMessageDeletedSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

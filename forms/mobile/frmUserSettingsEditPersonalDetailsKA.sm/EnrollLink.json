@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Take",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "35%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "EnrollLink",
+    "ide_onClick": "AS_Button_e0965b84ff2243a98ea46081678835ec",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6247046f8afd495ba2a46d7f720eb53f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_e0965b84ff2243a98ea46081678835ec",
+    "parent": "FlexContainer08f89870dd81140",
+    "pf": "frmUserSettingsEditPersonalDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.settings.frmUserSettingsEditPersonalDetailsKA.EnrollLink",
+    "wType": "Button",
+    "zindex": 1
+}

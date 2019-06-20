@@ -1,0 +1,14 @@
+{
+    "AS_TextField_73d9bdf9a2e64176893b0c1421e0e647": {
+        "id": "AS_TextField_73d9bdf9a2e64176893b0c1421e0e647",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_251fa1b188df46f2b1d942e8712ec179",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmDepositLandingKA);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb9456accab841fb804c7180c038c56c",
+    "_text_": "Miles",
+    "_top_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "Label05d7e98b32dde4c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "94ed686bb2f64b259a12c6e0269c38a7",
+    "name": "kony.ui.Label",
+    "parent": "calloutLeftWrapper",
+    "pf": "frmLocatorKA",
+    "texti18n": "i18n.locateus.frmLocatorKA.Label05d7e98b32dde4c",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

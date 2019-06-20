@@ -1,0 +1,92 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd6bdfc1832a48359043bd54bf902590",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmTransactionDetailKA",
+        "ispercent": true,
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "dropdown.png",
+    "groupcells": false,
+    "id": "ListBox001b478bb90954f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7dbcb0bbdb754f679a86418ceee0d92f",
+    "masterdata": [
+        [
+            "lb1",
+            "Pick a category",
+            "i18n.my_money.frmTransactionDetailKA.ListBox001b478bb90954f.lb1"
+        ],
+        [
+            "lb2",
+            "Fun",
+            "i18n.my_money.frmTransactionDetailKA.ListBox001b478bb90954f.lb2"
+        ],
+        [
+            "lb3",
+            "Rent",
+            "i18n.my_money.frmTransactionDetailKA.ListBox001b478bb90954f.lb3"
+        ],
+        [
+            "Key197",
+            "Shoppping",
+            "i18n.my_money.frmTransactionDetailKA.ListBox001b478bb90954f.Key197"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "CopynotesWrapper0accf5ab04b6940",
+    "pf": "frmTransactionDetailKA",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Pick a category"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

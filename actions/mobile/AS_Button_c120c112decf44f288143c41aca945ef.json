@@ -1,0 +1,31 @@
+{
+    "AS_Button_c120c112decf44f288143c41aca945ef": {
+        "id": "AS_Button_c120c112decf44f288143c41aca945ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f198b6f85155498ab08d9489f7d48280",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmManageCardsKA.btnDeactivateKA.setEnabled(false);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b7ca9df68a7d44d9b489eb2818dc2691",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCancellingCreditCardKA",
+            "formKUID": "2d490dd434d4419c838fe7bad7a62acb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s522075c7961463dbb56113600c43cb1",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxLblCardNameKA",
+        "FlexContainer0aecffd4e3b1143"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCreditCardTemplateKA",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "1c85ca18a8294d78b84ff07c2c5ff267",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segmanagecardstmplt",
+    "pf": "segmanagecardstmplt",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

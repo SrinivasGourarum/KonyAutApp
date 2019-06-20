@@ -1,0 +1,29 @@
+{
+    "AS_Segment_0528e54858774928ba8228bbefd75f01": {
+        "id": "AS_Segment_0528e54858774928ba8228bbefd75f01",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "userSettings",
+            "type": "forms",
+            "platform": null,
+            "KUID": "245d3c0472494f82bb77c83b1610548f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onRowClick_2632b97f963e48e39dc8a4dafab0c1d1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userSettingsSegmentOnClick();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Add New Payee",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.06%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopydeleteScheduleTransactionButton0a463cd5433a748",
+    "ide_onClick": "AS_Button_850716bb920542f5b7e02eda7aa84c84",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9c8b0cdf463d41c7b4a26bc8ce9751fa",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_850716bb920542f5b7e02eda7aa84c84",
+    "parent": "repeatTransactionContainer",
+    "pf": "frmP2PselectPayeeKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmP2PselectPayeeKA.CopydeleteScheduleTransactionButton0a463cd5433a748",
+    "wType": "Button",
+    "zindex": 1
+}

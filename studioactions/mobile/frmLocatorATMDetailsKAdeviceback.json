@@ -1,0 +1,25 @@
+{
+    "AS_Form_fb761a8b85364063bca2f6c6d2d50d53": {
+        "id": "AS_Form_fb761a8b85364063bca2f6c6d2d50d53",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLocatorATMDetailsKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocatorATMDetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a9e449d9a0254894a21fdc3d3c303ac6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a5bf47fb1c6d432691bd22fd7aed2a5f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

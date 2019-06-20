@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s522075c7961463dbb56113600c43cb1",
+    "_width_": {
+        "type": "string",
+        "value": "34%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "CopyFlexContainer0aeeae8cdfadb46",
+        "CopybuttonDivider081b31a29811b4e",
+        "CopytransferButton0d055e36fd79c42"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "CopytransferMoneyWrapper0c1a664c2cbb241",
+    "info": null,
+    "isvisible": false,
+    "kuid": "39062b2453b048689ef1b60867987170",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "CopyactionWrapper046414207ef0346",
+    "percent": true,
+    "pf": "frmTransferPayLandingKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

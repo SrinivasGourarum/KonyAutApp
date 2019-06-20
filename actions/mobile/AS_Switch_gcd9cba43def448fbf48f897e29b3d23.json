@@ -1,0 +1,18 @@
+{
+    "AS_Switch_gcd9cba43def448fbf48f897e29b3d23": {
+        "id": "AS_Switch_gcd9cba43def448fbf48f897e29b3d23",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

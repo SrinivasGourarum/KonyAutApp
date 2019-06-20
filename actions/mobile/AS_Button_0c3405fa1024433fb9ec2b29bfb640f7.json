@@ -1,0 +1,17 @@
+{
+    "AS_Button_0c3405fa1024433fb9ec2b29bfb640f7": {
+        "id": "AS_Button_0c3405fa1024433fb9ec2b29bfb640f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b806f644eb774626a4547b9949658d5d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//firstTimeforDeviceRegistration();\nfrmAccountsLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

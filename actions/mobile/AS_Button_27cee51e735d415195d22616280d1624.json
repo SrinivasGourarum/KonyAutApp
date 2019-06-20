@@ -1,0 +1,25 @@
+{
+    "AS_Button_27cee51e735d415195d22616280d1624": {
+        "id": "AS_Button_27cee51e735d415195d22616280d1624",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___29c1132231dd40a4b6800d7c17d28b68",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewBillKA",
+            "formKUID": "94b57de480514c9f98e1f6979b71a37b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

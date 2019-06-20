@@ -1,0 +1,14 @@
+{
+    "AS_Button_1304285ae5ca44a5b592cb42fa73b84f": {
+        "id": "AS_Button_1304285ae5ca44a5b592cb42fa73b84f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_ccc187f586624b6ab2bfb87a3879e611",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "addSeventyPercentPanel(newBill.newBillWrapper,\"newBillWrapper\",\"transactionsWrapper\");\n",
+            "callbackType": null
+        }]
+    }
+}

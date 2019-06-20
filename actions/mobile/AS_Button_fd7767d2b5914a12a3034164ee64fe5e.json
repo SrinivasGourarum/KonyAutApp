@@ -1,0 +1,24 @@
+{
+    "AS_Button_fd7767d2b5914a12a3034164ee64fe5e": {
+        "id": "AS_Button_fd7767d2b5914a12a3034164ee64fe5e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinSetUpDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7418612fc10b4a1380bf273f3a556a03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0eaf812c29c44536abc142189b209e5f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "  frmPinSetUpDemo.flxPIN1.isVisible=false;\n  frmPinSetUpDemo.flxPIN2.isVisible=true;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

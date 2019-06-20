@@ -1,0 +1,23 @@
+{
+    "AS_Form_ab705bf388aa470fb1f90760bd6a86b1": {
+        "id": "AS_Form_ab705bf388aa470fb1f90760bd6a86b1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckSuccess",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2a1b29defe8d46068c728eea12151a77"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onHide_5fcfb929ebbb446eb50086e7d67bc8df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "callbackType": null
+        }]
+    }
+}

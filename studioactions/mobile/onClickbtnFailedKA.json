@@ -1,0 +1,18 @@
+{
+    "AS_Button_b5296a4b03d849878f50c71ab20ff521": {
+        "id": "AS_Button_b5296a4b03d849878f50c71ab20ff521",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickbtnFailedKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_676d1f5d34e441a2a0d733c1e430ace0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmPayeeTransactionsKA.flxTransactionListsContainerKA.animate(\n        kony.ui.createAnimation({100:\n        \t{ \n             \"left\": '-200%',\n             \"stepConfig\":{\"timingFunction\": easeOut}}}),\n        {fillMode: forwards ,duration:0.3},\n        {animationEnd: function() {} }\n);\n  \n    frmPayeeTransactionsKA.flxSelectedIndicatorKA.animate(\n        kony.ui.createAnimation({100:\n        \t{ \n             \"left\": '66.66%',\n             \"stepConfig\":{\"timingFunction\": easeOut}}}),\n        {fillMode: forwards ,duration:0.3},\n        {animationEnd: function() {} }\n);\n  \nfrmPayeeTransactionsKA.btnScheduledKA.skin = skntabDeselected;\nfrmPayeeTransactionsKA.btnCompletedKA.skin = skntabDeselected;\nfrmPayeeTransactionsKA.btnFailedKA.skin = skntabSelected;",
+            "callbackType": null
+        }]
+    }
+}

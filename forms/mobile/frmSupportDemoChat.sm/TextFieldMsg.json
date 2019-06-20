@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Type a response",
+    "_skin_": "s0f7cfda314642b680cd5a86e2528be3",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s0f7cfda314642b680cd5a86e2528be3",
+    "id": "TextFieldMsg",
+    "ide_onDone": "AS_TextField_4965625f8d554ed09b7781919a77b83d",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "421ed52f82b94cd9a3c6011461e4445b",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_4965625f8d554ed09b7781919a77b83d",
+    "parent": "flxFooter",
+    "pf": "frmSupportDemoChat",
+    "placeholderskin": "s0f7cfda314642b680cd5a86e2528be3",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

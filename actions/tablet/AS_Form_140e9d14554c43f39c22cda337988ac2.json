@@ -1,0 +1,23 @@
+{
+    "AS_Form_140e9d14554c43f39c22cda337988ac2": {
+        "id": "AS_Form_140e9d14554c43f39c22cda337988ac2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "873e7a75138c4b079998730d5df48bb7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__48930cad71e34729bc9b12d83e6f8dc5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onAccountOrientationChange();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

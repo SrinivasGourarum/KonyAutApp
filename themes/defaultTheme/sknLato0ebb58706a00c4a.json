@@ -1,0 +1,97 @@
+{
+  "android": {
+    "font_name": "Helvetica",
+    "font_size": 32,
+    "isForked": true
+  },
+  "background_color": "d3d3d300",
+  "bg_type": "one",
+  "border_color": "72727233",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "Lato-Regular",
+    "font_size": 150,
+    "isForked": true
+  },
+  "fontSizeInPx": true,
+  "font_color": "424242ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 64,
+    "isForked": true
+  },
+  "iphone": {
+    "font_name": "Helvetica",
+    "font_size": 43,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "GenericMonospace",
+    "font_size": 113,
+    "isForked": true
+  },
+  "kuid": "sf51644a66e645318c273789caac2ec2",
+  "spaan": {
+    "font_name": "Lato-Regular",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "font_name": "Lato-Regular",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spabb": {
+    "font_name": "Helvetica",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spaip": {
+    "font_name": "Lato-Regular",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spaipad": {
+    "font_name": "Lato-Regular",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "font_name": "Helvetica",
+    "font_size": 150,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "font_name": "Helvetica",
+    "font_size": 150,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 107,
+    "isForked": true
+  },
+  "wType": "TextField",
+  "watchos": {
+    "font_name": "Helvetica",
+    "font_size": 43,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "GenericMonospace",
+    "font_size": 44,
+    "isForked": true
+  },
+  "winphone8": {
+    "font_name": "GenericMonospace",
+    "font_size": 60,
+    "isForked": true
+  }
+}

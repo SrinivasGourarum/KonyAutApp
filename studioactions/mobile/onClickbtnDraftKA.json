@@ -1,0 +1,21 @@
+{
+    "AS_Button_2adbe7dcecd244298048926245e50db7": {
+        "id": "AS_Button_2adbe7dcecd244298048926245e50db7",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickbtnDraftKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_eac6d5cbd94f456bb33c13bf3b3dbb0c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMessageDraftSelected",
+            "display": "onMessageDraftSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

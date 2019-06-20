@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Add New Payee",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "addNewPayee",
+    "ide_onClick": "AS_Button_ea4b23eb4a8f4ab28fe4d417dca2787e",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": false,
+    "kuid": "43272717dec24b21a6645ee6dfae80db",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ea4b23eb4a8f4ab28fe4d417dca2787e",
+    "parent": "toCardInner",
+    "pf": "frmNewPayPersonKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmNewBillKA.addNewPayee",
+    "wType": "Button",
+    "zindex": 1
+}

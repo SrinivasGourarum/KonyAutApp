@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Type your Message",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "tboxMessageDescriptionKA",
+    "ide_onDone": "AS_TextField_cc5f5d8a674f403fba3e76e1b7c23b87",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "29250580ac6b4ad28a100112a43b2b8c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_cc5f5d8a674f403fba3e76e1b7c23b87",
+    "parent": "flxMessageDescriptionKA",
+    "pf": "frmNewMessageKA",
+    "placeholderi18n": "i18n.messages.frmNewMessageKA.tboxMessageDescriptionKA_placeholder",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

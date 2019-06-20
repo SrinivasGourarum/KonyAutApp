@@ -1,0 +1,25 @@
+{
+    "AS_Form_fd3f4ce7dac7495c912e4f95b1dfe23d": {
+        "id": "AS_Form_fd3f4ce7dac7495c912e4f95b1dfe23d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmCancellingCreditCardKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCancellingCreditCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2d490dd434d4419c838fe7bad7a62acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8df93fa846734916938092e0a5d16273",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

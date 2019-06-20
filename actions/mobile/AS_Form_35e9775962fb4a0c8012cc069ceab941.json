@@ -1,0 +1,23 @@
+{
+    "AS_Form_35e9775962fb4a0c8012cc069ceab941": {
+        "id": "AS_Form_35e9775962fb4a0c8012cc069ceab941",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_853df1513c3f403390fe25e583b81d26",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

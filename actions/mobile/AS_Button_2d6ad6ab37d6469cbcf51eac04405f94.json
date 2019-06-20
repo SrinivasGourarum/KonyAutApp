@@ -1,0 +1,31 @@
+{
+    "AS_Button_2d6ad6ab37d6469cbcf51eac04405f94": {
+        "id": "AS_Button_2d6ad6ab37d6469cbcf51eac04405f94",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceDeRegistrationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "499b4d3c1a2c45e4a20d2c17e0303848"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_cc15910c3b744986910deb36bf16cd43",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_9d4e4c18c154433a9bfe593779c8d2a7": {
+        "id": "AS_Button_9d4e4c18c154433a9bfe593779c8d2a7",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____d4b3819df51440da8da487f552ffea3b",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_59b37c5738284d0897e556db77feeb85",
+            "display": "accountDetailButton1DidClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

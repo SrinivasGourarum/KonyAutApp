@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "_text_": "SIGN IN",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sef4e5cdb3b4407d9dc3bdf5f65bc255",
+    "id": "signInButton",
+    "ide_onClick": "AS_Button_fb2a6d280d3b4366a076fb46e0ba3fef",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "da86b15fa1514118b98d852bae081227",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_fb2a6d280d3b4366a076fb46e0ba3fef",
+    "parent": "FlexContainer0bbce437c008d43",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

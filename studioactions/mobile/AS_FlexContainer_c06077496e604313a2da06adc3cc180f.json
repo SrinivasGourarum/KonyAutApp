@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_c06077496e604313a2da06adc3cc180f": {
+        "id": "AS_FlexContainer_c06077496e604313a2da06adc3cc180f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_79859f14a1cc488ca9c456f0f49b7c41",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "callTheNumber();\n"
+        }]
+    }
+}

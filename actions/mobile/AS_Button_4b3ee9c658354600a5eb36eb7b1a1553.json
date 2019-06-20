@@ -1,0 +1,31 @@
+{
+    "AS_Button_4b3ee9c658354600a5eb36eb7b1a1553": {
+        "id": "AS_Button_4b3ee9c658354600a5eb36eb7b1a1553",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_6efc4b892dc54e38a2e044aaefd9452c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAnswerSecretQuestionsKA",
+            "formKUID": "f6857ccc7dc3462791659bccc5a32b4e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "AS_Button_29f714f3dce14ec9bf5b21cd60131180": {
+        "id": "AS_Button_29f714f3dce14ec9bf5b21cd60131180",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_ide_onClick_e307786141284f5a8c39b7097a9ef136",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Confirmation ",
+            "yesLabel": "OK",
+            "alertMessage": "Request for PIN change is confirmed. Please check your mail for New PIN.",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_44c2c967417c4adea8524d369c8effc0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_ide_onClick_e307786141284f5a8c39b7097a9ef136",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

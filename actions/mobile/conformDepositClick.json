@@ -1,0 +1,19 @@
+{
+    "AS_Button_c3355bd1b7da489e83c6d1b493dded87": {
+        "id": "AS_Button_c3355bd1b7da489e83c6d1b493dded87",
+        "type": "ACTION_SEQUENCE",
+        "name": "conformDepositClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cb8511f6f589460281a16c2091f49eb4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfirmDepoist.lblAmount.text=\"$\"+ frmNewDepositKA.amountTextField.text;\nfrmConfirmDepoist.lblNotes.text=frmNewDepositKA.noteTextfield.text;\nfrmConfirmDepoist.lblAccountType.text=frmNewDepositKA.toNamePick.text;\nfrmConfirmDepoist.show();\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

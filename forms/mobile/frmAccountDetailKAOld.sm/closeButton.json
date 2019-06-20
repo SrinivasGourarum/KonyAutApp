@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se411f9ca9424df89815a2083a752426",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s3f4cf4e476d4681925e35ed550bb0a4",
+    "id": "closeButton",
+    "ide_onClick": "AS_Button_cd8a44b7ee9d4012b282444c532d3c6f",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "91edea165c97407a91c01e3c54d239be",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_cd8a44b7ee9d4012b282444c532d3c6f",
+    "parent": "accountDetailsTitleBar",
+    "pf": "frmAccountDetailKAOld",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Label_7b547cdeab2a43fa96f354f13ec3dfa3": {
+        "id": "AS_Label_7b547cdeab2a43fa96f354f13ec3dfa3",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____261c65e1bd1b4badb06702e515bebde1",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmLoginKA",
+            "itemKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "widgetKUID": "a62c6de48f9e4c42a956a3caa97badbe",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": "1",
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____261c65e1bd1b4badb06702e515bebde1",
+            "displayAnimationId": "MOVE_ACTION____261c65e1bd1b4badb06702e515bebde1",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

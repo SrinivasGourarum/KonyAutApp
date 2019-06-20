@@ -1,0 +1,19 @@
+{
+    "AS_FlexContainer_a28c0d542c28407393538fe2f04b7ce4": {
+        "id": "AS_FlexContainer_a28c0d542c28407393538fe2f04b7ce4",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbtnpayee",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

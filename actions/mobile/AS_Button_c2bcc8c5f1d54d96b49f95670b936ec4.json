@@ -1,0 +1,52 @@
+{
+    "AS_Button_c2bcc8c5f1d54d96b49f95670b936ec4": {
+        "id": "AS_Button_c2bcc8c5f1d54d96b49f95670b936ec4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceDeRegistrationKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "499b4d3c1a2c45e4a20d2c17e0303848"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__704bf11f3f034c26ab4efd0a3abd0f52",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "INFO",
+            "yesLabel": "OK",
+            "alertMessage": "Device De-Registered Successfully",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__c7f390ad4cb84ffc82e080f897312e6c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmUserSettingsPIN.btnTouch.skin=\"btnTouchIDN\";\nfrmUserSettingsTouchIdKA.btnTouch.skin=\"btnTouchIDN\";\nfrmDeviceRegistrationDemo2.btnTouch.skin=\"btnTouchIDN\";\ndeviceRegistration=0;\n",
+            "parentId": "SHOW_ALERT__704bf11f3f034c26ab4efd0a3abd0f52",
+            "callbackType": "True"
+        }, {
+            "id": "NAVIGATE_TO_FORM___6aa233031c3a448ea2a744e2ee73ca75",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__704bf11f3f034c26ab4efd0a3abd0f52",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

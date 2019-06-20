@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_e6817db3ae744a80abc34b9cff29f0a4": {
+        "id": "AS_FlexContainer_e6817db3ae744a80abc34b9cff29f0a4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_581fec3ea62a4f3dba6efa7167501cf6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMyGoalsPuppyDemo.show();"
+        }]
+    }
+}

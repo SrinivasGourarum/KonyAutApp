@@ -1,0 +1,14 @@
+{
+    "AS_Switch_cd9eaa3cbffa4576bdf908a3592cfc19": {
+        "id": "AS_Switch_cd9eaa3cbffa4576bdf908a3592cfc19",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onSlide_de2dec383ed74db69b2dbc5f7d6f67f2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "isAccountPreviewEnabled();",
+            "callbackType": null
+        }]
+    }
+}

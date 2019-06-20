@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd71d196025543d4a06972669a62082f",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopycolorAccount0743805bf155e4a",
+        "CopynameContainer0a253ea75bf3f4a",
+        "CopyamountAccount004c45e2ac1bc4b",
+        "CopyamountAccountOne0bfd61866365346",
+        "CopyButton0bb503ef7a21a40"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "focusskin": "s039b0db44684175898d2b36b25aa7d8",
+    "id": "yourAccount3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "75e6e2fcfa174d19a9f05298571d6183",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "accountPreviewCard",
+    "percent": true,
+    "pf": "frmLoginKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

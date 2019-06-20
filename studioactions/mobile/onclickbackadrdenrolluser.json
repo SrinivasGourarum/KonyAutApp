@@ -1,0 +1,19 @@
+{
+    "AS_Button_4bc30aac6fcc4f1fab527852f4baa902": {
+        "id": "AS_Button_4bc30aac6fcc4f1fab527852f4baa902",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbackadrdenrolluser",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f325b68b4e034d66bc542ba6f5196e5d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onclickbackenrolluserbtn();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

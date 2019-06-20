@@ -1,0 +1,26 @@
+{
+    "AS_TextField_b140c824a48242f6963f24262eba9d81": {
+        "id": "AS_TextField_b140c824a48242f6963f24262eba9d81",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTextChange_b024d53aafad498aa0cf00fd91754c5d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onTextEditLogin();",
+            "callbackType": null
+        }]
+    }
+}

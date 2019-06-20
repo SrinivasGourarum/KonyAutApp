@@ -1,0 +1,45 @@
+{
+    "AS_Button_c5c18379cf904a5587930d3f2ef93d6f": {
+        "id": "AS_Button_c5c18379cf904a5587930d3f2ef93d6f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReplaceCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4cac7859037b42829d59823189d48648"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__844ef5c2311c43a882336f9e856da086",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Confirmation ",
+            "yesLabel": "OK",
+            "alertMessage": "Request for replacement is confirmed. We will get back to you in 5 working days",
+            "messageType": "constant",
+            "parentId": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___ce0c6d8a91a941edb8a8bee03c428e3b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__844ef5c2311c43a882336f9e856da086",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

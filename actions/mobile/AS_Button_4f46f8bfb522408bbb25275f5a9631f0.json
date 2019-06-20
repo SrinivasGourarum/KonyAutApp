@@ -1,0 +1,45 @@
+{
+    "AS_Button_4f46f8bfb522408bbb25275f5a9631f0": {
+        "id": "AS_Button_4f46f8bfb522408bbb25275f5a9631f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRecentDepositKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "12938df68b634bdb91432896ef721294"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_ide_onClick_0642fd4e00934fdbb7ff9b28a6043041",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Pending Transaction?",
+            "yesLabel": "Yes",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to delete this Pending transaction?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_837302f74db342f687349cdd4d8d1fcc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_ide_onClick_0642fd4e00934fdbb7ff9b28a6043041",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"deleteScheduleTransactionButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_f45f546be2f54552b76c038478e5504c": {
+        "id": "AS_Button_f45f546be2f54552b76c038478e5504c",
+        "type": "ACTION_SEQUENCE",
+        "name": "newdepositBackActionKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c1d1e2e7c29e42db9bb7fc44498078e7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

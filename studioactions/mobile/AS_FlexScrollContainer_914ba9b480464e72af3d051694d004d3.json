@@ -1,0 +1,23 @@
+{
+    "AS_FlexScrollContainer_914ba9b480464e72af3d051694d004d3": {
+        "id": "AS_FlexScrollContainer_914ba9b480464e72af3d051694d004d3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onScrolling_8036b2ab7f50440e8c46a0f6a19d4fb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountSummaryVertScroll();",
+            "callbackType": null
+        }]
+    }
+}

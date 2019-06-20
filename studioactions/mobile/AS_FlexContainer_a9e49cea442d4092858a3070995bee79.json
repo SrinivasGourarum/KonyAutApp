@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_a9e49cea442d4092858a3070995bee79": {
+        "id": "AS_FlexContainer_a9e49cea442d4092858a3070995bee79",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f8f066b7989042fb9eb79f945af3fbfe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showLoginFromPin();",
+            "callbackType": null
+        }]
+    }
+}

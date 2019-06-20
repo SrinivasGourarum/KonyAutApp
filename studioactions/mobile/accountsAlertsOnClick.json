@@ -1,0 +1,30 @@
+{
+    "AS_Segment_5041502381554331b1dc89212f1e3d1b": {
+        "id": "AS_Segment_5041502381554331b1dc89212f1e3d1b",
+        "type": "ACTION_SEQUENCE",
+        "name": "accountsAlertsOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAlertsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8f4fb6ef80f34f5f861f12908e1a5309"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_762ca1243cb44de3a50f3eb4f2f3c922",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(frmAlertsKA.AlertsData.selectedRowIndex[1]===0)\n  {\n    if(kony.os.userAgent()==\"iPhone\")\n    \tfrmAccountAlertsKA.account.text=\"Savings 2354\";\n    else\n    \tfrmAccountAlertsKA.accountandro.text=\"Savings 2354\";\n    frmAccountAlertsKA.show();\n  }\nelse\n  {\n     if(kony.os.userAgent()==\"iPhone\")\n    \tfrmAccountAlertsKA.account.text=\"Checking 6478\";\n    else\n    \tfrmAccountAlertsKA.accountandro.text=\"Checking 6478\";\n    frmAccountAlertsKA.show();\n  }",
+            "callbackType": null
+        }]
+    }
+}

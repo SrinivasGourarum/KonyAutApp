@@ -1,0 +1,25 @@
+{
+    "AS_Form_fdf76ce19e4b4498bca1ecf8b8918b4a": {
+        "id": "AS_Form_fdf76ce19e4b4498bca1ecf8b8918b4a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmP2PphonepayeeKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PphonepayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "28dd657fd46d44f99b4f344da39c5ea9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__855d6e4417244dbda8540f2ed11054a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

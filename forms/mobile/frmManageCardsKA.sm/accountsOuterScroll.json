@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "47%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa4791dccae64d21abbf583eeac53de8",
+    "_top_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "btnPin",
+        "btnDeactivate",
+        "btnCancelCardKA",
+        "btnReplaceCardKA",
+        "btnReportStolenKA"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "accountsOuterScroll",
+    "ide_onScrolling": "",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3cec3bd2bb4a43edb40c60a4b8539079",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "onscrolling": "",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "overview",
+    "percent": true,
+    "pf": "frmManageCardsKA",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": false,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1
+}

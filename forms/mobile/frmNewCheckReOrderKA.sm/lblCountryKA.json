@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Country",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "saf7f798ccae4bc8a47859eb9a33701f",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "words",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "sa7eabe668c147ca89ff9752aa0edead",
+    "id": "lblCountryKA",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "e8bf0007ca0648cca0a3f8b2061f83a8",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxSpecifyAddressKA",
+    "pf": "frmNewCheckReOrderKA",
+    "placeholderskin": "sfa36c5ffd8f4b39894ae352f59c3406",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

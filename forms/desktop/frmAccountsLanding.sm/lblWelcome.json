@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2d939a752ab4e5494f6355f5fd79cd3",
+    "_text_": "Hello <b>Cathy</b>",
+    "_top_": {
+        "type": "string",
+        "value": "38px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblWelcome",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i0847df5809d417782b076abf8804fa9",
+    "name": "kony.ui.RichText",
+    "parent": "flxWelcome",
+    "pf": "frmAccountsLanding",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

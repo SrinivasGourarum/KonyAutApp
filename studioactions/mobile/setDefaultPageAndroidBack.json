@@ -1,0 +1,29 @@
+{
+    "AS_Button_f870a388462d48bb8b8ecce794f2cf14": {
+        "id": "AS_Button_f870a388462d48bb8b8ecce794f2cf14",
+        "type": "ACTION_SEQUENCE",
+        "name": "setDefaultPageAndroidBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSetDefaultPageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0a1abaac7705448e8ce085a947508e2c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___6bad0e1fd00c417a98d667e779350d4d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

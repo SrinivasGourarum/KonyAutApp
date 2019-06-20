@@ -1,0 +1,32 @@
+{
+    "AS_Button_23cc519761fd4422990f8dc12182c016": {
+        "id": "AS_Button_23cc519761fd4422990f8dc12182c016",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_7d6f3917b6494b1a86c6ac5166b7ce02",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Current Location",
+            "yesLabel": "Allow",
+            "noLabel": "Don't Allow",
+            "alertMessage": "xyzBank would like to use your current location",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET_onClick_800cbc89fd544f8e9b90553182be9268",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userAllowedLocation();",
+            "parentId": "SHOW_ALERT_onClick_7d6f3917b6494b1a86c6ac5166b7ce02",
+            "callbackType": "True"
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Button_ffb791fd498b4342b211b3227e0f9eb1": {
+        "id": "AS_Button_ffb791fd498b4342b211b3227e0f9eb1",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmMessageReplyKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "f1f50acb935b44c48aa69538538bfb28"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___53304459b99441188be9f782e94770bb",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMessageReplyKA",
+            "formKUID": "f6c7769aca974653ad8cd45e9a741236",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnReplyKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "10.0": {
+                "Kony_SyncV2-iOS-10.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "10.0",
+                    "url": "C:\\Users\\KH1766\\Kony Visualizer\\konyworkspace8.1\\.nativebindings\\iOS\\10.0\\Kony_SyncV2-iOS-10.0.zip",
+                    "filepath": "C:\\Users\\KH1766\\Kony Visualizer\\konyworkspace8.1\\BankMobile\\nativebindings\\iOS\\10.0\\Kony_SyncV2-iOS-10.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "C:\\Users\\KH1766\\Kony Visualizer\\konyworkspace8.1\\.nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "C:\\Users\\KH1766\\Kony Visualizer\\konyworkspace8.1\\BankMobile\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    },
+    "Metadata": {
+        "Version": {
+            "iOS": "2.0"
+        }
+    }
+}

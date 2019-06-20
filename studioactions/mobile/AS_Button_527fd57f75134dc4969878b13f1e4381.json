@@ -1,0 +1,28 @@
+{
+    "AS_Button_527fd57f75134dc4969878b13f1e4381": {
+        "id": "AS_Button_527fd57f75134dc4969878b13f1e4381",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckSuccess",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2a1b29defe8d46068c728eea12151a77"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_b15edfc7e71d4339b699ce1562279d0d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPickAProductKA",
+            "formKUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

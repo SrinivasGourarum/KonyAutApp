@@ -1,0 +1,18 @@
+{
+    "AS_Form_842beaf92110411da9f48aeb986f8c53": {
+        "id": "AS_Form_842beaf92110411da9f48aeb986f8c53",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__86831e61c4ff4181b0f29907c95de285",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

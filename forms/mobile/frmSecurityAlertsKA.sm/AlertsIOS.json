@@ -1,0 +1,187 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Banking ID Change"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 0
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Password Change"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 0
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Password Expire"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 0
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Address/Phone Changed"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 1
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New Payee Added"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 1
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Payee Details Updated"
+            },
+            "Switchon": {
+                "@class": "com.viz.ide.model.segment.SelectedIndexSegmentData",
+                "selectedIndex": 1
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b4d3cced842c4af380c7d52ba7070134",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "AlertsIOS",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "editStyle": "none",
+            "indicator": "none",
+            "searchBy": null,
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "aca8256c6cdb48beb47926d4855e3e40",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "IOSAlerts",
+    "pf": "frmSecurityAlertsKA",
+    "retainselection": false,
+    "rowTemplateId": "9f3adc8bf8174d019c3db6d4ac0065d5",
+    "rowcounter": 5,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s188360adf7c445da91ce74d44371e05",
+    "rowtemplate": "Copycontainer0743583703d9f4f",
+    "screenlevelwidget": false,
+    "searchBy": null,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Copycontainer0743583703d9f4f": "Copycontainer0743583703d9f4f",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "Switchon": "Switchon"
+    },
+    "winphone8": {
+        "render": true
+    }
+}

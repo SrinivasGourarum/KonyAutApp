@@ -1,0 +1,23 @@
+{
+    "AS_Form_52341b1e0b634932a33b1041172f8398": {
+        "id": "AS_Form_52341b1e0b634932a33b1041172f8398",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckReorderDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "822cff9ab8a04dcab05d7678d932969b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceBack_ca8c64b78057477aba164b2d39ea3822",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

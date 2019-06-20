@@ -1,0 +1,176 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_data_": [
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            }
+        },
+        {
+            "amountAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$00.00"
+            },
+            "lblColorKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "nameAccount1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Name"
+            },
+            "typeKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAccountsKA",
+    "ide_onRowClick": "AS_Segment_a19f7b45b8134c408752cd1e24e606f7",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b10fc51b08e74ca28ec1062b5ae1817c",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_a19f7b45b8134c408752cd1e24e606f7",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "accountsInnerScroll",
+    "pf": "frmAccountsLandingKAOld",
+    "retainselection": false,
+    "rowTemplateId": "d6ec8423e4fc4a0ea9253aafc6a0dd46",
+    "rowcounter": 2,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "yourAccount1",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f7f7f700",
+    "separatorrequired": true,
+    "separatorthickness": 5,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "amountAccount1": "amountAccount1",
+        "colorAccount1": "colorAccount1",
+        "lblColorKA": "lblColorKA",
+        "lblType": "lblType",
+        "nameAccount1": "nameAccount1",
+        "nameContainer": "nameContainer",
+        "typeKA": "typeKA",
+        "yourAccount1": "yourAccount1"
+    },
+    "zindex": 1
+}

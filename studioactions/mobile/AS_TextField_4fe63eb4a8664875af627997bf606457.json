@@ -1,0 +1,14 @@
+{
+    "AS_TextField_4fe63eb4a8664875af627997bf606457": {
+        "id": "AS_TextField_4fe63eb4a8664875af627997bf606457",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onBeginEditing_d9c3ceddda2f4595b8da4919da56e201",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onBeginEditing(frmSearchKA);",
+            "callbackType": null
+        }]
+    }
+}

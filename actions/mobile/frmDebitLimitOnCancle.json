@@ -1,0 +1,32 @@
+{
+    "AS_Button_c11539818ac846659da161e18c6631f2": {
+        "id": "AS_Button_c11539818ac846659da161e18c6631f2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmDebitLimitOnCancle",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDebitLimitKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2cb6f3e680d4b3ab8eab057b337cc1d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_7b4c18bf0d384ec897be11281f057f45",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"buttonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

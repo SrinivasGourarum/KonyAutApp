@@ -1,0 +1,130 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__id": "frmNewBillKA_Calendar04f2bca84fba846",
+    "__input": "Calendar04f2bca84fba846",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        "29",
+        "7",
+        "2017"
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "se5f6c7161ab46dc91f737f067c09255",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "advview": "wheelpopup",
+    "android": {},
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerheight": 100,
+    "containerheightreference": 2,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        "29",
+        "7",
+        "2017"
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": "29",
+    "daytextalignmentincell": 5,
+    "disabledSkins": {},
+    "displayedMonths": [
+        10,
+        2015
+    ],
+    "enabled": false,
+    "entereddate": "07/29/2017",
+    "format": "MM/dd/yyyy",
+    "formatteddate": "07/29/2017",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Calendar04f2bca84fba846",
+    "info": null,
+    "invokedProperty": "leftNavigationImage",
+    "iphone": {
+        "psp": {
+            "containerHeight": 100,
+            "containerHeightReference": 2,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 0
+        },
+        "viewType": "wheelpopup"
+    },
+    "isvisible": true,
+    "kuid": "f8bb4abfffea4761bb1883067bc6e985",
+    "luadate": [
+        "29",
+        "7",
+        "2017"
+    ],
+    "minutes": 0,
+    "month": "7",
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2017",
+    "parent": "datePick",
+    "pf": "frmNewBillKA",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 0,
+    "selectdate": "//2017",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {
+            "leftNavigationImage": ""
+        },
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": "2017",
+    "zindex": 1
+}

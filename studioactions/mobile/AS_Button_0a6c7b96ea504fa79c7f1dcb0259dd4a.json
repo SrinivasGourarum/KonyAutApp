@@ -1,0 +1,28 @@
+{
+    "AS_Button_0a6c7b96ea504fa79c7f1dcb0259dd4a": {
+        "id": "AS_Button_0a6c7b96ea504fa79c7f1dcb0259dd4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationPasswordKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "07699e332975460cb89ee60a04655886"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_49d726c73d0742ef85f1a4a12c046071",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

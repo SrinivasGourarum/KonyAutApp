@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_2aef82784e8841e3a697e2bd3976d457": {
+        "id": "AS_FlexContainer_2aef82784e8841e3a697e2bd3976d457",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_2795a5010e8b48fdb5af027e4df694fb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.flxMainPIN.isVisible=false;",
+            "callbackType": null
+        }]
+    }
+}

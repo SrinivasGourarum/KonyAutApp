@@ -1,0 +1,31 @@
+{
+    "AS_Button_cba355aaa1784780851837888f5a1350": {
+        "id": "AS_Button_cba355aaa1784780851837888f5a1350",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeactivateCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "da381a7fd8274d79a3082364ccdc2409"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ef9135c28db64c2683f671fa6e64f3eb",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"noThanks\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

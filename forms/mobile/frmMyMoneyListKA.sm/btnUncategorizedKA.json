@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "s123b5289c0a46d5b695dc4e5f69cf56",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s123b5289c0a46d5b695dc4e5f69cf56",
+    "id": "btnUncategorizedKA",
+    "ide_onClick": "AS_Button_35e89b8de4594a5e8983aa587a7c4109",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "21e94e179a914c269a3ba69fb965d830",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_35e89b8de4594a5e8983aa587a7c4109",
+    "parent": "topWrapper",
+    "pf": "frmMyMoneyListKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

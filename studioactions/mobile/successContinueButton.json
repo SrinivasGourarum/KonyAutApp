@@ -1,0 +1,19 @@
+{
+    "AS_Button_37ba36aa177d4a3ab2da8ed3a91ae00b": {
+        "id": "AS_Button_37ba36aa177d4a3ab2da8ed3a91ae00b",
+        "type": "ACTION_SEQUENCE",
+        "name": "successContinueButton",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3e0fa38b333e47a890bcc2ec1d93e58a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " successFormContinue();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Segment_492a83500c564daa8d3faf29111af53a": {
+        "id": "AS_Segment_492a83500c564daa8d3faf29111af53a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "seguiWidget"
+        }, {
+            "datatype": "number",
+            "name": "sectionIndex"
+        }, {
+            "datatype": "number",
+            "name": "rowIndex"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

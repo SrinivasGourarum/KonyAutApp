@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_a00e0a2f3800424cad4b56dd4507b9be": {
+        "id": "AS_FlexContainer_a00e0a2f3800424cad4b56dd4507b9be",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarDeposits",
+            "type": "templates",
+            "platform": "",
+            "KUID": "5f3859dbec9748ba9d008e5f9e2db831"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___6ac470b163524009b1d5f4008d8712e5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

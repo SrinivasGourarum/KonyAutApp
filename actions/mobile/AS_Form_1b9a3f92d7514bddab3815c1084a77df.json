@@ -1,0 +1,14 @@
+{
+    "AS_Form_1b9a3f92d7514bddab3815c1084a77df": {
+        "id": "AS_Form_1b9a3f92d7514bddab3815c1084a77df",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_preShow_6f1474c739de4f13b0e0ae6710751450",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonPreShow();",
+            "callbackType": null
+        }]
+    }
+}

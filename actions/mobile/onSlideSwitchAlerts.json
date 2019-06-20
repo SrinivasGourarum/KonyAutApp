@@ -1,0 +1,25 @@
+{
+    "AS_Switch_3764b64391b44429bd86ff546597d15f": {
+        "id": "AS_Switch_3764b64391b44429bd86ff546597d15f",
+        "type": "ACTION_SEQUENCE",
+        "name": "onSlideSwitchAlerts",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8f4fb6ef80f34f5f861f12908e1a5309"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a8c7219aa56a426da24807b569a28436",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var segiphoneSettingsData=frmUserSettingsKA.userSettingsSegment.data[1][1][1];\nif(frmAlertsKA.SwitchAlert.selectedIndex===1)\n  {\n  frmAlertsKA.alertsTypes.isVisible=false;\n    segiphoneSettingsData.CopyLabel0cc77ebb350664b=\"ON\";\n  //alert(segAndroidSettingsData);\n frmUserSettingsKA.userSettingsSegment.setDataAt(segiphoneSettingsData,1,1);\n  }\nelse\n  {\n    segiphoneSettingsData.CopyLabel0cc77ebb350664b=\"ON\";\n  //alert(segAndroidSettingsData);\n \tfrmUserSettingsKA.userSettingsSegment.setDataAt(segiphoneSettingsData,1,1);\n  \tfrmAlertsKA.alertsTypes.isVisible=true;\n  \n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "AS_Button_72fc430a7ce34b27bd3db4fbe932d4ff": {
+        "id": "AS_Button_72fc430a7ce34b27bd3db4fbe932d4ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositAmountDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d1db8a252e734232858f8257ddd7f3af"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_0f4935189f914448b0cdfbab5949573e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setAmount(\"8\");"
+        }]
+    }
+}

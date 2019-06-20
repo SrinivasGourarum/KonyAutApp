@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s36ede5277a5491fb8d66d516425cec5",
+    "_text_": "INBOX",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnInboxKA",
+    "ide_onClick": "AS_Button_abaefbe751ff4043b0a530614281c9c1",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "0938b798121f478d918d61b1274f53f8",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_abaefbe751ff4043b0a530614281c9c1",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmMyMessagesKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.messages.frmMyMessagesKA.btnInboxKA",
+    "wType": "Button",
+    "zindex": 1
+}

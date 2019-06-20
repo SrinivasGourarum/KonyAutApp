@@ -1,0 +1,14 @@
+{
+    "AS_TextField_9d7f7a8c3f1545d79a841efa69c23afe": {
+        "id": "AS_TextField_9d7f7a8c3f1545d79a841efa69c23afe",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_2a60b0a68a954754aa83c787fe3d7db9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonAmountPick();",
+            "callbackType": null
+        }]
+    }
+}

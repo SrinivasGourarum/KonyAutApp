@@ -1,0 +1,48 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c14c5cfa624594965bca8fa71d4023",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "transactionName",
+        "transactionDate",
+        "CopyImage055f33fb7444246"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "CopyFlexContainer0cf774a7e8bf142",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "fe25c15b6b67496cb3b993b01ec37e64",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "tempPayPeopleKA",
+    "percent": true,
+    "pf": "tempPayPeopleKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

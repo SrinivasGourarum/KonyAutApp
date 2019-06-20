@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "ORDER",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s520cd78a7174e6893324d0f10d58544",
+    "id": "signInButton",
+    "ide_onClick": "AS_Button_12b6bdcfa03b4704a41b98cc657d0baa",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f0df5a7990cc4a75846ff0d76cf7a55e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_12b6bdcfa03b4704a41b98cc657d0baa",
+    "parent": "confirmContainer",
+    "pf": "frmNewCheckReOrderKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

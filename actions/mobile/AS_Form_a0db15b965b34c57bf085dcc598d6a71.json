@@ -1,0 +1,24 @@
+{
+    "AS_Form_a0db15b965b34c57bf085dcc598d6a71": {
+        "id": "AS_Form_a0db15b965b34c57bf085dcc598d6a71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i90b4287ec414393ab5cdd90488fca74",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.flxHeaderNormal.opacity=1;\nfrmAccountsLandingKA.flxHeaderBlue.opacity=0;\ndismissDetailsPopUp();\nsetAccountsDetailsData();\nsetAccountsData();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

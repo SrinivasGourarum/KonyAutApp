@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "UPDATE",
+    "_top_": {
+        "type": "string",
+        "value": "145dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "btnUpdateKA",
+    "ide_onClick": "AS_Button_b779e42ae7cd4d06876bc8fe6ac0867c",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c042a24c9f514d77ad571b341edaa7c2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_b779e42ae7cd4d06876bc8fe6ac0867c",
+    "parent": "flxPopup",
+    "pf": "frmDebitLimitKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.settings.frmDebitLimitKA.btnUpdateKA",
+    "wType": "Button",
+    "zindex": 1
+}

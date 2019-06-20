@@ -1,0 +1,23 @@
+{
+    "AS_Form_6a538ea96a28489888a52b9c4f610548": {
+        "id": "AS_Form_6a538ea96a28489888a52b9c4f610548",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmDepoist",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de5a9c6903e8491aaa281be9f521b928"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_4578fcc155064354a653e6596869e189",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbcb6b10071c42cfa99d1352f532f823",
+    "_text_": "Account Number",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel063c64beaee2545",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "8ee29d14787f46e08cba58c907eda618",
+    "name": "kony.ui.Label",
+    "parent": "externalAccountNumberContainer",
+    "pf": "frmAddExternalAccountKA",
+    "texti18n": "i18n.overview.frmAddExternalAccountKA.CopyLabel063c64beaee2545",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

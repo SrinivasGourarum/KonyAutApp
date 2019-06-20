@@ -1,0 +1,23 @@
+{
+    "AS_Button_62d51fba291f4fe888a2a57cc3560e51": {
+        "id": "AS_Button_62d51fba291f4fe888a2a57cc3560e51",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyuserSettings02d0059ce1e9947",
+            "type": "forms",
+            "platform": null,
+            "KUID": "070139aaaf3748bb9cecbb0874150f38"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_fb43b6bc088c4ceab3de9b5add422f11",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"userSettingsWrapper\",userSettings);",
+            "callbackType": null
+        }]
+    }
+}

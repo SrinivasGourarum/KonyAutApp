@@ -1,0 +1,88 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "34dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s5449e85b7e0472ba7d4939096f3873d",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": {
+        "render": true
+    },
+    "androidwearos": {
+        "render": false
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "switchTouchID",
+        "RichText022c8fbdd6fbd44",
+        "CopyRichText06a5b3a11b4b04a",
+        "CopyRichText004e63566869c4c"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "touchIdContainer",
+    "ide_onClick": "AS_FlexContainer_cfefbd1116ca46ad8355c120700d0707",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "88deef43437946108cd793d42f1e9fb9",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_cfefbd1116ca46ad8355c120700d0707",
+    "orientation": 6,
+    "parent": "loginCardWrapper",
+    "percent": true,
+    "pf": "frmLoginKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

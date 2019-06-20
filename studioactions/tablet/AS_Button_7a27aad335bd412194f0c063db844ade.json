@@ -1,0 +1,24 @@
+{
+    "AS_Button_7a27aad335bd412194f0c063db844ade": {
+        "id": "AS_Button_7a27aad335bd412194f0c063db844ade",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "userSettings",
+            "type": "forms",
+            "platform": null,
+            "KUID": "245d3c0472494f82bb77c83b1610548f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__61dfdb9d4f2c4791b4ce91efa59b1c27",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"userSettingsWrapper\",userSettings);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

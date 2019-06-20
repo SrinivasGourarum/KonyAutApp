@@ -1,0 +1,145 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "CopyLabel0cc77ebb350664b": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "3.0.1"
+                },
+                "CopycontactListDivider0197d82db751946": {},
+                "Copycontainer08ede9d3afdb846": {},
+                "Copycontainer0df0d87f430e14f": {},
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Version"
+                },
+                "contactListDivider": {},
+                "lblSepKA": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": ""
+                }
+            },
+            [
+                {
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "FAQs"
+                    }
+                },
+                {
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Terms & Conditions"
+                    }
+                },
+                {
+                    "Label01f864cb479e14f": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Privacy Policy"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "unauthInformationSegment",
+    "ide_onRowClick": "AS_Segment_486d96208c014ac8ada37b383d006b6f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "9925a3285f24416c8af2b03b260160dd",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_486d96208c014ac8ada37b383d006b6f",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmUnauthInformationKA",
+    "retainselection": false,
+    "rowTemplateId": "a90e7ee833604ef19de8298040d72acf",
+    "rowcounter": 2,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "Copycontainer0df0d87f430e14f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "498df7d4bd4b48d48d005c7969dbb030",
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "sectionheadertemplate": "Copycontainer08ede9d3afdb846",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "f7f7f700",
+    "separatorrequired": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel0cc77ebb350664b": "CopyLabel0cc77ebb350664b",
+        "CopycontactListDivider0197d82db751946": "CopycontactListDivider0197d82db751946",
+        "Copycontainer08ede9d3afdb846": "Copycontainer08ede9d3afdb846",
+        "Copycontainer0df0d87f430e14f": "Copycontainer0df0d87f430e14f",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "contactListDivider": "contactListDivider",
+        "lblSepKA": "lblSepKA"
+    },
+    "zindex": 1
+}

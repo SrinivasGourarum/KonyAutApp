@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "100"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "Fusce ac consectetur enim. Vivamus turpis tellus, malesuada ac erat vitae, pulvinar venenatis turpis. Quisque interdum blandit est id volutpat. Etiam in ipsum sagittis, accumsan ipsum vitae, tincidunt metus.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel0d1700dc843ed47",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "5681d99d9679438da8c7fd07dea5d990",
+    "name": "kony.ui.Label",
+    "parent": "mainContent",
+    "pf": "frmMorePrivacyPolicyKA",
+    "texti18n": "i18n.more.frmMorePrivacyPolicyKA.CopyLabel0d1700dc843ed47",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_653ad78eab164921b3da803aeb6dd415": {
+        "id": "AS_Form_653ad78eab164921b3da803aeb6dd415",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationPasswordKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "07699e332975460cb89ee60a04655886"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_7e1deb69f3c94aea9af70a577cee1ce2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "callbackType": null
+        }]
+    }
+}

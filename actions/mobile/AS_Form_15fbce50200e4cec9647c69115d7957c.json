@@ -1,0 +1,23 @@
+{
+    "AS_Form_15fbce50200e4cec9647c69115d7957c": {
+        "id": "AS_Form_15fbce50200e4cec9647c69115d7957c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmCheckOrder",
+            "type": "forms",
+            "platform": null,
+            "KUID": "877f53e50a11410784d3bae97e8139b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceMenu_e262f49030de4a53a6db3c7f8166fd27",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

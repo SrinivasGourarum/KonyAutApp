@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_c40836f55bba449cb6896b1244bf8e88": {
+        "id": "AS_FlexContainer_c40836f55bba449cb6896b1244bf8e88",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMoreCheckReorderKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c31b293425914e17984b4a1465027620"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__16fe3af2827745879fcc6e81133c82e2",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Call",
+            "yesLabel": "Call",
+            "noLabel": "Cancel",
+            "alertMessage": "284-123-1234",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

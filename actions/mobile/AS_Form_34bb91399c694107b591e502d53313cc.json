@@ -1,0 +1,23 @@
+{
+    "AS_Form_34bb91399c694107b591e502d53313cc": {
+        "id": "AS_Form_34bb91399c694107b591e502d53313cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "86f27251d4444933a1f18edc8e0a9e65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_053fa36b6b2c494e8a58b39bbe789e79",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_8508d742901c40f7aceaefb31f60f1de": {
+        "id": "AS_Button_8508d742901c40f7aceaefb31f60f1de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmRecentPayBillDetailsKA08f203403fe6e45",
+            "type": "forms",
+            "platform": null,
+            "KUID": "84fdfbf06fd547c194a70d550f3b6efe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_53d8e0c335604ec69d578c28f04e4cb7",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "54708adc6a2a4553bfce4d4a250752d9",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_be35424eaf40449e9f6962d6e66e8eb8": {
+        "id": "AS_FlexContainer_be35424eaf40449e9f6962d6e66e8eb8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

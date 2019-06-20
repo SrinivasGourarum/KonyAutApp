@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter Maiden Name",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "answerField1",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "77f3413f34df4606a48f745cc1dcb8a9",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "answerFIeldWrapper",
+    "pf": "frmUserSettingsUsernameKA",
+    "placeholderi18n": "i18n.settings.frmUserSettingsUsernameKA.answerField_placeholder",
+    "placeholderskin": "sda595c8f5584736bd49cb12ebf684f4",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

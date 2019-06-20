@@ -1,0 +1,16 @@
+{
+    "AS_Button_a67dd3e1e54e455d9e76205925140748": {
+        "id": "AS_Button_a67dd3e1e54e455d9e76205925140748",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_0745ee80857d481eb35670f7c9c00324",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"NewAndroid\");"
+        }]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sec2b23e7398448eb9f1865486602b6b",
+    "_text_": "Back to Menu",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopydeleteScheduleTransactionButton0838debf1b2f34c",
+    "ide_onClick": "AS_Button_4735dec5dc724fb2baae3ad2ece7eda7",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e0d5d82e76eb45e8a2b972f8d8f30c19",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_4735dec5dc724fb2baae3ad2ece7eda7",
+    "parent": "mainContent",
+    "pf": "frmCreditCardsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.opening_account.frmCreditCardsKA.CopydeleteScheduleTransactionButton0838debf1b2f34c",
+    "wType": "Button",
+    "zindex": 1
+}

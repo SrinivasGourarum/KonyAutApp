@@ -1,0 +1,23 @@
+{
+    "AS_Button_3709f91c621344f0b8f85d04a31257fe": {
+        "id": "AS_Button_3709f91c621344f0b8f85d04a31257fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d72995c3bdf44fc6b2f9d3436a06e198",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"New\");",
+            "parentId": null
+        }]
+    }
+}

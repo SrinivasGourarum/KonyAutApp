@@ -1,0 +1,25 @@
+{
+    "AS_Button_f3d583bcb88c43e8a4bb4c9bb2494649": {
+        "id": "AS_Button_f3d583bcb88c43e8a4bb4c9bb2494649",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickfrontimage",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmchequeimages",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c160f4a9ee84cb1a4f06a008221dd64"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fffd02a1ba61438a92fefdc1e043a3d9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "imagechangefront();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

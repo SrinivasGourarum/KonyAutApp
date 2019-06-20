@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "_text_": "DEPOSIT",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "43%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "id": "signInButton",
+    "ide_onClick": "AS_Button_8b9870acdd5b4454a591fc4202db9bf1",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "8a5c51b92cae4f878af220c389896e38",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_8b9870acdd5b4454a591fc4202db9bf1",
+    "parent": "flxTabs",
+    "pf": "frmMyGoalsPuppyDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

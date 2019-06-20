@@ -1,0 +1,26 @@
+{
+    "AS_Button_f625ddde6613474e8ffebc2ea0b2575c": {
+        "id": "AS_Button_f625ddde6613474e8ffebc2ea0b2575c",
+        "type": "ACTION_SEQUENCE",
+        "name": "AlertsIOSBackOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_220ecd201642481b9ba1385fa199beea",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

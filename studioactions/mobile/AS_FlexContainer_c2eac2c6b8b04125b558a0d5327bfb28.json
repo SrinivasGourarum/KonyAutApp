@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_c2eac2c6b8b04125b558a0d5327bfb28": {
+        "id": "AS_FlexContainer_c2eac2c6b8b04125b558a0d5327bfb28",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0dfe04e2f66c487197251e2874ea3332",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "clickedLoginCardDeactivate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

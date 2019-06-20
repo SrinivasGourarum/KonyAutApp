@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se746a7025854db8b0c7b7fe0bdaf82a",
+    "_text_": "b",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s58a7121f9a84955ad74228c3caf6e48",
+    "id": "CopyButton0f3bce25a7edf45",
+    "ide_onClick": "AS_Button_dbf7d30d1f144d6c9ccc220d6198e99c",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "700625a4b1634768b2a4974dbb795e50",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_dbf7d30d1f144d6c9ccc220d6198e99c",
+    "parent": "CopyflxPin0d780e3e2e4aa4f",
+    "pf": "frmDepositAmountDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 2
+}

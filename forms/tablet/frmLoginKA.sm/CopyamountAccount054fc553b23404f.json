@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_skin_": "sf8ab416752d4a5482b0277cf26cca4c",
+    "_text_": "$4,152.80",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyamountAccount054fc553b23404f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "a2e7876b9931426abd9a81336736c72c",
+    "name": "kony.ui.Label",
+    "parent": "yourAccount2",
+    "pf": "frmLoginKA",
+    "texti18n": "i18n.login.frmLoginKA.CopyamountAccount054fc553b23404f",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

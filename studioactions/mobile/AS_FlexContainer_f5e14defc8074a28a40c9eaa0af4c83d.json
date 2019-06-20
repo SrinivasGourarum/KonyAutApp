@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_f5e14defc8074a28a40c9eaa0af4c83d": {
+        "id": "AS_FlexContainer_f5e14defc8074a28a40c9eaa0af4c83d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f509b9a531a14161abfecf894f123c33",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

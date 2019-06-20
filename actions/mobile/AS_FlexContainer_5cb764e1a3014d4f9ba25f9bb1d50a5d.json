@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_5cb764e1a3014d4f9ba25f9bb1d50a5d": {
+        "id": "AS_FlexContainer_5cb764e1a3014d4f9ba25f9bb1d50a5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4bb7086b079f4a3da305355f38a68cb5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickflxJanMnthKA",
+            "display": "onClickflxJanMnthKA",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

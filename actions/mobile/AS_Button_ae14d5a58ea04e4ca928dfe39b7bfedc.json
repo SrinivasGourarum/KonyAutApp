@@ -1,0 +1,17 @@
+{
+    "AS_Button_ae14d5a58ea04e4ca928dfe39b7bfedc": {
+        "id": "AS_Button_ae14d5a58ea04e4ca928dfe39b7bfedc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_4d3f52ae1e554c438080228df84a37b5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveAccountNickname();",
+            "callbackType": null
+        }]
+    }
+}

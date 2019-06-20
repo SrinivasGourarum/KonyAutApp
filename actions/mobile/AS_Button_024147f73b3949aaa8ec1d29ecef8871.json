@@ -1,0 +1,37 @@
+{
+    "AS_Button_024147f73b3949aaa8ec1d29ecef8871": {
+        "id": "AS_Button_024147f73b3949aaa8ec1d29ecef8871",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCancellingCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2d490dd434d4419c838fe7bad7a62acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1a2cc40df3834827a39235a381a065f7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Card is cancelled\");",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___c1ecfe6f8f18460883c0da21e3671c04",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Form_f834da00b55d45c2bd317ccb51c99fb2": {
+        "id": "AS_Form_f834da00b55d45c2bd317ccb51c99fb2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmCreditLimitDeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditLimitKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "23787a30621c4266b34b9d6a63615fe0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cc20bb2220f9459f9aac7a4e680a1828",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_Form_a169d0295ef84d4bbdbbc76e1c414a8f": {
+        "id": "AS_Form_a169d0295ef84d4bbdbbc76e1c414a8f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__4135ff1821a740618dba52e540af4147",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositlInit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Form_661d66116829439ca21edefca0440cce": {
+        "id": "AS_Form_661d66116829439ca21edefca0440cce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_107eae63972f4fdb81f3108187d9d5a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferPostShow();",
+            "callbackType": null
+        }]
+    }
+}

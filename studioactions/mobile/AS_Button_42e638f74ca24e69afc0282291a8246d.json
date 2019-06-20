@@ -1,0 +1,18 @@
+{
+    "AS_Button_42e638f74ca24e69afc0282291a8246d": {
+        "id": "AS_Button_42e638f74ca24e69afc0282291a8246d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1635cc792dc8496a9be5c36d4df358eb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

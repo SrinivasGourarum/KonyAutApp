@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s523b15c5f8d41edabf9a5019273e7bb",
+    "_text_": "DONE",
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "id": "btnDone",
+    "ide_onClick": "AS_Button_80de2646295b41429f7ae89c05bc16bc",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c6cb3a358a5e4a35822c5cc3207f0a9f",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_80de2646295b41429f7ae89c05bc16bc",
+    "parent": "flxPIN2",
+    "pf": "frmTransferAmountDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

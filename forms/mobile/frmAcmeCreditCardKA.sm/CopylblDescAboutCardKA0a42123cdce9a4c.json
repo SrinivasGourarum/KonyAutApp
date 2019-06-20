@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd6cbe003a17434ebd97928a94d5e601",
+    "_text_": "More details about this account .Show only the very  brief description here.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopylblDescAboutCardKA0a42123cdce9a4c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "c59ea97df3ea42868cee27e70e6b1502",
+    "name": "kony.ui.Label",
+    "parent": "flxChargesKA",
+    "pf": "frmAcmeCreditCardKA",
+    "texti18n": "i18n.opening_account.frmAcmeCreditCardKA.CopylblDescAboutCardKA0a42123cdce9a4c",
+    "tooltip": "",
+    "wType": "Label"
+}

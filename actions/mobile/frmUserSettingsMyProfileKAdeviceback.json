@@ -1,0 +1,25 @@
+{
+    "AS_Form_660213d662b74d749bdeee9771831aef": {
+        "id": "AS_Form_660213d662b74d749bdeee9771831aef",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmUserSettingsMyProfileKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsMyProfileKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "469d331305a541b8b65c6d8bdf903828"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ac180b6ad60148e1b3aeb2bdab62cebe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

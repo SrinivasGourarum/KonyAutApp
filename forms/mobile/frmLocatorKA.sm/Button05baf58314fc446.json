@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbb1717a28946b8b7e456ac01ea3290",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41e11f58b56455282a8e83a82b477c3",
+    "id": "Button05baf58314fc446",
+    "ide_onClick": "AS_Button_bfd9032274c84fe99577677825415efe",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "7826ee8e95994f36a1f094df5006e6c5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_bfd9032274c84fe99577677825415efe",
+    "parent": "calloutCardWrapper",
+    "pf": "frmLocatorKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

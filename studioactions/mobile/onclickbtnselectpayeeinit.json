@@ -1,0 +1,25 @@
+{
+    "AS_Button_1c2c739643b645c59c4471e2a8fc0eac": {
+        "id": "AS_Button_1c2c739643b645c59c4471e2a8fc0eac",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbtnselectpayeeinit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d1a01fe7289f4523af8dba8cfad41583",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmP2PselectPayeeKA.show();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

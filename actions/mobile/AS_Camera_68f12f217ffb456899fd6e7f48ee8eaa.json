@@ -1,0 +1,15 @@
+{
+    "AS_Camera_68f12f217ffb456899fd6e7f48ee8eaa": {
+        "id": "AS_Camera_68f12f217ffb456899fd6e7f48ee8eaa",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f2e767e8b7734e83a1a90f479b0d7010",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveImageToImageWidget();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

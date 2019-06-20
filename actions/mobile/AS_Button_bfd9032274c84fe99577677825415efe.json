@@ -1,0 +1,25 @@
+{
+    "AS_Button_bfd9032274c84fe99577677825415efe": {
+        "id": "AS_Button_bfd9032274c84fe99577677825415efe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_5f289c8b21d342449d2d02fe6be72ec5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocatorATMDetailsKA",
+            "formKUID": "a9e449d9a0254894a21fdc3d3c303ac6",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button05baf58314fc446\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "AS_Button_5230f5be38dc49379ba3a0e10bba474d": {
+        "id": "AS_Button_5230f5be38dc49379ba3a0e10bba474d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_958c499dce2a46dba963928b89ee3841",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " kony.store.setItem(\"depositForm\", false);",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_0e1266c819904707af990067b855fad1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"noThanks\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

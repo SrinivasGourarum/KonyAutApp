@@ -1,0 +1,23 @@
+{
+    "AS_Button_747180d88c4c499bb12b9e5f4e3b9375": {
+        "id": "AS_Button_747180d88c4c499bb12b9e5f4e3b9375",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_3779924ef16b438ebdd3f5e9c1e989ac",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hideAccountInsights();",
+            "callbackType": null
+        }]
+    }
+}

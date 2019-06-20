@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "DRAFT",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnDraftKA",
+    "ide_onClick": "AS_Button_2adbe7dcecd244298048926245e50db7",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1ab88b522f8c4013ace642f3c8b89a92",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_2adbe7dcecd244298048926245e50db7",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmMyMessagesKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.messages.frmMyMessagesKA.btnDraftKA",
+    "wType": "Button",
+    "zindex": 1
+}

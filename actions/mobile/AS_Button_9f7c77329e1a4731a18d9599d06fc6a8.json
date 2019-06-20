@@ -1,0 +1,22 @@
+{
+    "AS_Button_9f7c77329e1a4731a18d9599d06fc6a8": {
+        "id": "AS_Button_9f7c77329e1a4731a18d9599d06fc6a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_aa6b905ec5db4483a3f00a4e7e5b317f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTransferVerifyDemo.show();"
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Browse",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "65%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopyEnrollLink0be82c94344524d",
+    "ide_onClick": "AS_Button_002e655b9cd646a580dde1204900fd2f",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "5a3b5c3b1cc640ccb91d6c9b569f40a5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_002e655b9cd646a580dde1204900fd2f",
+    "parent": "FlexContainer08f89870dd81140",
+    "pf": "frmUserSettingsEditPersonalDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.settings.frmUserSettingsEditPersonalDetailsKA.CopyEnrollLink0be82c94344524d",
+    "wType": "Button",
+    "zindex": 1
+}

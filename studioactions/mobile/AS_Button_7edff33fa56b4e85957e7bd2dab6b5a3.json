@@ -1,0 +1,23 @@
+{
+    "AS_Button_7edff33fa56b4e85957e7bd2dab6b5a3": {
+        "id": "AS_Button_7edff33fa56b4e85957e7bd2dab6b5a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmBillPay",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bd218f37d89e4f029dd61823ec383825"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c61ba46d3d7b4448898d9f4a7c284bcf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositPayLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

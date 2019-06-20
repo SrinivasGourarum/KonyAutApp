@@ -1,0 +1,23 @@
+{
+    "AS_Form_edde9c0e642a40938b8f4fd35852122d": {
+        "id": "AS_Form_edde9c0e642a40938b8f4fd35852122d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAnswerSecretQuestionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6857ccc7dc3462791659bccc5a32b4e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_2224059f513945ccb3d8aa25b7e063e8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

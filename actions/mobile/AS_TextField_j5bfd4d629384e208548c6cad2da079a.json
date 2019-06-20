@@ -1,0 +1,26 @@
+{
+    "AS_TextField_j5bfd4d629384e208548c6cad2da079a": {
+        "id": "AS_TextField_j5bfd4d629384e208548c6cad2da079a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ea12b81e05c6448fa1232e2c83ba8c62",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(nextLoader===12){\n  kony.print(\"nextLoader: \"+nextLoader)\n}else{\n  loginKeyboardActive();\n}\n",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_Form_7e723b37f863441187c532c43c4b6a2f": {
+        "id": "AS_Form_7e723b37f863441187c532c43c4b6a2f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7cf10d9e021b45d7864b6019d9f495df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonlInit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

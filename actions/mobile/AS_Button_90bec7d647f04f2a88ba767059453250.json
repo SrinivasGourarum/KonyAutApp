@@ -1,0 +1,14 @@
+{
+    "AS_Button_90bec7d647f04f2a88ba767059453250": {
+        "id": "AS_Button_90bec7d647f04f2a88ba767059453250",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d745ca661ebd422eb979019645d94636",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferToPick(1);",
+            "callbackType": null
+        }]
+    }
+}

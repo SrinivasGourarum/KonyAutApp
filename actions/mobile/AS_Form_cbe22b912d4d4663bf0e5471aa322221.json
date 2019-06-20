@@ -1,0 +1,23 @@
+{
+    "AS_Form_cbe22b912d4d4663bf0e5471aa322221": {
+        "id": "AS_Form_cbe22b912d4d4663bf0e5471aa322221",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSupportDemoChat",
+            "type": "forms",
+            "platform": null,
+            "KUID": "103370af4295412583f3bde7cb5c58db"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_44a91734e4ab465e93072ded72fed003",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

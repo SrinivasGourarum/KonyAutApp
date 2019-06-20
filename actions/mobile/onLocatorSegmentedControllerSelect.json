@@ -1,0 +1,28 @@
+{
+    "AS_RadioButtonGroup_9e0c04bed2ab4e819658d754b8e078fc": {
+        "id": "AS_RadioButtonGroup_9e0c04bed2ab4e819658d754b8e078fc",
+        "type": "ACTION_SEQUENCE",
+        "name": "onLocatorSegmentedControllerSelect",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocatorKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c471585baa904bb49278190a4437d425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___175646388c4248c78e3d53b24af2f2a1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onLocatorSegmentedControllerSelected",
+            "display": "onLocatorSegmentedControllerSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

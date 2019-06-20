@@ -1,0 +1,24 @@
+{
+    "AS_Button_98da7a96dcdf4f8cac20199e1c1d6a54": {
+        "id": "AS_Button_98da7a96dcdf4f8cac20199e1c1d6a54",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "accountInfo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "19981b6432414b79b2d9eebd9cc8906e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bc61cde6d9bd45e2b615d443a27d3be7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "saveAccountNickname();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_TextField_3359ddb1ed7c4e2d99d446e9bebf4ea2": {
+        "id": "AS_TextField_3359ddb1ed7c4e2d99d446e9bebf4ea2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__41a0e398c5c4494ca58ba677f86a1ba3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewTransferKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

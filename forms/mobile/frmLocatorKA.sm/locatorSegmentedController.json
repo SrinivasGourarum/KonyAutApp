@@ -1,0 +1,125 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "se110627ca91499ca4101f2186f1fc7e",
+    "_width_": {
+        "type": "string",
+        "value": "102%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        },
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "enabled": false,
+    "focusskin": "s7faac4b2b3843228894cbcb02f6c344",
+    "groupcells": false,
+    "id": "locatorSegmentedController",
+    "ide_onSelection": "AS_RadioButtonGroup_9e0c04bed2ab4e819658d754b8e078fc",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": true,
+                    "equalSegments": true,
+                    "tintColor": "a6a6a600",
+                    "viewStyle": 0
+                }
+            },
+            "viewType": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "b026e67654e240fc8418cbdc089ed396",
+    "masterdata": [
+        [
+            "atm",
+            "ATM",
+            "i18n.locateus.frmLocatorKA.locatorSegmentedController.atm"
+        ],
+        [
+            "both",
+            "Both",
+            "i18n.locateus.frmLocatorKA.locatorSegmentedController.both"
+        ],
+        [
+            "branch",
+            "Branch",
+            "i18n.locateus.frmLocatorKA.locatorSegmentedController.branch"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "onselection": "AS_RadioButtonGroup_9e0c04bed2ab4e819658d754b8e078fc",
+    "parent": "locatorSegmentedControllerContainer",
+    "pf": "frmLocatorKA",
+    "selectedkey": "both",
+    "selectedkeyvalue": [
+        "both",
+        "Both",
+        "i18n.locateus.frmLocatorKA.locatorSegmentedController.both"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "enableTintColor": true,
+            "equalSegments": true,
+            "tintColor": "1a298000",
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    }
+}

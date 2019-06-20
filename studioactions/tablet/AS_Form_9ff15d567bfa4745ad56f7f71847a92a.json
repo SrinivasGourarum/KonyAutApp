@@ -1,0 +1,24 @@
+{
+    "AS_Form_9ff15d567bfa4745ad56f7f71847a92a": {
+        "id": "AS_Form_9ff15d567bfa4745ad56f7f71847a92a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "depositLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "29a18342dd944122979424239d245f8f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7ae8fb01d63f45f38bf79ae23d755eeb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onFormHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

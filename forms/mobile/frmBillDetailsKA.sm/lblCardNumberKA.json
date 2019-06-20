@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        1,
+        1,
+        1
+    ],
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "Savings 2453",
+    "_top_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblCardNumberKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "cae1dc11bc3745b6a69f8946f112465d",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxFromWrapperKA",
+    "pf": "frmBillDetailsKA",
+    "texti18n": "i18n.transfer.frmBillDetailsKA.lblCardNumberKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

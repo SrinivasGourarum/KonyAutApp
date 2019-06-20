@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "32"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter Password",
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 1
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "CopyusernameTextField05c582806b1234d",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardactionlabel": 1,
+    "keyboardtype": "A",
+    "kuid": "fe1cb96d7b0741d1bd6be908592d55a2",
+    "maxtextlength": 24,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxpwd",
+    "pf": "frmEnrolluserLandingKA",
+    "placeholderi18n": "i18n.login.frmEnrolluserLandingKA.CopyusernameTextField05c582806b1234d_placeholder",
+    "securetextentry": true,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

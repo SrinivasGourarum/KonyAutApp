@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "edit_image.png",
+    "__id": "newTransfer_CopyCalendar0f3cfe0a344924f",
+    "__input": "CopyCalendar0f3cfe0a344924f",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        "16",
+        "10",
+        "2015"
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 0,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "se5f6c7161ab46dc91f737f067c09255",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "advview": "default",
+    "android": {
+        "calendarIcon": "edit_image.png"
+    },
+    "calendaricon": "edit_image_icon.png",
+    "canUpdateUI": true,
+    "containerheight": 100,
+    "containerheightreference": 2,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        "16",
+        "10",
+        "2015"
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": "16",
+    "daytextalignmentincell": 5,
+    "disabledSkins": {},
+    "displayedMonths": [
+        10,
+        2015
+    ],
+    "enabled": false,
+    "entereddate": [
+        "16",
+        "10",
+        "2015"
+    ],
+    "format": "MM/dd/yyyy",
+    "formatteddate": "10/16/2015",
+    "gridCellSelectedSkin": "s8bf5abfad384d0a906558da98950224",
+    "gridCellSkin": "s59d08070b3143c0a2bb30b807bff963",
+    "gridCellTodaySkin": "s74b15f1f4e14f4f9681dd8ae8a19914",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calDateKA",
+    "info": null,
+    "invokedProperty": "leftNavigationImage",
+    "iphone": {
+        "calendarIcon": "edit_image_icon.png",
+        "psp": {
+            "containerHeight": 100,
+            "containerHeightReference": 2,
+            "hideDaysHeader": false,
+            "hideMonthsHeader": false,
+            "mode": 0
+        }
+    },
+    "isvisible": true,
+    "kuid": "77c4dee44cc24a459f4e65cc30062946",
+    "luadate": [
+        "16",
+        "10",
+        "2015"
+    ],
+    "minutes": 0,
+    "month": "10",
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "paddinginpixel": false,
+    "pagedate": "/2015",
+    "parent": "datePick",
+    "pf": "frmNewTransferKAOld",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 0,
+    "selectdate": "//2015",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {
+            "gridCellSelectedSkin": "s8bf5abfad384d0a906558da98950224",
+            "gridCellSkin": "s59d08070b3143c0a2bb30b807bff963",
+            "gridCellTodaySkin": "s74b15f1f4e14f4f9681dd8ae8a19914"
+        },
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": "2015",
+    "zindex": 1
+}

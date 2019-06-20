@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "_text_": "SEND",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "id": "btnSendKA",
+    "ide_onClick": "AS_Button_c29a355c9cee42c39152a6a30768e8c0",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "853c670144f143e89ab4de46ea568ea9",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c29a355c9cee42c39152a6a30768e8c0",
+    "parent": "buttonWrapper",
+    "pf": "frmNewMessageKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.messages.frmNewMessageKA.btnSendKA",
+    "wType": "Button",
+    "zindex": 1
+}

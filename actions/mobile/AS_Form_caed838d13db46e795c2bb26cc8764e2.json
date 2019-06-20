@@ -1,0 +1,23 @@
+{
+    "AS_Form_caed838d13db46e795c2bb26cc8764e2": {
+        "id": "AS_Form_caed838d13db46e795c2bb26cc8764e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountLandinKAChart",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fb12d60f71c64711a00ee43326f77cb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceBack_ff1ad172bac14cc29852d0f1fdc910f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_be3455f4476a4d1fb47abb061cb46f33": {
+        "id": "AS_Button_be3455f4476a4d1fb47abb061cb46f33",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_8c3d7db0b967499a9481d1dc978e061d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onAccountClick(account2);\n",
+            "callbackType": null
+        }]
+    }
+}

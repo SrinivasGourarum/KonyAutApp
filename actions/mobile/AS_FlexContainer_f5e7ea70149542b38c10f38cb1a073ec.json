@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_f5e7ea70149542b38c10f38cb1a073ec": {
+        "id": "AS_FlexContainer_f5e7ea70149542b38c10f38cb1a073ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_2330d68352f14955935f5e69c26eb61b",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Call",
+            "yesLabel": "Call",
+            "noLabel": "Cancel",
+            "alertMessage": "284-123-1234",
+            "messageType": "constant",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

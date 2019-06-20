@@ -1,0 +1,88 @@
+{
+    "AS_Button_9a54aeb92d43410aa083edb8a801698c": {
+        "id": "AS_Button_9a54aeb92d43410aa083edb8a801698c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cd48834df2ed4965aefa23fd0290cd34",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "8f748eebb9214f1fbb51caafac1495ba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "NAVIGATE_TO_FORM___6cd68022bfe0464a87c47e45f84bb632",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "8f748eebb9214f1fbb51caafac1495ba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "ELSE_CONDITION__48b0e381d6554cc2b0385f1cf74cebe6",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "SHOW_ALERT__47e5e255f5ad4fc696deaed1395d05de",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "Error",
+            "yesLabel": "Try Again",
+            "alertMessage": " ",
+            "messageType": "constant",
+            "parentId": "IF_CONDITION__75c341d12ec848ae974c250605adb916",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ELSE_CONDITION__48b0e381d6554cc2b0385f1cf74cebe6",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": "IF_CONDITION__75c341d12ec848ae974c250605adb916",
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "NAVIGATE_TO_FORM___738379c9865040929e8a6d8e636aa0e1",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "8f748eebb9214f1fbb51caafac1495ba",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "ELSE_CONDITION__f18636cf8e4e46a2a91fdc68ce146210",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "SHOW_ALERT__dc0ae132aca2400bb047f82adc01b539",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_ERROR",
+            "alertTitle": "No username",
+            "yesLabel": "Try Again",
+            "alertMessage": " ",
+            "messageType": "constant",
+            "parentId": "IF_CONDITION__727c0f0109cd46ca9b945206d8443d5d",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

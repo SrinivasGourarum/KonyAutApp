@@ -1,0 +1,23 @@
+{
+    "AS_Form_d8461ec589964a2ba8f2667dc16e6231": {
+        "id": "AS_Form_d8461ec589964a2ba8f2667dc16e6231",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRequestPinChange",
+            "type": "forms",
+            "platform": null,
+            "KUID": "11991e7c7f9a4c768edb6d62709c0b9e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_9a77e4ea7f504463a5aa3657c3c76244",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

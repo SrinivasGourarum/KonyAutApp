@@ -1,0 +1,25 @@
+{
+    "AS_Form_3ee85aff423a45e8bff41a7ab9d0936c": {
+        "id": "AS_Form_3ee85aff423a45e8bff41a7ab9d0936c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPaymentDueRemainderDeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPaymentDueRemainderKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "11dd677f22bd4c2ca085d29d1ab9bdb2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__2ca7d8f42f3143fc9326ea282ee692fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

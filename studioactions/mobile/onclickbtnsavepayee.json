@@ -1,0 +1,35 @@
+{
+    "AS_Button_160eec89b569483093fd205600151190": {
+        "id": "AS_Button_160eec89b569483093fd205600151190",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbtnsavepayee",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PaddnewPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6dd3432a9fd14a5f9f8e953aa892b534"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__110874aac5b3432487cf5b28c0890e15",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Payee is added\");",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___51ce1d0eb70345a5bb686882fe313eed",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PConfirmationPayKA",
+            "formKUID": "c634696bcf0042fb9a44a55a368f9621",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

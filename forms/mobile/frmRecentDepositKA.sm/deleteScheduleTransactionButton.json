@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Cancel Recent Deposit",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.03%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "deleteScheduleTransactionButton",
+    "ide_onClick": "AS_Button_4f46f8bfb522408bbb25275f5a9631f0",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e6baa3bbbf0843c392d0428d844d6998",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_4f46f8bfb522408bbb25275f5a9631f0",
+    "parent": "repeatTransactionContainer",
+    "pf": "frmRecentDepositKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.deposit.frmRecentDepositKA.deleteScheduleTransactionButton",
+    "wType": "Button",
+    "zindex": 1
+}

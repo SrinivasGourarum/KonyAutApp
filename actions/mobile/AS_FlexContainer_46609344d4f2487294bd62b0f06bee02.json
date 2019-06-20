@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_46609344d4f2487294bd62b0f06bee02": {
+        "id": "AS_FlexContainer_46609344d4f2487294bd62b0f06bee02",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabSupport",
+            "type": "templates",
+            "platform": null,
+            "KUID": "5031babce68442b381fc2a6bb4f11864"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_be00dd4593ff49cba4a00f284d54c282",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "firstTimeVisitDepositForm",
+            "display": "firstTimeVisitDepositForm",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

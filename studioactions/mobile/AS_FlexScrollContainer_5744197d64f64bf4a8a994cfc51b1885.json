@@ -1,0 +1,28 @@
+{
+    "AS_FlexScrollContainer_5744197d64f64bf4a8a994cfc51b1885": {
+        "id": "AS_FlexScrollContainer_5744197d64f64bf4a8a994cfc51b1885",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMoreLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f90cf53e47ae407c83e2e30720fff3da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8cfeb6fe301b472b8f9a499ccbd52b37",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "moreScroll",
+            "display": "moreScroll",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "48dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s1ae3fe37c8b466d9c82fc2af03e6105",
+    "_text_": "Mortage Account",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sde5e687432c4ac7a466a9da5911a7d6",
+    "id": "accountFilter5",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "4ca3a7823f1749bf92a0cad55eccddb4",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "searchAccountFilters",
+    "pf": "frmSearchKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.overview.frmSearchKA.accountFilter5",
+    "wType": "Button",
+    "zindex": 1
+}

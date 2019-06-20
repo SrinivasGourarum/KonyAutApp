@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbcb6b10071c42cfa99d1352f532f823",
+    "_text_": "Payee Name :",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel0b353ede7efad4c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "718d4f442c2a4c3e8288ddf13dc231d8",
+    "name": "kony.ui.Label",
+    "parent": "payeeNameContainer",
+    "pf": "frmP2PaddnewPayeeKA",
+    "texti18n": "i18n.transfer.frmP2PaddnewPayeeKA.CopyLabel0b353ede7efad4c",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

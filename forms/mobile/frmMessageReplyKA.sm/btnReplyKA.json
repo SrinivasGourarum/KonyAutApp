@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s44f5101fda04e8584b488ec12e5b6c4",
+    "_text_": "SEND REPLY",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s44f5101fda04e8584b488ec12e5b6c4",
+    "id": "btnReplyKA",
+    "ide_onClick": "AS_Button_8dd81beefd154f3cbeac1727ea13a19b",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f0189c6eb8c146999d4e6577fe78e0b3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_8dd81beefd154f3cbeac1727ea13a19b",
+    "parent": "buttonWrapper",
+    "pf": "frmMessageReplyKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.messages.frmMessageReplyKA.btnReplyKA",
+    "wType": "Button",
+    "zindex": 1
+}

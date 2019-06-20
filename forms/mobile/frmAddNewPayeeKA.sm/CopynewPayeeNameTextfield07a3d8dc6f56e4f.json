@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter Payee Nick Name here",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "CopynewPayeeNameTextfield07a3d8dc6f56e4f",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "5bc10259ad8245acafaa3fd1202f65bf",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyusernameContainer0b764e42673504b",
+    "pf": "frmAddNewPayeeKA",
+    "placeholderi18n": "i18n.manage_payee.frmAddNewPayeeKA.CopynewPayeeNameTextfield07a3d8dc6f56e4f_placeholder",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

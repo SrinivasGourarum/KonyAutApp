@@ -1,0 +1,23 @@
+{
+    "AS_Form_38f3aaba88ae4b2593f66aaa1f288bd8": {
+        "id": "AS_Form_38f3aaba88ae4b2593f66aaa1f288bd8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsPuppyDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "525d68959b43441cab8ef2bef0691cba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceMenu_e03edf2272844fc7a20b5fb455486189",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Form_e24df0c038f444599c7d3788090a82cd": {
+        "id": "AS_Form_e24df0c038f444599c7d3788090a82cd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c8c231e4c28045e9a12718b5119348e8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

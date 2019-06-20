@@ -1,0 +1,22 @@
+{
+    "AS_Button_9fa756c17b424da498852d248dfb46a5": {
+        "id": "AS_Button_9fa756c17b424da498852d248dfb46a5",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___992e2b9ece784c4698d2cb6405e2a44b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddNewPayeeKA",
+            "formKUID": "22b994296d374ff48427012b2b05feb7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

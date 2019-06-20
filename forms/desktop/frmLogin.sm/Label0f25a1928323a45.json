@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7089a3181154fd5a4debf5e509cc8da",
+    "_text_": "Login",
+    "_top_": {
+        "type": "string",
+        "value": "8.80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "46%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "hoverSkin": "s34e6670f9344a628ca2ed4227545fda"
+    },
+    "id": "Label0f25a1928323a45",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d33abfc867e54ae3a53e03102fd9962a",
+    "name": "kony.ui.Label",
+    "ontouchstart": "AS_Label_e72092bd63a842f4b1b59fc4a7f92d99",
+    "parent": "flxRememberMe",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "Login",
+    "wType": "Label",
+    "zindex": 1
+}

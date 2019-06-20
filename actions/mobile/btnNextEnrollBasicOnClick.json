@@ -1,0 +1,30 @@
+{
+    "AS_Button_e545dd069acf4f899d543afdcad03dc9": {
+        "id": "AS_Button_e545dd069acf4f899d543afdcad03dc9",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnNextEnrollBasicOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___8592c66e83d44f8aaac54f5d113de27b",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "6cdf12d294a04b0da65d4b5b1e20f7f0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_13e45d890f614f32b5c66d340e621e01",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewPayPersonKA);",
+            "parentId": "SHOW_ALERT_ide_onClick_38c41f22d2314780a8db11642fce8694",
+            "callbackType": "True"
+        }]
+    }
+}

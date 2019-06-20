@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "RE-LOGIN...",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "enableTouchID",
+    "ide_onClick": "AS_Button_0a6c7b96ea504fa79c7f1dcb0259dd4a",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6657aea983cd4034a0218c4d2e0f0fa6",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_0a6c7b96ea504fa79c7f1dcb0259dd4a",
+    "parent": "FlexContainer00a3c07fadcbf4b",
+    "pf": "frmConfirmationPasswordKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.settings.frmConfirmationPasswordKA.enableTouchID",
+    "wType": "Button",
+    "zindex": 1
+}

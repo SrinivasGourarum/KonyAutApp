@@ -1,0 +1,31 @@
+{
+    "AS_Segment_04b2f7deeec2415d9d660434608bd03b": {
+        "id": "AS_Segment_04b2f7deeec2415d9d660434608bd03b",
+        "type": "ACTION_SEQUENCE",
+        "name": "forDepositAndroidOnRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPreferredAccountsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7a9e568cea85447086c10e8f96c76840"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dd3f539cb0f14c2888cff552d9baad2a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " var fordepositsData=frmPreferredAccountsKA.ForDeposits.data;\nif(frmPreferredAccountsKA.ForDeposits.selectedRowIndex[1]==0)\n  {\n    fordepositsData[0][1][0].imgicontick='check_blue.png';\n    fordepositsData[0][1][1].imgicontick='';\n    frmPreferredAccountsKA.ForDeposits.setData(fordepositsData);\n  }\nelse\n  {\n    fordepositsData[0][1][0].imgicontick='';\n    fordepositsData[0][1][1].imgicontick='check_blue.png';\n    frmPreferredAccountsKA.ForDeposits.setData(fordepositsData);\n    \n  }",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

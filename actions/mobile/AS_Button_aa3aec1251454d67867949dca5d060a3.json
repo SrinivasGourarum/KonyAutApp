@@ -1,0 +1,45 @@
+{
+    "AS_Button_aa3aec1251454d67867949dca5d060a3": {
+        "id": "AS_Button_aa3aec1251454d67867949dca5d060a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__698be8d686384bebac743c2cb793571f",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Confirm Sign Out",
+            "yesLabel": "Sign Out",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to sign out?",
+            "messageType": "constant",
+            "parentId": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___30805638d01d447bafb0f7c21d004aac",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__698be8d686384bebac743c2cb793571f",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"signOutButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

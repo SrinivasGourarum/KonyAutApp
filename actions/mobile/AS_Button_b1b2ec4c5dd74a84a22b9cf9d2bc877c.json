@@ -1,0 +1,23 @@
+{
+    "AS_Button_b1b2ec4c5dd74a84a22b9cf9d2bc877c": {
+        "id": "AS_Button_b1b2ec4c5dd74a84a22b9cf9d2bc877c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewBillKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "94b57de480514c9f98e1f6979b71a37b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6c58d17d39de4922b7ab1ef43febfe39",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewBillKA, \"from\", 1);",
+            "parentId": null
+        }]
+    }
+}

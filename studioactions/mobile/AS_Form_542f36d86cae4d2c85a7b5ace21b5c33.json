@@ -1,0 +1,14 @@
+{
+    "AS_Form_542f36d86cae4d2c85a7b5ace21b5c33": {
+        "id": "AS_Form_542f36d86cae4d2c85a7b5ace21b5c33",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onHide_441b97104f1643dbaa4c7b395dc9065d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferHide();",
+            "callbackType": null
+        }]
+    }
+}

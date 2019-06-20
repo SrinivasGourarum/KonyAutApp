@@ -1,0 +1,15 @@
+{
+    "AS_Form_70cf1b27c5124c329e17e6eefe99993e": {
+        "id": "AS_Form_70cf1b27c5124c329e17e6eefe99993e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3d5515d1897343b6a7f31fff01d013d6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "addWidgetstestfrm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

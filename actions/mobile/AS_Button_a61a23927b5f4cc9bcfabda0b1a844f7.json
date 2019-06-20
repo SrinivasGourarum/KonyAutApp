@@ -1,0 +1,14 @@
+{
+    "AS_Button_a61a23927b5f4cc9bcfabda0b1a844f7": {
+        "id": "AS_Button_a61a23927b5f4cc9bcfabda0b1a844f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_7591ebcb13f24cda850c37920b4dac7c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferFrequencyEdit();",
+            "callbackType": null
+        }]
+    }
+}

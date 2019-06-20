@@ -1,0 +1,17 @@
+{
+    "AS_Button_b650f5e4fa9442e5a4830f7ef471a8ac": {
+        "id": "AS_Button_b650f5e4fa9442e5a4830f7ef471a8ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_a0df14275fe0496d814f6fbe9827488f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmConfirmBillPay.show();\n",
+            "callbackType": null
+        }]
+    }
+}

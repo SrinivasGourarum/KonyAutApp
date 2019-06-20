@@ -1,0 +1,22 @@
+{
+    "AS_Button_c62ce0238c504cfea6aa7d0dcd2d22e4": {
+        "id": "AS_Button_c62ce0238c504cfea6aa7d0dcd2d22e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ea3980b6146d44159f16b22ec39c42e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__53ebbde843c5403484f8d6c3518bea02",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCouponsList.show();\nfrmCouponCreation.destroy();",
+            "parentId": null
+        }]
+    }
+}

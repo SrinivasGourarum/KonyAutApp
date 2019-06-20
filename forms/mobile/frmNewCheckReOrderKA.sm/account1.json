@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdf0669a22d444deb50e9e980a43a232",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopynameContainer00442ac33399c44",
+        "CopyborderBottom0257e8e6582a645",
+        "CopyamountContainer05868206768cd4c"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "focusskin": "s039b0db44684175898d2b36b25aa7d8",
+    "id": "account1",
+    "ide_onClick": "AS_FlexContainer_bf9edf1b39da46e6882aa6b01a11d01d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "408b2204285f45fca369148843f2daab",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_bf9edf1b39da46e6882aa6b01a11d01d",
+    "orientation": 6,
+    "parent": "fromCardInner",
+    "percent": true,
+    "pf": "frmNewCheckReOrderKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

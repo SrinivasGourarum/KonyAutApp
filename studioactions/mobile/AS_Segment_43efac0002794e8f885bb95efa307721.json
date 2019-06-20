@@ -1,0 +1,30 @@
+{
+    "AS_Segment_43efac0002794e8f885bb95efa307721": {
+        "id": "AS_Segment_43efac0002794e8f885bb95efa307721",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSetDefaultPageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0a1abaac7705448e8ce085a947508e2c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3823ac3a90574f2f802ca47341980a7b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var selRow = frmSetDefaultPageKA.loginSettingsSegmentAndroid.selectedRowIndex[1];\nvar segData = frmSetDefaultPageKA.loginSettingsSegmentAndroid.data;\nswitch(selRow){\n  case 0:segData[0].imgChevronKA = \"check_blue.png\";\n         segData[1].imgChevronKA = \"\";\n         segData[2].imgChevronKA = \"\";\n         segData[3].imgChevronKA = \"\";\n         break;\n  case 1:segData[0].imgChevronKA =\"\";\n         segData[1].imgChevronKA = \"check_blue.png\";\n         segData[2].imgChevronKA = \"\";\n         segData[3].imgChevronKA = \"\";\n         break;\n  case 2:segData[0].imgChevronKA = \"\";\n         segData[1].imgChevronKA = \"\";\n         segData[2].imgChevronKA = \"check_blue.png\";\n         segData[3].imgChevronKA = \"\";\n         break;\n  case 3:segData[0].imgChevronKA = \"\";\n         segData[1].imgChevronKA = \"\";\n         segData[2].imgChevronKA = \"\";\n         segData[3].imgChevronKA = \"check_blue.png\";\n         break;\n}\nfrmSetDefaultPageKA.loginSettingsSegmentAndroid.setData(segData);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": true,
+    "_data_": [
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Acme Rewards Platinum"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Acme Gold Card"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "Label01f864cb479e14f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Acme Silver Card"
+            },
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "a10fc45b5c4640bbaa50f07876666960",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "moreResourcesSegment",
+    "ide_onRowClick": "AS_Segment_b9668e445a204f98b62cbad18adf9dc0",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "editStyle": "none",
+            "indicator": "none",
+            "searchBy": null,
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "d03055f0a1d141ac9f87e2f659109062",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_b9668e445a204f98b62cbad18adf9dc0",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmCreditCardsKA",
+    "retainselection": false,
+    "rowTemplateId": "d5a33392e4ff4f0bbe32e346bb9228e9",
+    "rowcounter": 2,
+    "rowfocusskin": "s5fa38be22fb4f22b7c642b08276ab82",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "container",
+    "screenlevelwidget": false,
+    "searchBy": null,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s67621b8a82d49f285da06b4f5a0c993",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "f7f7f700",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "container": "container",
+        "imgicontick": "imgicontick"
+    },
+    "winphone8": {
+        "render": true
+    }
+}

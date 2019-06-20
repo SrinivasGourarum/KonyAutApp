@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "66.70%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "BRANCH",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnBranchFilterKA",
+    "ide_onClick": "AS_Button_07aed51d4f4e46389a5cc0a322740c05",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f14beb0ebcf54e2b822e9a7a533b66c0",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_07aed51d4f4e46389a5cc0a322740c05",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmLocatorKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.locateus.frmLocatorKA.btnBranchFilterKA",
+    "wType": "Button",
+    "zindex": 1
+}

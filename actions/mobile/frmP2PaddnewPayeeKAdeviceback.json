@@ -1,0 +1,25 @@
+{
+    "AS_Form_a0e67c6cbaa0427abb8d06ae7fdd710d": {
+        "id": "AS_Form_a0e67c6cbaa0427abb8d06ae7fdd710d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmP2PaddnewPayeeKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PaddnewPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6dd3432a9fd14a5f9f8e953aa892b534"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cb808de3b3e742b38b68f80e1333d01f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

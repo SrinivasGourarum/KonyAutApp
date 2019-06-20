@@ -1,0 +1,22 @@
+{
+    "AS_Segment_4bb47bc560ec473eb93c83df8a59633c": {
+        "id": "AS_Segment_4bb47bc560ec473eb93c83df8a59633c",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___892b3980b7ad4f738646c72d9d5810c6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsAccountPreviewKA",
+            "formKUID": "7891569f547446feb05fd0bfc49efb41",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

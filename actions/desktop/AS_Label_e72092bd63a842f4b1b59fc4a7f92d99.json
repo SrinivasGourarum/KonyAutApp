@@ -1,0 +1,37 @@
+{
+    "AS_Label_e72092bd63a842f4b1b59fc4a7f92d99": {
+        "id": "AS_Label_e72092bd63a842f4b1b59fc4a7f92d99",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fdcb688612544def9d04cb3207b91f2e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___edcfe525304242e6affcdc0428f51c14",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLanding",
+            "formKUID": "e67d2dbfa16e43c1a557945206266af3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchStart\",\n        \"widgetId\": \"Label0f25a1928323a45\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

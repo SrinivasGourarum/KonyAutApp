@@ -1,0 +1,98 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizMap",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_mode_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "defaultPinImage": "atm_icon_inactive.png"
+    },
+    "calloutwidth": 100,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "defaultpinimage": "pinb.png",
+    "id": "locatorMap",
+    "ide_onPinClick": "AS_Map_2464ff6721d245329319c682ad6079e8",
+    "info": null,
+    "invokedProperty": "maps",
+    "iphone": {
+        "defaultPinImage": "atm_icon_inactive.png",
+        "mode": 1,
+        "psp": {
+            "showCurrentLocation": "circle"
+        },
+        "zoomLevel": 12
+    },
+    "isvisible": true,
+    "kuid": "15c1571e96674a20b54e0b424ac5545d",
+    "locationdata": [
+        {
+            "desc": "206 Guadalupe St",
+            "lat": "17.447326",
+            "lon": "78.371358",
+            "name": "Guadalupe ATM"
+        },
+        {
+            "desc": "2119 E Seventh St",
+            "lat": "17.441839",
+            "lon": "78.380928",
+            "name": "East Seventh"
+        },
+        {
+            "desc": "Austin, TX 78701",
+            "lat": "28.449340",
+            "lon": "-81.481519",
+            "name": "South Lamar ATM"
+        },
+        {
+            "desc": "Colorado, TX 78701",
+            "lat": "28.449340",
+            "lon": "-81.481519",
+            "name": "Lake Austin"
+        },
+        {
+            "desc": "Alaska, TX 78701",
+            "lat": "60.441839",
+            "lon": "31.481519",
+            "name": "Marcos Lavino"
+        }
+    ],
+    "mapsource": "non-native",
+    "mapsrc": "non-native",
+    "name": "kony.ui.Map",
+    "onpinclick": "AS_Map_2464ff6721d245329319c682ad6079e8",
+    "parent": "locatorMapView",
+    "pf": "frmLocatorKA",
+    "provider": "google",
+    "screenlevelwidget": false,
+    "showCurrentLocation": "circle",
+    "wType": "Map",
+    "zoomlevel": 9
+}

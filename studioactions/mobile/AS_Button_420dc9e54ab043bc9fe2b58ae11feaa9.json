@@ -1,0 +1,23 @@
+{
+    "AS_Button_420dc9e54ab043bc9fe2b58ae11feaa9": {
+        "id": "AS_Button_420dc9e54ab043bc9fe2b58ae11feaa9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d992499631cb4e40bda607a637f2ec27",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewTransferKA,\"to\",1);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_6a5c11ef3ca9405e8e3400732c9703a6": {
+        "id": "AS_Form_6a5c11ef3ca9405e8e3400732c9703a6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "locator",
+            "type": "forms",
+            "platform": "",
+            "KUID": "91bf1ce516214ab8adad0a71f5d68382"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c7af31ea45cb4bddb14b27b2bfbbcfb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

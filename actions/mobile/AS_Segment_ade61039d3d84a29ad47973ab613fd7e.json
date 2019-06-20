@@ -1,0 +1,30 @@
+{
+    "AS_Segment_ade61039d3d84a29ad47973ab613fd7e": {
+        "id": "AS_Segment_ade61039d3d84a29ad47973ab613fd7e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmCreditCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0b5d66b8a411472c937886ea291eb5ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e047b002e12a4900b8ba646b61f55535",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAcmeCreditCardKA.lblHeadingKA.text = from;\nfrmAcmeCreditCardKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

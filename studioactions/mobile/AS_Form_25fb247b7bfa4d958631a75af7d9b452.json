@@ -1,0 +1,23 @@
+{
+    "AS_Form_25fb247b7bfa4d958631a75af7d9b452": {
+        "id": "AS_Form_25fb247b7bfa4d958631a75af7d9b452",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_a4a8da0839444938b938c734e7e93760",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

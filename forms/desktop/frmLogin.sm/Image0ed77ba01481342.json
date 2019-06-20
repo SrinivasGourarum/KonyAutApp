@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sab0b0daba3c40fda74c1ec05ebaee10",
+    "_src_": "bg_login_intial.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmLogin",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0ed77ba01481342",
+    "imagescalemode": 0,
+    "imagewhenfailed": "bg_login_intial.png",
+    "imagewhiledownloading": "bg_login_intial.png",
+    "info": null,
+    "invokedProperty": "imageWhenFailed",
+    "isvisible": true,
+    "kuid": "j2d638fefef64cd7b71daeaaa7d0c416",
+    "name": "kony.ui.Image2",
+    "parent": "flxBG",
+    "pf": "frmLogin",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

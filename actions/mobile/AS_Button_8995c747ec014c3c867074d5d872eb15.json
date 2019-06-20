@@ -1,0 +1,25 @@
+{
+    "AS_Button_8995c747ec014c3c867074d5d872eb15": {
+        "id": "AS_Button_8995c747ec014c3c867074d5d872eb15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_230ef6774a2943ffa21c1dd527683858",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PselectPayeeKA",
+            "formKUID": "70d10cb7bc484b6c92bcc81b0ccc655a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnCancel\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

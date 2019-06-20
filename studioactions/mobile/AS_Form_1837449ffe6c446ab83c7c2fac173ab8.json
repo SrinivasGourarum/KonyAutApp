@@ -1,0 +1,23 @@
+{
+    "AS_Form_1837449ffe6c446ab83c7c2fac173ab8": {
+        "id": "AS_Form_1837449ffe6c446ab83c7c2fac173ab8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAnswerSecretQuestionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6857ccc7dc3462791659bccc5a32b4e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_9a11f9a58e984f529fdfc49c27ac6a28",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

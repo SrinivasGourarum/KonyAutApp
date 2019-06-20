@@ -1,0 +1,31 @@
+{
+    "AS_Button_dee79a0b53294725b5afb6b001410ae8": {
+        "id": "AS_Button_dee79a0b53294725b5afb6b001410ae8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewApplicationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "50dfa337455447979963bb1be4aa7b7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_c518ff75faac40a68f97ac5e01df02e0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAnswerSecretQuestionsKA",
+            "formKUID": "f6857ccc7dc3462791659bccc5a32b4e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

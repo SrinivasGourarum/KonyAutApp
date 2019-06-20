@@ -1,0 +1,22 @@
+{
+    "AS_FlexScrollContainer_1c95f53b0c794473879f1d0d0cb09f43": {
+        "id": "AS_FlexScrollContainer_1c95f53b0c794473879f1d0d0cb09f43",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "5e9b622da3ac4d6cb730293f996f17ca"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onScrolling_833c74d487a9423d9ae2749653635f00",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " insightsPaging();",
+            "callbackType": null
+        }]
+    }
+}

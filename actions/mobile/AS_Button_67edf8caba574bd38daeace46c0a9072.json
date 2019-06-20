@@ -1,0 +1,17 @@
+{
+    "AS_Button_67edf8caba574bd38daeace46c0a9072": {
+        "id": "AS_Button_67edf8caba574bd38daeace46c0a9072",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d011acc0c13d420d95b47778dcc981c9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorToggle();",
+            "callbackType": null
+        }]
+    }
+}

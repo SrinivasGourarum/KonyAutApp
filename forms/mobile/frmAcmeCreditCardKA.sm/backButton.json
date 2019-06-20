@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s42097848aa844c9a25e6237b1b50a5b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s86cba35d2a34a219807da2b84f4f553",
+    "id": "backButton",
+    "ide_onClick": "AS_Button_487459ae77fe417a8c16d198acff255e",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e654c42c01b4448ebe942d2988e53cc0",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_487459ae77fe417a8c16d198acff255e",
+    "parent": "iosTitleBar",
+    "pf": "frmAcmeCreditCardKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

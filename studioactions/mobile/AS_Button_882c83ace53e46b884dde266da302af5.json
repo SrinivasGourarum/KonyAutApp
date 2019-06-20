@@ -1,0 +1,23 @@
+{
+    "AS_Button_882c83ace53e46b884dde266da302af5": {
+        "id": "AS_Button_882c83ace53e46b884dde266da302af5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTouchIdDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec770cae7fb741e990cbbe31b21d89fc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0214bd6fcc99459ea1cf21386d9cce31",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTouchIdDemo.flxTouchID.isVisible=false;",
+            "parentId": null
+        }]
+    }
+}

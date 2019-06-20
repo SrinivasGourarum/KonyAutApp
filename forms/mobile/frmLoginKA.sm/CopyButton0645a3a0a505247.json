@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        14
+    ],
+    "_skin_": "s58a7121f9a84955ad74228c3caf6e48",
+    "_text_": "2",
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s51776fbbaa74ca8825e8eaaf7e46922",
+    "id": "CopyButton0645a3a0a505247",
+    "ide_onClick": "AS_Button_8ca3e8b93da240dcad7d31fc4c63d020",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1de0679553924e44ba65fcea53857c7d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_8ca3e8b93da240dcad7d31fc4c63d020",
+    "paddinginpixel": false,
+    "parent": "CopyflxPin012facd7a89f14f",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

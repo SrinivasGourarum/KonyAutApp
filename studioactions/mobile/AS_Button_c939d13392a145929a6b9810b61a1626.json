@@ -1,0 +1,23 @@
+{
+    "AS_Button_c939d13392a145929a6b9810b61a1626": {
+        "id": "AS_Button_c939d13392a145929a6b9810b61a1626",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_944e800730dc4b8782146e8ec0bcf617",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var flag = pushJson();\nif(flag == true)\n\ttransactionSuccess(frmNewTransferKA);\n\n     ",
+            "callbackType": null
+        }]
+    }
+}

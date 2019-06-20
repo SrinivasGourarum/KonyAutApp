@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_818a7f6185c34d5081edb3eafa056a94": {
+        "id": "AS_FlexContainer_818a7f6185c34d5081edb3eafa056a94",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__076470f7e1ec445489fd71db1c081f28",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectFrequency();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

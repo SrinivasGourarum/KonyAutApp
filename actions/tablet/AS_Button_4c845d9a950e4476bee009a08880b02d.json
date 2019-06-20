@@ -1,0 +1,23 @@
+{
+    "AS_Button_4c845d9a950e4476bee009a08880b02d": {
+        "id": "AS_Button_4c845d9a950e4476bee009a08880b02d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "8f748eebb9214f1fbb51caafac1495ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5023dc8584c546efa4984f0a1688f68e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "enableFeature(1);\ntouchIdIsEnabled = true;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

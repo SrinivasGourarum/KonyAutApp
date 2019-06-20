@@ -1,0 +1,23 @@
+{
+    "AS_Button_f71f60be5efd48a5bc6d6a577641e553": {
+        "id": "AS_Button_f71f60be5efd48a5bc6d6a577641e553",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledTransferDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8e83fcb0b03c455db8e0be127d0f025a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_1df59531f51d457a8559e1b07fa94a2b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeTransactionDetailsContainer();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "102%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-1%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "_text_": "Map",
+    "_width_": {
+        "type": "string",
+        "value": "51%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "id": "btnMapView",
+    "ide_onClick": "AS_Button_55d889f30b554889990e57a91c7a962d",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "bb4f790e50ad438c9094123035ced279",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_55d889f30b554889990e57a91c7a962d",
+    "parent": "CopyutilContainer098fb16cc3aa742",
+    "pf": "frmLocatorKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

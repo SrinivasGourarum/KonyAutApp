@@ -1,0 +1,17 @@
+{
+    "AS_FlexScrollContainer_b38eb97a3dd54645a0a75b261e25f075": {
+        "id": "AS_FlexScrollContainer_b38eb97a3dd54645a0a75b261e25f075",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onScrolling_605b182d1f6f438194d95418b692d91c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountDetailsScrollIpad();",
+            "callbackType": null
+        }]
+    }
+}

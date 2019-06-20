@@ -1,0 +1,28 @@
+{
+    "AS_Button_bd3283ca916b4247910c9a15c6f84c82": {
+        "id": "AS_Button_bd3283ca916b4247910c9a15c6f84c82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckReorderDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "822cff9ab8a04dcab05d7678d932969b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_d1d769561fea435890c419d21cf63ab4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

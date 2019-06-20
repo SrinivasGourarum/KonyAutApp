@@ -1,0 +1,31 @@
+{
+    "AS_Button_9f900e68f39f465b8c3ff382e06ddd46": {
+        "id": "AS_Button_9f900e68f39f465b8c3ff382e06ddd46",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c80ad438edc24428ac077c86482e8885",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " kony.store.setItem(\"depositForm\", true);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_2bc4956e89754abf80ee2704754daa86",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

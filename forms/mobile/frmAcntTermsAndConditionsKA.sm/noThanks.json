@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Decline",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "noThanks",
+    "ide_onClick": "AS_Button_c101207658cd4ecb8a9a1792eedbc7ab",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f0b7e7c2f21f4e1f980ea7a4e4e599f4",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c101207658cd4ecb8a9a1792eedbc7ab",
+    "parent": "mainContent",
+    "pf": "frmAcntTermsAndConditionsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.opening_account.frmAcntTermsAndConditionsKA.noThanks",
+    "wType": "Button",
+    "zindex": 1
+}

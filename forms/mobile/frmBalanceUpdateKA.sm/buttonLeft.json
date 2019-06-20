@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "buttonLeft",
+    "ide_onClick": "AS_Button_061748f73a144f4a9cc72803a4ca3d37",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "2c90cc79f72f4da581a1c2979f459d70",
+    "minwidth": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_061748f73a144f4a9cc72803a4ca3d37",
+    "paddinginpixel": false,
+    "parent": "flxTitleKA",
+    "pf": "frmBalanceUpdateKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.common.Cancel",
+    "wType": "Button",
+    "zindex": 1
+}

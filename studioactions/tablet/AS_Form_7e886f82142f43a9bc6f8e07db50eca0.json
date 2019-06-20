@@ -1,0 +1,24 @@
+{
+    "AS_Form_7e886f82142f43a9bc6f8e07db50eca0": {
+        "id": "AS_Form_7e886f82142f43a9bc6f8e07db50eca0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "newPayPerson",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9d78046a6bc94e4bb2a3a358bfddc6f0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0e29ff1ffaaf4b85a05a81cfb5c506d2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "payPersonPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

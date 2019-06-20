@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s2162c4236184af099eaa8f84fd624da",
+    "_text_": "HIDE ACCOUNT PREVIEW",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s855d4a3c7a14976abf747a9184ae0d0",
+    "id": "CopyaccountPreviewButton0e6f20970abfd40",
+    "ide_onClick": "AS_Button_9ff9c644164a4fbfa7d3c142d1f47c09",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "7eb0896b07b0434d89fe9847a4591c0d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9ff9c644164a4fbfa7d3c142d1f47c09",
+    "parent": "accountPreviewScreen",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "texti18n": "i18n.login.frmLoginKA.CopyaccountPreviewButton0e6f20970abfd40",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "windows8": {
+        "render": false
+    },
+    "zindex": 9999
+}

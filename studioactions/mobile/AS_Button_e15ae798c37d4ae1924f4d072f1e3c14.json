@@ -1,0 +1,32 @@
+{
+    "AS_Button_e15ae798c37d4ae1924f4d072f1e3c14": {
+        "id": "AS_Button_e15ae798c37d4ae1924f4d072f1e3c14",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_5f9c03e58b754febb08b87cc73480c98",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Confirm Payment",
+            "yesLabel": "Pay",
+            "noLabel": "Cancel",
+            "alertMessage": "Pay $5 to John Smith?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__b4906387c6b549b583261e2941dfca33",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewPayPersonKA);",
+            "parentId": "SHOW_ALERT_onClick_5f9c03e58b754febb08b87cc73480c98",
+            "callbackType": "True"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_7b4b4b125ae14d9886df94c2e3c7736e": {
+        "id": "AS_Form_7b4b4b125ae14d9886df94c2e3c7736e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "login",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4bd7f0a8242145269f80451821115c67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__009d977e690045218e6dd7831eee2071",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onLoginOrientationChange();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

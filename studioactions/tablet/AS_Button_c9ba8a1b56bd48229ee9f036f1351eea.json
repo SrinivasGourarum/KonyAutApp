@@ -1,0 +1,38 @@
+{
+    "AS_Button_c9ba8a1b56bd48229ee9f036f1351eea": {
+        "id": "AS_Button_c9ba8a1b56bd48229ee9f036f1351eea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledPayPersonDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "63d9d7e25f614e7ba351aa4b3e076a55"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_b54f1564169c47a5b017a105083f6855",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Scheduled Transaction?",
+            "yesLabel": "Yes",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to delete this scheduled transaction?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET_onClick_0dd467cd2a604c2d8459e2cd5390ced3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeTransactionDetailsContainer();",
+            "parentId": "SHOW_ALERT_onClick_b54f1564169c47a5b017a105083f6855",
+            "callbackType": "True"
+        }]
+    }
+}

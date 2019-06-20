@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2f00987ec434e4280cc43ab8045dc80",
+    "_text_": "Check Images :",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyfrontCheckLabel0fa21c0433c6145",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "af4db497cada4de0a452d3f87b7c7a39",
+    "name": "kony.ui.Label",
+    "parent": "mainContent",
+    "pf": "frmScheduledDepositKA",
+    "texti18n": "i18n.deposit.frmScheduledDepositKA.CopyfrontCheckLabel0fa21c0433c6145",
+    "tooltip": "",
+    "wType": "Label"
+}

@@ -1,0 +1,14 @@
+{
+    "AS_Button_2bd0c5b9148c4fb6871b875697ffb700": {
+        "id": "AS_Button_2bd0c5b9148c4fb6871b875697ffb700",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_27a41ea9278e432a88af256af9a5af58",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "yourAccountDidClick(account1);",
+            "callbackType": null
+        }]
+    }
+}

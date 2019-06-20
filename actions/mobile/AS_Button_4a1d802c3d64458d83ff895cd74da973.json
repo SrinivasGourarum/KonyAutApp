@@ -1,0 +1,25 @@
+{
+    "AS_Button_4a1d802c3d64458d83ff895cd74da973": {
+        "id": "AS_Button_4a1d802c3d64458d83ff895cd74da973",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_78e9cd28ac8d48ebaf60b0b94b8cc857",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewDepositKA",
+            "formKUID": "3ef26f9acd5b475cb1fdad0f87db5781",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

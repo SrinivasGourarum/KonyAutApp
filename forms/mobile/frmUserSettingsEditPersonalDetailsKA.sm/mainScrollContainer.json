@@ -1,0 +1,78 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s33c2b827d6745b5a56322e35bc3c999",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": false,
+    "canUpdateUI": true,
+    "children": [
+        "editPictureContainer",
+        "phoneNumberTitle",
+        "challengeQuestionContainer",
+        "lblLine1KA",
+        "CopychallengeQuestionContainer085cccab2951a44",
+        "lblLine2KA",
+        "emailAddressTitle",
+        "CopychallengeQuestionContainer0ec5f7e4e11954d",
+        "CopylblLine05f69e54d4f914e",
+        "CopychallengeQuestionContainer0bfda51ea35f347",
+        "CopylblLine00051147595274b",
+        "btnSave"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "mainScrollContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bcbd494078844bcc962be397eefd7231",
+    "layouttype": 4,
+    "name": "kony.ui.FlexScrollContainer",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "frmUserSettingsEditPersonalDetailsKA",
+    "percent": true,
+    "pf": "frmUserSettingsEditPersonalDetailsKA",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": false,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

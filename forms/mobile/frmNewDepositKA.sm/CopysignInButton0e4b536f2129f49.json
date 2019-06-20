@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "_text_": "SUBMIT DEPOSIT",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "43%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s210d6b8b14b45b3a3ee7f12d67c00f4",
+    "id": "CopysignInButton0e4b536f2129f49",
+    "ide_onClick": "AS_Button_9a969704d6d447918d9b7af4edc0b096",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "203d3879abc04c4aac792107c224a7f7",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9a969704d6d447918d9b7af4edc0b096",
+    "parent": "FlexContainer0f64c3f6d94224c",
+    "pf": "frmNewDepositKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

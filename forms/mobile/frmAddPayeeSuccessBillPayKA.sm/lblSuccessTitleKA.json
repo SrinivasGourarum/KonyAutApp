@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b504510a154e7fab1632164747adcf",
+    "_text_": "Payee Added Successfully",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "lblSuccessTitleKA",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "276479939ceb40feaf7bd71159fb1b45",
+    "name": "kony.ui.Label",
+    "parent": "flxContainerKA",
+    "pf": "frmAddPayeeSuccessBillPayKA",
+    "texti18n": "i18n.manage_payee.frmAddPayeeSuccessBillPayKA.lblSuccessTitleKA",
+    "tooltip": "",
+    "wType": "Label"
+}

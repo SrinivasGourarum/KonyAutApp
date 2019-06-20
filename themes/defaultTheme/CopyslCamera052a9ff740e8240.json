@@ -1,0 +1,16 @@
+{
+  "background_image": "camera_ok.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sfb0b55b27dd4be6835450469b2bdfa8",
+  "wType": "Camera"
+}

@@ -1,0 +1,15 @@
+{
+    "AS_TextField_1357e05051e54565ab63391da7c70a12": {
+        "id": "AS_TextField_1357e05051e54565ab63391da7c70a12",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e5c031220f5841798745ac0da28675e3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginKeyboardActive();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

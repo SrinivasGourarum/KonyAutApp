@@ -1,0 +1,22 @@
+{
+    "AS_Button_0091ea739b084a74b97e6b0536310aa2": {
+        "id": "AS_Button_0091ea739b084a74b97e6b0536310aa2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_2c5751e8042c49e8a22dd65e224256a9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"New\");"
+        }]
+    }
+}

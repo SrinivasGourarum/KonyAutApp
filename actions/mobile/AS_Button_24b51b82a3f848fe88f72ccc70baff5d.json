@@ -1,0 +1,46 @@
+{
+    "AS_Button_24b51b82a3f848fe88f72ccc70baff5d": {
+        "id": "AS_Button_24b51b82a3f848fe88f72ccc70baff5d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillDetailsSceduled",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3858a671cbd413d91f89cc360a722ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__ab6d4761df504eea9c38d62dde7e3aea",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "INFO",
+            "yesLabel": "YES",
+            "noLabel": "NO",
+            "alertMessage": "Are you sure you want to cancel?",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___06d7d4f0378645e0b06b0612b2454271",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewBillKA",
+            "formKUID": "94b57de480514c9f98e1f6979b71a37b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__ab6d4761df504eea9c38d62dde7e3aea",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnRepeatTransactionKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

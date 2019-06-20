@@ -1,0 +1,16 @@
+{
+    "AS_Form_0c71acd3ad1344b58485ce96b05e1772": {
+        "id": "AS_Form_0c71acd3ad1344b58485ce96b05e1772",
+        "type": "ACTION_SEQUENCE",
+        "name": "newTransferShow",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__edbae9915de74ebe966741cc531c1b58",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.editToCard.opacity = 0;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

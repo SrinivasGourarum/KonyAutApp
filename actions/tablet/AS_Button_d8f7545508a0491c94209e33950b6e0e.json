@@ -1,0 +1,23 @@
+{
+    "AS_Button_d8f7545508a0491c94209e33950b6e0e": {
+        "id": "AS_Button_d8f7545508a0491c94209e33950b6e0e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "400c333b731c40eca5e2521568d1baf5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_df7d8ae6f19843ce8310289c7cea4fd5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//firstTimeforDeviceRegistration();\nfrmAccountsLandingKA.show();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "dropdown.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "11/3/2016",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter DOB",
+    "_skin_": "se543ea19f8a4e4386357c7db8571d21",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "advview": "default",
+    "calendaricon": "dropdown.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        11,
+        3,
+        2016,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "day": 11,
+    "daytextalignmentincell": 5,
+    "format": "dd/MM/yyyy",
+    "formatteddate": "11/03/2016",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "Calendar07a8fd30bc6b044",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8264a8c712834585b1e39f138f5c0697",
+    "minutes": 0,
+    "month": 3,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2016",
+    "parent": "CopyanswerFIeldWrapper0117ea71aa7d743",
+    "pf": "frmEnterPersonalDetailsKA",
+    "seconds": 0,
+    "selectdate": "//2016",
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2016,
+    "zindex": 1
+}

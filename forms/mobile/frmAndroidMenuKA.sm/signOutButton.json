@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "Sign Out",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "signOutButton",
+    "ide_onClick": "AS_Button_cd5f7943c15341cd8be65e5b7d212260",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f5147127588f4cc5a18cfb3d7a2b7629",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_cd5f7943c15341cd8be65e5b7d212260",
+    "paddinginpixel": false,
+    "parent": "settingsTitle",
+    "pf": "frmAndroidMenuKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.android_menu.frmAndroidMenuKA.signOutButton",
+    "wType": "Button",
+    "zindex": 1
+}

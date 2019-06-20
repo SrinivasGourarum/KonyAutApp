@@ -1,0 +1,25 @@
+{
+    "AS_Button_ea4b23eb4a8f4ab28fe4d417dca2787e": {
+        "id": "AS_Button_ea4b23eb4a8f4ab28fe4d417dca2787e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_eecd136292784ea59a375e0a7542886d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddNewPayeeKA",
+            "formKUID": "22b994296d374ff48427012b2b05feb7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"addNewPayee\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

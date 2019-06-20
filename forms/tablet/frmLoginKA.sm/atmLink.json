@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6.25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Locate Us",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "atmLink",
+    "ide_onClick": "AS_Button_bd5788a5e04c4675b6534e9cea1844fa",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "fc4b0782fad049d5b65c6fe279c8e259",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_bd5788a5e04c4675b6534e9cea1844fa",
+    "parent": "utilityLinks",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.login.frmLoginKA.atmLink",
+    "wType": "Button",
+    "zindex": 1
+}

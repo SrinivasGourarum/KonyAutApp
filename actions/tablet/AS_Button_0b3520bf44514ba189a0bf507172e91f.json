@@ -1,0 +1,23 @@
+{
+    "AS_Button_0b3520bf44514ba189a0bf507172e91f": {
+        "id": "AS_Button_0b3520bf44514ba189a0bf507172e91f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "328f19fe420346eda2f9b107ef7e9db9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fefcecabbbbf4a06a2acc2d26f0b7c21",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal(userSettings.userSettingsWrapper,\"userSettingsWrapper\");\nuserSettingsPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_471de89a2f664c0c915ee32b3461a8a4": {
+        "id": "AS_Button_471de89a2f664c0c915ee32b3461a8a4",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionscheduleBackButtonClickKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledDepositKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "93b50483f6434c4e9037700dbe6140bf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_60e1df576d84430e9d8d83456be48a77",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

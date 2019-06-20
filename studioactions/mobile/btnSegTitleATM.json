@@ -1,0 +1,28 @@
+{
+    "AS_Button_6daee20140ee4fc58eaeae274df45fe1": {
+        "id": "AS_Button_6daee20140ee4fc58eaeae274df45fe1",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnSegTitleATM",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocatorKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c471585baa904bb49278190a4437d425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d12c34760a38435fb42a2d26e3e0a924",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onATMSelected",
+            "display": "onATMSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

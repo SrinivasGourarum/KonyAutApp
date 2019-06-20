@@ -1,0 +1,38 @@
+{
+    "AS_Button_a09ea0eef99d45bc9495aabdd528af4b": {
+        "id": "AS_Button_a09ea0eef99d45bc9495aabdd528af4b",
+        "type": "ACTION_SEQUENCE",
+        "name": "deletePayeeConfirmation",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__7fe8c28ecc414395bb9566a0d1502922",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Payee",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertMessage": "Do you want to delete the payee?",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d8d0d091965a4a2c9b796ff5e02c9a8f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManagePayeeKA",
+            "formKUID": "794f84071c7c4320866cf3978ca5357e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__7fe8c28ecc414395bb9566a0d1502922",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

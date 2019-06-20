@@ -1,0 +1,20 @@
+{
+    "AS_TextField_878363d912a94d078d623c18399d13c5": {
+        "id": "AS_TextField_878363d912a94d078d623c18399d13c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_936a8930259a446dac93761ecf18d634",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "passwordOnEndEditing();",
+            "callbackType": null
+        }]
+    }
+}

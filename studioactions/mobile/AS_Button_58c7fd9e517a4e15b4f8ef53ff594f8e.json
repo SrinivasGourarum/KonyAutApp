@@ -1,0 +1,24 @@
+{
+    "AS_Button_58c7fd9e517a4e15b4f8ef53ff594f8e": {
+        "id": "AS_Button_58c7fd9e517a4e15b4f8ef53ff594f8e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmacntstatementdetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d066038f86554fd3807d8730ae9a9b23"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e46102aeb20d44f8836bf8088b742416",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmacntstatementdetailsKA.flxOptionsKA.isVisible = false ;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

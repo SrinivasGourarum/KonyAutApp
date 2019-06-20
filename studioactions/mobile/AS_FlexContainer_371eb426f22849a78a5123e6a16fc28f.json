@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_371eb426f22849a78a5123e6a16fc28f": {
+        "id": "AS_FlexContainer_371eb426f22849a78a5123e6a16fc28f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___252b56180b9c48708356b2763dc98b8d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcntTermsAndConditionsKA",
+            "formKUID": "baf8bcd68a2c41d9a1f80da15169c48f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__03b54585a4bc4e57b17e9324f71b0b9f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//from = \"Credit Cards\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

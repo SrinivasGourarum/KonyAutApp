@@ -1,0 +1,30 @@
+{
+    "AS_Button_bca0047ea5184cf49155735eca3ae78a": {
+        "id": "AS_Button_bca0047ea5184cf49155735eca3ae78a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRecentTransactionDetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3e75bf63a2d4443486447188bb14c36b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a17a2ab6881b42318490c5bec0bf679a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewTransferKA",
+            "formKUID": "ce8fc9f71e294cd29906f5bfb70eaf07",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"deleteScheduleTransactionButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

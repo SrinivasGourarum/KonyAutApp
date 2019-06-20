@@ -1,0 +1,26 @@
+{
+    "AS_Button_b2f433c562ca44e6bafaaea7fb63d263": {
+        "id": "AS_Button_b2f433c562ca44e6bafaaea7fb63d263",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionMinimumAlertsOnCancleClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___2422b90c5d254f779ef83072b05ab838",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"buttonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

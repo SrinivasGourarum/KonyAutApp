@@ -1,0 +1,18 @@
+{
+    "AS_Button_dcc39a0f843a42339b55c1130e02039d": {
+        "id": "AS_Button_dcc39a0f843a42339b55c1130e02039d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3dee6381bb684bf9a71675743414e8ca",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeDepositInstructions();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

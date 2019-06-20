@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "92dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2162c4236184af099eaa8f84fd624da",
+    "_text_": "New Check Deposit",
+    "_top_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "177dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2162c4236184af099eaa8f84fd624da",
+    "id": "btnNewDepositKA",
+    "ide_onClick": "AS_Button_b34ca543c184477cabbdb92a7f437f8b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ae940b544d494a64a0e9e4e9d1a9a711",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_b34ca543c184477cabbdb92a7f437f8b",
+    "parent": "androidTitleBar",
+    "pf": "frmDepositPayLandingKA",
+    "texti18n": "i18n.deposit.frmDepositPayLandingKA.btnNewDepositKA",
+    "wType": "Button",
+    "zindex": 1
+}

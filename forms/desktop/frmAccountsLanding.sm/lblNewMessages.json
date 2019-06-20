@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s255bd8591ca42668822a9339c867d61",
+    "_text_": "88",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "62%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "30%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblNewMessages",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "fdd9fd02a9874e73ae2a599ac7f7cc74",
+    "name": "kony.ui.Label",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "flxMessages",
+    "pf": "frmAccountsLanding",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

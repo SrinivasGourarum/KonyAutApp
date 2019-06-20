@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5449e85b7e0472ba7d4939096f3873d",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "loginCardDeactivate",
+    "ide_onTouchEnd": "AS_FlexContainer_ad51bece218a40de83c97b8052078eb2",
+    "info": null,
+    "isvisible": false,
+    "kuid": "8830dac839e848c9af820e06b568212c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "ontouchend": "AS_FlexContainer_ad51bece218a40de83c97b8052078eb2",
+    "orientation": 6,
+    "parent": "loginMainScreen",
+    "percent": true,
+    "pf": "frmLoginKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

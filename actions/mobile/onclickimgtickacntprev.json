@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_3ba24816e6bd42ba87d751790a74e928": {
+        "id": "AS_FlexContainer_3ba24816e6bd42ba87d751790a74e928",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickimgtickacntprev",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsAccountPreviewKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7891569f547446feb05fd0bfc49efb41"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__eb6b0f4402bf481088933dfe1d6b3b7b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmUserSettingsAccountPreviewKA.imgtickaccount.isVisible == true)\n  frmUserSettingsAccountPreviewKA.imgtickaccount.isVisible=false;\nelse\n   frmUserSettingsAccountPreviewKA.imgtickaccount.setVisibility(true);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

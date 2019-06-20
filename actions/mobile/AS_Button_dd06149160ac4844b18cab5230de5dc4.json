@@ -1,0 +1,18 @@
+{
+    "AS_Button_dd06149160ac4844b18cab5230de5dc4": {
+        "id": "AS_Button_dd06149160ac4844b18cab5230de5dc4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

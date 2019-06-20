@@ -1,0 +1,26 @@
+{
+    "AS_Button_1fe121a20c1d4d988b2b27103035291f": {
+        "id": "AS_Button_1fe121a20c1d4d988b2b27103035291f",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmAddNewPayeeKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_70dc35be08674a878f4b3dedbaf86d40",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddNewPayeeKA",
+            "formKUID": "22b994296d374ff48427012b2b05feb7",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button06a2d7f3f118d47\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_ca3ca2d66d47492c8ae61e069cb22403": {
+        "id": "AS_Button_ca3ca2d66d47492c8ae61e069cb22403",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_0767296b80ae4c919c56f2b6db2c5fdc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewBillKA,\"to\",1);",
+            "callbackType": null
+        }]
+    }
+}

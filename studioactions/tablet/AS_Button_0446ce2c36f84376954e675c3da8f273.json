@@ -1,0 +1,17 @@
+{
+    "AS_Button_0446ce2c36f84376954e675c3da8f273": {
+        "id": "AS_Button_0446ce2c36f84376954e675c3da8f273",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_db8df74572044173836fe54368acbf43",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(newBill);",
+            "callbackType": null
+        }]
+    }
+}

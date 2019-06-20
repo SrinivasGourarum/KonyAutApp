@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2be1ed2589b428b95ab2222f72682cf",
+    "_text_": "Fixed Deposit 5 Yrs",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopynameAccount0e3c75e4f844f45",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0f719be39d474171b3e51e5a73f363bb",
+    "maxwidth": {
+        "type": "string",
+        "value": "90%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "CopynameContainer0fcf4f7ee689442",
+    "pf": "frmMyMoneyListKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

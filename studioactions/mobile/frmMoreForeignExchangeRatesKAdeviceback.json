@@ -1,0 +1,25 @@
+{
+    "AS_Form_5a1b2f84a7b54ba39de366c178e76918": {
+        "id": "AS_Form_5a1b2f84a7b54ba39de366c178e76918",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmMoreForeignExchangeRatesKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMoreForeignExchangeRatesKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d0c11a0a70964f74b5bade08834b8583"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a9a0e029fc134901912b62499182d51c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

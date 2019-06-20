@@ -1,0 +1,19 @@
+{
+    "AS_Map_9f552d60f8cb45da8640fa65b46e010a": {
+        "id": "AS_Map_9f552d60f8cb45da8640fa65b46e010a",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c739c75ab2a04697af6ba947ddd13a13",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocatorATMDetailsKA",
+            "formKUID": "a9e449d9a0254894a21fdc3d3c303ac6",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

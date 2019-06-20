@@ -1,0 +1,25 @@
+{
+    "AS_Button_f8e41bfa192b493ea418dd16903b5665": {
+        "id": "AS_Button_f8e41bfa192b493ea418dd16903b5665",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_d3d45eb89f2c43e2acd348c0f4e8032b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmStolenLostCardKA",
+            "formKUID": "4e104ffa5dc847dabf935eaf516f81f6",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

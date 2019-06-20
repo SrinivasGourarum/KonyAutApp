@@ -1,0 +1,25 @@
+{
+    "AS_Form_b7f543debf524dc1960065d4a7fde123": {
+        "id": "AS_Form_b7f543debf524dc1960065d4a7fde123",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmStolenLostCardKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStolenLostCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4e104ffa5dc847dabf935eaf516f81f6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__af2dd7f28a6d45bdb5d6b050681eb132",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

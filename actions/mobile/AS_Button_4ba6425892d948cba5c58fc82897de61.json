@@ -1,0 +1,25 @@
+{
+    "AS_Button_4ba6425892d948cba5c58fc82897de61": {
+        "id": "AS_Button_4ba6425892d948cba5c58fc82897de61",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___00a1e2ef2b61424dad9c9d4744c67f17",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopytouchSuccessContinue03b9cc052803145\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

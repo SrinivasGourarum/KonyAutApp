@@ -1,0 +1,24 @@
+{
+    "AS_Button_898fa5d877d64982809aa55e87fb169c": {
+        "id": "AS_Button_898fa5d877d64982809aa55e87fb169c",
+        "type": "ACTION_SEQUENCE",
+        "name": "pendingDepositTabClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ace8cb39fb224395bd78a6554238fa49",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "scheduledDepositTabSelected();",
+            "callbackType": null
+        }]
+    }
+}

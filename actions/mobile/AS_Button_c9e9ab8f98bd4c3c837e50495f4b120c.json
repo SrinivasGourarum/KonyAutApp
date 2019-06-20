@@ -1,0 +1,18 @@
+{
+    "AS_Button_c9e9ab8f98bd4c3c837e50495f4b120c": {
+        "id": "AS_Button_c9e9ab8f98bd4c3c837e50495f4b120c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__58b3417a1b76456cb9740b9917e84715",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var flag = pushJson();\nif(flag == true)\n\ttransactionSuccess(frmNewTransferKA);\n\n     ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

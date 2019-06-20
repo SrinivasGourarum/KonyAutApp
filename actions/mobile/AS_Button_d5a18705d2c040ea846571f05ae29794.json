@@ -1,0 +1,23 @@
+{
+    "AS_Button_d5a18705d2c040ea846571f05ae29794": {
+        "id": "AS_Button_d5a18705d2c040ea846571f05ae29794",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSupportDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6240a6dc654b4d7dbb7f7b6ded0c1de0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_5ad7a7b2e3974420bd8e639749c6fa4d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

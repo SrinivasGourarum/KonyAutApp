@@ -1,0 +1,31 @@
+{
+    "AS_Segment_76eeb83f6d054f1a892ba622a95261ef": {
+        "id": "AS_Segment_76eeb83f6d054f1a892ba622a95261ef",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclicksegaccountstatemts",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmacntstatementsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2bf7151acca34b0f8dbf255e71a3a2e7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__561156ae3f964b10885d3cbd24728441",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountsStatementDetailsPreShow();\nfrmacntstatementdetailsKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

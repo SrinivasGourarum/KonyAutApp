@@ -1,0 +1,35 @@
+{
+    "splashScreen": {
+        "mobile": {
+            "iphone": {
+                "videoInterruptible": false
+            },
+            "android": {
+                "backgroundColor": "ffffff"
+            },
+            "winphone8": {},
+            "spa": {},
+            "spaip": {},
+            "spaan": {},
+            "spawinphone8": {},
+            "splashImage": "splash_new.png",
+            "winphone10": {}
+        },
+        "tablet": {
+            "ipad": {
+                "landscape": {}
+            },
+            "android": {},
+            "windows8": {},
+            "spa": {},
+            "spaipad": {},
+            "spaandroidtablet": {},
+            "spawindowstablet": {},
+            "windows10": {}
+        },
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_40016ebff35f4a0abcdfe300a0bf7a38": {
+        "id": "AS_Button_40016ebff35f4a0abcdfe300a0bf7a38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_97000f0ba82a4c55a383464ac0e8e44d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLoginKA",
+            "formKUID": "7b1aa8fceb6b4070833e9eab879b0e5e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopybuttonLeft08e6c43ee6f1641\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

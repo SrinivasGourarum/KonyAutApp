@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_3c6b37a3794945af8950f88b6a7b004c": {
+        "id": "AS_FlexContainer_3c6b37a3794945af8950f88b6a7b004c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___bdfd2fe57c2e4e30a518bec11ee1b314",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcntTermsAndConditionsKA",
+            "formKUID": "baf8bcd68a2c41d9a1f80da15169c48f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__4f48ecaae8f245fcb415e82cff5567f8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//from = \"Savings Account\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_83286fc1d0fc4a40a3857c891ed9a3f5": {
+        "id": "AS_Button_83286fc1d0fc4a40a3857c891ed9a3f5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_08333a34cd534b4faaecf207f7eebea5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReplaceCardKA",
+            "formKUID": "4cac7859037b42829d59823189d48648",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

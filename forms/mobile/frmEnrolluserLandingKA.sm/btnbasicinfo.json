@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s80191b6ac7b456395dfcf46858959f6",
+    "_text_": "BASIC INFO",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s80191b6ac7b456395dfcf46858959f6",
+    "id": "btnbasicinfo",
+    "ide_onClick": "AS_Button_45b0e2b5d3ae49378db9e9529300ae48",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1e2149476a7744d5ac7ebd2bd0b2ea29",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_45b0e2b5d3ae49378db9e9529300ae48",
+    "paddinginpixel": false,
+    "parent": "tabsWrapper",
+    "pf": "frmEnrolluserLandingKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.login.frmEnrolluserLandingKA.btnbasicinfo",
+    "wType": "Button"
+}

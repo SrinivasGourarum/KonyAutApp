@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1a92ebf485b4ed8a411645f2a9187d0",
+    "_text_": "I have added this payee 2 days back. But \neven now it does not appear in my payee \nlist!!",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxMessageDescriptionKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a19731415cdd4fe0839a2a0695335bc6",
+    "name": "kony.ui.RichText",
+    "parent": "flxMessageDescriptionKA",
+    "pf": "frmMessageSentKA",
+    "texti18n": "i18n.messages.frmMessageSentKA.rtxMessageDescriptionKA",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

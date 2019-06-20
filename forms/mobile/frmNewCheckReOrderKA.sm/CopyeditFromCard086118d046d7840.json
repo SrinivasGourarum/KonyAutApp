@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s290d646be224caa899af134d2389f06",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6df4c410eaa444bb19006f9133a2af1",
+    "id": "CopyeditFromCard086118d046d7840",
+    "ide_onClick": "AS_Button_95c29a2faf7943c3988ad70fa509edea",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "39bb2753cf4f4d96bfca7711a8a3d254",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_95c29a2faf7943c3988ad70fa509edea",
+    "parent": "fromAccountPick2",
+    "pf": "frmNewCheckReOrderKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.common.Edit",
+    "wType": "Button",
+    "zindex": 1
+}

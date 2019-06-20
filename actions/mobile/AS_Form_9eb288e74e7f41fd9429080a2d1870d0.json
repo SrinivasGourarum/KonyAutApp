@@ -1,0 +1,23 @@
+{
+    "AS_Form_9eb288e74e7f41fd9429080a2d1870d0": {
+        "id": "AS_Form_9eb288e74e7f41fd9429080a2d1870d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAcntTermsAndConditionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "baf8bcd68a2c41d9a1f80da15169c48f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_6c51484a32204268be2bde20f34cd381",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

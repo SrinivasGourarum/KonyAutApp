@@ -1,0 +1,17 @@
+{
+    "AS_Button_11937f0d0be142aca8b1c3153431c541": {
+        "id": "AS_Button_11937f0d0be142aca8b1c3153431c541",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_8c952994586c4e9ca63b279014e32265",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showDateRange();",
+            "callbackType": null
+        }]
+    }
+}

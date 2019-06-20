@@ -1,0 +1,25 @@
+{
+    "AS_Button_88246646ad20411ba7bce915404de25e": {
+        "id": "AS_Button_88246646ad20411ba7bce915404de25e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_b05798455dd5474e819556a7b2394fb9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyButton01d156aaa172e44\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

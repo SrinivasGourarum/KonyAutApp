@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "10/20/2016",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyinterestRateLabel089d4323d4bc14d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "74f6f2fbda67484e9d150b29066fb7fe",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0b1e97ca23f904c",
+    "pf": "frmAccountInfoformortageKA",
+    "texti18n": "i18n.overview.frmAccountInfoformortageKA.CopyinterestRateLabel089d4323d4bc14d",
+    "tooltip": "",
+    "wType": "Label"
+}

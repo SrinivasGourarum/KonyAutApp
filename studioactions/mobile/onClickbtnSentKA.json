@@ -1,0 +1,21 @@
+{
+    "AS_Button_bc19a197d23444869a9d33954fb7c17a": {
+        "id": "AS_Button_bc19a197d23444869a9d33954fb7c17a",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickbtnSentKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dd50725ae868461da857ff4729f1f285",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMessageSentSelected",
+            "display": "onMessageSentSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

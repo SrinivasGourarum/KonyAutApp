@@ -1,0 +1,24 @@
+{
+    "AS_Form_31b2c4797d734d769117e6b7d6f409ff": {
+        "id": "AS_Form_31b2c4797d734d769117e6b7d6f409ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositCamera",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6fa05a351e1445b18bc5490d5bb167c3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b42ba201a90249c9b8f213107a8fe335",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onHideCamera();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

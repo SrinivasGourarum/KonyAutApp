@@ -1,0 +1,15 @@
+{
+    "AS_TextField_b1305e44ec8645f9aaab0ef528249f5f": {
+        "id": "AS_TextField_b1305e44ec8645f9aaab0ef528249f5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__25cab5fb72bf420eb77ebbfe64655bf1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userEnteredLocationTerm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

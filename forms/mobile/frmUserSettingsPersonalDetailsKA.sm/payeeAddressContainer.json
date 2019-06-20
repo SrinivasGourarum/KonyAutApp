@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s77117634aa14e58908cea4332c51ada",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0b1ac08ce375a4c",
+        "CopychallengeQuestionContainer089f7f20a7c7e46",
+        "CopychallengeQuestionContainer072d35904827d4b",
+        "CopychallengeQuestionContainer01f174b88a19846",
+        "CopychallengeQuestionContainer09353c718b78343",
+        "CopychallengeQuestionContainer07994e949c1dd49",
+        "CopychallengeQuestionContainer08c7ed28108f643"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "payeeAddressContainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ceb9190916994047a831f62bdcabd285",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "mainScrollContainer",
+    "percent": true,
+    "pf": "frmUserSettingsPersonalDetailsKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

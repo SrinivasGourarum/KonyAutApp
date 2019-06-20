@@ -1,0 +1,25 @@
+{
+    "AS_Form_5204834d07044b5ebf635d49442c61fa": {
+        "id": "AS_Form_5204834d07044b5ebf635d49442c61fa",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmP2PConfirmationPayKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PConfirmationPayKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c634696bcf0042fb9a44a55a368f9621"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b7731a5699da46c7a4910bc284f62a37",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

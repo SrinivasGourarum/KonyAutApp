@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s290d646be224caa899af134d2389f06",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6df4c410eaa444bb19006f9133a2af1",
+    "id": "btnAccountEditKA",
+    "ide_onClick": "AS_Button_43fbcd8830844f1bbebdc9c59e23a06f",
+    "info": null,
+    "isvisible": false,
+    "kuid": "dd85171124fc45269b7a1f5a31f65d08",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_43fbcd8830844f1bbebdc9c59e23a06f",
+    "parent": "toAccountDetail1",
+    "pf": "frmNewBillKA",
+    "texti18n": "i18n.common.Edit",
+    "wType": "Button",
+    "zindex": 1
+}

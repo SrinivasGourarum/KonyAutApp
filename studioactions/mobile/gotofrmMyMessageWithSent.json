@@ -1,0 +1,22 @@
+{
+    "AS_Button_c29a355c9cee42c39152a6a30768e8c0": {
+        "id": "AS_Button_c29a355c9cee42c39152a6a30768e8c0",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmMyMessageWithSent",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ca902a5388ca4197938da3264694c506",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onNewMessageSendClick",
+            "display": "onNewMessageSendClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

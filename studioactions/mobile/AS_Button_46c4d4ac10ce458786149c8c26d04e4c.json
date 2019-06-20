@@ -1,0 +1,16 @@
+{
+    "AS_Button_46c4d4ac10ce458786149c8c26d04e4c": {
+        "id": "AS_Button_46c4d4ac10ce458786149c8c26d04e4c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e5230bc55d4f4116911ac853abceccb9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"HistoryAndroid\");"
+        }]
+    }
+}

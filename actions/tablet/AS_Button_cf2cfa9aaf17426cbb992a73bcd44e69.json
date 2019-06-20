@@ -1,0 +1,14 @@
+{
+    "AS_Button_cf2cfa9aaf17426cbb992a73bcd44e69": {
+        "id": "AS_Button_cf2cfa9aaf17426cbb992a73bcd44e69",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_22e66b13147d46078972ffcc4108c634",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeSeventyPercentPanel(\"newTransferWrapper\",\"transactionsWrapper\");",
+            "callbackType": null
+        }]
+    }
+}

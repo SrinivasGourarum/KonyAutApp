@@ -1,0 +1,15 @@
+{
+    "AS_CheckBoxGroup_ae552c213fc749c4a5d0d8dcacf47f6c": {
+        "id": "AS_CheckBoxGroup_ae552c213fc749c4a5d0d8dcacf47f6c",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__85e059bdd72c41da89152f93e4efb6b4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountPreviewCheckBoxSelectTouchEnd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_1b39574fe39e4629a1970887fc893d12": {
+        "id": "AS_Button_1b39574fe39e4629a1970887fc893d12",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0d12c5a2a99f484dada95b99d7a0d8bd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.flxTouchID.isVisible=false;",
+            "parentId": null
+        }]
+    }
+}

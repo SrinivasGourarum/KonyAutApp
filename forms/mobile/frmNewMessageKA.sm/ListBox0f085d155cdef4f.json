@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd0d2f0ac2dc4cbb839815876fa03c50",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmNewMessageKA",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "icons_drop_down_trans.png",
+    "focusskin": "sd0d2f0ac2dc4cbb839815876fa03c50",
+    "groupcells": false,
+    "id": "ListBox0f085d155cdef4f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "edc0038f0c39483aa2e8470a9c3e82a0",
+    "masterdata": [
+        [
+            "lb1",
+            "Select relevant account name"
+        ],
+        [
+            "lb2",
+            "Johns Primary Account"
+        ],
+        [
+            "lb3",
+            "Saving Account "
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxAccountNameKA",
+    "pf": "frmNewMessageKA",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Select relevant account name"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

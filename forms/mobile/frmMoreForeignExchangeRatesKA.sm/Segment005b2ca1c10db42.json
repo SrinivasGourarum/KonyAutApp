@@ -1,0 +1,168 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.338"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AUD"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.270"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CAD"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6.209"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "CNY"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.894"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EUR"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "63.39"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "INR"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "122.3"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "JPY"
+            }
+        },
+        {
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "USD"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "06",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "0271905c7acb41c1ab6fa7e29bec2e98",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment005b2ca1c10db42",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "1dbd3611ce5248b096265e3d40c7b2e6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmMoreForeignExchangeRatesKA",
+    "retainselection": false,
+    "rowTemplateId": "0271905c7acb41c1ab6fa7e29bec2e98",
+    "rowcounter": 6,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFBox0c9be9d6518174e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "eeeeee00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel0aa31e107270349": "CopyLabel0aa31e107270349",
+        "Label01f705b47128f41": "Label01f705b47128f41"
+    },
+    "zindex": 1
+}

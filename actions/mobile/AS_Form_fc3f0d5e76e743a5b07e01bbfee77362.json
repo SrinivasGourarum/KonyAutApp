@@ -1,0 +1,23 @@
+{
+    "AS_Form_fc3f0d5e76e743a5b07e01bbfee77362": {
+        "id": "AS_Form_fc3f0d5e76e743a5b07e01bbfee77362",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "86f27251d4444933a1f18edc8e0a9e65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_3925001319764f708bdec2245a58350e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

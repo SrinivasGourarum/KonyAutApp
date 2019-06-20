@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sb1f69737e60489c9d23c886130edcbe",
+    "_text_": "LOCKBOX",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s9c416ed8bfe48bda80cf462fc9fc723",
+    "id": "btnHistoryAndroid",
+    "ide_onClick": "AS_Button_929ec275c1e8412b8f81a0c6cc6718e6",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "c1efc6244a934bc7864c1520094f8eb2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_929ec275c1e8412b8f81a0c6cc6718e6",
+    "parent": "Copytabs0b209f8bc39be46",
+    "pf": "frmMyGoalsDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

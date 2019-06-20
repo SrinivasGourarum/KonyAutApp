@@ -1,0 +1,14 @@
+{
+    "AS_Button_9a5492d22e3d4f6cb03ad16fc668ddf4": {
+        "id": "AS_Button_9a5492d22e3d4f6cb03ad16fc668ddf4",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_e8593e9445f44b079387148822149ec9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "addSeventyPercentPanel(newTransfer.newTransferWrapper,\"newTransferWrapper\",\"transactionsWrapper\");\n",
+            "callbackType": null
+        }]
+    }
+}

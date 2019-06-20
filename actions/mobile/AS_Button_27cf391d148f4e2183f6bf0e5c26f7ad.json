@@ -1,0 +1,18 @@
+{
+    "AS_Button_27cf391d148f4e2183f6bf0e5c26f7ad": {
+        "id": "AS_Button_27cf391d148f4e2183f6bf0e5c26f7ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d487c2250f0e40d0ab10dd37b92d9eb8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hideMapCallout();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

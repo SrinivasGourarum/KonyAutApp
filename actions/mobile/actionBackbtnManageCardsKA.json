@@ -1,0 +1,26 @@
+{
+    "AS_Button_f19d125d5f104fc3ba767cc84a163ad2": {
+        "id": "AS_Button_f19d125d5f104fc3ba767cc84a163ad2",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionBackbtnManageCardsKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_76680a9012fa4653bbdb91fd1ea847ce",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

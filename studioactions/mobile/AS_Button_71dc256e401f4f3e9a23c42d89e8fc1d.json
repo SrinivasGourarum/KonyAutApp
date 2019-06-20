@@ -1,0 +1,28 @@
+{
+    "AS_Button_71dc256e401f4f3e9a23c42d89e8fc1d": {
+        "id": "AS_Button_71dc256e401f4f3e9a23c42d89e8fc1d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditCardsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0b5d66b8a411472c937886ea291eb5ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_12c4509aaa7e4da8a69ef1df579ff240",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnterLocationKA",
+            "formKUID": "861873c077284bceac2ded89085a841b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

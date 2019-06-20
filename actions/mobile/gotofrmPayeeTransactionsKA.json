@@ -1,0 +1,26 @@
+{
+    "AS_Button_9348288555e147ffb4494209f25854c2": {
+        "id": "AS_Button_9348288555e147ffb4494209f25854c2",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmPayeeTransactionsKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___dbe9cdc633e74dd38c51e07f2ddafcdf",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPayeeTransactionsKA",
+            "formKUID": "78b4c1f03e764c0e8ab4e36a3dcb4742",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"flxBackButtonKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

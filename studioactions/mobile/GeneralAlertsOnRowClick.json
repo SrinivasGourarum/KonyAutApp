@@ -1,0 +1,62 @@
+{
+    "AS_Segment_35614b8c54b144e9bb127a26c7b1bcec": {
+        "id": "AS_Segment_35614b8c54b144e9bb127a26c7b1bcec",
+        "type": "ACTION_SEQUENCE",
+        "name": "GeneralAlertsOnRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "IF_CONDITION__bbe3007f3fbb4e9ba5450f123677b784",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmAlertsKA.generalAlerts.selectedRowIndex[1]===0"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ELSE_CONDITION__b224aed2144b41b295ee43377cec9956",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "NAVIGATE_TO_FORM___b66bf7579b624ebcb5c790cd100ca2bf",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDealsAlertKA",
+            "formKUID": "2faae4f42a084d0194092153c0bb7a75",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "ELSE_CONDITION__b224aed2144b41b295ee43377cec9956",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "NAVIGATE_TO_FORM___c221cbf242b1404f8efdafa7d8ff9752",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSecurityAlertsKA",
+            "formKUID": "1e79dd812c2042889f0047b15a33f342",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "IF_CONDITION__bbe3007f3fbb4e9ba5450f123677b784",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_9b8a93895ec147c2a6354c130a26e197": {
+        "id": "AS_FlexContainer_9b8a93895ec147c2a6354c130a26e197",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyuserSettings0c8028b1655dd45",
+            "type": "forms",
+            "platform": null,
+            "KUID": "1b318299a6e14113922c54c53f2d85e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_8d83b6058fe04eb183aa495c19ddd457",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"userSettingsWrapper\",userSettings);",
+            "callbackType": null
+        }]
+    }
+}

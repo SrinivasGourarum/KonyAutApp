@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s878a410e03d4ed7a488f8d7f2ba422b",
+    "_text_": "Cancel Card",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s21191bdf9924ebd8b5cc10a61d71036",
+    "id": "btnCancelCardKA",
+    "ide_onClick": "AS_Button_f7b99b85b4664fc99c9d49c52ff292f9",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "1f6fbcd48dee42b78b47bd77d85cd686",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f7b99b85b4664fc99c9d49c52ff292f9",
+    "parent": "accountsOuterScroll",
+    "pf": "frmManageCardsKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

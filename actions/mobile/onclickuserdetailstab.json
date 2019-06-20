@@ -1,0 +1,18 @@
+{
+    "AS_Button_35e5dde1500c4ff98350992fd4c6ce14": {
+        "id": "AS_Button_35e5dde1500c4ff98350992fd4c6ce14",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickuserdetailstab",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_af7aa11c881b422280d285ec9470c5bc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userdetailsTabSelected();",
+            "callbackType": null
+        }]
+    }
+}

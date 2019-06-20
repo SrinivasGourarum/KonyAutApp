@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "SELECT & PROCEED...",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "enableTouchID",
+    "ide_onClick": "AS_Button_622226babd2b4650921d3a064a6c25d4",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "cd049fb087394a3fb91b5d1e09e552dc",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_622226babd2b4650921d3a064a6c25d4",
+    "parent": "mainContent",
+    "pf": "frmAcmeCreditCardKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.opening_account.frmAcmeCreditCardKA.enableTouchID",
+    "wType": "Button",
+    "zindex": 1
+}

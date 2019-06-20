@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_skin_": "s54d6390bd814d67b458683a8e30419e",
+    "_text_": "<b>$51,320.</b>38\n",
+    "_width_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "id": "CopyRichText0a6587a7c7c594b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f1481994c29c40d08903189aaccad046",
+    "name": "kony.ui.RichText",
+    "parent": "subMenuSPA",
+    "pf": "frmAccountDetailKA",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

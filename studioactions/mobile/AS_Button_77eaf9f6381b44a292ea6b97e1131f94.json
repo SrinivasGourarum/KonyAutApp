@@ -1,0 +1,32 @@
+{
+    "AS_Button_77eaf9f6381b44a292ea6b97e1131f94": {
+        "id": "AS_Button_77eaf9f6381b44a292ea6b97e1131f94",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___38068d35c399466cbf6cd06a99ee808c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPickAProductKA",
+            "formKUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_bd22467f31dc40c4abde0993864bf173",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTransferPayLandingKA",
+            "formKUID": "dab7a50c55b94a12b3d961ae5bd49247",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT_ide_onClick_cea7bd4a09f9445fb11d82adcfb2dc09",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

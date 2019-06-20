@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scec492f4de846a6a0fc0cafc7d6fe2e",
+    "_text_": "Phone number",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopylblQuestion0b378c51dd1f041",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "618f8eff09734daea43cdb9b8db1e4cf",
+    "name": "kony.ui.Label",
+    "parent": "CopychallengeQuestionContainer0103ed4f67f2345",
+    "pf": "frmViewApplicationKA",
+    "texti18n": "i18n.opening_account.frmViewApplicationKA.CopylblQuestion0b378c51dd1f041",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

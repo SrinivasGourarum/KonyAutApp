@@ -1,0 +1,32 @@
+{
+    "AS_Button_49f7ef79cd704d30850570935c7ccf72": {
+        "id": "AS_Button_49f7ef79cd704d30850570935c7ccf72",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbackdepositcheckadrd",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdepositchequeKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5a2ca8c30444478bd542cf9f8178425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___20fccbded4814c65b9de8ee0b744d61d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

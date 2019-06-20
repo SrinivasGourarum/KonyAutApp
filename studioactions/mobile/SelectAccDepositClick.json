@@ -1,0 +1,18 @@
+{
+    "AS_Button_70a6795d518746eb84bd5f577197157b": {
+        "id": "AS_Button_70a6795d518746eb84bd5f577197157b",
+        "type": "ACTION_SEQUENCE",
+        "name": "SelectAccDepositClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_eecf895074c6478ebbd239fb4a239f11",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewDepositKA,\"to\",4);",
+            "callbackType": null
+        }]
+    }
+}

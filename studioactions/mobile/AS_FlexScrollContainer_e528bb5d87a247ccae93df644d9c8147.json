@@ -1,0 +1,18 @@
+{
+    "AS_FlexScrollContainer_e528bb5d87a247ccae93df644d9c8147": {
+        "id": "AS_FlexScrollContainer_e528bb5d87a247ccae93df644d9c8147",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b51b88d2040c4d4cbf8511b11b1bd597",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " insightsPaging();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

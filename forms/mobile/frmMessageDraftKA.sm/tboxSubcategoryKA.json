@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "38"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Pick Sub-category",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "Bill Pay",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "tboxSubcategoryKA",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "fec7ecf7e4df4047934ea61acb3e69c3",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxSubcategoryKA",
+    "pf": "frmMessageDraftKA",
+    "placeholderi18n": "i18n.messages.frmMessageDraftKA.tboxSubcategoryKA_placeholder",
+    "securetextentry": false,
+    "texti18n": "i18n.messages.frmMessageDraftKA.tboxSubcategoryKA",
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

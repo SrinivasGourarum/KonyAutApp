@@ -1,0 +1,23 @@
+{
+    "AS_Form_907dbc82661b4783b5ff4cdcffe367ea": {
+        "id": "AS_Form_907dbc82661b4783b5ff4cdcffe367ea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckSuccess",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2a1b29defe8d46068c728eea12151a77"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceMenu_7e23b4d6d97e4e7fbbde943b849da73f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "disableMenuButton();",
+            "callbackType": null
+        }]
+    }
+}

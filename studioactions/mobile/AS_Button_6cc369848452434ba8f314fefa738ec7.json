@@ -1,0 +1,17 @@
+{
+    "AS_Button_6cc369848452434ba8f314fefa738ec7": {
+        "id": "AS_Button_6cc369848452434ba8f314fefa738ec7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d9451ee7bec241f98b02569dd9401012",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setFocusSkinForEnable();",
+            "callbackType": null
+        }]
+    }
+}

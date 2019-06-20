@@ -1,0 +1,23 @@
+{
+    "AS_Button_067e5881faec450bbb252b26f8d758cf": {
+        "id": "AS_Button_067e5881faec450bbb252b26f8d758cf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsPIN",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8e997752079544b3bee9f42bcdd63b11"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__03c7a2794a5b4cefb958886f502d5e5b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setFocusSkinForEnable();",
+            "parentId": null
+        }]
+    }
+}

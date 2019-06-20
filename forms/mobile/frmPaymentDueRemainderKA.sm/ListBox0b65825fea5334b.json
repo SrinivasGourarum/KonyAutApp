@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb9d45fde2704ea380bcb1ee1e66b7cf",
+    "_top_": {
+        "type": "string",
+        "value": "85dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmPaymentDueRemainderKA",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "dropdown.png",
+    "groupcells": false,
+    "id": "ListBox0b65825fea5334b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c03a841cd5434369a9a314e0c3d789a0",
+    "masterdata": [
+        [
+            "lb1",
+            "Select Period"
+        ],
+        [
+            "lb2",
+            "1 Day"
+        ],
+        [
+            "lb3",
+            "2 Days"
+        ],
+        [
+            "Key340",
+            "3 Days"
+        ],
+        [
+            "Key953",
+            "5 Days"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxPopup",
+    "pf": "frmPaymentDueRemainderKA",
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Select Period"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

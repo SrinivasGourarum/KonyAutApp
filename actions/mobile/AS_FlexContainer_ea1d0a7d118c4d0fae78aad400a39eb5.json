@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_ea1d0a7d118c4d0fae78aad400a39eb5": {
+        "id": "AS_FlexContainer_ea1d0a7d118c4d0fae78aad400a39eb5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSupportDemoChat",
+            "type": "forms",
+            "platform": null,
+            "KUID": "103370af4295412583f3bde7cb5c58db"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bda08c0c1fda44d4909d19b0d99719f8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmPickAProductKA.show();",
+            "callbackType": null
+        }]
+    }
+}

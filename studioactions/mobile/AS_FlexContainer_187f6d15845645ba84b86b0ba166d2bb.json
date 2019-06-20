@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_187f6d15845645ba84b86b0ba166d2bb": {
+        "id": "AS_FlexContainer_187f6d15845645ba84b86b0ba166d2bb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_039c6e3436914e2496ddc2790f65cff4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.show();"
+        }]
+    }
+}

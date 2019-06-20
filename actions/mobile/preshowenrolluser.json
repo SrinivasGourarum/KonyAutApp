@@ -1,0 +1,23 @@
+{
+    "AS_Form_2171e0d469284db9ad7bbff510491c86": {
+        "id": "AS_Form_2171e0d469284db9ad7bbff510491c86",
+        "type": "ACTION_SEQUENCE",
+        "name": "preshowenrolluser",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "cf643f4fc6904b4aa56eb36a9d98d42f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_aa7356b77a90419cbfd8154f645fb705",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "enrolluserpreshow();",
+            "callbackType": null
+        }]
+    }
+}

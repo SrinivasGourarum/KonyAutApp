@@ -1,0 +1,14 @@
+{
+    "AS_Button_c595e412d8a248f4af36442cc307fb3e": {
+        "id": "AS_Button_c595e412d8a248f4af36442cc307fb3e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_7656247bbbf94d609a6c0bb37542424a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewBillKA,\"from\",2);",
+            "callbackType": null
+        }]
+    }
+}

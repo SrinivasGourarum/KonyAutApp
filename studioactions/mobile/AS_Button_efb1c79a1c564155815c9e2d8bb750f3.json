@@ -1,0 +1,28 @@
+{
+    "AS_Button_efb1c79a1c564155815c9e2d8bb750f3": {
+        "id": "AS_Button_efb1c79a1c564155815c9e2d8bb750f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCouponCreation",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a2ec74e6e4e141599a47f65815b709cb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0cbf843494084a9a8f6acc29bc48660c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "lcreateCoupon",
+            "display": "lcreateCoupon",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

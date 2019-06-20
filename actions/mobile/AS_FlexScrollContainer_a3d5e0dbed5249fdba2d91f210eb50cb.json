@@ -1,0 +1,15 @@
+{
+    "AS_FlexScrollContainer_a3d5e0dbed5249fdba2d91f210eb50cb": {
+        "id": "AS_FlexScrollContainer_a3d5e0dbed5249fdba2d91f210eb50cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6425eb333c6c435998ac579655c4b036",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

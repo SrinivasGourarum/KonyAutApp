@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_9dda7053081e467b800041ded83d41d8": {
+        "id": "AS_FlexContainer_9dda7053081e467b800041ded83d41d8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinSetUpDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7418612fc10b4a1380bf273f3a556a03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_597e9a02e06842fe9ced83b19573fe58",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showLoginFromPin();",
+            "callbackType": null
+        }]
+    }
+}

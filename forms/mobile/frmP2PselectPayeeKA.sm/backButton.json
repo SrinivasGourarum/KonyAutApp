@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s42097848aa844c9a25e6237b1b50a5b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s86cba35d2a34a219807da2b84f4f553",
+    "id": "backButton",
+    "ide_onClick": "AS_Button_201d020618dd4456957b33586ac0fa38",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "eaa1ac6da59c4c65b898ab805c0a6d74",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_201d020618dd4456957b33586ac0fa38",
+    "parent": "iosTitleBar",
+    "pf": "frmP2PselectPayeeKA",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

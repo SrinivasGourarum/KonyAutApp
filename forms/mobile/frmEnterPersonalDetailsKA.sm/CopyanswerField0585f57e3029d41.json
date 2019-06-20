@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "35"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter your Mobile Number",
+    "_right_": {
+        "type": "number",
+        "value": "-10"
+    },
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s16addfe9da944a3add187c9cd34aa56",
+    "id": "CopyanswerField0585f57e3029d41",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "0484878c0bba4d5cac6943a60a9179a1",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "CopyanswerFIeldWrapper0082ca72944f541",
+    "pf": "frmEnterPersonalDetailsKA",
+    "placeholderi18n": "i18n.settings.frmEnterPersonalDetailsKA.CopyanswerField0585f57e3029d41_placeholder",
+    "placeholderskin": "sfa36c5ffd8f4b39894ae352f59c3406",
+    "securetextentry": false,
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField"
+}

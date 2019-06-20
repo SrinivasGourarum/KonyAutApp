@@ -1,0 +1,384 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "221 W Sixth St"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "0.12 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "atm_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Downtown Sixth ATM"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "504 Lavaca St"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Close"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.04 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_close.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "branch_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lavaca Branch"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "206 Guadalupe St"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.46 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "atm_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Guadalupe ATM"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1904 Guadalupe St"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Close"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.53 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_close.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "branch_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "University Campus"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2119 E Seventh St"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.85 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "branch_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "East Seventh"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1901 S Lamar Blvd"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1.92 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "atm_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "South Lamar ATM"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2620 Lake Austin Blvd"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.02 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "atm_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lake Austin ATM"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1747 E Oltorf"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Close"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.24 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_close.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "atm_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Oltorf ATM"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        },
+        {
+            "addressLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3848 Airport Blvd"
+            },
+            "addressLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Open"
+            },
+            "distanceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2.82 miles"
+            },
+            "imgOpen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "location_open.png"
+            },
+            "informationListIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "branch_icon_line.png"
+            },
+            "informationListLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Airport and 38th"
+            },
+            "rightChevron1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "right_chevron_icon.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "counter": "08",
+    "disabledSkins": {
+        "widgetSkin": "s9bb3600227d452ba65a2ebd78d95a13"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "78aa0aab9c4245c7888ba19252c78bd8",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "locatorSegmentList",
+    "ide_onRowClick": "AS_Segment_1267dc6be4174eb1abe781c436283113",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": true,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "d976446d0f6147e38371616ce5620c46",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_1267dc6be4174eb1abe781c436283113",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "locatorListView",
+    "pf": "frmLocatorKA",
+    "retainselection": false,
+    "rowTemplateId": "78aa0aab9c4245c7888ba19252c78bd8",
+    "rowcounter": 8,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "se0555fea5cf47259f552eda450446b1",
+    "rowtemplate": "CopyFBox02b498f6048be4e",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "addressLine1": "addressLine1",
+        "addressLine2": "addressLine2",
+        "distanceLabel": "distanceLabel",
+        "imgOpen": "imgOpen",
+        "informationListDivider": "informationListDivider",
+        "informationListIcon": "informationListIcon",
+        "informationListLabel": "informationListLabel",
+        "rightChevron1": "rightChevron1"
+    },
+    "zindex": 1
+}

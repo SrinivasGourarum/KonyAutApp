@@ -1,0 +1,28 @@
+{
+    "AS_Button_07aed51d4f4e46389a5cc0a322740c05": {
+        "id": "AS_Button_07aed51d4f4e46389a5cc0a322740c05",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnSegTitleBranch",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocatorKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c471585baa904bb49278190a4437d425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ef22434c1ded4234aa23f67509e8f8de",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onBranchSelected",
+            "display": "onBranchSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

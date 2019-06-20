@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_de445711439b458fb81ab1177e009092": {
+        "id": "AS_FlexContainer_de445711439b458fb81ab1177e009092",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_9f2e4e16b8654100852af06e47bcc45c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTransferFromDemo.show();\nfrmTransferFromDemo.transferPayTitleLabel.text=\"TO ACCOUNT\";"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_119e0c13b6d44287883ae9c685935839": {
+        "id": "AS_Button_119e0c13b6d44287883ae9c685935839",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cb3c1d30c15f40e9923f8a2b1551440f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(frmNewBillKA, \"from\");",
+            "parentId": null
+        }]
+    }
+}

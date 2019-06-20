@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sae25a4e690840e48b4d0199cd484f64",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.05%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sae25a4e690840e48b4d0199cd484f64",
+    "id": "CopysignInButton0963094357e6147",
+    "ide_onClick": "AS_Button_486150ca40704486a439d01d800db1fb",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "3dfc8d0b4bee45c994e741eccbef52ab",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_486150ca40704486a439d01d800db1fb",
+    "parent": "mainContent",
+    "pf": "frmConfirmDepoist",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

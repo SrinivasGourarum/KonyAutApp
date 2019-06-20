@@ -1,0 +1,37 @@
+{
+    "AS_Segment_14cbd7763b474a688b8f4fbb97952b4f": {
+        "id": "AS_Segment_14cbd7763b474a688b8f4fbb97952b4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetailKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c88605275a1d448eab11a1527b57672e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_e4ac06945ebd4c6e9f10e6f3d32bd1e4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmtransactionChequeKA",
+            "formKUID": "f73d1ca331e047ce8bbd9d4a6d8a2105",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

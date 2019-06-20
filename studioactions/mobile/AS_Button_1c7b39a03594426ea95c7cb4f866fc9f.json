@@ -1,0 +1,28 @@
+{
+    "AS_Button_1c7b39a03594426ea95c7cb4f866fc9f": {
+        "id": "AS_Button_1c7b39a03594426ea95c7cb4f866fc9f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e7962ffb13e843fe869c3a94c3a9002e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddExternalAccountKA",
+            "formKUID": "4943cca5d62d4f0ca6f2e9ab47274db5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

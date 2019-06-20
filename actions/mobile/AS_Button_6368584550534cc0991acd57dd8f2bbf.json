@@ -1,0 +1,24 @@
+{
+    "AS_Button_6368584550534cc0991acd57dd8f2bbf": {
+        "id": "AS_Button_6368584550534cc0991acd57dd8f2bbf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmStolenLostCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4e104ffa5dc847dabf935eaf516f81f6"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

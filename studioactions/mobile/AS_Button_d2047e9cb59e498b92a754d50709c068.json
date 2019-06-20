@@ -1,0 +1,24 @@
+{
+    "AS_Button_d2047e9cb59e498b92a754d50709c068": {
+        "id": "AS_Button_d2047e9cb59e498b92a754d50709c068",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAnswerSecretQuestionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f6857ccc7dc3462791659bccc5a32b4e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bdfe73a4705247f6932a34ac8392d2ed",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(from == \"Deposits\")\n  frmViewApplicationKA.lblHeadingKA.text = \"Fixed Deposit\";\nelse if(from == \"Credit Cards\")\n  frmViewApplicationKA.lblHeadingKA.text = \"ACME Silver Card\";\nelse \n  frmViewApplicationKA.lblHeadingKA.text = from;\nfrmViewApplicationKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

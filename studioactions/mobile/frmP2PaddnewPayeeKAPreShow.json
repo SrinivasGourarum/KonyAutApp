@@ -1,0 +1,25 @@
+{
+    "AS_Form_2be2f151d3d9413099e7f6b8e3fd71dc": {
+        "id": "AS_Form_2be2f151d3d9413099e7f6b8e3fd71dc",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmP2PaddnewPayeeKAPreShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PaddnewPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6dd3432a9fd14a5f9f8e953aa892b534"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6c3f740a5043414099ca7c17b1e77d21",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmP2PaddnewPayeeKA.imgPhoneKA.src =\"radioselected.png\";\nfrmP2PaddnewPayeeKA.imgEmailKA.src =\"radiononselected.png\";\nfrmP2PaddnewPayeeKA.tbxPhoneKA.setFocus(true);\nfrmP2PaddnewPayeeKA.tbxEmailKA.setFocus(false);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

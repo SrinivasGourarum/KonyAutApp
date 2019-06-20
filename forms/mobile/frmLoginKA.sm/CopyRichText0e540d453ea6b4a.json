@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd041f712ac54939acc88de9dad9176d",
+    "_text_": "&copy; 2018 Kony. All Rights Reserved.",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "CopyRichText0e540d453ea6b4a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "acc1e34b204843369d7bd6d6b53aee51",
+    "name": "kony.ui.RichText",
+    "parent": "utilityLinks",
+    "pf": "frmLoginKA",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

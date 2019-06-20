@@ -1,0 +1,25 @@
+{
+    "AS_Button_c7d17fc51b09481aa0ee5dad1ea9cd24": {
+        "id": "AS_Button_c7d17fc51b09481aa0ee5dad1ea9cd24",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_406aeadb124a4b4ba0a8a6bcebaa203c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PselectPayeeKA",
+            "formKUID": "70d10cb7bc484b6c92bcc81b0ccc655a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

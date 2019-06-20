@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "ATM",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnATMFilterKA",
+    "ide_onClick": "AS_Button_6daee20140ee4fc58eaeae274df45fe1",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "30630eaf8b3f47ea9f9c4fcc92d1b2d2",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_6daee20140ee4fc58eaeae274df45fe1",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmLocatorKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.locateus.frmLocatorKA.btnATMFilterKA",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,22 @@
+{
+    "AS_Button_fa59dd28652b4cf583cf19e3539920af": {
+        "id": "AS_Button_fa59dd28652b4cf583cf19e3539920af",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e3e0b2d737ad4cffb097a8c33bacd3e2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"HistoryAndroid\");"
+        }]
+    }
+}

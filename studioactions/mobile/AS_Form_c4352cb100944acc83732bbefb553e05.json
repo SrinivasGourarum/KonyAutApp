@@ -1,0 +1,23 @@
+{
+    "AS_Form_c4352cb100944acc83732bbefb553e05": {
+        "id": "AS_Form_c4352cb100944acc83732bbefb553e05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCheckReorderDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "822cff9ab8a04dcab05d7678d932969b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onDeviceMenu_e5920980ace94d96afd6837076b13944",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

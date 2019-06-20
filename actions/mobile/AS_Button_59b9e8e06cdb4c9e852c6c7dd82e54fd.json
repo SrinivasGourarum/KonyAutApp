@@ -1,0 +1,16 @@
+{
+    "AS_Button_59b9e8e06cdb4c9e852c6c7dd82e54fd": {
+        "id": "AS_Button_59b9e8e06cdb4c9e852c6c7dd82e54fd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_6f557e0ce4c1450d9e26bce0326143f5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.flxTouchID.isVisible=false;"
+        }]
+    }
+}

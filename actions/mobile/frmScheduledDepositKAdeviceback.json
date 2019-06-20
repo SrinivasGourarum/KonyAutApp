@@ -1,0 +1,25 @@
+{
+    "AS_Form_bf262f8066964a31abea58c9c048cd88": {
+        "id": "AS_Form_bf262f8066964a31abea58c9c048cd88",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmScheduledDepositKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "93b50483f6434c4e9037700dbe6140bf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ec68857255fb4f278db94c827c1884ed",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

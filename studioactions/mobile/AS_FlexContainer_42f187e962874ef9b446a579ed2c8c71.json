@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_42f187e962874ef9b446a579ed2c8c71": {
+        "id": "AS_FlexContainer_42f187e962874ef9b446a579ed2c8c71",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPickAProductKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb0d7cb6e36141918ff0ac0c1e74c2ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cb7cdfee707e48f48802d0c97091e910",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcntTermsAndConditionsKA",
+            "formKUID": "baf8bcd68a2c41d9a1f80da15169c48f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__f8586fd321a0457e8272c6e6be213ee9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//from = \"eWallet Account\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

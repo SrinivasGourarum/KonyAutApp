@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s017d1a0aee6472ba43e0f6d39927313",
+    "_text_": "Please enter it here.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "CopyLabel0d45989a2f48a4c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "6808daefd7554f659140cf861889f23a",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer00a3c07fadcbf4b",
+    "pf": "frmDeviceRegisterationIncorrectPinActicvationKA",
+    "texti18n": "i18n.login.frmDeviceRegisterationIncorrectPinActicvationKA.CopyLabel0d45989a2f48a4c",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

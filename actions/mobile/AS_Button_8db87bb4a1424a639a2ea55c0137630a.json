@@ -1,0 +1,18 @@
+{
+    "AS_Button_8db87bb4a1424a639a2ea55c0137630a": {
+        "id": "AS_Button_8db87bb4a1424a639a2ea55c0137630a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9120ae8d661a4dc0977d0025a1b6eac0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(from == \"Checking Account\" || from == \"Savings Account\"  || from == \"Mortgage Account\"){    frmAcmeCreditCardKA.lblHeadingKA.text = from;\n    frmAcmeCreditCardKA.show();\n}\nelse{\n  if(from == \"Deposits\" ){\n    frmCreditCardsKA.segDepositsKA.isVisible = true;\n    frmCreditCardsKA.moreResourcesSegment.isVisible = false;\n    \n  }\n  else {\n    frmCreditCardsKA.moreResourcesSegment.isVisible = true;\n    frmCreditCardsKA.segDepositsKA.isVisible = false;\n  }\n  frmCreditCardsKA.lblHeadingKA.text = from ;\n  frmCreditCardsKA.show();\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

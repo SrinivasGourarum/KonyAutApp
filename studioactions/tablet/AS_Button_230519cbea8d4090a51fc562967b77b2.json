@@ -1,0 +1,17 @@
+{
+    "AS_Button_230519cbea8d4090a51fc562967b77b2": {
+        "id": "AS_Button_230519cbea8d4090a51fc562967b77b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_2d416c8e370347769751408ff47c6294",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAmountCard(newTransfer);",
+            "callbackType": null
+        }]
+    }
+}

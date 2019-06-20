@@ -1,0 +1,25 @@
+{
+    "AS_Form_4adeb1ca4ff14b088a25173b06d2fb40": {
+        "id": "AS_Form_4adeb1ca4ff14b088a25173b06d2fb40",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmTransferPayLandingKAdevicebackk",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dab7a50c55b94a12b3d961ae5bd49247"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ec15fdcaa026471caa409ef5e14bcb59",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

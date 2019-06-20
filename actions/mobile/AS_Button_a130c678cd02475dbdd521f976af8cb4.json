@@ -1,0 +1,16 @@
+{
+    "AS_Button_a130c678cd02475dbdd521f976af8cb4": {
+        "id": "AS_Button_a130c678cd02475dbdd521f976af8cb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_3b837a3cce654c9b89e3ccfa36070ca4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"History\");"
+        }]
+    }
+}

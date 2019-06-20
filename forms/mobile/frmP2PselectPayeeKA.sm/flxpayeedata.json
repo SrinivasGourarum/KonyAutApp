@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s62535ba0e414edf82fa4d0bafae7f5b",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "contactsegment",
+        "lblLine1KA",
+        "repeatTransactionContainer",
+        "CopylblLine0e4a9c08c6edc40",
+        "CopyrepeatTransactionContainer0f4b13ef1f90547",
+        "CopylblLine0c771f93f794241"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxpayeedata",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1f72bb465bf642c7b3f9006319d751e2",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmP2PselectPayeeKA",
+    "pf": "frmP2PselectPayeeKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

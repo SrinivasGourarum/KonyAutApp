@@ -1,0 +1,23 @@
+{
+    "AS_Form_0de669819e564a39b19f4e11189b3a41": {
+        "id": "AS_Form_0de669819e564a39b19f4e11189b3a41",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRecentDepositKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "12938df68b634bdb91432896ef721294"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_e45307f413ca4d879c21df566ece7691",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "recentTransactionDetailPreShow();",
+            "callbackType": null
+        }]
+    }
+}

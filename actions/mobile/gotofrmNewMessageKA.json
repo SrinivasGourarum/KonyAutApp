@@ -1,0 +1,32 @@
+{
+    "AS_Button_00120df4168b4806856659e1f6c2abe4": {
+        "id": "AS_Button_00120df4168b4806856659e1f6c2abe4",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmNewMessageKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMessagesKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2e63134c7cd34ec9801fa53d362efd33"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___02043e7d7e634f638e7a9b48f0274b0f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewMessageKA",
+            "formKUID": "595170e0ad324e3699d120dae6f9e312",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnNewAndroidKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

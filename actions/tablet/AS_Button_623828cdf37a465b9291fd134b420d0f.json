@@ -1,0 +1,18 @@
+{
+    "AS_Button_623828cdf37a465b9291fd134b420d0f": {
+        "id": "AS_Button_623828cdf37a465b9291fd134b420d0f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__83067021ab834e62a5c648d16e611dc1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal (unauthInformation.infoWrapper,\"infoWrapper\");\nhideModalBackButton();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

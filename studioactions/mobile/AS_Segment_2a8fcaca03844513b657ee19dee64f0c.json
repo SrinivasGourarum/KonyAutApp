@@ -1,0 +1,39 @@
+{
+    "AS_Segment_2a8fcaca03844513b657ee19dee64f0c": {
+        "id": "AS_Segment_2a8fcaca03844513b657ee19dee64f0c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_b553579679ff41f69c02cf01576d3f06",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "recentDepositTabSelected();",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_2e38e7f6c43a49c9b727c3ce93a91c4d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRecentDepositKA",
+            "formKUID": "12938df68b634bdb91432896ef721294",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

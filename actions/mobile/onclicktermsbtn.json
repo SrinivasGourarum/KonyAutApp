@@ -1,0 +1,24 @@
+{
+    "AS_Button_e77fa5ad5f9a479ab8bd4f077728168a": {
+        "id": "AS_Button_e77fa5ad5f9a479ab8bd4f077728168a",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclicktermsbtn",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrolluserLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de724966138b4e7c9bfdd35033a0bdb3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_95b49c285c8c47949cb25c06ba303e58",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "termsTabSelected();",
+            "callbackType": null
+        }]
+    }
+}

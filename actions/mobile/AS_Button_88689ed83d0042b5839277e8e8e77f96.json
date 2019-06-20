@@ -1,0 +1,24 @@
+{
+    "AS_Button_88689ed83d0042b5839277e8e8e77f96": {
+        "id": "AS_Button_88689ed83d0042b5839277e8e8e77f96",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceRegistrationDemo2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e13f1296e0a4463e851f937f693990a9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__382470bf043349c6b3cde6194d9a1c95",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

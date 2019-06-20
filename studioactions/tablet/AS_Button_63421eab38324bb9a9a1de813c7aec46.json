@@ -1,0 +1,24 @@
+{
+    "AS_Button_63421eab38324bb9a9a1de813c7aec46": {
+        "id": "AS_Button_63421eab38324bb9a9a1de813c7aec46",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "moreLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "328f19fe420346eda2f9b107ef7e9db9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__04b9e6e1819247cbb33ace363bb919d6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal(contactUs.contactUsWrapper,\"contactUsWrapper\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

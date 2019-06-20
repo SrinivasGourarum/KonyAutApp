@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5c0d86dae074b72ae4052d755aa4b62",
+    "_text_": "Login",
+    "_top_": {
+        "type": "string",
+        "value": "8.80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "130dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "blockedUISkin": "s6296ebeb163492d973121eb1c4b9727",
+        "psp": {
+            "hoverSkin": "sfdb570cce7a40a09f172f2a91abc91b"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s821eb98830846288af93f06fd79e733",
+    "id": "btnLogin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c1ab05569b984ac992db5b2ebee97d6c",
+    "name": "kony.ui.Button",
+    "parent": "flxRememberMe",
+    "pf": "frmLogin",
+    "tooltip": "Login",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s76ff61aef1d4b5b86c2641d87a9f5d0",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "rememberUsernameSwitch",
+    "info": null,
+    "ipad": {
+        "render": true
+    },
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "45d7ec02c39849fdb10b8ac58cb69340",
+    "leftsidetext": "ON",
+    "name": "kony.ui.Switch",
+    "osPlatform": "iphone",
+    "osVersion": "iOS7",
+    "parent": "rememberContainer",
+    "pf": "frmLoginKA",
+    "rightsidetext": "OFF",
+    "selectedindex": 0,
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "tabrcandroid": {
+        "render": false
+    },
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

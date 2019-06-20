@@ -1,0 +1,35 @@
+{
+    "AS_FlexContainer_437ac73b9d274dc495407872a81b07ba": {
+        "id": "AS_FlexContainer_437ac73b9d274dc495407872a81b07ba",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "STYLE_ACTION____c8d0a5ca604e47d69493e2dc64209c87",
+            "type": "STYLE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmNewTransferKAOld",
+            "itemKUID": "2ac343500306428da0ceef91a3b44d18",
+            "widgetKUID": "f5eb371b568b4054859b3d80c121f1c7",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                },
+                "backgroundColor": "ffffffff"
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "STYLE_ACTION____c8d0a5ca604e47d69493e2dc64209c87",
+            "displayAnimationId": "STYLE_ACTION____c8d0a5ca604e47d69493e2dc64209c87",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

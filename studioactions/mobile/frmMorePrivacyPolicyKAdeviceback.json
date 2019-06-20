@@ -1,0 +1,25 @@
+{
+    "AS_Form_b0d3fb6b65a9423bac4a87f872142fd8": {
+        "id": "AS_Form_b0d3fb6b65a9423bac4a87f872142fd8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmMorePrivacyPolicyKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMorePrivacyPolicyKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4a8bd708f75644b7b88dcb4c8934c336"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__19736a770e9f436da766d44c85823ebe",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

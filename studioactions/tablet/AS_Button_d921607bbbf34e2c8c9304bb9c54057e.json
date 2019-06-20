@@ -1,0 +1,14 @@
+{
+    "AS_Button_d921607bbbf34e2c8c9304bb9c54057e": {
+        "id": "AS_Button_d921607bbbf34e2c8c9304bb9c54057e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_757b6c2be78a41a0a94741e408cd68e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeRightPanel(\"accountDetailWrapper\",\"accountInsights\");",
+            "callbackType": null
+        }]
+    }
+}

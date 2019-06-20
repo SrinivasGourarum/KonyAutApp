@@ -1,0 +1,16 @@
+{
+    "AS_NamedActions_5a525378bf774a7cb22165cba6bc6fd9": {
+        "id": "AS_NamedActions_5a525378bf774a7cb22165cba6bc6fd9",
+        "type": "ACTION_SEQUENCE",
+        "name": "showPreviousForm",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5b494d00093c40dba0da2c82984623e5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.getPreviousForm().show()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

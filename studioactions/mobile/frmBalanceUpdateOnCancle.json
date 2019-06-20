@@ -1,0 +1,29 @@
+{
+    "AS_Button_061748f73a144f4a9cc72803a4ca3d37": {
+        "id": "AS_Button_061748f73a144f4a9cc72803a4ca3d37",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmBalanceUpdateOnCancle",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBalanceUpdateKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "17e8fc918b85450a9d7bd5bfcd044acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e0b8a00d9daa45dc8aebd643d74146ff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

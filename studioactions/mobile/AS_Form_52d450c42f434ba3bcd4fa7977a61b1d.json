@@ -1,0 +1,23 @@
+{
+    "AS_Form_52d450c42f434ba3bcd4fa7977a61b1d": {
+        "id": "AS_Form_52d450c42f434ba3bcd4fa7977a61b1d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_b5ff5c8bc7e34393a6b0ec45a7b230c9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

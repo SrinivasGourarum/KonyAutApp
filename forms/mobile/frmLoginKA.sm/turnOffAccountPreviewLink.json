@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0f0b2bbe5c74b6385d992a8668f212b",
+    "_text_": "Account Preview can be disabled in your settings.",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 2,
+    "enabled": false,
+    "id": "turnOffAccountPreviewLink",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "de6ac9e21dcf4d89b7f6e18a783f0d26",
+    "name": "kony.ui.Label",
+    "parent": "accountPreviewCard",
+    "pf": "frmLoginKA",
+    "texti18n": "i18n.login.frmLoginKA.turnOffAccountPreviewLink",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Button_d8e41239f3e74b1eba693d530e988eb4": {
+        "id": "AS_Button_d8e41239f3e74b1eba693d530e988eb4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUncategorizedTransactionsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6eb320a5ff4c42d8bf0ce564370c64ff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_541700bff0324b10a091eef4634d346d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMyMoneyListKA",
+            "formKUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

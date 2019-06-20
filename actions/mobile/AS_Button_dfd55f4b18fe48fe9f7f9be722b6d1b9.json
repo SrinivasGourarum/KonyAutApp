@@ -1,0 +1,15 @@
+{
+    "AS_Button_dfd55f4b18fe48fe9f7f9be722b6d1b9": {
+        "id": "AS_Button_dfd55f4b18fe48fe9f7f9be722b6d1b9",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__08fcb1a93ace4cea96099fff0cdbe87e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "locatorToggle();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

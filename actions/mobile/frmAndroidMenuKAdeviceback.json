@@ -1,0 +1,25 @@
+{
+    "AS_Form_9efaec72e57a4f3bb831fb9c108f3355": {
+        "id": "AS_Form_9efaec72e57a4f3bb831fb9c108f3355",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAndroidMenuKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAndroidMenuKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b8fdfc611bf8474789006789a4019467"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6e746c1654ce429e9989bceb5e9f7997",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

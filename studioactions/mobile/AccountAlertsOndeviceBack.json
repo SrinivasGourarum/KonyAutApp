@@ -1,0 +1,24 @@
+{
+    "AS_Form_6f18be741fd34978b903b8ba30480042": {
+        "id": "AS_Form_6f18be741fd34978b903b8ba30480042",
+        "type": "ACTION_SEQUENCE",
+        "name": "AccountAlertsOndeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountAlertsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbe7fc072c444a808e3b02f2d737512c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_61af488c4d8e47e6a373441c0b2751a6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

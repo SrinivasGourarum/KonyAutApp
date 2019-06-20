@@ -1,0 +1,16 @@
+{
+    "AS_Button_494898e5f128417e932021b3e7f06e51": {
+        "id": "AS_Button_494898e5f128417e932021b3e7f06e51",
+        "type": "ACTION_SEQUENCE",
+        "name": "frequencyCardEdit",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7e203cc56be44bbdaa73997d0a422add",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferFrequencyEdit();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

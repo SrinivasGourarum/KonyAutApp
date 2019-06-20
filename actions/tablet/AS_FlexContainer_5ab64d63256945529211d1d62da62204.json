@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_5ab64d63256945529211d1d62da62204": {
+        "id": "AS_FlexContainer_5ab64d63256945529211d1d62da62204",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "10d341fcdc4f49768db99e146a540c09"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_eff8c322d4464eb4b676a85dde94e52e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"scheduledTransactionWrapper\",scheduledTransactionDetails);\nretainSelectionOff(\"scheduledTransactions\");",
+            "callbackType": null
+        }]
+    }
+}

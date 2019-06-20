@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s77117634aa14e58908cea4332c51ada",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblAboutCardKA018fa4e4899e449",
+        "CopylblDescAboutCardKA0fec179a464a046",
+        "CopylblBenifitsKA00a12559a85914f",
+        "CopylblDescAboutCardKA0fe53f0971e6e45",
+        "CopylblDescAboutCardKA00a82c480fd754a",
+        "CopylblDescAboutCardKA052f0c8900f164c",
+        "CopylblDescAboutCardKA055c66d55d2a94d",
+        "CopylblDescAboutCardKA09a6c9fae577d4a",
+        "CopylblDescAboutCardKA0ea9e4626a64249"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxInfoKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "48fed21466cd467a8160289051cc901e",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollInfoKA",
+    "pf": "frmAcmeCreditCardKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

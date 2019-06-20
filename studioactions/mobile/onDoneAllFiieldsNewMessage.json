@@ -1,0 +1,31 @@
+{
+    "AS_TextField_cc5f5d8a674f403fba3e76e1b7c23b87": {
+        "id": "AS_TextField_cc5f5d8a674f403fba3e76e1b7c23b87",
+        "type": "ACTION_SEQUENCE",
+        "name": "onDoneAllFiieldsNewMessage",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNewMessageKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "595170e0ad324e3699d120dae6f9e312"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___03a3b8eb859c432d8ca4c30c5508f51a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "enableNewMessageSendButton",
+            "display": "enableNewMessageSendButton",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Button_0b068507bbca4febb4ba9e1383ae8369": {
+        "id": "AS_Button_0b068507bbca4febb4ba9e1383ae8369",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__71a27ee1ad9b4596b8b9ac42c8051437",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"contactUsWrapper\",contactUs);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_0a6a2639ad4143b798491c3082602d26": {
+        "id": "AS_Button_0a6a2639ad4143b798491c3082602d26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_9feebd613f6242a4b27b4b72f12ee7c9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAcmeCreditCardKA",
+            "formKUID": "555544fb8d9a4bcf9b081cc78b58bfd1",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s7d36df6cf6f406fa2ff1418541f0ec0",
+    "_text_": "SCHEDULED",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s80191b6ac7b456395dfcf46858959f6",
+    "id": "scheduledTabButton",
+    "ide_onClick": "AS_Button_5cf352ceb8094acf83e90f4325190ed3",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "271247159e6d4823b8232a637b631151",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_5cf352ceb8094acf83e90f4325190ed3",
+    "paddinginpixel": false,
+    "parent": "tabsWrapper",
+    "pf": "frmTransferPayLandingKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmTransferPayLandingKA.scheduledTabButton",
+    "wType": "Button"
+}

@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_8beb02b4befe4f2f9e0f006f0940b302": {
+        "id": "AS_FlexContainer_8beb02b4befe4f2f9e0f006f0940b302",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_fc366f415b734339a1ff9087cf510723",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewDepositKA.show();",
+            "callbackType": null
+        }]
+    }
+}

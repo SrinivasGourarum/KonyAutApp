@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        4,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s2f875b2e53547b39b01361c8f04c754",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "render": true,
+        "tickedImage": "checkbox_selected.png",
+        "untickedImage": "checkbox_unselected.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "enabled": false,
+    "groupcells": false,
+    "id": "CheckBoxGroup0aebf676b3db246",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "e7dd6dbd02b14e39ae93df68f9a09f3f",
+    "masterdata": [
+        [
+            "remember",
+            "Include in analysis",
+            "i18n.my_money.frmTransactionDetailKA.CheckBoxGroup0aebf676b3db246.remember"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddinginpixel": false,
+    "parent": "preferredAccountEnable",
+    "pf": "frmTransactionDetailKA",
+    "selectedkey": null,
+    "selectedkeys": [
+        "remember"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "remember",
+            "Include in analysis"
+        ]
+    ],
+    "size": 18,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

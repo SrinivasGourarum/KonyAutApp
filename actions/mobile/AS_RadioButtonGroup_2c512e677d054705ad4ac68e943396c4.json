@@ -1,0 +1,14 @@
+{
+    "AS_RadioButtonGroup_2c512e677d054705ad4ac68e943396c4": {
+        "id": "AS_RadioButtonGroup_2c512e677d054705ad4ac68e943396c4",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onSelection_164ce7043c244efd847ef80eebdf9c19",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferFrequencyMadePick();",
+            "callbackType": null
+        }]
+    }
+}

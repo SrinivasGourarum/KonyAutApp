@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4.80%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10d7f8a3c3e4194998a2605c37e5ae2",
+    "_text_": "Get a <b style=\"color:#5a4fef ; font-size:28px\"> 2.99% </b> low variable introductory rate for 12 months. Apply for a new loan or refinance yours today.",
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "51.10%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "CopyRichText0hfa8cdefee8840",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c346471f4e37454ea2010bcb9f8c648b",
+    "name": "kony.ui.RichText",
+    "parent": "flxBannerImage",
+    "pf": "frmAccountsLanding",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

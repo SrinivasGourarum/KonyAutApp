@@ -1,0 +1,27 @@
+{
+    "AS_Button_b5a1f7cc1aa54dc6bb5c615fb4846c92": {
+        "id": "AS_Button_b5a1f7cc1aa54dc6bb5c615fb4846c92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAcmeCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "555544fb8d9a4bcf9b081cc78b58bfd1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f4b66e1fb04b4eae8eaf49d0396cec93",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "OnClickInfo",
+            "display": "OnClickInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

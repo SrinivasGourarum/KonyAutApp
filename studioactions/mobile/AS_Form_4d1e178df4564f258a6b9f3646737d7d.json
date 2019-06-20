@@ -1,0 +1,15 @@
+{
+    "AS_Form_4d1e178df4564f258a6b9f3646737d7d": {
+        "id": "AS_Form_4d1e178df4564f258a6b9f3646737d7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__4e88770d823843e982d156ed71cc8515",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "currentFormHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

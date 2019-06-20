@@ -1,0 +1,19 @@
+{
+    "AS_Form_4975dcbb5ad544d9adfe471189d5ebd5": {
+        "id": "AS_Form_4975dcbb5ad544d9adfe471189d5ebd5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAddPayeeSuccessBillPayKADeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddPayeeSuccessBillPayKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6e316e59d2e44fbdaf370e02174f1690"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

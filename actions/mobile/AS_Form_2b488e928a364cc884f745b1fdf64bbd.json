@@ -1,0 +1,23 @@
+{
+    "AS_Form_2b488e928a364cc884f745b1fdf64bbd": {
+        "id": "AS_Form_2b488e928a364cc884f745b1fdf64bbd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTouchIdDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec770cae7fb741e990cbbe31b21d89fc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__90b8af4f9c0842dfba13625e2dc4588b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//touchIdAuthentication();",
+            "parentId": null
+        }]
+    }
+}

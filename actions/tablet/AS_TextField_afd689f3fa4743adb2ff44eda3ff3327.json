@@ -1,0 +1,26 @@
+{
+    "AS_TextField_afd689f3fa4743adb2ff44eda3ff3327": {
+        "id": "AS_TextField_afd689f3fa4743adb2ff44eda3ff3327",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "91bf1ce516214ab8adad0a71f5d68382"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__11d5a2c16dee46a990405cc30ce8fb96",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userEnteredLocationTerm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

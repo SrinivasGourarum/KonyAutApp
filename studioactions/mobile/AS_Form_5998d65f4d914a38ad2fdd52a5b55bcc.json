@@ -1,0 +1,23 @@
+{
+    "AS_Form_5998d65f4d914a38ad2fdd52a5b55bcc": {
+        "id": "AS_Form_5998d65f4d914a38ad2fdd52a5b55bcc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceMenu_9c8cc1c24d2b4b62bf42b387ee031164",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AS_FlexContainer_4aac09f2827645deb6514fdb3c3fba48": {
+        "id": "AS_FlexContainer_4aac09f2827645deb6514fdb3c3fba48",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_0fb7e0267ed34fc3bab63dba3c722b8a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.accountDetail2.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

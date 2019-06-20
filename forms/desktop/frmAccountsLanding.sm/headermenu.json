@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "5.07%"
+    },
+    "_skin_": "s22132ce8c3545a78414f79b825fb0fb",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33.93%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxMessages",
+        "flxVerticalSeperator1",
+        "flxResetUserImg",
+        "flxUserId",
+        "flxVerticalSeperator2",
+        "btnMsg",
+        "CopyimgUserReset0e17ba156cf2249",
+        "CopybtnMsg0dd06d082496145",
+        "btnLogout"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "headermenu",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d67433c72d6e45b395347bc9388539c6",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "customheader",
+    "pf": "frmAccountsLanding",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

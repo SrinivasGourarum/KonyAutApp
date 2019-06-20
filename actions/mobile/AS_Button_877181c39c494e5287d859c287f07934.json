@@ -1,0 +1,14 @@
+{
+    "AS_Button_877181c39c494e5287d859c287f07934": {
+        "id": "AS_Button_877181c39c494e5287d859c287f07934",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_8034a7d9b56b4e7096d28588ec3758f0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showDateRange();",
+            "callbackType": null
+        }]
+    }
+}

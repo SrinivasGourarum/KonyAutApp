@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4e0065cfb0d44769ed5d7a0cde5e355",
+    "_text_": "Repeat Bill Pay",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s4e0065cfb0d44769ed5d7a0cde5e355",
+    "id": "btnRepeatTransactionKA",
+    "ide_onClick": "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "ae759d4d77b448bea6142920313f1172",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94",
+    "parent": "flxRepeatBillPayContainerKA",
+    "pf": "frmBillDetailsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.transfer.frmBillDetailsKA.btnRepeatTransactionKA",
+    "wType": "Button",
+    "zindex": 1
+}

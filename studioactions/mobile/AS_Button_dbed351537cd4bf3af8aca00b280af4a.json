@@ -1,0 +1,33 @@
+{
+    "AS_Button_dbed351537cd4bf3af8aca00b280af4a": {
+        "id": "AS_Button_dbed351537cd4bf3af8aca00b280af4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStolenLostCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4e104ffa5dc847dabf935eaf516f81f6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_4b2099b4664a40c49f9a5bc9c2ce3869",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Your report is recorded\");",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ad924ef64b43464780a2b124f3deb8d3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

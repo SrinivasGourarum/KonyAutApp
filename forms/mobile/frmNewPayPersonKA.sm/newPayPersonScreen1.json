@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc5281c8ea3d42a595a1ab9e06519c11",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "titleBarPayPerson",
+        "dateCard",
+        "toCard",
+        "fromCard",
+        "amountCard",
+        "noteflex",
+        "selectPayeeButton"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "newPayPersonScreen1",
+    "ide_onClick": "AS_FlexContainer_a28c0d542c28407393538fe2f04b7ce4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7e0b44a32b114c999de6955855642c32",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "onclick": "AS_FlexContainer_a28c0d542c28407393538fe2f04b7ce4",
+    "orientation": 6,
+    "parent": "frmNewPayPersonKA",
+    "percent": true,
+    "pf": "frmNewPayPersonKA",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

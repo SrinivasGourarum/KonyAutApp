@@ -1,0 +1,33 @@
+{
+    "AS_Segment_a19f7b45b8134c408752cd1e24e606f7": {
+        "id": "AS_Segment_a19f7b45b8134c408752cd1e24e606f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKAOld",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d62a2a0906c64d2281addc95893a6544"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2813bc34329e4b6a9be535056e042476",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "accountDetails",
+            "display": "accountDetails",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

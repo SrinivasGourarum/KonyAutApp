@@ -1,0 +1,170 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "This Month"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last Month"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last 30 Days"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last 90 Days"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "This Year"
+            }
+        },
+        {
+            "imgicontick": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "check_blue.png"
+            },
+            "lblNameKA": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Last Year"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "disabledSkins": {
+        "widgetSkin": "s9bb3600227d452ba65a2ebd78d95a13"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "selectDateRange",
+    "ide_onRowClick": "AS_Segment_00c94ac0b7e34594b0fed09e700ec3e6",
+    "info": null,
+    "invokedProperty": "selectedStateImage",
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "2540c33a2f2d4ca7b61a01ed3a861be3",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_00c94ac0b7e34594b0fed09e700ec3e6",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmSearchKA",
+    "retainselection": false,
+    "rowTemplateId": "78150384d6b94e4dac622dd95eadbc0f",
+    "rowcounter": 5,
+    "rowfocusskin": "sd637e0f4cfa4026ba5ae8c9a2292000",
+    "rowskin": "s84a731cc1f4437cadee00d360d24c00",
+    "rowtemplate": "CopyFlexContainer0b2b1c26ffbf74f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "singleselect",
+    "selectionindicator": "Image02e20b01dcc2e40",
+    "separatorcolor": "64646400",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0b2b1c26ffbf74f": "CopyFlexContainer0b2b1c26ffbf74f",
+        "contactListDivider": "contactListDivider",
+        "imgicontick": "imgicontick",
+        "lblNameKA": "lblNameKA"
+    }
+}

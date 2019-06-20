@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_9079aef97a7c4c4dafae8410f989e231": {
+        "id": "AS_FlexContainer_9079aef97a7c4c4dafae8410f989e231",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmCheckOrder",
+            "type": "forms",
+            "platform": null,
+            "KUID": "877f53e50a11410784d3bae97e8139b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_7f589c25fa1d4689aa466c27d348ebea",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Call",
+            "yesLabel": "Call",
+            "noLabel": "Cancel",
+            "alertMessage": "284-123-1234",
+            "messageType": "constant",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

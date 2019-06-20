@@ -1,0 +1,36 @@
+{
+    "AS_Button_1c0dc5d74c2b4ccc99e8d35fb1faa7c4": {
+        "id": "AS_Button_1c0dc5d74c2b4ccc99e8d35fb1faa7c4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__791a85483d444c0897325f889d6c678e",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Confirm Sign Out",
+            "yesLabel": "Sign Out",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to sign out?",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___b58781a103154ac495cb6091922d65ad",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "4bd7f0a8242145269f80451821115c67",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__791a85483d444c0897325f889d6c678e",
+            "callbackType": "True",
+            "enableMappingEditor": true
+        }]
+    }
+}

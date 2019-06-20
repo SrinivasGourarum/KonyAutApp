@@ -1,0 +1,22 @@
+{
+    "AS_Button_79c95902cd284dcdbbaad030d6254874": {
+        "id": "AS_Button_79c95902cd284dcdbbaad030d6254874",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_4941fb6503a446c2a5ff76338e1ea746",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAndroidMenuKA",
+            "formKUID": "b8fdfc611bf8474789006789a4019467",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_3986869d0ba24f5091be37dc4b612b64": {
+        "id": "AS_Button_3986869d0ba24f5091be37dc4b612b64",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionNewDepositClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___5b07b1b8456f4eefbcafe2ec15523eed",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewDepositKA",
+            "formKUID": "3ef26f9acd5b475cb1fdad0f87db5781",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

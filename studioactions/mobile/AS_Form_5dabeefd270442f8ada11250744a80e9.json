@@ -1,0 +1,23 @@
+{
+    "AS_Form_5dabeefd270442f8ada11250744a80e9": {
+        "id": "AS_Form_5dabeefd270442f8ada11250744a80e9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewApplicationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "50dfa337455447979963bb1be4aa7b7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_7be5e6d174c3471d8917ec9e628de912",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

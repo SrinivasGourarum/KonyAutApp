@@ -1,0 +1,32 @@
+{
+    "AS_Segment_8c87574b6a4c48849e1872abe77a554a": {
+        "id": "AS_Segment_8c87574b6a4c48849e1872abe77a554a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsMyProfileKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "469d331305a541b8b65c6d8bdf903828"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___34e36a84f94d4162b8d12370a3bacfdb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onLoginSettingsRowClick",
+            "display": "onLoginSettingsRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "source": "module"
+        }]
+    }
+}

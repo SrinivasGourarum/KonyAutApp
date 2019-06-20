@@ -1,0 +1,19 @@
+{
+    "AS_Button_9698855d98464fdcbb332d3a4f7e9b9c": {
+        "id": "AS_Button_9698855d98464fdcbb332d3a4f7e9b9c",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickcanceluserdetails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7e07a5e38c594cc99bfda5e83633ab81",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "basicInfotabSelected();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

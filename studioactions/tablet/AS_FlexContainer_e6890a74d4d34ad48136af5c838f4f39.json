@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_e6890a74d4d34ad48136af5c838f4f39": {
+        "id": "AS_FlexContainer_e6890a74d4d34ad48136af5c838f4f39",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "depositInstructions",
+            "type": "forms",
+            "platform": null,
+            "KUID": "7ac33868213d483381c32befe7714485"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_03f6b214c8654a4091cb1bc458a11696",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"depositInstructionsWrapper\",depositInstructions);",
+            "callbackType": null
+        }]
+    }
+}

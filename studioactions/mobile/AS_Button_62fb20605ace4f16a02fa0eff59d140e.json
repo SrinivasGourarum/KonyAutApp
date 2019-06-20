@@ -1,0 +1,18 @@
+{
+    "AS_Button_62fb20605ace4f16a02fa0eff59d140e": {
+        "id": "AS_Button_62fb20605ace4f16a02fa0eff59d140e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___42745b8914bd4d3b9dea32a9f02003b2",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "2f5ac0a977e04dadb6f5e3c36a14fc66",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

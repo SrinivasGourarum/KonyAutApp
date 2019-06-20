@@ -1,0 +1,38 @@
+{
+    "AS_Segment_da2a9cde312a4537b20c8be46689336a": {
+        "id": "AS_Segment_da2a9cde312a4537b20c8be46689336a",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickchequesegmentacntinfo",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAccountDetailKAOld",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5ed703cad63c441882fc4a36f5ea0c28"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___fdcb8c6c3e9e4c5a96c66052eebbc75a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmtransactionChequeKA",
+            "formKUID": "f73d1ca331e047ce8bbd9d4a6d8a2105",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"segchequetransaction\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

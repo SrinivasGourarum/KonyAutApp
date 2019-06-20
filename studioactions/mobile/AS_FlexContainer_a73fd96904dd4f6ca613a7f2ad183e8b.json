@@ -1,0 +1,28 @@
+{
+    "AS_FlexContainer_a73fd96904dd4f6ca613a7f2ad183e8b": {
+        "id": "AS_FlexContainer_a73fd96904dd4f6ca613a7f2ad183e8b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarAccounts",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9ceb0802eab24c759c1e8b5a27a8bf7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_4caf16219a564441b1f07c7bef7a400c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

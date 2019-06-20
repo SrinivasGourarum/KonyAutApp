@@ -1,0 +1,15 @@
+{
+    "AS_Form_cd9d80a085cb4750875e29b270c305a7": {
+        "id": "AS_Form_cd9d80a085cb4750875e29b270c305a7",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5cb976f77406412c814713b6343b4da5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setDataTransferPay();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

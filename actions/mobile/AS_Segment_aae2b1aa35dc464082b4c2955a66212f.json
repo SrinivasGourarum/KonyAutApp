@@ -1,0 +1,24 @@
+{
+    "AS_Segment_aae2b1aa35dc464082b4c2955a66212f": {
+        "id": "AS_Segment_aae2b1aa35dc464082b4c2955a66212f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__86eb7a82dff84dc3ae04abb954d2de20",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var phNum = frmContactUsKA.contactSegmentList.selectedItems[0].phoneNum;\nfunction callback(){\n  \n  if(phNum === 'Facetime'){\n  //#ifdef iphone\n       kony.application.openURL(\"facetime://\"+\"+6596193555\");\n      //#endif\n           //#ifdef android\n    kony.print(\"do nthg\")\n      //#endif\n  }\n  if(phNum === 'Skype'){\n       kony.application.openURL(\"skype://echo123?call\");\n  \n  }\n\n  \n  \n  \n  \n}\nkony.ui.Alert({\n        \"alertType\": constants.ALERT_TYPE_CONFIRMATION,\n        \"alertTitle\": \"Call\",\n        \"yesLabel\": \"Call\",\n        \"noLabel\": \"Cancel\",\n        \"alertIcon\": \"phone_icon_inactive.png\",\n        \"message\": phNum,\n        \"alertHandler\": callback \n    }, {\n        \"iconPosition\": constants.ALERT_ICON_POSITION_LEFT\n    })\n\n\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_f40a7932088d42daad59748d78c46d15": {
+        "id": "AS_Button_f40a7932088d42daad59748d78c46d15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d2dab2d4806c44b8816ca69b19e43d1d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal(addNewPayee.newPayeeWrapper,\"newPayeeWrapper\");",
+            "callbackType": null
+        }]
+    }
+}

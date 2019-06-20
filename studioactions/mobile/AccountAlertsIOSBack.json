@@ -1,0 +1,29 @@
+{
+    "AS_Button_1b501708bba54dfda2ecc57b75a4c8da": {
+        "id": "AS_Button_1b501708bba54dfda2ecc57b75a4c8da",
+        "type": "ACTION_SEQUENCE",
+        "name": "AccountAlertsIOSBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountAlertsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbe7fc072c444a808e3b02f2d737512c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_0950322bc0094e99adca85e317707524",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAlertsKA",
+            "formKUID": "8f4fb6ef80f34f5f861f12908e1a5309",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

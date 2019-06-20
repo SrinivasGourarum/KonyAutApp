@@ -1,0 +1,41 @@
+{
+    "AS_Form_79a07696a67848cd830e72bc19d9466c": {
+        "id": "AS_Form_79a07696a67848cd830e72bc19d9466c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eea7e23ead2d4e058157be6cc9a3fb58",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "accountLanding",
+            "display": "accountLanding",
+            "inputparams": [{
+                "name": "formName",
+                "value": "frmMyMoneyListKA\n"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___19211f333b1d4aeb81de77338dd2718e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshowMyMoney",
+            "display": "preshowMyMoney",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "module"
+        }]
+    }
+}

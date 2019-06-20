@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_skin_": "s18c2758d5194233ba217407e3e5537d",
+    "_text_": "Sign in with Touch ID",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyLabel05abdb564e14f40",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "db9525c0cd124c8e81c77ed559656ac9",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0f1a7d9c79d4848",
+    "pf": "frmLoginKA",
+    "texti18n": "i18n.login.frmLoginKA.CopyLabel05abdb564e14f40",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

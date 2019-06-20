@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s20b8408b00a462991990e609ab78422",
+    "_text_": "Sept 9, 2015",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "enabled": false,
+    "id": "transactionDate",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "894a003145364e12972d77520e085aa3",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0f615b714fea843",
+    "pf": "frmDepositRecentTransactionDetailsKA",
+    "texti18n": "i18n.deposit.frmDepositRecentTransactionDetailsKA.transactionDate",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

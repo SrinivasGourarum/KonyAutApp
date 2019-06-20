@@ -1,0 +1,17 @@
+{
+    "AS_Button_d9706cde990e4beb872928e147b6dbda": {
+        "id": "AS_Button_d9706cde990e4beb872928e147b6dbda",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_6f36b749fa054428a0dd864beb27a250",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"accountInfoWrapper\",accountInfo);",
+            "callbackType": null
+        }]
+    }
+}

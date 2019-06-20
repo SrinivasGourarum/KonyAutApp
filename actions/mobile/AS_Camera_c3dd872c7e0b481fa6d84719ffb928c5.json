@@ -1,0 +1,23 @@
+{
+    "AS_Camera_c3dd872c7e0b481fa6d84719ffb928c5": {
+        "id": "AS_Camera_c3dd872c7e0b481fa6d84719ffb928c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewDepositKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3ef26f9acd5b475cb1fdad0f87db5781"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__22f2d5d31f4245f0badaeb5a28b5b1df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "checkCamera();\nfrmNewDepositKA.imgCheck2.base64=frmNewDepositKA.cam2.base64;",
+            "parentId": null
+        }]
+    }
+}

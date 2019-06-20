@@ -1,0 +1,18 @@
+{
+    "AS_Button_8f81c499dc6145a2a5a3094459f49a78": {
+        "id": "AS_Button_8f81c499dc6145a2a5a3094459f49a78",
+        "type": "ACTION_SEQUENCE",
+        "name": "editDepositAccountCard",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_bdd398fb1859432b83ea8ab0a7cf739b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(frmNewDepositKA, \"to\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_TextField_76ba4c57eb0a45a2b879d316b83a48b7": {
+        "id": "AS_TextField_76ba4c57eb0a45a2b879d316b83a48b7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onEndEditing_093c1571e3e14023853d934a4cb9f7eb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewTransferKA);",
+            "callbackType": null
+        }]
+    }
+}

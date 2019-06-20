@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "BACK",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnback",
+    "ide_onClick": "AS_Button_b5961301ccb441dab687cc27bd8f94b1",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6c4e5b143fbd4603ad6c81f2bf109670",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_b5961301ccb441dab687cc27bd8f94b1",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmchequeimages",
+    "showprogressindicator": false,
+    "texti18n": "i18n.deposit.frmchequeimages.btnback",
+    "wType": "Button",
+    "zindex": 1
+}

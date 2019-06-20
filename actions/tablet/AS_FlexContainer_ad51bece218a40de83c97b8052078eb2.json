@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ad51bece218a40de83c97b8052078eb2": {
+        "id": "AS_FlexContainer_ad51bece218a40de83c97b8052078eb2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "400c333b731c40eca5e2521568d1baf5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onTouchEnd_94e7f4dd900c47fb9cdee3fcaa317988",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "clickedLoginCardDeactivate();",
+            "callbackType": null
+        }]
+    }
+}

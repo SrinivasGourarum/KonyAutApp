@@ -1,0 +1,28 @@
+{
+    "AS_RadioButtonGroup_d4ecf8aa6980451190ec586733bcd7fa": {
+        "id": "AS_RadioButtonGroup_d4ecf8aa6980451190ec586733bcd7fa",
+        "type": "ACTION_SEQUENCE",
+        "name": "onRbnCategoryKASelection",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMessagesKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2e63134c7cd34ec9801fa53d362efd33"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8e4475086ec647199a47677b675b4c9f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMessagesCategorySelection",
+            "display": "onMessagesCategorySelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

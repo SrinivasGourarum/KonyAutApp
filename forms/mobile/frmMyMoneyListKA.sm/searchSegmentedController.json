@@ -1,0 +1,122 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sb9289e27cc7491faf74055cfce2204f",
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        },
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "enabled": false,
+    "groupcells": false,
+    "id": "searchSegmentedController",
+    "ide_onSelection": "AS_RadioButtonGroup_f2d49f42d032491195b597d0eb1a39d0",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": true,
+                    "equalSegments": true,
+                    "tintColor": "00a3d900"
+                }
+            },
+            "viewType": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "c9736bdda73f491f965e92a3d0e5ebf7",
+    "masterdata": [
+        [
+            "accounts",
+            "Accounts",
+            "i18n.my_money.frmMyMoneyListKA.searchSegmentedController.accounts"
+        ],
+        [
+            "spending",
+            "Spending ",
+            "i18n.my_money.frmMyMoneyListKA.searchSegmentedController.spending"
+        ],
+        [
+            "budget",
+            "Budget",
+            "i18n.my_money.frmMyMoneyListKA.searchSegmentedController.budget"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "onselection": "AS_RadioButtonGroup_f2d49f42d032491195b597d0eb1a39d0",
+    "parent": "searchSegmentedControllerWrapper",
+    "pf": "frmMyMoneyListKA",
+    "selectedkey": "accounts",
+    "selectedkeyvalue": [
+        "accounts",
+        "Accounts",
+        "i18n.my_money.frmMyMoneyListKA.searchSegmentedController.accounts"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "enableTintColor": true,
+            "equalSegments": true,
+            "tintColor": "1a298000"
+        }
+    },
+    "viewtype": 2,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    }
+}

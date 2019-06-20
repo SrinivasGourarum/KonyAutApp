@@ -1,0 +1,16 @@
+{
+    "AS_Button_aa5eb6dc3e934419bbd1d9836793acf3": {
+        "id": "AS_Button_aa5eb6dc3e934419bbd1d9836793acf3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c3967e67bb0a4d4e9ef565105b2ec914",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTransferVerifyDemo.show();"
+        }]
+    }
+}

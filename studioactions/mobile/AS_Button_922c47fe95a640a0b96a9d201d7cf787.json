@@ -1,0 +1,18 @@
+{
+    "AS_Button_922c47fe95a640a0b96a9d201d7cf787": {
+        "id": "AS_Button_922c47fe95a640a0b96a9d201d7cf787",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__350e454f49d64722aab3a656bb82c8c3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.store.setItem(\"touchIdEnable\",false);\nnextFeature();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

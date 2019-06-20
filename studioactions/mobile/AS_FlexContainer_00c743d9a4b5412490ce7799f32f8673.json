@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_00c743d9a4b5412490ce7799f32f8673": {
+        "id": "AS_FlexContainer_00c743d9a4b5412490ce7799f32f8673",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9b381302d688415fb04696d3783f6269"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_830bd6d2ce2c449dac062ac06100ce91",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTransferFromDemo.show();\nfrmTransferFromDemo.transferPayTitleLabel.text=\"FROM ACCOUNT\";",
+            "callbackType": null
+        }]
+    }
+}

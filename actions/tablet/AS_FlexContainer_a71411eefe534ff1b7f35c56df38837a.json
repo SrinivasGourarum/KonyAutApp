@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_a71411eefe534ff1b7f35c56df38837a": {
+        "id": "AS_FlexContainer_a71411eefe534ff1b7f35c56df38837a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_6638bee7d62c4004b9822bd4f30b9de6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"recentTransactionWrapper\",recentTransactionDetails);\nretainSelectionOff(\"recentTransactions\");",
+            "callbackType": null
+        }]
+    }
+}

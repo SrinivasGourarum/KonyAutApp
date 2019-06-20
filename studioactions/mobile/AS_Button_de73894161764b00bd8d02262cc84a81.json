@@ -1,0 +1,28 @@
+{
+    "AS_Button_de73894161764b00bd8d02262cc84a81": {
+        "id": "AS_Button_de73894161764b00bd8d02262cc84a81",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBillDetailsSceduled",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3858a671cbd413d91f89cc360a722ed"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_5e9f28a124d3440cb38c0853c7e018dc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPayeeTransactionsKA",
+            "formKUID": "78b4c1f03e764c0e8ab4e36a3dcb4742",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

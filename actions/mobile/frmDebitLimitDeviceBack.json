@@ -1,0 +1,25 @@
+{
+    "AS_Form_7e5f37a0e10d425aae5bb9fe92ca41fe": {
+        "id": "AS_Form_7e5f37a0e10d425aae5bb9fe92ca41fe",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmDebitLimitDeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDebitLimitKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2cb6f3e680d4b3ab8eab057b337cc1d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3c32aeb7601042e9a4f025ae117ba7d0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

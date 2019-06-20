@@ -1,0 +1,27 @@
+{
+    "AS_Calendar_c7493db2407c4986873adcb29ce29fcd": {
+        "id": "AS_Calendar_c7493db2407c4986873adcb29ce29fcd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmTransferDateDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "928f0dc149d44dbb9ecc3936191f4c47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d5db5dd11bdd4da1b224db04602efca7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onSelectionDate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

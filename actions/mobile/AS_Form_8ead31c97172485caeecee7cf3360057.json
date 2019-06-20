@@ -1,0 +1,27 @@
+{
+    "AS_Form_8ead31c97172485caeecee7cf3360057": {
+        "id": "AS_Form_8ead31c97172485caeecee7cf3360057",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "6299a08c7c514b3cbf5f34f1f48732aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d1a43d4e93474a2a97c25a785e65123e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segcouponsList",
+            "display": "segcouponsList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

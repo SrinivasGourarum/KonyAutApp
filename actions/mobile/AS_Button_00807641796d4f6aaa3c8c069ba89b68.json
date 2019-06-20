@@ -1,0 +1,24 @@
+{
+    "AS_Button_00807641796d4f6aaa3c8c069ba89b68": {
+        "id": "AS_Button_00807641796d4f6aaa3c8c069ba89b68",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceRegistrationDemo1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "24f3bbc2ed074c75a9b6604d9e48a90c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__126bffb1b24d423aaaffca74a710c7f3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDeviceRegistrationDemo2.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

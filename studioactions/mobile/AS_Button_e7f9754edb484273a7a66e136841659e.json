@@ -1,0 +1,28 @@
+{
+    "AS_Button_e7f9754edb484273a7a66e136841659e": {
+        "id": "AS_Button_e7f9754edb484273a7a66e136841659e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__89a40e546ae040cb9b34878f7ebc7207",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmManageCardsKA.btnDeactivateKA.setEnabled(true);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_9a778700bb154bcd91a22d1ec55dd20b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_TextField_e95e2e61f29248d1be35b805c1b1487f": {
+        "id": "AS_TextField_e95e2e61f29248d1be35b805c1b1487f",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__52635c0b10704e0ba76c83c8d50fdf2b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewPayPersonKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

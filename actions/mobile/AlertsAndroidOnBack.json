@@ -1,0 +1,32 @@
+{
+    "AS_Button_0e9e52c8880148d9bc0ed6e4c65df3b3": {
+        "id": "AS_Button_0e9e52c8880148d9bc0ed6e4c65df3b3",
+        "type": "ACTION_SEQUENCE",
+        "name": "AlertsAndroidOnBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8f4fb6ef80f34f5f861f12908e1a5309"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e73d884b07dc4f0d9ae2bf7f4960e3ec",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBackButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

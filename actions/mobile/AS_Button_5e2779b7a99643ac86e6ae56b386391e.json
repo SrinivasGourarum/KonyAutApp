@@ -1,0 +1,22 @@
+{
+    "AS_Button_5e2779b7a99643ac86e6ae56b386391e": {
+        "id": "AS_Button_5e2779b7a99643ac86e6ae56b386391e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "bebfd11655da4cbca8ddb7129bfe5407"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_f50c421eb2bf4d4881408291da239dc1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMoreCheckReorderKA.show();",
+            "callbackType": null
+        }]
+    }
+}

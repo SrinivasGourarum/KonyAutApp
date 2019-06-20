@@ -1,0 +1,23 @@
+{
+    "AS_Segment_c2d7bca5adb943639b06db8cf59417e3": {
+        "id": "AS_Segment_c2d7bca5adb943639b06db8cf59417e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_8a369fb9dc6e4df9b9c28bdd5741b063",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountinfotrans=2;\nfrmRecentTransactionDetailsKA.show();",
+            "callbackType": null
+        }]
+    }
+}

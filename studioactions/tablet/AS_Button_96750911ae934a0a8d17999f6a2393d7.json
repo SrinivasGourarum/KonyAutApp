@@ -1,0 +1,17 @@
+{
+    "AS_Button_96750911ae934a0a8d17999f6a2393d7": {
+        "id": "AS_Button_96750911ae934a0a8d17999f6a2393d7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_443eb1d834454c0fa84b35a6d6998cad",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "editAccountCard(depositLanding, \"to\");",
+            "callbackType": null
+        }]
+    }
+}

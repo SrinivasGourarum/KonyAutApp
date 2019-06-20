@@ -1,0 +1,18 @@
+{
+    "AS_Button_403e9f59368b4474a6d48ed926bbdbc5": {
+        "id": "AS_Button_403e9f59368b4474a6d48ed926bbdbc5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6e8971bf81564b9d8ea0363dc2bcfb40",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userEnteredLocationTerm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

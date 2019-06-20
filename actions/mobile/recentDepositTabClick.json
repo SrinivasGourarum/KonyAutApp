@@ -1,0 +1,24 @@
+{
+    "AS_Button_dbbcf02af01949d980a6d577221dfa21": {
+        "id": "AS_Button_dbbcf02af01949d980a6d577221dfa21",
+        "type": "ACTION_SEQUENCE",
+        "name": "recentDepositTabClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_17303006a85f4b4c813e98c8b3521978",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "recentDepositTabSelected();",
+            "callbackType": null
+        }]
+    }
+}

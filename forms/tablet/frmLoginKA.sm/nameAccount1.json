@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2be1ed2589b428b95ab2222f72682cf",
+    "_text_": "John's Primary Checking Acct",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "nameAccount1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "9f6d6b1e4dab40fdb04bf618b94b9cf2",
+    "name": "kony.ui.Label",
+    "parent": "nameContainer",
+    "pf": "frmLoginKA",
+    "texti18n": "i18n.login.frmLoginKA.nameAccount1",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

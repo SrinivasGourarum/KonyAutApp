@@ -1,0 +1,24 @@
+{
+    "AS_Form_f8a51fc00ee94f90a69129ace255817e": {
+        "id": "AS_Form_f8a51fc00ee94f90a69129ace255817e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__44c4ff80f5db46f989b6da3377d5c601",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmManageCardsKA.segCardsKA.pageSkin = \"flxWhiteBG\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

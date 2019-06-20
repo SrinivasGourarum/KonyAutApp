@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "se033b4241724171afff711026194d8f",
+    "_text_": "90010020177801",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "enabled": false,
+    "id": "CopyaccountNumberLabel036c71ac511b84d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "692af892af194ea0a89e494c7d39409a",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0527fad3ce34845",
+    "pf": "frmAccountInfoformortageKA",
+    "texti18n": "i18n.overview.frmAccountInfoformortageKA.CopyaccountNumberLabel036c71ac511b84d",
+    "tooltip": "",
+    "wType": "Label"
+}

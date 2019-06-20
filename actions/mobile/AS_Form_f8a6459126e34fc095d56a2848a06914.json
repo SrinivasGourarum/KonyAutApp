@@ -1,0 +1,23 @@
+{
+    "AS_Form_f8a6459126e34fc095d56a2848a06914": {
+        "id": "AS_Form_f8a6459126e34fc095d56a2848a06914",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationPersonalDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4b0055df8e1a4c279580cc24347babe5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_e877a1ac7f694b67afd0462e22a28187",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "featureEnablingHide();",
+            "callbackType": null
+        }]
+    }
+}

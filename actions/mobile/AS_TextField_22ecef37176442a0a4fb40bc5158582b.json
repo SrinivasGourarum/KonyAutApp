@@ -1,0 +1,19 @@
+{
+    "AS_TextField_22ecef37176442a0a4fb40bc5158582b": {
+        "id": "AS_TextField_22ecef37176442a0a4fb40bc5158582b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_b5c9f27cf0d440ed8444241360de2a91",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\tif(kony.os.deviceInfo().name === \"thinclient\"){\n  kony.print(\"myString\");\n}else{\n  loginKeyboardInactive();\n}\n"
+        }]
+    }
+}

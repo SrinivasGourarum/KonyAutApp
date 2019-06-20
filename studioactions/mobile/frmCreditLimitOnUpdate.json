@@ -1,0 +1,29 @@
+{
+    "AS_Button_89c888e8aec44170a5e324c292dacbdd": {
+        "id": "AS_Button_89c888e8aec44170a5e324c292dacbdd",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmCreditLimitOnUpdate",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditLimitKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "23787a30621c4266b34b9d6a63615fe0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_60e083fd6e174d8380d3a8a9ed96c88a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

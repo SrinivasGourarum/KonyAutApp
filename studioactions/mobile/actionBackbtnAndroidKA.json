@@ -1,0 +1,23 @@
+{
+    "AS_Button_23bbeb0da7dc4893801bcf83966f2758": {
+        "id": "AS_Button_23bbeb0da7dc4893801bcf83966f2758",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionBackbtnAndroidKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b797dc4d6e984cba80e7c4681e11c222",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

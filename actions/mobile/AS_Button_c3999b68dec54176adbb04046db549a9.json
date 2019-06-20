@@ -1,0 +1,18 @@
+{
+    "AS_Button_c3999b68dec54176adbb04046db549a9": {
+        "id": "AS_Button_c3999b68dec54176adbb04046db549a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5a294b6b4924435d9563c50c4658b11f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openDepositInstructions();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

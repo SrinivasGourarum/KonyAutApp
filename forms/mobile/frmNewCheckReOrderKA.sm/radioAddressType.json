@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10b4e1176f84645a76047f472cd1865",
+    "_top_": {
+        "type": "string",
+        "value": "46dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "342dp"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "radioAddressType",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "isvisible": false,
+    "itemorientation": "horizontal",
+    "kuid": "6b9dc3a041424e63a08841966143ab87",
+    "masterdata": [
+        [
+            "AccountAddress",
+            "Account Address    "
+        ],
+        [
+            "SpecifyNew",
+            "Specify New"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "CopydatePick05ab2cfb1c59246",
+    "pf": "frmNewCheckReOrderKA",
+    "selectedkey": "AccountAddress",
+    "selectedkeyvalue": [
+        "AccountAddress",
+        "Account Address    "
+    ],
+    "size": 18,
+    "tickedimage": "radioselected.png",
+    "untickedimage": "radiononselected.png",
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_92c7384454bb403fa0a63c0dda4c67d0": {
+        "id": "AS_Button_92c7384454bb403fa0a63c0dda4c67d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_6a9c9e4c1dbe4c4a8861dbba9db130e1",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Delete Scheduled Transaction?",
+            "yesLabel": "Yes",
+            "noLabel": "Cancel",
+            "alertMessage": "Are you sure you want to delete this scheduled transaction?",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET_onClick_d81866ae8d1743df8e9958980bce72ce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeTransactionDetailsContainer();",
+            "parentId": "SHOW_ALERT_onClick_6a9c9e4c1dbe4c4a8861dbba9db130e1",
+            "callbackType": "True"
+        }]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "AS_Button_a10d1276b261451490665287389ef05c": {
+        "id": "AS_Button_a10d1276b261451490665287389ef05c",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnNextUserDetailsOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "6cdf12d294a04b0da65d4b5b1e20f7f0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___76afa37f107f42dbafc30cf3bfa50b6c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmTermsAndConditionsKA",
+            "formKUID": "100aadb985c846ec80ffda1f762bb7e8",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_59c881d453ce4a6e85c64088e5118e45",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewPayPersonKA);",
+            "parentId": "SHOW_ALERT_ide_onClick_2e0a10a7897c4e9c8b171ee17b045b56",
+            "callbackType": "True"
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_2c28c442bdba4e068c9ca8443e9b0b22": {
+        "id": "AS_Button_2c28c442bdba4e068c9ca8443e9b0b22",
+        "type": "ACTION_SEQUENCE",
+        "name": "noThanksDepositClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__000b8f7be649478db93d3d1c4ec5ce94",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": " kony.store.setItem(\"depositForm\", false);",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onClick_e1c69667437b4d89a0ecf64ee0d7cc92",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"noThanks\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

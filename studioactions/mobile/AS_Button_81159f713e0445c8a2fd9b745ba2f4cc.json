@@ -1,0 +1,17 @@
+{
+    "AS_Button_81159f713e0445c8a2fd9b745ba2f4cc": {
+        "id": "AS_Button_81159f713e0445c8a2fd9b745ba2f4cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_c02565fbe58d464aa897b21b02985d90",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "  frmPinSetUpDemo.flxPIN1.isVisible=false;\n  frmPinSetUpDemo.flxPIN2.isVisible=true;",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Segment_62b1a687c5274e11b881190acbf651ac": {
+        "id": "AS_Segment_62b1a687c5274e11b881190acbf651ac",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__46b87281b6434786b84473d78af26464",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountDetailKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

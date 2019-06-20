@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s803fe20b33c49ceb0ed9f9ee3a71425",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sba70ea8fcb8404997068fcec01740c2",
+    "id": "callButton",
+    "ide_onClick": "AS_Button_91ec169ecb1e411f9efbf2d94ee7d237",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c9081c5729994a9781a0a4dad1fb3880",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_91ec169ecb1e411f9efbf2d94ee7d237",
+    "parent": "phoneContainer",
+    "pf": "frmLocatorBranchDetailsKA",
+    "wType": "Button",
+    "zindex": 1
+}

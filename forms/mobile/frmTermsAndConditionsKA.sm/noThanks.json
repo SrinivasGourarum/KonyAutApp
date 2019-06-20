@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "No Thanks",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "noThanks",
+    "ide_onClick": "AS_Button_2c28c442bdba4e068c9ca8443e9b0b22",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "8487d5afd48c4788937cecf015b64d70",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_2c28c442bdba4e068c9ca8443e9b0b22",
+    "parent": "mainContent",
+    "pf": "frmTermsAndConditionsKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.deposit.frmTermsAndConditionsKA.noThanks",
+    "wType": "Button",
+    "zindex": 1
+}

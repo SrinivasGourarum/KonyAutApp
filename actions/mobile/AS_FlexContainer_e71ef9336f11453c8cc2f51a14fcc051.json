@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_e71ef9336f11453c8cc2f51a14fcc051": {
+        "id": "AS_FlexContainer_e71ef9336f11453c8cc2f51a14fcc051",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_2d5836643ae9435ea97ed9a1c522f78c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLoginKA.show();"
+        }]
+    }
+}

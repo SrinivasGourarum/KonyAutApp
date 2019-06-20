@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_c4b89bb731a74015ab4cee5ae7e17482": {
+        "id": "AS_FlexContainer_c4b89bb731a74015ab4cee5ae7e17482",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarAccounts",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9ceb0802eab24c759c1e8b5a27a8bf7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___830251a464014423b037e9a6aed19855",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewTransferKA",
+            "formKUID": "ce8fc9f71e294cd29906f5bfb70eaf07",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopyFlexContainer02d619202407a4e\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Segment_i2a3d87e8ebc4c9e8edec3951e5aa1ad": {
+        "id": "AS_Segment_i2a3d87e8ebc4c9e8edec3951e5aa1ad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAccountLandinKAChart",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fb12d60f71c64711a00ee43326f77cb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onRowClick_c4ac6b3c30324e65b8e71237093a77fa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountDetailKA.show();",
+            "callbackType": null
+        }]
+    }
+}

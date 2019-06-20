@@ -1,0 +1,22 @@
+{
+    "AS_Button_8f027122e2c94e3e976325f9055c4f78": {
+        "id": "AS_Button_8f027122e2c94e3e976325f9055c4f78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsPuppyDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "525d68959b43441cab8ef2bef0691cba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_1b3ec0b5a5af4164b68809b20dac56d1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"History\");"
+        }]
+    }
+}

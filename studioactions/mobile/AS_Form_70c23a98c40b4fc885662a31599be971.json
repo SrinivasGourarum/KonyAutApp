@@ -1,0 +1,23 @@
+{
+    "AS_Form_70c23a98c40b4fc885662a31599be971": {
+        "id": "AS_Form_70c23a98c40b4fc885662a31599be971",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4c99ecdc9dd143c8b9285a1bbd9c7fc2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_f94feee0669841188a70e20c6455821a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.flxHeaderNormal.opacity=1;\nfrmAccountsLandingKA.flxHeaderBlue.opacity=0;\n//frmAccountsLandingKA.skin=\"frmAccountLandingBgN\";\nsetAccountsData();\n//accountsLandingPreShow();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_TextField_e4a272624aaa4f17ba2e45e7a4188f59": {
+        "id": "AS_TextField_e4a272624aaa4f17ba2e45e7a4188f59",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "accountInfo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "19981b6432414b79b2d9eebd9cc8906e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1b370454902b4772b472c33048cdbc0a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountNicknameEntered();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

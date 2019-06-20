@@ -1,0 +1,28 @@
+{
+    "AS_Button_5e27a754b3fd4c3789df8ac62cb55033": {
+        "id": "AS_Button_5e27a754b3fd4c3789df8ac62cb55033",
+        "type": "ACTION_SEQUENCE",
+        "name": "onClickGetDirections",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__fd85d97a1b8248caa402abade4ea54a3",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "You are leaving the xyzBank Mobile App",
+            "yesLabel": "OK",
+            "noLabel": "Cancel",
+            "alertMessage": "to open directions in Maps.",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

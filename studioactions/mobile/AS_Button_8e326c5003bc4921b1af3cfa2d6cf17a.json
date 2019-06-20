@@ -1,0 +1,17 @@
+{
+    "AS_Button_8e326c5003bc4921b1af3cfa2d6cf17a": {
+        "id": "AS_Button_8e326c5003bc4921b1af3cfa2d6cf17a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_3041adb71504419c809a3274026ba39d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewTransferKA,\"to\",1);",
+            "callbackType": null
+        }]
+    }
+}

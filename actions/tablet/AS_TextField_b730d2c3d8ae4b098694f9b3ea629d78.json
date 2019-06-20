@@ -1,0 +1,20 @@
+{
+    "AS_TextField_b730d2c3d8ae4b098694f9b3ea629d78": {
+        "id": "AS_TextField_b730d2c3d8ae4b098694f9b3ea629d78",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onEndEditing_e883530ba3fd443da99f1164c861c357",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(newBill);",
+            "callbackType": null
+        }]
+    }
+}

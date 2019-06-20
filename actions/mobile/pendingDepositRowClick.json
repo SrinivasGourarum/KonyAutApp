@@ -1,0 +1,43 @@
+{
+    "AS_Segment_cf0c86e7eb8f443ab4e6c3470d28ca2e": {
+        "id": "AS_Segment_cf0c86e7eb8f443ab4e6c3470d28ca2e",
+        "type": "ACTION_SEQUENCE",
+        "name": "pendingDepositRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_04a7887d5c604549808ad4e0ca56f201",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "scheduledDepositTransactionsOnRowClick();",
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_d52045d9dd82493aa9d2bf6c20d07d69",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmdepositchequeKA",
+            "formKUID": "a5a2ca8c30444478bd542cf9f8178425",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"scheduledTransactions\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

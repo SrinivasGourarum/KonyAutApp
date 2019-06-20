@@ -1,0 +1,14 @@
+{
+    "AS_Button_b7af5e1bc1fe4989b16941ce9f742dd8": {
+        "id": "AS_Button_b7af5e1bc1fe4989b16941ce9f742dd8",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_780f88b5b6ba4b20b4c23a8911d709aa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onEndEditing(frmSearchKA);",
+            "callbackType": null
+        }]
+    }
+}

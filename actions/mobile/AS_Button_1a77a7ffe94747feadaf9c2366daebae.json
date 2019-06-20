@@ -1,0 +1,25 @@
+{
+    "AS_Button_1a77a7ffe94747feadaf9c2366daebae": {
+        "id": "AS_Button_1a77a7ffe94747feadaf9c2366daebae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_0e77e19f250346be8011e9ff35af7535",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PselectPayeeKA",
+            "formKUID": "70d10cb7bc484b6c92bcc81b0ccc655a",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopybtnCancel0f4a5e87cd05344\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

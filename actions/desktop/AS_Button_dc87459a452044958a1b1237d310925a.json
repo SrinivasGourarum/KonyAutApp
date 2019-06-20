@@ -1,0 +1,31 @@
+{
+    "AS_Button_dc87459a452044958a1b1237d310925a": {
+        "id": "AS_Button_dc87459a452044958a1b1237d310925a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLanding",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e67d2dbfa16e43c1a557945206266af3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___e20756592626471ea6461946f3e63603",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "fdcb688612544def9d04cb3207b91f2e",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnLogout\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

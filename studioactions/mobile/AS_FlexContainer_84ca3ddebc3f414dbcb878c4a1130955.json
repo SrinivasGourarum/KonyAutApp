@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_84ca3ddebc3f414dbcb878c4a1130955": {
+        "id": "AS_FlexContainer_84ca3ddebc3f414dbcb878c4a1130955",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsPuppyTransferDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "47bec4bf05f34f04a59f8c9aa3ded16d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_1273a49161784883bdea392fe840b468",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTransferToDemo.show();\n"
+        }]
+    }
+}

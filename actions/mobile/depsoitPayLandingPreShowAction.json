@@ -1,0 +1,24 @@
+{
+    "AS_Form_486a7d60c0be4a108a2116c6ce5e6307": {
+        "id": "AS_Form_486a7d60c0be4a108a2116c6ce5e6307",
+        "type": "ACTION_SEQUENCE",
+        "name": "depsoitPayLandingPreShowAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_f54f6e1caa59446a93ef060f46228e8f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setDataDepositPay();\nfrmDepositPayLandingKA.flxTrans.isVisible=false;",
+            "callbackType": null
+        }]
+    }
+}

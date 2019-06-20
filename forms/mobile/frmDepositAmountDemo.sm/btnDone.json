@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "-1%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s523b15c5f8d41edabf9a5019273e7bb",
+    "_text_": "CONTINUE",
+    "_width_": {
+        "type": "string",
+        "value": "102%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sb24079973ac4e93bc3927f9fc6082f5",
+    "id": "btnDone",
+    "ide_onClick": "AS_Button_a806ebfdc9fb40a5896cb79a92e51aac",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "01f34b0c7ae14032a8bd5df2e57e6503",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a806ebfdc9fb40a5896cb79a92e51aac",
+    "parent": "flxMain",
+    "pf": "frmDepositAmountDemo",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 10
+}

@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_c63e45e2b3d24b45b06e4af13c863571": {
+        "id": "AS_FlexContainer_c63e45e2b3d24b45b06e4af13c863571",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyGoalsPuppyDemo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "525d68959b43441cab8ef2bef0691cba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__91eff0077db64c9ab4fa5670a38d5373",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmMyGoalsDemo.show();",
+            "parentId": null
+        }]
+    }
+}

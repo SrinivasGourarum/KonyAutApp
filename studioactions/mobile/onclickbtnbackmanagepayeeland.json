@@ -1,0 +1,29 @@
+{
+    "AS_Button_9d12c962e6df41aca05be904491a01e3": {
+        "id": "AS_Button_9d12c962e6df41aca05be904491a01e3",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbtnbackmanagepayeeland",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PphonepayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "44daf1a4ec9741588d44f98b878a7745"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_679b704d8c15431cbc393b32772406ff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

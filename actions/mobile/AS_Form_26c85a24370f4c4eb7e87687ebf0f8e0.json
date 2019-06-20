@@ -1,0 +1,18 @@
+{
+    "AS_Form_26c85a24370f4c4eb7e87687ebf0f8e0": {
+        "id": "AS_Form_26c85a24370f4c4eb7e87687ebf0f8e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3753ee016a6d4dfcb908d879e024eab3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLocatorKA.destroy();\n//locatorHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

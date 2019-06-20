@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_5c4df65a699146ccaaaa7a2cb4439671": {
+        "id": "AS_FlexContainer_5c4df65a699146ccaaaa7a2cb4439671",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarAccounts",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9ceb0802eab24c759c1e8b5a27a8bf7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__add40568259c4c85b22acd244d79818b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSupportDemo.show();",
+            "parentId": null
+        }]
+    }
+}

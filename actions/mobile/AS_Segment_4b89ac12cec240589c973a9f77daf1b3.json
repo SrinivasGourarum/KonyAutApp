@@ -1,0 +1,14 @@
+{
+    "AS_Segment_4b89ac12cec240589c973a9f77daf1b3": {
+        "id": "AS_Segment_4b89ac12cec240589c973a9f77daf1b3",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onRowClick_6266330e07fc4a3cb8d078d8c52c8115",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "moreResourcesSegmentClick();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_Button_d259a86089e0441381516596f47c8eae": {
+        "id": "AS_Button_d259a86089e0441381516596f47c8eae",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionfrmMinBalupdateOnclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___eaf085bf4ea34ca095887b8e5ec88d84",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountAlertsKA",
+            "formKUID": "bbe7fc072c444a808e3b02f2d737512c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnUpdateKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

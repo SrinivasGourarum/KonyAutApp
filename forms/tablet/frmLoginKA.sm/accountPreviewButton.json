@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s521a62f00464d0399c3c59c5c83a237",
+    "_text_": "VIEW ACCOUNT PREVIEW",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s8ca43a3272d4006ae4d4fb85ae15682",
+    "id": "accountPreviewButton",
+    "ide_onClick": "AS_Button_75037c9b394946c185f3fccc7b13c7e0",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "kuid": "a0122fba15ea463fa26cb2db6ba1b82a",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_75037c9b394946c185f3fccc7b13c7e0",
+    "parent": "logoContainer",
+    "pf": "frmLoginKA",
+    "showprogressindicator": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "texti18n": "i18n.login.frmLoginKA.accountPreviewButton",
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "windows8": {
+        "render": false
+    },
+    "zindex": 9999
+}

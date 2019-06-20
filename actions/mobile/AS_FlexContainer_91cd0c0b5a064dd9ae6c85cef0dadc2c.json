@@ -1,0 +1,14 @@
+{
+    "AS_FlexContainer_91cd0c0b5a064dd9ae6c85cef0dadc2c": {
+        "id": "AS_FlexContainer_91cd0c0b5a064dd9ae6c85cef0dadc2c",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_f1f44c6df91c4b93bb0a657fc4bd6cc7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferToPick();",
+            "callbackType": null
+        }]
+    }
+}

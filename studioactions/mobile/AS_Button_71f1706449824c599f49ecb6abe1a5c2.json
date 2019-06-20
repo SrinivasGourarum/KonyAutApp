@@ -1,0 +1,23 @@
+{
+    "AS_Button_71f1706449824c599f49ecb6abe1a5c2": {
+        "id": "AS_Button_71f1706449824c599f49ecb6abe1a5c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__49d65663ad83432da4e1e7631f55e2cb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHistory(\"HistoryAndroid\");",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_5fdf74f40c644949954b211973790b93": {
+        "id": "AS_Button_5fdf74f40c644949954b211973790b93",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewCheckReOrderKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "94003451efac4c8c90b34563a815687b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__de1f40de1db34cc4ba45cde9a706c823",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showAccountFromDemo();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

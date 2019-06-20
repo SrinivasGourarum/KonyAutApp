@@ -1,0 +1,19 @@
+{
+    "AS_Button_058b4ca6a9c1412498142199cc802abd": {
+        "id": "AS_Button_058b4ca6a9c1412498142199cc802abd",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___3ec39efb2f6349d29991c3116185dc46",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountsLandingKAOld",
+            "formKUID": "d62a2a0906c64d2281addc95893a6544",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

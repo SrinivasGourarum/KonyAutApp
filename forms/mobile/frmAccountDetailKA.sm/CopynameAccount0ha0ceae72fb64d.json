@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_skin_": "se4d4bdbf61348f68f943844268cd03d",
+    "_text_": "$ 51,320.38",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopynameAccount0ha0ceae72fb64d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "a71a68a1c6774737a9256b55cae1ec54",
+    "maxwidth": {
+        "type": "string",
+        "value": "90%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "CopynameContainer0j11519e3c67147",
+    "pf": "frmAccountDetailKA",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

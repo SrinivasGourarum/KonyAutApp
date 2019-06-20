@@ -1,0 +1,25 @@
+{
+    "AS_Button_3eb39c555faf423f8cf411d4f63de98b": {
+        "id": "AS_Button_3eb39c555faf423f8cf411d4f63de98b",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbackfromrecentransios",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRecentTransactionDetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3e75bf63a2d4443486447188bb14c36b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__eaf9f5bdf99c4724bbe1e30367d552d9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gotoparenttransaction();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

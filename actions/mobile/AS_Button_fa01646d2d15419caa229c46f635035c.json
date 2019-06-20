@@ -1,0 +1,23 @@
+{
+    "AS_Button_fa01646d2d15419caa229c46f635035c": {
+        "id": "AS_Button_fa01646d2d15419caa229c46f635035c",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_onClick_bbfeba408a15400fab1203d1348c3ba5",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "You are leaving the xyzBank Mobile App",
+            "yesLabel": "OK",
+            "noLabel": "Cancel",
+            "alertMessage": "to open directions in Apple Maps.",
+            "messageType": "constant",
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }]
+    }
+}

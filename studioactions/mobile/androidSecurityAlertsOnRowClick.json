@@ -1,0 +1,127 @@
+{
+    "AS_Segment_cb3ddcb4a46f45fe963673553a683652": {
+        "id": "AS_Segment_cb3ddcb4a46f45fe963673553a683652",
+        "type": "ACTION_SEQUENCE",
+        "name": "androidSecurityAlertsOnRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSecurityAlertsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "1e79dd812c2042889f0047b15a33f342"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__766dcacccab3485ea1be74c84f582e9b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var securityData;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "IF_CONDITION__bbced5bed8db4093bfb18e1506b4b39e",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==0"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__1853d06b7fcf489c8cfb773ad06c3e42",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[0].imgicontick=='checkbox_off.png')\n  securityData[0].imgicontick='checkbox_on.png';\n  else\n    securityData[0].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "IF_CONDITION__bbced5bed8db4093bfb18e1506b4b39e",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION__f8dc00aa25354323bc5ed94922e0c84c",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==1"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__5bba7caff0724580a4e70fdba96079e0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[1].imgicontick=='checkbox_off.png')\n  securityData[1].imgicontick='checkbox_on.png';\n  else\n    securityData[1].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "ELSE_IF_CONDITION__f8dc00aa25354323bc5ed94922e0c84c",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION__c501b25c7003473286b0b89073ffaa30",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==2"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__de96903130b9495692f11a23f0a14e13",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[2].imgicontick=='checkbox_off.png')\n  securityData[2].imgicontick='checkbox_on.png';\n  else\n    securityData[2].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "ELSE_IF_CONDITION__c501b25c7003473286b0b89073ffaa30",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION__667a83abf38a4481ae2d276f92e1da7c",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==3"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__66571b13a1eb431e8de1f4b6620c8e64",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[3].imgicontick=='checkbox_off.png')\n  securityData[3].imgicontick='checkbox_on.png';\n  else\n    securityData[3].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "ELSE_IF_CONDITION__667a83abf38a4481ae2d276f92e1da7c",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION__cd6d22ae90a54f4cb5b91bcae4489d5c",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==4"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__aa56d05d32994479b793f3a76243e21c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[4].imgicontick=='checkbox_off.png')\n  securityData[4].imgicontick='checkbox_on.png';\n  else\n    securityData[4].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "ELSE_IF_CONDITION__cd6d22ae90a54f4cb5b91bcae4489d5c",
+            "callbackType": null
+        }, {
+            "id": "ELSE_IF_CONDITION__70ffe5d70541499daeab85b80b4cfb6b",
+            "type": "ELSE_IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "frmSecurityAlertsKA.AlertsAndroid.selectedRowIndex[1]==5"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__aac69c877c4b4816a377d4c0e3beb14b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "securityData=frmSecurityAlertsKA.AlertsAndroid.data;\n//alert(frmSecurityAlertsKA.AlertsAndroid.data[1]);\nif(securityData[5].imgicontick=='checkbox_off.png')\n  securityData[5].imgicontick='checkbox_on.png';\n  else\n    securityData[5].imgicontick='checkbox_off.png';\nfrmSecurityAlertsKA.AlertsAndroid.setData(securityData);",
+            "parentId": "ELSE_IF_CONDITION__70ffe5d70541499daeab85b80b4cfb6b",
+            "callbackType": null
+        }]
+    }
+}

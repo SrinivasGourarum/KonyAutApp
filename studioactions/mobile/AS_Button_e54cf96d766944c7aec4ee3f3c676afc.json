@@ -1,0 +1,24 @@
+{
+    "AS_Button_e54cf96d766944c7aec4ee3f3c676afc": {
+        "id": "AS_Button_e54cf96d766944c7aec4ee3f3c676afc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsTouchIdKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "16105f00f47f4b3aac423736a1b9dbdf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e70f5a35b98541b6a5e2de476cf66d7f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setFocusSkinForEnable();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

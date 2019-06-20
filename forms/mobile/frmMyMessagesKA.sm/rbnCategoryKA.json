@@ -1,0 +1,124 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sc50ca9fcf814b52a1c986c7b430c419",
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        },
+        "render": true
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "rbnCategoryKA",
+    "ide_onSelection": "AS_RadioButtonGroup_d4ecf8aa6980451190ec586733bcd7fa",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewConfig": {
+                "toggleViewConfig": {
+                    "enableTintColor": true,
+                    "tintColor": "ff660000",
+                    "viewStyle": 0
+                }
+            },
+            "viewType": 2
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "itemorientation": "horizontal",
+    "kuid": "2baa11ff820b482cb5203ba2a98c331d",
+    "masterdata": [
+        [
+            "inbox",
+            "Inbox",
+            "i18n.messages.frmMyMessagesKA.rbnCategoryKA.inbox"
+        ],
+        [
+            "draft",
+            "Draft",
+            "i18n.messages.frmMyMessagesKA.rbnCategoryKA.draft"
+        ],
+        [
+            "sent",
+            "Sent",
+            "i18n.messages.frmMyMessagesKA.rbnCategoryKA.sent"
+        ],
+        [
+            "deleted",
+            "Deleted",
+            "i18n.messages.frmMyMessagesKA.rbnCategoryKA.deleted"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "onselection": "AS_RadioButtonGroup_d4ecf8aa6980451190ec586733bcd7fa",
+    "parent": "flxFilterContainerKA",
+    "pf": "frmMyMessagesKA",
+    "selectedkey": "inbox",
+    "selectedkeyvalue": [
+        "inbox",
+        "Inbox",
+        "i18n.messages.frmMyMessagesKA.rbnCategoryKA.inbox"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    }
+}

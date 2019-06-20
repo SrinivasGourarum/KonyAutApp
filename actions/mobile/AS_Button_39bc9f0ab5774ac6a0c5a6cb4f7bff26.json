@@ -1,0 +1,31 @@
+{
+    "AS_Button_39bc9f0ab5774ac6a0c5a6cb4f7bff26": {
+        "id": "AS_Button_39bc9f0ab5774ac6a0c5a6cb4f7bff26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsEditPersonalDetailsSecurityKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "4587698eac3e45e7a539856ca168e2e4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_0e38deeb05f1476ebd05a16ec1c1a2ce",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsPersonalDetailsKA",
+            "formKUID": "c39e85185860494ca31499da002c7478",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopybuttonLeft08e6c43ee6f1641\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

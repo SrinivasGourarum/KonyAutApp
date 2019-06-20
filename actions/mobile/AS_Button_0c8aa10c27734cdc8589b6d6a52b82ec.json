@@ -1,0 +1,22 @@
+{
+    "AS_Button_0c8aa10c27734cdc8589b6d6a52b82ec": {
+        "id": "AS_Button_0c8aa10c27734cdc8589b6d6a52b82ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_204a16efede1427ba4cea6aeb28f0740",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUnauthForgotUsernamePasswordKA",
+            "formKUID": "c38d4ade0023473db64baa102ba6dd38",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

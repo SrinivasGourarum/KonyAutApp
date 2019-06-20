@@ -1,0 +1,23 @@
+{
+    "AS_Button_254be9a64ee048c5a4263f16b69db4e1": {
+        "id": "AS_Button_254be9a64ee048c5a4263f16b69db4e1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "scheduledTransactionDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "10d341fcdc4f49768db99e146a540c09"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_7c2e03ec573d447b8326d622a86fd699",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"scheduledTransactionWrapper\",scheduledTransactionDetails);\nretainSelectionOff(\"scheduledTransactions\");",
+            "callbackType": null
+        }]
+    }
+}

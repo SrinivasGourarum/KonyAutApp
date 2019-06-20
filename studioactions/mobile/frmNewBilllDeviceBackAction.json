@@ -1,0 +1,25 @@
+{
+    "AS_Form_1a5585f64e76456ba5dbaa5563a13a7d": {
+        "id": "AS_Form_1a5585f64e76456ba5dbaa5563a13a7d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNewBilllDeviceBackAction",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewBillKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "94b57de480514c9f98e1f6979b71a37b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0221f309d4bb499e8954fdf04ec658bc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

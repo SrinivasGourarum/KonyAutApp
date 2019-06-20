@@ -1,0 +1,14 @@
+{
+    "AS_Button_f04dc0558198463abcac9e7d40a78cd2": {
+        "id": "AS_Button_f04dc0558198463abcac9e7d40a78cd2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_4eb1da9caa3d4e0f9eca6ac4f804b1ad",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHide();\ndepositLanding.scrollToBeginning();\n",
+            "callbackType": null
+        }]
+    }
+}

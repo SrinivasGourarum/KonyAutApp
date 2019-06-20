@@ -1,0 +1,24 @@
+{
+    "AS_Camera_8312d73577f541b3bc8431ef4b52cbca": {
+        "id": "AS_Camera_8312d73577f541b3bc8431ef4b52cbca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnterPersonalDetailsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0cbef5cf059f4b04b869b2345da27f26"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c220e8726e7d4e958e973b4a75b412df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmEnterPersonalDetailsKA.CopyanswerField071e6a76d731349.text=\"12345-12345-12345\";\nfrmEnterPersonalDetailsKA.answerField.text=\"Kyle John\";\nfrmEnterPersonalDetailsKA.CopyanswerField0d266c0d5463648.text=\"081828293839283\";\nfrmEnterPersonalDetailsKA.CopyanswerField0585f57e3029d41.text=\"081828293839283\";\nfrmEnterPersonalDetailsKA.CopyanswerField041a0b8add3db4e.text=\"testaddress@gmail.com\";\nfrmEnterPersonalDetailsKA.CopyanswerField06aeb6764155d4a.text=\"12, Kav Mega Kuningan, Jakarta 12312\";\n\nfrmEnterPersonalDetailsKA.Calendar07a8fd30bc6b044.dateComponents=[\"19\",\"06\",\"2017\"];\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Switch_474d21e243c749fdaaffee29453e12d4": {
+        "id": "AS_Switch_474d21e243c749fdaaffee29453e12d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "4f603b767f674541899a02e02e34887f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchEnd_34f7cb0ed50b4f3ab362b0cca3b4ac96",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountPreviewSwitchOnTouchEnd();",
+            "callbackType": null
+        }]
+    }
+}

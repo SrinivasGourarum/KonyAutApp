@@ -1,0 +1,24 @@
+{
+    "AS_Button_bd639d7b46e347949f4011cff746a48a": {
+        "id": "AS_Button_bd639d7b46e347949f4011cff746a48a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bb31c69b38984fd49dc3370be8ad8421",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmRequestPinChange.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s97ba197c9264e32a3f39d16396ccfe4",
+    "_src_": "largegraph.gif",
+    "_top_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmAccountsLanding",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0j1d17e1082084e",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc9f984dc01d4759a044bbd82c83d255",
+    "name": "kony.ui.Image2",
+    "parent": "CopyflxSavingsAccount0a475568587de42",
+    "pf": "frmAccountsLanding",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

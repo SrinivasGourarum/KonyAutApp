@@ -1,0 +1,137 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "CopyFlexContainer0cf774a7e8bf142": {},
+                "CopyImage055f33fb7444246": {},
+                "Copycontainer087f3a0994b334a": {},
+                "Label01f864cb479e14f": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "i18nkey": "i18n.transfer.frmP2PselectPayeeKA.contactsegment.Label01f864cb479e14f0",
+                    "text": "Pick from registered payees"
+                },
+                "contactListDivider": {},
+                "transactionDate": {},
+                "transactionName": {}
+            },
+            [
+                {
+                    "CopyImage055f33fb7444246": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": ""
+                    },
+                    "transactionDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "transactionName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "contactsegment",
+    "ide_onRowClick": "AS_Segment_01d677b0cec849b395232bf48511531a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "16882ad54f4141adb9ef20c20eed3135",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "onrowclick": "AS_Segment_01d677b0cec849b395232bf48511531a",
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxpayeedata",
+    "pf": "frmP2PselectPayeeKA",
+    "retainselection": false,
+    "rowTemplateId": "db1ef062d43549edb6e04a8d3e30e6eb",
+    "rowcounter": 0,
+    "rowfocusskin": "sbded94310044f4a8af0f74747158a6d",
+    "rowskin": "s188360adf7c445da91ce74d44371e05",
+    "rowtemplate": "CopyFlexContainer0cf774a7e8bf142",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "12354dd64f814198a16f1050bdf37bc7",
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "sectionheadertemplate": "Copycontainer087f3a0994b334a",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ededed00",
+    "separatorrequired": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0cf774a7e8bf142": "CopyFlexContainer0cf774a7e8bf142",
+        "CopyImage055f33fb7444246": "CopyImage055f33fb7444246",
+        "Copycontainer087f3a0994b334a": "Copycontainer087f3a0994b334a",
+        "Label01f864cb479e14f": "Label01f864cb479e14f",
+        "contactListDivider": "contactListDivider",
+        "transactionDate": "transactionDate",
+        "transactionName": "transactionName"
+    },
+    "zindex": 1
+}

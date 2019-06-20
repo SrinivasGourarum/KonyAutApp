@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        4,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s3a596805718406084b47082fb5a841c",
+    "_top_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true,
+        "tickedImage": "checkbox_selected.png",
+        "untickedImage": "checkbox_unselected.png"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "enabled": false,
+    "groupcells": false,
+    "id": "androidRememberMe",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        },
+        "render": false
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "89840f9607894fb8b5d1e6bfb497ffed",
+    "masterdata": [
+        [
+            "remember",
+            "Remember Me",
+            "i18n.login.frmLoginKA.androidRememberMe.remember"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddinginpixel": false,
+    "parent": "rememberContainer",
+    "pf": "frmLoginKA",
+    "selectedkey": null,
+    "selectedkeys": [
+        "remember"
+    ],
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        [
+            "remember",
+            "Remember Me"
+        ]
+    ],
+    "size": 18,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 5,
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

@@ -1,0 +1,15 @@
+{
+    "AS_Button_4c7a8379fe524b3780e215f5c312e224": {
+        "id": "AS_Button_4c7a8379fe524b3780e215f5c312e224",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__95171134b9bf4c63a016fe99f2f2607e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositToPick(2);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

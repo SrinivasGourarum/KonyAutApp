@@ -1,0 +1,14 @@
+{
+    "AS_Form_526575c89f234285b5dd15864f20dcf2": {
+        "id": "AS_Form_526575c89f234285b5dd15864f20dcf2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_preShow_e1a28b73d7544b2698fb09d87d66343f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "scheduledTransactionPreShow();",
+            "callbackType": null
+        }]
+    }
+}

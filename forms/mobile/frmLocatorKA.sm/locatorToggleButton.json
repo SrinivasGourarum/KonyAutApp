@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "List",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "locatorToggleButton",
+    "ide_onClick": "AS_Button_55d889f30b554889990e57a91c7a962d",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": false,
+    "kuid": "d1c4b0b01c6143d39a5cd810313feb8d",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_55d889f30b554889990e57a91c7a962d",
+    "parent": "utilContainer",
+    "pf": "frmLocatorKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.locateus.frmLocatorKA.locatorToggleButton",
+    "wType": "Button",
+    "zindex": 1
+}

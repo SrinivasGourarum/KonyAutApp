@@ -1,0 +1,15 @@
+{
+    "AS_Form_01e563f105d24128a6d880f4ff7ffe3b": {
+        "id": "AS_Form_01e563f105d24128a6d880f4ff7ffe3b",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__781274245cbc4b7c914405267804d5ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountsLandingPreShow();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "AS_Segment_6a8f3a07159e493e877d61ebfadaf78b": {
+        "id": "AS_Segment_6a8f3a07159e493e877d61ebfadaf78b",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onRowClick_e227121a97e94702959b4be5055fa920",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreForeignExchangeRatesKA",
+            "formKUID": "d0c11a0a70964f74b5bade08834b8583",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AS_Segment_01d677b0cec849b395232bf48511531a": {
+        "id": "AS_Segment_01d677b0cec849b395232bf48511531a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmP2PselectPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "70d10cb7bc484b6c92bcc81b0ccc655a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___2183ddb505904ff499fd7f48b6bdcef6",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmP2PConfirmationPayKA",
+            "formKUID": "c634696bcf0042fb9a44a55a368f9621",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

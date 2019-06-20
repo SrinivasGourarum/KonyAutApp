@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5034d01a18a4db7aa23146a09ba8c51",
+    "_text_": "Don't have an Account? <b>Open New Account</b>",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0cf8e75200dd94c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ea14d3d2189e4970a8f4cd0d48b78f90",
+    "masterType": 1,
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0b15a66a134894b",
+    "pf": "frmLogin",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

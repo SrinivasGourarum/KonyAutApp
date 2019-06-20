@@ -1,0 +1,22 @@
+{
+    "AS_Button_3d65bbd843c24bd2b9c8aec41e7d7b66": {
+        "id": "AS_Button_3d65bbd843c24bd2b9c8aec41e7d7b66",
+        "type": "ACTION_SEQUENCE",
+        "name": "showSuccessForm",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4cfce260523a49c6a1e38fb8d60be331",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showSuccess",
+            "display": "showSuccess",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

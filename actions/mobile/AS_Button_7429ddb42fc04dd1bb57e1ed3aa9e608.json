@@ -1,0 +1,14 @@
+{
+    "AS_Button_7429ddb42fc04dd1bb57e1ed3aa9e608": {
+        "id": "AS_Button_7429ddb42fc04dd1bb57e1ed3aa9e608",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_4f8ea0e586034f7b9ad5cc669860d49e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmDepositLandingKA);",
+            "callbackType": null
+        }]
+    }
+}

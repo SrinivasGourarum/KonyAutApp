@@ -1,0 +1,19 @@
+{
+    "AS_Button_44c105113ad4448eae9555010beb7d56": {
+        "id": "AS_Button_44c105113ad4448eae9555010beb7d56",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b93cbe7fa8b442e89692ac9668c437f0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmContactUsKA",
+            "formKUID": "3730b7e8806c47969fff751b469e1811",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

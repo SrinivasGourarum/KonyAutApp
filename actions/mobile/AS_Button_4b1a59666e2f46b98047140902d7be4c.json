@@ -1,0 +1,17 @@
+{
+    "AS_Button_4b1a59666e2f46b98047140902d7be4c": {
+        "id": "AS_Button_4b1a59666e2f46b98047140902d7be4c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_1bbfe2ba2a774e9990231e7ee97bf98c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewDepositKA.show();",
+            "callbackType": null
+        }]
+    }
+}

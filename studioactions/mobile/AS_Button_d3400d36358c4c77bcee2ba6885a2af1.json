@@ -1,0 +1,38 @@
+{
+    "AS_Button_d3400d36358c4c77bcee2ba6885a2af1": {
+        "id": "AS_Button_d3400d36358c4c77bcee2ba6885a2af1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dab7a50c55b94a12b3d961ae5bd49247"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_07d0066eef984af5b0d428c94bcf7de7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewBillKA",
+            "formKUID": "94b57de480514c9f98e1f6979b71a37b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "disabled": true
+        }, {
+            "id": "NAVIGATE_TO_FORM___ada503f7fc684b789c2593d556b33619",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "6299a08c7c514b3cbf5f34f1f48732aa",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

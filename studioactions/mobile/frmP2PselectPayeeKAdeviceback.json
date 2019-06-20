@@ -1,0 +1,25 @@
+{
+    "AS_Form_0e09627e5dda4c879684053dd6e8fc42": {
+        "id": "AS_Form_0e09627e5dda4c879684053dd6e8fc42",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmP2PselectPayeeKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmP2PselectPayeeKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "70d10cb7bc484b6c92bcc81b0ccc655a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c85e2f38aefa4eab996ae7df8574befa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

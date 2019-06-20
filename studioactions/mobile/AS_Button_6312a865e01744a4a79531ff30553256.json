@@ -1,0 +1,21 @@
+{
+    "AS_Button_6312a865e01744a4a79531ff30553256": {
+        "id": "AS_Button_6312a865e01744a4a79531ff30553256",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e277435cced94dfdbe6fb207b1f20c0b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "OnClickCharges",
+            "display": "OnClickCharges",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

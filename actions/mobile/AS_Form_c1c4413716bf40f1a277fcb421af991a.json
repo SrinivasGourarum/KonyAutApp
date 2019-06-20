@@ -1,0 +1,23 @@
+{
+    "AS_Form_c1c4413716bf40f1a277fcb421af991a": {
+        "id": "AS_Form_c1c4413716bf40f1a277fcb421af991a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceRegistrationDemo2",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e13f1296e0a4463e851f937f693990a9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onHide_521f1e667c2548e79b73f7ad0b48888c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDeviceRegistrationDemo2.tbxPin.text=\"\";",
+            "callbackType": null
+        }]
+    }
+}

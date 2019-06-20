@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8a5affe47304598ba6c22a8203da41b",
+    "_top_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "accountsWrapper",
+        "androidInsightsCover"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": false,
+    "horizontalscrollindicator": true,
+    "id": "accountsOuterScroll",
+    "ide_onScrolling": "AS_FlexScrollContainer_a15b7500a04e48c0afa2ff334e0b1317",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bd0876cadf1f4c54a0b059020f1102d3",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "onscrolling": "AS_FlexScrollContainer_a15b7500a04e48c0afa2ff334e0b1317",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "frmAccountsLandingKAOld",
+    "percent": true,
+    "pf": "frmAccountsLandingKAOld",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": false,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

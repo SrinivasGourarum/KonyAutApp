@@ -1,0 +1,23 @@
+{
+    "AS_Button_88331045d7b84e8a8ddb2d8413e3967f": {
+        "id": "AS_Button_88331045d7b84e8a8ddb2d8413e3967f",
+        "type": "ACTION_SEQUENCE",
+        "name": "androidBackButtonClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_b923505134604b9bab281ed616988866",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

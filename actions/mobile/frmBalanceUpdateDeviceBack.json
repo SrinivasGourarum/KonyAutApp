@@ -1,0 +1,25 @@
+{
+    "AS_Form_5657447045d347dc8325b73da8e89ab9": {
+        "id": "AS_Form_5657447045d347dc8325b73da8e89ab9",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmBalanceUpdateDeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmBalanceUpdateKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "17e8fc918b85450a9d7bd5bfcd044acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fcec05925f434a28896e7adaa9c24f92",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

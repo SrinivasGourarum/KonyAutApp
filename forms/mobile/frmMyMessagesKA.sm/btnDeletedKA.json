@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "52dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        3,
+        0,
+        3,
+        0
+    ],
+    "_skin_": "s93d8c38f408435dbc267d82e76bf88b",
+    "_text_": "DELETED",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5de7479b8fc41c7b7ac16645e143ed0",
+    "id": "btnDeletedKA",
+    "ide_onClick": "AS_Button_84ed77b11a3b4e0cbfc37fb2a9734900",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "af9c2ce975424f4f96436c13c595b799",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_84ed77b11a3b4e0cbfc37fb2a9734900",
+    "paddinginpixel": false,
+    "parent": "androidSegmentedController",
+    "pf": "frmMyMessagesKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.messages.frmMyMessagesKA.btnDeletedKA",
+    "wType": "Button",
+    "zindex": 1
+}

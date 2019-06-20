@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "46%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "CopyButton024acf80eaf2e48",
+    "ide_onClick": "AS_Button_9698855d98464fdcbb332d3a4f7e9b9c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0ae948fc00b347fda5166922b0d6ba0e",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_9698855d98464fdcbb332d3a4f7e9b9c",
+    "parent": "CopyFlexContainer002b98eab40054c",
+    "pf": "frmEnrolluserLandingKA",
+    "texti18n": "i18n.common.Cancel",
+    "wType": "Button"
+}

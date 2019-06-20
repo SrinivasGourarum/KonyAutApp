@@ -1,0 +1,45 @@
+{
+    "AS_Button_9d164f4efa5d42b5a36e9a252327d197": {
+        "id": "AS_Button_9d164f4efa5d42b5a36e9a252327d197",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCancellingCreditCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2d490dd434d4419c838fe7bad7a62acb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__1ccc1cdcffe244d4ac3fc88903c673eb",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Confirmation ",
+            "yesLabel": "OK",
+            "alertMessage": "Your card is cancelled\n",
+            "messageType": "constant",
+            "parentId": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___f34bd350912942289f19f26b15075772",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmManageCardsKA",
+            "formKUID": "75db60b6b4944b7faf9c556f4dbcaf8d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__1ccc1cdcffe244d4ac3fc88903c673eb",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "AS_Button_84b38d0201bc420680f4d0440315ac33": {
+        "id": "AS_Button_84b38d0201bc420680f4d0440315ac33",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionHamburgerMenuDepositOnclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__28069a07f2e64b4b8944cc4391724caa",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "firstTimeVisitDepositForm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

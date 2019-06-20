@@ -1,0 +1,18 @@
+{
+    "AS_FlexContainer_1ab136cfcdc8490c84e57bbd9bdb10e5": {
+        "id": "AS_FlexContainer_1ab136cfcdc8490c84e57bbd9bdb10e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

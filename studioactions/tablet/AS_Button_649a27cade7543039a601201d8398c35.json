@@ -1,0 +1,18 @@
+{
+    "AS_Button_649a27cade7543039a601201d8398c35": {
+        "id": "AS_Button_649a27cade7543039a601201d8398c35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e1c3414d8ad3444c80e99a43fe49eb6b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal (contactUs.contactUsWrapper,\"contactUsWrapper\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

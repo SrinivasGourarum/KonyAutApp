@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_270fa405bedb4b36b0c3478af8ed5569": {
+        "id": "AS_FlexContainer_270fa405bedb4b36b0c3478af8ed5569",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f1dc1c92c81846efb6225fb203233cd9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositPayLandingKA.show();"
+        }]
+    }
+}

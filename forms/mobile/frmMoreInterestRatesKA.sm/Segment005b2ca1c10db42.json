@@ -1,0 +1,225 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".05%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2,500"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3 Months"
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".05%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$10,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".05%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$100,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".10%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2,500"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6 Months"
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".10%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$10,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".10%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$100,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".15%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2,500"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1 Year"
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".15%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$10,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0889851808b4d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ".15%"
+            },
+            "CopyLabel0aa31e107270349": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$100,000"
+            },
+            "Label01f705b47128f41": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "d58712e0368f4dce9d72bf323f3154e5",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment005b2ca1c10db42",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "9fc93ffbf1a14f29ada17dd05470f137",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "mainContent",
+    "pf": "frmMoreInterestRatesKA",
+    "retainselection": false,
+    "rowTemplateId": "d58712e0368f4dce9d72bf323f3154e5",
+    "rowcounter": 8,
+    "rowfocusskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowskin": "sd2ca277651a46c0ba82f3226859f5a6",
+    "rowtemplate": "CopyFBox02bb1e4273cee42",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s166bbed35d04ad1b28badead9d39877",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "eeeeee00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel0889851808b4d48": "CopyLabel0889851808b4d48",
+        "CopyLabel0aa31e107270349": "CopyLabel0aa31e107270349",
+        "Label01f705b47128f41": "Label01f705b47128f41"
+    },
+    "zindex": 1
+}

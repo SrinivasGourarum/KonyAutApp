@@ -1,0 +1,14 @@
+{
+    "AS_Button_6746ff6733bc4dc9a38de89dc2627650": {
+        "id": "AS_Button_6746ff6733bc4dc9a38de89dc2627650",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_0ff0cbb18d3c459e96e431cfe9d7a978",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeExternalAccount();",
+            "callbackType": null
+        }]
+    }
+}

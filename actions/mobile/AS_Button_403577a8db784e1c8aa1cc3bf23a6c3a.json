@@ -1,0 +1,31 @@
+{
+    "AS_Button_403577a8db784e1c8aa1cc3bf23a6c3a": {
+        "id": "AS_Button_403577a8db784e1c8aa1cc3bf23a6c3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTransferPayLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "dab7a50c55b94a12b3d961ae5bd49247"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_0c84994aed0543638e0e8910caa8be96",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewPayPersonKA",
+            "formKUID": "1df7248b622b405fb1a73c4deef77bd8",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopypayPersonButton04d4fb224cc7e4e\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

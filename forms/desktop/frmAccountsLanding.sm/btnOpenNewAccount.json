@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s86de2458e8d4a68a02d5dbae9d795cd",
+    "_text_": "OPEN NEW ACCOUNT",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s74c94d2e2a54859bd45e53a6880d4eb",
+    "id": "btnOpenNewAccount",
+    "info": null,
+    "isvisible": true,
+    "kuid": "he008f241542449daa765ef43784702d",
+    "name": "kony.ui.Button",
+    "parent": "flxPrimaryActions",
+    "pf": "frmAccountsLanding",
+    "tooltip": "Open New Account",
+    "wType": "Button",
+    "zindex": 1
+}

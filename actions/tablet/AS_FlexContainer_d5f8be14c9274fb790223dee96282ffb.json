@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_d5f8be14c9274fb790223dee96282ffb": {
+        "id": "AS_FlexContainer_d5f8be14c9274fb790223dee96282ffb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_b20492b5741048ff8b67c4d705f84132",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "closeModal(\"externalAccountWrapper\",addExternalAccount);",
+            "callbackType": null
+        }]
+    }
+}

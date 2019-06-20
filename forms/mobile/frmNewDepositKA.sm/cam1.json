@@ -1,0 +1,110 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_skin_": "s2c7939a2bf147799aef189125b4b973",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "android": {
+        "enableOverlay": true,
+        "overlayConfig": {
+            "captureButtonSkin": "sd3e95c0e40f4450bf5be78f857ccb80",
+            "captureButtonText": "",
+            "overlayForm": "6fa05a351e1445b18bc5490d5bb167c3",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": "",
+            "tapAnywhere": true
+        }
+    },
+    "camerasource": "rear",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "enableoverlay": true,
+    "focusskin": "s2c7939a2bf147799aef189125b4b973",
+    "id": "cam1",
+    "ide_onCapture": "AS_Camera_6d727c524ccd417aab38fd1ae42245de",
+    "ide_onTouchStart": "AS_Camera_34fa0d0222ca4c9bbd0aceb564a18761",
+    "info": null,
+    "iphone": {
+        "enableOverlay": true,
+        "overlayConfig": {
+            "overlayForm": "6fa05a351e1445b18bc5490d5bb167c3",
+            "startVideoButtonText": "",
+            "stopVideoButtonText": ""
+        },
+        "psp": {
+            "captureOrientation": 1,
+            "nativeUserInterface": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "723bd89b64a948e591bc1c7c57c3969c",
+    "name": "kony.ui.Camera",
+    "oncapture": "AS_Camera_6d727c524ccd417aab38fd1ae42245de",
+    "ontouchstart": "AS_Camera_34fa0d0222ca4c9bbd0aceb564a18761",
+    "parent": "CopyusernameContainer04d6648fa2a054b",
+    "pf": "frmNewDepositKA",
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "winphone8": {
+        "enableOverlay": true,
+        "overlayConfig": {
+            "tapAnywhere": false
+        }
+    },
+    "zindex": 10
+}

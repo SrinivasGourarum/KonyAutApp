@@ -1,0 +1,14 @@
+{
+    "AS_Button_3971f664517c4d5b90c72055c3b89c94": {
+        "id": "AS_Button_3971f664517c4d5b90c72055c3b89c94",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_c664bc0253944caeb6f237cd2b3e803d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "enableFeature(1);",
+            "callbackType": null
+        }]
+    }
+}

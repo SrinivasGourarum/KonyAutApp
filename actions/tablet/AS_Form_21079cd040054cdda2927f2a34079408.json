@@ -1,0 +1,23 @@
+{
+    "AS_Form_21079cd040054cdda2927f2a34079408": {
+        "id": "AS_Form_21079cd040054cdda2927f2a34079408",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "873e7a75138c4b079998730d5df48bb7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__4a17be61c93d48cdac26c4ceebccdfc9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "accountLandingDestroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

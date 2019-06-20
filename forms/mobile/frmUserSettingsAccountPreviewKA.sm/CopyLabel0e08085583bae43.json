@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83084e02eaf41eb8e7d43c156ffe55e",
+    "_text_": "What would you like to see when you first launch the xyzBank app?",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "CopyLabel0e08085583bae43",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "44338b00f073473cafb7baf0ac7a53b8",
+    "name": "kony.ui.Label",
+    "parent": "accountPreviewOptions",
+    "pf": "frmUserSettingsAccountPreviewKA",
+    "texti18n": "i18n.settings.frmUserSettingsAccountPreviewKA.CopyLabel0e08085583bae43",
+    "tooltip": "",
+    "wType": "Label"
+}

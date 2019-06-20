@@ -1,0 +1,17 @@
+{
+    "AS_Button_3401177a5faa47bfae278cdf201bb75b": {
+        "id": "AS_Button_3401177a5faa47bfae278cdf201bb75b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d23f49fee93a41589d6f608a81b82aa3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showAccountInsights();",
+            "callbackType": null
+        }]
+    }
+}

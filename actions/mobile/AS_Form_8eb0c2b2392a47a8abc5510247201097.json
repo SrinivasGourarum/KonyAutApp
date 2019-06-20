@@ -1,0 +1,14 @@
+{
+    "AS_Form_8eb0c2b2392a47a8abc5510247201097": {
+        "id": "AS_Form_8eb0c2b2392a47a8abc5510247201097",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_preShow_b70ffc7c26bf4036ab16dbbe5c01a79e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loadSearchData();",
+            "callbackType": null
+        }]
+    }
+}

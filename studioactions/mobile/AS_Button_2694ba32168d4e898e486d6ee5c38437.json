@@ -1,0 +1,23 @@
+{
+    "AS_Button_2694ba32168d4e898e486d6ee5c38437": {
+        "id": "AS_Button_2694ba32168d4e898e486d6ee5c38437",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCouponQRCode",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ea3980b6146d44159f16b22ec39c42e1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1f8f6d5c959144eeb241aa9bf081011e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmCouponsList.show();\nfrmCouponCreation.destroy();",
+            "parentId": null
+        }]
+    }
+}

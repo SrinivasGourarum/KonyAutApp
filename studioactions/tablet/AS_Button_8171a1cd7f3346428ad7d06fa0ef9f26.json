@@ -1,0 +1,24 @@
+{
+    "AS_Button_8171a1cd7f3346428ad7d06fa0ef9f26": {
+        "id": "AS_Button_8171a1cd7f3346428ad7d06fa0ef9f26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "unauthFeatureEnabling",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8f748eebb9214f1fbb51caafac1495ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8e88581888cd44a7b48169d3d4fdcd22",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "nextFeature();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

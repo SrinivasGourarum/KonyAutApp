@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51d68053cae4eba826625de179be4ae",
+    "_text_": "PAY BILL",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "btnContinueKA",
+    "ide_onClick": "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "27b9bf7cf85743e791428e770ab6aac3",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94",
+    "parent": "flxContainerKA",
+    "pf": "frmAddPayeeSuccessKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.manage_payee.frmAddPayeeSuccessKA.btnContinueKA",
+    "wType": "Button",
+    "zindex": 1
+}

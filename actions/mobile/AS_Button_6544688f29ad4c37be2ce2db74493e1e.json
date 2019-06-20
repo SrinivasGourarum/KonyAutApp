@@ -1,0 +1,14 @@
+{
+    "AS_Button_6544688f29ad4c37be2ce2db74493e1e": {
+        "id": "AS_Button_6544688f29ad4c37be2ce2db74493e1e",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_9e76188061314e15a1aa70318e579510",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmNewTransferKA);",
+            "callbackType": null
+        }]
+    }
+}

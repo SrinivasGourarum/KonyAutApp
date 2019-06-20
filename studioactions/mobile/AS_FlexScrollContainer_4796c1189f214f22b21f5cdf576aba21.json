@@ -1,0 +1,24 @@
+{
+    "AS_FlexScrollContainer_4796c1189f214f22b21f5cdf576aba21": {
+        "id": "AS_FlexScrollContainer_4796c1189f214f22b21f5cdf576aba21",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__2d361a25d4204c32b7d34edeb95dd088",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "apScrollEnableTouchEnd();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

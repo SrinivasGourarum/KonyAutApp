@@ -1,0 +1,30 @@
+{
+    "AS_Segment_14e3d00da91e4f0b91ca00a99267503b": {
+        "id": "AS_Segment_14e3d00da91e4f0b91ca00a99267503b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "seguiWidget"
+        }, {
+            "datatype": "number",
+            "name": "sectionIndex"
+        }, {
+            "datatype": "number",
+            "name": "rowIndex"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0d46c1193ea84860807a264e34427f9d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(rowIndex == 1.0)\n  {\n    //alert(flxCreditCardTemplateKA.FlexContainer0aecffd4e3b1143.skin);\n    flxCreditCardTemplateKA.FlexContainer0aecffd4e3b1143.skin = sknDebitCardKA;\n    frmManageCardsKA.btnReportStolenKA.isVisible = true;\n  }\nelse{\n  frmManageCardsKA.btnReportStolenKA.isVisible = false;\n}\n  ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

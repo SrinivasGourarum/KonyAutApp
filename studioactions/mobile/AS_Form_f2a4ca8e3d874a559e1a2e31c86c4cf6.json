@@ -1,0 +1,23 @@
+{
+    "AS_Form_f2a4ca8e3d874a559e1a2e31c86c4cf6": {
+        "id": "AS_Form_f2a4ca8e3d874a559e1a2e31c86c4cf6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewTransferKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce8fc9f71e294cd29906f5bfb70eaf07"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDeviceBack_fb9632792deb4701a14235755596d4bb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device Back\");",
+            "callbackType": null
+        }]
+    }
+}

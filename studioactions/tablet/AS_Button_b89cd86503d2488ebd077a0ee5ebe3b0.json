@@ -1,0 +1,28 @@
+{
+    "AS_Button_b89cd86503d2488ebd077a0ee5ebe3b0": {
+        "id": "AS_Button_b89cd86503d2488ebd077a0ee5ebe3b0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "400c333b731c40eca5e2521568d1baf5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_65816bb20b084de2823c719a95a78c94",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnrolluserLandingKA",
+            "formKUID": "de724966138b4e7c9bfdd35033a0bdb3",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

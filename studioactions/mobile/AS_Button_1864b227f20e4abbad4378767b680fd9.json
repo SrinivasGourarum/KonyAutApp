@@ -1,0 +1,24 @@
+{
+    "AS_Button_1864b227f20e4abbad4378767b680fd9": {
+        "id": "AS_Button_1864b227f20e4abbad4378767b680fd9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmDepoist",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de5a9c6903e8491aaa281be9f521b928"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__26a9eb854dac431f93c174ec820c633f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDepositPayLandingKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

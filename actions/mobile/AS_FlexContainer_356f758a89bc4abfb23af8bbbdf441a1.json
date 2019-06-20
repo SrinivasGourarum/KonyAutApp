@@ -1,0 +1,16 @@
+{
+    "AS_FlexContainer_356f758a89bc4abfb23af8bbbdf441a1": {
+        "id": "AS_FlexContainer_356f758a89bc4abfb23af8bbbdf441a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_f08254f283784747ae88caa37068695b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openEmail();\n"
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_b540eaa8b9b245bcb9f6da8155dd8b03": {
+        "id": "AS_Button_b540eaa8b9b245bcb9f6da8155dd8b03",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickaccount5seg",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccountsLandingKAOld",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d62a2a0906c64d2281addc95893a6544"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8da8312b02e642efae439865264cddd1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "yourAccountClick(account5);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

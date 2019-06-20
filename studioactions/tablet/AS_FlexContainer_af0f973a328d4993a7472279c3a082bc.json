@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_af0f973a328d4993a7472279c3a082bc": {
+        "id": "AS_FlexContainer_af0f973a328d4993a7472279c3a082bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "accountsLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "873e7a75138c4b079998730d5df48bb7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

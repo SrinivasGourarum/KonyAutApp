@@ -1,0 +1,24 @@
+{
+    "AS_Button_26d990e5ed944642ba706bd87f568c48": {
+        "id": "AS_Button_26d990e5ed944642ba706bd87f568c48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositConfirmationDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "103582308d1f4df2bdc61b5286040c6d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__254c86bcc09a44abaa752dbe23fb8438",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmAccountsLandingKA.show();\n frmNewDepositKA.lblAmountValue.text=\"\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

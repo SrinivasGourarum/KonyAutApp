@@ -1,0 +1,24 @@
+{
+    "AS_Button_9aa4f1bf3d4846bb908fb29493e51763": {
+        "id": "AS_Button_9aa4f1bf3d4846bb908fb29493e51763",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "locator",
+            "type": "forms",
+            "platform": "",
+            "KUID": "91bf1ce516214ab8adad0a71f5d68382"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9e11987213b849b3a3a74aa2b59e6a0a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "userEnteredLocationTerm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

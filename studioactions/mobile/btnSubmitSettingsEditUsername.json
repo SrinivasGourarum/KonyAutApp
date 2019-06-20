@@ -1,0 +1,29 @@
+{
+    "AS_Button_b316869af0654ac4931ae1b53f3176a7": {
+        "id": "AS_Button_b316869af0654ac4931ae1b53f3176a7",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnSubmitSettingsEditUsername",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsEditUsernameKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "961c8824d4e14cf2b422099eccffc6a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c65706c3f1534d5f916e11a33f75b413",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmConfirmationUserNameKA",
+            "formKUID": "baeeff7263b1424fba99f4e7917cee30",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

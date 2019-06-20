@@ -1,0 +1,24 @@
+{
+    "AS_Button_9f61007110834c81a66257b13dc17afd": {
+        "id": "AS_Button_9f61007110834c81a66257b13dc17afd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmManageCardsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "75db60b6b4944b7faf9c556f4dbcaf8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ee7d0b8bd72b43139b8e42f631c9fbc3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmReplaceCardKA.txtReason.text=\"\";\nfrmReplaceCardKA.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

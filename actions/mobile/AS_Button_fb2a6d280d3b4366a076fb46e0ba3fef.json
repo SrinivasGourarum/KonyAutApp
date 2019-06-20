@@ -1,0 +1,17 @@
+{
+    "AS_Button_fb2a6d280d3b4366a076fb46e0ba3fef": {
+        "id": "AS_Button_fb2a6d280d3b4366a076fb46e0ba3fef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b3d5e8fc365f4fc1810fae98c5f12e27",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onLoginClick();",
+            "disabled": false
+        }]
+    }
+}

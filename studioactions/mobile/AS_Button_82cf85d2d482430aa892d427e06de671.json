@@ -1,0 +1,34 @@
+{
+    "AS_Button_82cf85d2d482430aa892d427e06de671": {
+        "id": "AS_Button_82cf85d2d482430aa892d427e06de671",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDeviceDeRegistrationKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "499b4d3c1a2c45e4a20d2c17e0303848"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__12c1ff5498954e6b8c4a8f6c62ca25e4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Device is De-Registered\")",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM___55a681cdab6f4828bcf6e3730bdcb170",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

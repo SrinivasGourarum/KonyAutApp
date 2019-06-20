@@ -1,0 +1,19 @@
+{
+    "AS_Button_5646d4f67e7e47169aff0a3a4d9a64dd": {
+        "id": "AS_Button_5646d4f67e7e47169aff0a3a4d9a64dd",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickpayconfirmbtnP2P",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__848017263e874f1f9ed20c67d7c6994a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "transactionSuccess(frmP2PConfirmationPayKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

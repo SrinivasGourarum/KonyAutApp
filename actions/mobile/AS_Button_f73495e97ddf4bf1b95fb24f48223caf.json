@@ -1,0 +1,23 @@
+{
+    "AS_Button_f73495e97ddf4bf1b95fb24f48223caf": {
+        "id": "AS_Button_f73495e97ddf4bf1b95fb24f48223caf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositPayLandingKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "dd44156e890e4ee28360f50ee6c67184"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_7a2ff1b7796646bf88d9f6874c4bc2b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "activeAndroidNav();",
+            "callbackType": null
+        }]
+    }
+}

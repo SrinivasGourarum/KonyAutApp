@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_951caf7b7a2a41dbb274ebadc7dcb867": {
+        "id": "AS_FlexContainer_951caf7b7a2a41dbb274ebadc7dcb867",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tabBarTransfer",
+            "type": "templates",
+            "platform": "",
+            "KUID": "4d0f72044b934b539f6f3d0409a878b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8ffdd1644fbd4a1c8c17df7193c2022a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "firstTimeVisitDepositForm",
+            "display": "firstTimeVisitDepositForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

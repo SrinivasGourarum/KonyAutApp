@@ -1,0 +1,29 @@
+{
+    "AS_Button_c7d9c0cf4fa445fdb67a930088657c7f": {
+        "id": "AS_Button_c7d9c0cf4fa445fdb67a930088657c7f",
+        "type": "ACTION_SEQUENCE",
+        "name": "onclickbacktransctncheque",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmtransactionChequeKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f73d1ca331e047ce8bbd9d4a6d8a2105"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___cb4fd7ac4db64431aa52f2808f68231a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAccountDetailKAOld",
+            "formKUID": "5ed703cad63c441882fc4a36f5ea0c28",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

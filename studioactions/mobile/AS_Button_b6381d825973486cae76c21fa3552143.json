@@ -1,0 +1,23 @@
+{
+    "AS_Button_b6381d825973486cae76c21fa3552143": {
+        "id": "AS_Button_b6381d825973486cae76c21fa3552143",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNewPayPersonKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1df7248b622b405fb1a73c4deef77bd8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__99562a8a15944b32905da91443b51f67",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAccountCard(frmNewPayPersonKA,\"to\",1);",
+            "parentId": null
+        }]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "AS_Button_321dd57cd151401ea55f21e5eacaf271": {
+        "id": "AS_Button_321dd57cd151401ea55f21e5eacaf271",
+        "type": "ACTION_SEQUENCE",
+        "name": "cancelDepositClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__251664c28a244750baad5606afe5f6ae",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Cancel Deposit?",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertMessage": "Are you sure you want cancel this deposit?",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___6526872553c74400b4b8b37858952a43",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__251664c28a244750baad5606afe5f6ae",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

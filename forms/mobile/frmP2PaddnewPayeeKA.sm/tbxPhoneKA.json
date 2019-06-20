@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Enter Phone here",
+    "_skin_": "s91685645d0c4a43826fdd5c95fe611d",
+    "_text_": "(091) 324 - 3247",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s91685645d0c4a43826fdd5c95fe611d",
+    "id": "tbxPhoneKA",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "5688d95c22d84f95850617d8e3ef7900",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexContainer0c723f5e1903443",
+    "pf": "frmP2PaddnewPayeeKA",
+    "placeholderi18n": "i18n.transfer.frmP2PaddnewPayeeKA.tbxPhoneKA_placeholder",
+    "placeholderskin": "sfa36c5ffd8f4b39894ae352f59c3406",
+    "securetextentry": false,
+    "texti18n": "i18n.transfer.frmP2PaddnewPayeeKA.tbxPhoneKA",
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

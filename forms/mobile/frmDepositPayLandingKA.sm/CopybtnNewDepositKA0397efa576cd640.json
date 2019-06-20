@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "92dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s409616a424246c78da4bbcd9516e43d",
+    "_text_": "NEW CHECK DEPOSIT",
+    "_top_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "177dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2162c4236184af099eaa8f84fd624da",
+    "id": "CopybtnNewDepositKA0397efa576cd640",
+    "ide_onClick": "AS_Button_0a3ae579da26402ba3498838a5b162f3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2edb0ca4af3643a2bb144bceccb5492b",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_0a3ae579da26402ba3498838a5b162f3",
+    "parent": "iosTitleBar",
+    "pf": "frmDepositPayLandingKA",
+    "texti18n": "i18n.deposit.frmDepositPayLandingKA.CopybtnNewDepositKA0397efa576cd640",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_0bce6b2d0216467686efeb491696596b": {
+        "id": "AS_Button_0bce6b2d0216467686efeb491696596b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_4d47074ee61a47c9af492ff967337292",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showPayPersonScreen2();",
+            "callbackType": null
+        }]
+    }
+}

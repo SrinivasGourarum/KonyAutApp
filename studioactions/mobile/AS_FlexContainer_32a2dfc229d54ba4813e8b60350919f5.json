@@ -1,0 +1,15 @@
+{
+    "AS_FlexContainer_32a2dfc229d54ba4813e8b60350919f5": {
+        "id": "AS_FlexContainer_32a2dfc229d54ba4813e8b60350919f5",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1f00f69b3d6043198b95f01348f50259",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "clickedLoginCardWrapper();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "AS_Form_b8a133a0402043da830465b11374b5e2": {
+        "id": "AS_Form_b8a133a0402043da830465b11374b5e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e0ab72e0cace49efa270506916f79847",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "depositHide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

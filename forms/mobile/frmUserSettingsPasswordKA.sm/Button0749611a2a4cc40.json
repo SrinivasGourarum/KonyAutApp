@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1a96e0a6f17402ca691f55c7b41e893",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s55cab51ac7b40b5a2db38b7b9c5822a",
+    "id": "Button0749611a2a4cc40",
+    "ide_onClick": "AS_Button_cc2cbbafc6d44bc3bee6959c276e9a0e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c8193fcd068e418ebdfd9db93f878f90",
+    "minwidth": {
+        "type": "number",
+        "value": "50"
+    },
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_cc2cbbafc6d44bc3bee6959c276e9a0e",
+    "parent": "titleBarAccountDetails",
+    "pf": "frmUserSettingsPasswordKA",
+    "texti18n": "i18n.common.Cancel",
+    "wType": "Button",
+    "zindex": 1
+}

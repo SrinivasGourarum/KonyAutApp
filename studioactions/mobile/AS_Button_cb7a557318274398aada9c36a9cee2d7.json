@@ -1,0 +1,22 @@
+{
+    "AS_Button_cb7a557318274398aada9c36a9cee2d7": {
+        "id": "AS_Button_cb7a557318274398aada9c36a9cee2d7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLoginKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7b1aa8fceb6b4070833e9eab879b0e5e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a0d152e7597f4de99a7aaf2148a88f44",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onLoginClick();"
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AS_Button_9e914e0bece841f483c4777d1acc04e6": {
+        "id": "AS_Button_9e914e0bece841f483c4777d1acc04e6",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_4b619ac02a424e97afd63945230d3b88",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "hidePayPersonScreen2();",
+            "callbackType": null
+        }]
+    }
+}

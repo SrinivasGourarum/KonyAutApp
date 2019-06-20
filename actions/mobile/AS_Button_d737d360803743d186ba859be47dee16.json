@@ -1,0 +1,25 @@
+{
+    "AS_Button_d737d360803743d186ba859be47dee16": {
+        "id": "AS_Button_d737d360803743d186ba859be47dee16",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_7b400abc12174d5fa11ed867e2313cd5",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnterLocationKA",
+            "formKUID": "861873c077284bceac2ded89085a841b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"enableTouchID\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

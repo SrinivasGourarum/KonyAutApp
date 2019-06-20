@@ -1,0 +1,26 @@
+{
+    "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94": {
+        "id": "AS_Button_dd5d5f0bf99c4d13be15d7aff6a28c94",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmNewBillKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_f30fb844c14e4c0682c453bb775a41e8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNewBillKA",
+            "formKUID": "94b57de480514c9f98e1f6979b71a37b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnContinueKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AS_Button_7b6747ba018847ebaef4b8af9b9387a6": {
+        "id": "AS_Button_7b6747ba018847ebaef4b8af9b9387a6",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_9b42a93e41c74f0f885e64ca87be6a0d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "newTransferAmountPickEdit();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "AS_TextField_44398215e1554bb8b521e39340038ca5": {
+        "id": "AS_TextField_44398215e1554bb8b521e39340038ca5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__b8a40c5c40d54781901beabb14e7ac99",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewPayPersonKA);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

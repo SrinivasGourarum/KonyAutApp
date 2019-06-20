@@ -1,0 +1,24 @@
+{
+    "AS_Camera_bc74fbb6bb3b416fb3b824e026792be8": {
+        "id": "AS_Camera_bc74fbb6bb3b416fb3b824e026792be8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEnrolluserLandingKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "de724966138b4e7c9bfdd35033a0bdb3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__0c211dee962e40e6bcefe90697e80ddc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmEnrolluserLandingKA.tbxssnnumner.text=\"98989-2389239-28389238\";",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

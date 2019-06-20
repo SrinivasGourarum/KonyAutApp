@@ -1,0 +1,24 @@
+{
+    "AS_Form_f5df887ff80d40db9a23628355acf26b": {
+        "id": "AS_Form_f5df887ff80d40db9a23628355acf26b",
+        "type": "ACTION_SEQUENCE",
+        "name": "pendingDepositPreShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmScheduledDepositKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "93b50483f6434c4e9037700dbe6140bf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_75c5b9417f264a92b29fb7d279459d51",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "scheduledTransactionDetailPreShow();",
+            "callbackType": null
+        }]
+    }
+}

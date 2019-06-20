@@ -1,0 +1,18 @@
+{
+    "AS_Form_30afd0a7172342999c1f0930cdae778d": {
+        "id": "AS_Form_30afd0a7172342999c1f0930cdae778d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAcmeCreditCardKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "555544fb8d9a4bcf9b081cc78b58bfd1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

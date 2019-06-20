@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s47376acc7f84481b047192952c602f3",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sbe13586f59d4a768bfe23c1b619f8c6",
+    "id": "InformationLink",
+    "ide_onClick": "AS_Button_45063ac6f7934ce0a4e121198bf96750",
+    "info": null,
+    "ipad": {
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "49374b59c0474ddbbf6be7b026d88f47",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_45063ac6f7934ce0a4e121198bf96750",
+    "parent": "logoHeader",
+    "pf": "frmLoginKA",
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "texti18n": "i18n.login.frmLoginKA.InformationLink",
+    "wType": "Button",
+    "windows8": {
+        "render": true
+    },
+    "zindex": 1
+}

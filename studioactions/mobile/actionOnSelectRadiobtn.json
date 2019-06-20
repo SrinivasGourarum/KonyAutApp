@@ -1,0 +1,28 @@
+{
+    "AS_RadioButtonGroup_f2d49f42d032491195b597d0eb1a39d0": {
+        "id": "AS_RadioButtonGroup_f2d49f42d032491195b597d0eb1a39d0",
+        "type": "ACTION_SEQUENCE",
+        "name": "actionOnSelectRadiobtn",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6e0e0ecd9c924cf2a0682a726913e46b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onSelectionRadioBtn",
+            "display": "onSelectionRadioBtn",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

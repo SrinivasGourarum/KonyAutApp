@@ -1,0 +1,19 @@
+{
+    "AS_Form_410fcf2afc1a4ac9b9d44c7088f11ccf": {
+        "id": "AS_Form_410fcf2afc1a4ac9b9d44c7088f11ccf",
+        "type": "ACTION_SEQUENCE",
+        "name": "UserSettingsKAPreShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8c525af2d26c4599b2327f0b14f14239"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

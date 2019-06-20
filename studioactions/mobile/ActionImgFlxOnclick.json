@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_72ce46efe78749e09207a1944491db95": {
+        "id": "AS_FlexContainer_72ce46efe78749e09207a1944491db95",
+        "type": "ACTION_SEQUENCE",
+        "name": "ActionImgFlxOnclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAlertsKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8f4fb6ef80f34f5f861f12908e1a5309"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ad7d977b15aa4caea5d126f96c7cb343",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var segAndroidSettingsData=frmUserSettingsKA.userSettingsSegmentAndroid.data[1][1][1];\n\nif(frmAlertsKA.infoImg.src==\"checkbox_off.png\")\n{\n frmAlertsKA.infoImg.src=\"checkbox_on.png\";\n frmAlertsKA.alertsTypes.isVisible=true;\n  segAndroidSettingsData.CopyLabel0cc77ebb350664b=\"ON\";\n // alert(segAndroidSettingsData);\n frmUserSettingsKA.userSettingsSegmentAndroid.setDataAt(segAndroidSettingsData,1,1);\n//alert(frmUserSettingsKA.userSettingsSegmentAndroid.data);\n  //[1][1].CopyLabel0cc77ebb350664b.text=\"ON\";\n}\n\nelse \n{\n frmAlertsKA.infoImg.src=\"checkbox_off.png\";\n frmAlertsKA.alertsTypes.isVisible=false;\n  segAndroidSettingsData.CopyLabel0cc77ebb350664b=\"OFF\";\n  frmUserSettingsKA.userSettingsSegmentAndroid.setDataAt(segAndroidSettingsData,1,1);\n // frmUserSettingsKA.userSettingsSegmentAndroid[1][1].CopyLabel0cc77ebb350664b.text=\"OFF\"\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

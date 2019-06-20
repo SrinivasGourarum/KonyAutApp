@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1a92ebf485b4ed8a411645f2a9187d0",
+    "_text_": "Greetings from xyz Bank.  We are happy to inform you that we have  increased your debit card limit to $20,000. Please let us know your feedback.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtxMessageDescriptionKA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "28b30ca25aed4cc597d92781a11a3893",
+    "name": "kony.ui.RichText",
+    "parent": "flxMessageDescriptionKA",
+    "pf": "frmMessageReplyKA",
+    "texti18n": "i18n.messages.frmMessageDetailKA.rtxMessageDescriptionKA",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Button_8dd81beefd154f3cbeac1727ea13a19b": {
+        "id": "AS_Button_8dd81beefd154f3cbeac1727ea13a19b",
+        "type": "ACTION_SEQUENCE",
+        "name": "gotofrmMyMessagesKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMessageSentKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "004c14c78a924aae85120012c27f7a37"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f5a1be9f4d814f8cbf0372d994941842",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMyMessagesKA",
+            "formKUID": "2e63134c7cd34ec9801fa53d362efd33",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnDeleteMessageKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

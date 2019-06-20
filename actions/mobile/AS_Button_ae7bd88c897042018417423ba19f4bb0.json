@@ -1,0 +1,20 @@
+{
+    "AS_Button_ae7bd88c897042018417423ba19f4bb0": {
+        "id": "AS_Button_ae7bd88c897042018417423ba19f4bb0",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___f025e05f23dd48db924dd1e1b6c6286d",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "db521e97422f4973ab4a6a7569d1cc93",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

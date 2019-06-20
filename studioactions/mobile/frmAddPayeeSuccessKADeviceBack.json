@@ -1,0 +1,25 @@
+{
+    "AS_Form_14ae16e743f14101af2680f12f6c05e1": {
+        "id": "AS_Form_14ae16e743f14101af2680f12f6c05e1",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAddPayeeSuccessKADeviceBack",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAddPayeeSuccessKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6d708debff9a4a27a66890ed508b782c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__da16e5f5c1a74462bef629951daa2b4d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

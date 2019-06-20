@@ -1,0 +1,32 @@
+{
+    "AS_Button_9fbdb8686dfa429ba75a256de5844643": {
+        "id": "AS_Button_9fbdb8686dfa429ba75a256de5844643",
+        "type": "ACTION_SEQUENCE",
+        "name": "iosBackButtonClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmUserSettingsMyProfileKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "469d331305a541b8b65c6d8bdf903828"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d48c6ccaf9f749bfb527d30d477ca1f3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUserSettingsKA",
+            "formKUID": "8c525af2d26c4599b2327f0b14f14239",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"backButton\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "AS_Button_c775a247c808453087ef0d7e72ff78e5": {
+        "id": "AS_Button_c775a247c808453087ef0d7e72ff78e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreditCardsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0b5d66b8a411472c937886ea291eb5ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_024a20cf1a8148538136091f712ee197",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEnterLocationKA",
+            "formKUID": "861873c077284bceac2ded89085a841b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

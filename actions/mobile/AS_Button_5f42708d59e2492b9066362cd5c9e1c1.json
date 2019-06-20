@@ -1,0 +1,38 @@
+{
+    "AS_Button_5f42708d59e2492b9066362cd5c9e1c1": {
+        "id": "AS_Button_5f42708d59e2492b9066362cd5c9e1c1",
+        "type": "ACTION_SEQUENCE",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__06cb54766c1a4988bf6e21b5e97634a3",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "Touch ID for xyzBank",
+            "yesLabel": "Cancel",
+            "noLabel": null,
+            "alertIcon": "touch_id_icon.png",
+            "alertMessage": "Sign on with Touch ID or enter username and password.",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "NAVIGATE_TO_FORM___333168e6a123448f9d05630b3d500997",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUnauthFeatureEnablingKA",
+            "formKUID": "6267e3b5eb614ea581b492d24e980f30",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "SHOW_ALERT__06cb54766c1a4988bf6e21b5e97634a3",
+            "callbackType": "True",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

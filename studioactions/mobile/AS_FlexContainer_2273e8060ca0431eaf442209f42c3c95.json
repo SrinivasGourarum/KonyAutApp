@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_2273e8060ca0431eaf442209f42c3c95": {
+        "id": "AS_FlexContainer_2273e8060ca0431eaf442209f42c3c95",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_459ddf003c4e450ea4cd949931d716ae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmPickAProductKA.show();",
+            "callbackType": null
+        }]
+    }
+}

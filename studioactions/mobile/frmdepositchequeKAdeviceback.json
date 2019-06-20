@@ -1,0 +1,25 @@
+{
+    "AS_Form_f481884278094b8ca5aaa96d15f154b4": {
+        "id": "AS_Form_f481884278094b8ca5aaa96d15f154b4",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmdepositchequeKAdeviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmdepositchequeKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a5a2ca8c30444478bd542cf9f8178425"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e2d5228406d64d589d2f56d1960b675d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Device back\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "AS_Button_11426fedc380414ba645a57dde927715": {
+        "id": "AS_Button_11426fedc380414ba645a57dde927715",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_9b7cf26d41e04af5950a26d6e0df826a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTouchIdDemo.flxTouchID.isVisible=false;"
+        }]
+    }
+}

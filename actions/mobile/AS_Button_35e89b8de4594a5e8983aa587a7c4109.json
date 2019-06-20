@@ -1,0 +1,31 @@
+{
+    "AS_Button_35e89b8de4594a5e8983aa587a7c4109": {
+        "id": "AS_Button_35e89b8de4594a5e8983aa587a7c4109",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMyMoneyListKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "4c6f3d4dd57b4bc3a51ee85d32b7cd14"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_beda79bcf1ae4b72bf0127b78cb674af",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmUncategorizedTransactionsKA",
+            "formKUID": "6eb320a5ff4c42d8bf0ce564370c64ff",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnUncategorizedKA\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

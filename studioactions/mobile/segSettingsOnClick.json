@@ -1,0 +1,28 @@
+{
+    "AS_Segment_cc56effc9e3b43f6815689c6b7c03f12": {
+        "id": "AS_Segment_cc56effc9e3b43f6815689c6b7c03f12",
+        "type": "ACTION_SEQUENCE",
+        "name": "segSettingsOnClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9d1545496dc540bf974ea09471f90e89",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userSettingsSegmentClick",
+            "display": "userSettingsSegmentClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

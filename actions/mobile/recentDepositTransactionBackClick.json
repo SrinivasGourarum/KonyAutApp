@@ -1,0 +1,32 @@
+{
+    "AS_Button_08effc3f3e8742e9a6716e7a439d7881": {
+        "id": "AS_Button_08effc3f3e8742e9a6716e7a439d7881",
+        "type": "ACTION_SEQUENCE",
+        "name": "recentDepositTransactionBackClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDepositRecentTransactionDetailsKA",
+            "type": "forms",
+            "platform": null,
+            "KUID": "16c2dcb88c834f8eb1f478995789a5f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_3eafe2f15a3f46dd98878aaeff502bdb",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDepositPayLandingKA",
+            "formKUID": "dd44156e890e4ee28360f50ee6c67184",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"androidBack\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

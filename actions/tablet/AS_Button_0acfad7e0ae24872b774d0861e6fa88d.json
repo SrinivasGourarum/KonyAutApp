@@ -1,0 +1,17 @@
+{
+    "AS_Button_0acfad7e0ae24872b774d0861e6fa88d": {
+        "id": "AS_Button_0acfad7e0ae24872b774d0861e6fa88d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_80ec9bd0895e427ea1a2ca9459cc0e19",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "openModal(accountInfo.accountInfoWrapper,\"accountInfoWrapper\");\naccountsInfoPreShow();",
+            "callbackType": null
+        }]
+    }
+}

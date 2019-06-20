@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94d80e187a44bd9bb9ce6db5e729010",
+    "_text_": "No. Go back to Payee list",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6e8459b84e349d98629a088bbfe1304",
+    "id": "btnGoBackKA",
+    "ide_onClick": "AS__01402cb350b74188b4770eff708ef64b",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "ac1cffdca73f419bb417f160eda5959f",
+    "name": "kony.ui.Button",
+    "onclick": "AS__01402cb350b74188b4770eff708ef64b",
+    "parent": "flxContainerKA",
+    "pf": "frmEditPayeeSuccessKA",
+    "showprogressindicator": false,
+    "texti18n": "i18n.manage_payee.frmEditPayeeSuccessKA.btnGoBackKA",
+    "wType": "Button",
+    "zindex": 1
+}

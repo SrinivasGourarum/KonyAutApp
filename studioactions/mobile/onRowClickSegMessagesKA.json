@@ -1,0 +1,34 @@
+{
+    "AS_Segment_cf199c9c63a947d783bda36c45d0e0b7": {
+        "id": "AS_Segment_cf199c9c63a947d783bda36c45d0e0b7",
+        "type": "ACTION_SEQUENCE",
+        "name": "onRowClickSegMessagesKA",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmMyMessagesKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2e63134c7cd34ec9801fa53d362efd33"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___23b3aaa49d794d0a9d3c1c8996f8a319",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMyMessagesRowClick",
+            "display": "onMyMessagesRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "source": "module"
+        }]
+    }
+}

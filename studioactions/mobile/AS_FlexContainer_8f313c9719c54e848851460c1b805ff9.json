@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_8f313c9719c54e848851460c1b805ff9": {
+        "id": "AS_FlexContainer_8f313c9719c54e848851460c1b805ff9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPinSetUpDemo",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7418612fc10b4a1380bf273f3a556a03"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f1cad4029a2e48bab6e6bc302a0b3c4b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "pinOnHide();\ncheckUserTouchID();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

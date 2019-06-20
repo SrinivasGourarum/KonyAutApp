@@ -1,0 +1,16 @@
+{
+    "AS_Button_12fd221a3eb54632a4cb140af2fd466a": {
+        "id": "AS_Button_12fd221a3eb54632a4cb140af2fd466a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_cf80f72c4a3c432183235ca9ef77c537",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmNewTransferKA.show();"
+        }]
+    }
+}

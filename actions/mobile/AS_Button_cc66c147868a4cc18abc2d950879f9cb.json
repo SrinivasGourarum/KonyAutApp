@@ -1,0 +1,31 @@
+{
+    "AS_Button_cc66c147868a4cc18abc2d950879f9cb": {
+        "id": "AS_Button_cc66c147868a4cc18abc2d950879f9cb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConfirmationCardKA",
+            "type": "forms",
+            "platform": "",
+            "KUID": "86f27251d4444933a1f18edc8e0a9e65"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_868b466f312f44b1b13ccb44a1e3cba4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMoreLandingKA",
+            "formKUID": "f90cf53e47ae407c83e2e30720fff3da",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"CopydeleteScheduleTransactionButton0ff2090b870b341\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

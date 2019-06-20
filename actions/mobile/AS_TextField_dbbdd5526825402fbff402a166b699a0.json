@@ -1,0 +1,21 @@
+{
+    "AS_TextField_dbbdd5526825402fbff402a166b699a0": {
+        "id": "AS_TextField_dbbdd5526825402fbff402a166b699a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8b5a70a2530745b58d95509ea6be9996",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectAmountCard(frmNewDepositKA);;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
