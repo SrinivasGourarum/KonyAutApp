@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-    <pluginInfo version-no="8.4.14.v201905031930" plugin-id="com.kony.ide.paas.branding" plugin-name="Branding"/>
+    <pluginInfo version-no="8.4.20.v201906072158" plugin-id="com.kony.ide.paas.branding" plugin-name="Branding"/>
     <pluginInfo version-no="8.4.14.v201905021400" plugin-id="com.pat.tool.keditor" plugin-name="Kony Studio"/>
     <pluginInfo version-no="8.4.5.v201903072239" plugin-id="com.kony.thirdparty.jars" plugin-name="Third Party Jars Plug-in"/>
     <pluginInfo version-no="8.4.5.v201903072239" plugin-id="com.pat.soapui" plugin-name="Soap UI Plugin"/>
